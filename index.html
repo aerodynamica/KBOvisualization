@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Zoomable circle packing & wordcloud</title>
+<link rel="stylesheet" type="text/css" href="css/bubble.css">
+<link rel="stylesheet" type="text/css" href="css/general.css">
+<link rel="stylesheet" type="text/css" href="css/tip.css">
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="libraries/d3.tip.js"></script>
+
+
+<body>
+
+    <div id="wordcloud">
+        <script src="libraries/d3.layout.cloud.js"></script>
+        <script>
+var firstWord;            
+            
+        // Encapsulate the word cloud functionality
+function wordCloud() {
+
+    var fill = d3.scale.category20c();
+
+    //Construct the word cloud's SVG element
+    var svg = d3.select("#wordcloud").append("svg")
+        .attr("width", 900)
+        .attr("height", 900)
+        .append("g")
+        .attr("transform", "translate(450,450)");
+
+
+    //Draw the word cloud
+    function draw(words) {
+        var cloud = svg.selectAll("g text")
+                        .data(words, function(d) { return d.text; });
+        
+                
+        //Entering words
+        cloud.enter()
+            .append("text")
+            .style("font-family", "Impact")
+            .style("fill", function(d, i) { return fill(i); })
+            .attr("text-anchor", "middle")
+            .attr('font-size', 1)
+            .text(function(d) { return d.text; });
+
+        //Entering and existing words
+        cloud
+            .transition()
+                .duration(1000)
+                //.style("font-size", function(d) { return d.size*scale; })
+                .attr('font-size', function(d) { return d.size; })
+                .attr("transform", function(d) {
+                    return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+                })
+                .style("fill-opacity", 1);
+
+        //Exiting words
+        cloud.exit()
+            .transition()
+                .duration(500)
+                .style('fill-opacity', 1e-6)
+                .attr('font-size', 1)
+                .remove();
+    }
+
+
+    //Use the module pattern to encapsulate the visualisation code. We'll
+    // expose only the parts that need to be public.
+    return {
+
+        //Recompute the word cloud for a new set of words. This method will
+        // asycnhronously call draw when the layout has been computed.
+        //The outside world will need to call this function, so make it part
+        // of the wordCloud return value.
+        update: function(words) {
+            words = words.filter(isValidWord);
+            
+            firstWord = words[0].text;
+            
+            
+            var scale = d3.scale.linear()
+                    .domain(d3.extent(words,function(d) { return d.size; }))
+                    .range([15,100]);
+            
+            
+            d3.layout.cloud().size([900, 900])
+                .words(words)
+                .padding(5)
+                .rotate(0) //function() { return ~~(Math.random() * 2) * 45; })
+                .font("Impact")
+                .fontSize(function(d) { return scale(d.size); })
+                .on("end", draw)
+                .start();
+        }
+    }
+
+}    
+
+var wordcloud = wordCloud();
+
+updateCloud("root");
+
+
+function updateCloud(activity){
+    d3.json("wordclouds/"+activity+".json", function (error, names) {
+                if (error)
+                    throw error;
+                
+                wordcloud.update(names);
+                
+    });
+}
+
+
+function isValidWord(word){
+    invalidwords = ["bvba","nv","sa","sprl","vzw","asbl"];
+    if(invalidwords.indexOf(word.text) > -1){
+        return false;
+    }
+    else{
+        return true;
+    }
+}
+
+
+       
+
+
+        </script>
+
+
+
+    </div>
+
+
+    <div id="bubble">
+
+        <script>
+
+            var margin = 20,
+                    diameter = 900;
+
+            var color = d3.scale.linear()
+                    .domain([-1, 5])
+                    .range(["hsl(152,80%,80%)", "hsl(228,30%,40%)"])
+                    .interpolate(d3.interpolateHcl);
+
+            var pack = d3.layout.pack()
+                    .padding(2)
+                    .size([diameter - margin, diameter - margin])
+                    .sort(null)
+                    .value(function (d) {
+                        return d.nbEstablishments;
+                    });
+
+            var svg = d3.select("#bubble").append("svg")
+                    .attr("width", diameter)
+                    .attr("height", diameter)
+                    .append("g")
+                    .attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
+
+            d3.json("activitiesAug.json", function (error, root) {
+                if (error)
+                    throw error;
+                
+                
+                var tip = d3.tip()
+                .attr('class', 'd3-tip')
+                .html(function(d) { return d.Description; });
+        
+                svg.call(tip);
+
+                var focus = root,
+                        nodes = pack.nodes(root),
+                        view;
+
+                var circle = svg.selectAll("circle")
+                        .data(nodes)
+                        .enter().append("circle")
+                        .attr("class", function (d) {
+                            return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root";
+                        })
+                        .style("fill", function (d) {
+                            return d.children ? color(d.depth) : null;
+                        })
+                        .on("click", function (d) {
+                            if (focus !== d)
+                                updateCloud(d.Code);
+                                zoom(d), d3.event.stopPropagation();
+                                
+                        })
+                        .on("mouseover", tip.show)
+                         .on("mouseout", tip.hide);
+
+                var text = svg.selectAll("text")
+                        .data(nodes)
+                        .enter().append("text")
+                        .attr("class", "label")
+                        .style("fill-opacity", function (d) {
+                            return d.parent === root ? 1 : 0;
+                        })
+                        .style("display", function (d) {
+                            return d.parent === root ? "inline" : "none";
+                        })
+                        .text(function (d) {
+                            return d.Code;
+                        });
+
+                var node = svg.selectAll("circle,text");
+
+               
+
+                zoomTo([root.x, root.y, root.r * 2 + margin]);
+
+                function zoom(d) {
+                    var focus0 = focus;
+                    focus = d;
+
+                    var transition = d3.transition()
+                            .duration(d3.event.altKey ? 7500 : 750)
+                            .tween("zoom", function (d) {
+                                var i = d3.interpolateZoom(view, [focus.x, focus.y, focus.r * 2 + margin]);
+                                return function (t) {
+                                    zoomTo(i(t));
+                                };
+                            });
+
+                    transition.selectAll("text")
+                            .filter(function (d) {
+                                return d.parent === focus || this.style.display === "inline";
+                            })
+                            .style("fill-opacity", function (d) {
+                                return d.parent === focus ? 1 : 0;
+                            })
+                            .each("start", function (d) {
+                                if (d.parent === focus)
+                                    this.style.display = "inline";
+                                
+                            })
+                            .each("end", function (d) {
+                                if (d.parent !== focus)
+                                    this.style.display = "none";
+                            });
+                }
+
+                function zoomTo(v) {
+                    var k = diameter / v[2];
+                    view = v;
+                    node.attr("transform", function (d) {
+                        return "translate(" + (d.x - v[0]) * k + "," + (d.y - v[1]) * k + ")";
+                    });
+                    circle.attr("r", function (d) {
+                        return d.r * k;
+                    });
+                }
+                
+                
+                
+                
+                
+            }
+            );
+
+            d3.select(self.frameElement).style("height", diameter + "px");
+            
+            
+            
+            
+
+        </script>
+
+
+
+
+    </div>
+
+
+
+
+</body>
