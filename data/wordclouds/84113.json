@@ -5,7 +5,11 @@
   },
   {
     "text": "provinciaal",
-    "size": 24
+    "size": 25
+  },
+  {
+    "text": "provinciale",
+    "size": 22
   },
   {
     "text": "centre",
@@ -16,20 +20,16 @@
     "size": 20
   },
   {
-    "text": "provinciale",
-    "size": 19
-  },
-  {
     "text": "hainaut",
-    "size": 17
-  },
-  {
-    "text": "technique",
-    "size": 15
+    "size": 16
   },
   {
     "text": "provincial",
     "size": 15
+  },
+  {
+    "text": "technique",
+    "size": 14
   },
   {
     "text": "pse",
@@ -37,7 +37,7 @@
   },
   {
     "text": "direction",
-    "size": 13
+    "size": 12
   },
   {
     "text": "générale",
@@ -100,10 +100,6 @@
     "size": 6
   },
   {
-    "text": "cabinet",
-    "size": 6
-  },
-  {
     "text": "santé",
     "size": 5
   },
@@ -124,7 +120,7 @@
     "size": 5
   },
   {
-    "text": "enseignements",
+    "text": "cabinet",
     "size": 5
   },
   {
@@ -184,10 +180,6 @@
     "size": 4
   },
   {
-    "text": "régionale",
-    "size": 4
-  },
-  {
     "text": "mess",
     "size": 4
   },
@@ -200,7 +192,15 @@
     "size": 4
   },
   {
+    "text": "enseignements",
+    "size": 4
+  },
+  {
     "text": "d\u0027informations",
+    "size": 4
+  },
+  {
+    "text": "hoofdzetel",
     "size": 4
   },
   {
@@ -240,7 +240,15 @@
     "size": 3
   },
   {
+    "text": "instituut",
+    "size": 3
+  },
+  {
     "text": "affaires",
+    "size": 3
+  },
+  {
+    "text": "tuinbouw",
     "size": 3
   },
   {
@@ -261,6 +269,14 @@
   },
   {
     "text": "travail",
+    "size": 3
+  },
+  {
+    "text": "onderwijs",
+    "size": 3
+  },
+  {
+    "text": "régionale",
     "size": 3
   },
   {
@@ -324,10 +340,6 @@
     "size": 3
   },
   {
-    "text": "point",
-    "size": 3
-  },
-  {
     "text": "dgas",
     "size": 3
   },
@@ -352,15 +364,15 @@
     "size": 2
   },
   {
-    "text": "instituut",
-    "size": 2
-  },
-  {
     "text": "gestion",
     "size": 2
   },
   {
     "text": "directie",
+    "size": 2
+  },
+  {
+    "text": "techniek",
     "size": 2
   },
   {
@@ -372,11 +384,11 @@
     "size": 2
   },
   {
-    "text": "he",
+    "text": "sportdienst",
     "size": 2
   },
   {
-    "text": "sportdienst",
+    "text": "scholen",
     "size": 2
   },
   {
@@ -413,10 +425,6 @@
   },
   {
     "text": "luxembourg",
-    "size": 2
-  },
-  {
-    "text": "onderwijs",
     "size": 2
   },
   {
@@ -481,6 +489,10 @@
   },
   {
     "text": "museum",
+    "size": 2
+  },
+  {
+    "text": "pts",
     "size": 2
   },
   {
@@ -632,6 +644,10 @@
     "size": 1
   },
   {
+    "text": "technisch",
+    "size": 1
+  },
+  {
     "text": "hof",
     "size": 1
   },
@@ -760,10 +776,6 @@
     "size": 1
   },
   {
-    "text": "tuinbouw",
-    "size": 1
-  },
-  {
     "text": "educatief",
     "size": 1
   },
@@ -816,6 +828,10 @@
     "size": 1
   },
   {
+    "text": "middenschool",
+    "size": 1
+  },
+  {
     "text": "hd",
     "size": 1
   },
@@ -824,11 +840,19 @@
     "size": 1
   },
   {
+    "text": "he",
+    "size": 1
+  },
+  {
     "text": "equipe",
     "size": 1
   },
   {
     "text": "promotion",
+    "size": 1
+  },
+  {
+    "text": "tech./hainaut",
     "size": 1
   },
   {
@@ -845,10 +869,6 @@
   },
   {
     "text": "hs",
-    "size": 1
-  },
-  {
-    "text": "occ",
     "size": 1
   },
   {
@@ -873,6 +893,10 @@
   },
   {
     "text": "vera",
+    "size": 1
+  },
+  {
+    "text": "hustache/he",
     "size": 1
   },
   {
@@ -973,30 +997,6 @@
   },
   {
     "text": "d\u0027information",
-    "size": 1
-  },
-  {
-    "text": "communication",
-    "size": 1
-  },
-  {
-    "text": "tillegembos",
-    "size": 1
-  },
-  {
-    "text": "archimède",
-    "size": 1
-  },
-  {
-    "text": "ath/leuze",
-    "size": 1
-  },
-  {
-    "text": "greffes",
-    "size": 1
-  },
-  {
-    "text": "d\u0027eau",
     "size": 1
   }
 ]

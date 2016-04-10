@@ -1,11 +1,11 @@
 [
   {
     "text": "brouwerij",
-    "size": 8
+    "size": 13
   },
   {
     "text": "brasserie",
-    "size": 5
+    "size": 8
   },
   {
     "text": "distillerie",
@@ -17,10 +17,22 @@
   },
   {
     "text": "saveurs",
-    "size": 4
+    "size": 5
+  },
+  {
+    "text": "wijndomein",
+    "size": 5
   },
   {
     "text": "vins",
+    "size": 5
+  },
+  {
+    "text": "vert",
+    "size": 4
+  },
+  {
+    "text": "wines",
     "size": 4
   },
   {
@@ -32,7 +44,11 @@
     "size": 3
   },
   {
-    "text": "vert",
+    "text": "bio",
+    "size": 3
+  },
+  {
+    "text": "sprl",
     "size": 3
   },
   {
@@ -40,15 +56,35 @@
     "size": 3
   },
   {
-    "text": "wijndomein",
+    "text": "fruits",
     "size": 3
+  },
+  {
+    "text": "bvba",
+    "size": 3
+  },
+  {
+    "text": "verger",
+    "size": 3
+  },
+  {
+    "text": "den",
+    "size": 2
   },
   {
     "text": "vin",
     "size": 2
   },
   {
+    "text": "energy",
+    "size": 2
+  },
+  {
     "text": "ruwet",
+    "size": 2
+  },
+  {
+    "text": "l\u0027espace",
     "size": 2
   },
   {
@@ -64,11 +100,11 @@
     "size": 2
   },
   {
-    "text": "ruche",
+    "text": "management",
     "size": 2
   },
   {
-    "text": "bio",
+    "text": "ruche",
     "size": 2
   },
   {
@@ -76,7 +112,7 @@
     "size": 2
   },
   {
-    "text": "sprl",
+    "text": "table",
     "size": 2
   },
   {
@@ -85,6 +121,10 @@
   },
   {
     "text": "ets",
+    "size": 2
+  },
+  {
+    "text": "aminata",
     "size": 2
   },
   {
@@ -104,7 +144,7 @@
     "size": 2
   },
   {
-    "text": "fruits",
+    "text": "consulting",
     "size": 2
   },
   {
@@ -117,10 +157,6 @@
   },
   {
     "text": "tomaterie",
-    "size": 2
-  },
-  {
-    "text": "wines",
     "size": 2
   },
   {
@@ -144,10 +180,6 @@
     "size": 2
   },
   {
-    "text": "bvba",
-    "size": 2
-  },
-  {
     "text": "andre",
     "size": 2
   },
@@ -156,19 +188,11 @@
     "size": 2
   },
   {
-    "text": "verger",
-    "size": 2
-  },
-  {
     "text": "luc",
     "size": 2
   },
   {
     "text": "bioindustry",
-    "size": 1
-  },
-  {
-    "text": "den",
     "size": 1
   },
   {
@@ -188,6 +212,10 @@
     "size": 1
   },
   {
+    "text": "descombe",
+    "size": 1
+  },
+  {
     "text": "pom\u0027art",
     "size": 1
   },
@@ -204,10 +232,6 @@
     "size": 1
   },
   {
-    "text": "energy",
-    "size": 1
-  },
-  {
     "text": "stuyvenberg",
     "size": 1
   },
@@ -217,6 +241,10 @@
   },
   {
     "text": "palmenhof",
+    "size": 1
+  },
+  {
+    "text": "paysages",
     "size": 1
   },
   {
@@ -240,7 +268,15 @@
     "size": 1
   },
   {
+    "text": "science",
+    "size": 1
+  },
+  {
     "text": "perdu",
+    "size": 1
+  },
+  {
+    "text": "comptoir",
     "size": 1
   },
   {
@@ -249,6 +285,10 @@
   },
   {
     "text": "reynaert",
+    "size": 1
+  },
+  {
+    "text": "stadsbrouwerijke",
     "size": 1
   },
   {
@@ -284,10 +324,6 @@
     "size": 1
   },
   {
-    "text": "l\u0027espace",
-    "size": 1
-  },
-  {
     "text": "cuvée",
     "size": 1
   },
@@ -301,6 +337,10 @@
   },
   {
     "text": "cuvee",
+    "size": 1
+  },
+  {
+    "text": "biosolv",
     "size": 1
   },
   {
@@ -321,6 +361,10 @@
   },
   {
     "text": "ludd\u0027s",
+    "size": 1
+  },
+  {
+    "text": "idetron",
     "size": 1
   },
   {
@@ -361,6 +405,10 @@
   },
   {
     "text": "hupé",
+    "size": 1
+  },
+  {
+    "text": "d\u0027a",
     "size": 1
   },
   {
@@ -412,6 +460,10 @@
     "size": 1
   },
   {
+    "text": "organics",
+    "size": 1
+  },
+  {
     "text": "michel",
     "size": 1
   },
@@ -440,6 +492,14 @@
     "size": 1
   },
   {
+    "text": "danny",
+    "size": 1
+  },
+  {
+    "text": "pietershof",
+    "size": 1
+  },
+  {
     "text": "d.s.h",
     "size": 1
   },
@@ -464,7 +524,15 @@
     "size": 1
   },
   {
+    "text": "biosurf",
+    "size": 1
+  },
+  {
     "text": "gourmand",
+    "size": 1
+  },
+  {
+    "text": "hordeum",
     "size": 1
   },
   {
@@ -476,11 +544,19 @@
     "size": 1
   },
   {
+    "text": "artisanne",
+    "size": 1
+  },
+  {
     "text": "klokhuis",
     "size": 1
   },
   {
     "text": "lomo\u0027s",
+    "size": 1
+  },
+  {
+    "text": "biosmose",
     "size": 1
   },
   {
@@ -584,15 +660,19 @@
     "size": 1
   },
   {
-    "text": "management",
-    "size": 1
-  },
-  {
     "text": "micro",
     "size": 1
   },
   {
     "text": "flessengeluk",
+    "size": 1
+  },
+  {
+    "text": "fresh",
+    "size": 1
+  },
+  {
+    "text": "d\u0027icidelà",
     "size": 1
   },
   {
@@ -608,7 +688,27 @@
     "size": 1
   },
   {
+    "text": "neuve-eglise",
+    "size": 1
+  },
+  {
     "text": "guillaume",
+    "size": 1
+  },
+  {
+    "text": "rubalise",
+    "size": 1
+  },
+  {
+    "text": "lares",
+    "size": 1
+  },
+  {
+    "text": "courtmans",
+    "size": 1
+  },
+  {
+    "text": "cocotte",
     "size": 1
   },
   {
@@ -621,6 +721,10 @@
   },
   {
     "text": "vanstals",
+    "size": 1
+  },
+  {
+    "text": "beverages",
     "size": 1
   },
   {
@@ -688,6 +792,10 @@
     "size": 1
   },
   {
+    "text": "d\u0027ebly",
+    "size": 1
+  },
+  {
     "text": "stéphane",
     "size": 1
   },
@@ -709,10 +817,6 @@
   },
   {
     "text": "gvn",
-    "size": 1
-  },
-  {
-    "text": "table",
     "size": 1
   },
   {
@@ -740,6 +844,14 @@
     "size": 1
   },
   {
+    "text": "kokoleka",
+    "size": 1
+  },
+  {
+    "text": "draeckenier",
+    "size": 1
+  },
+  {
     "text": "usa",
     "size": 1
   },
@@ -760,7 +872,15 @@
     "size": 1
   },
   {
+    "text": "sol",
+    "size": 1
+  },
+  {
     "text": "benoit",
+    "size": 1
+  },
+  {
+    "text": "boer",
     "size": 1
   },
   {
@@ -788,7 +908,15 @@
     "size": 1
   },
   {
+    "text": "bebidas",
+    "size": 1
+  },
+  {
     "text": "vallée",
+    "size": 1
+  },
+  {
+    "text": "vehiculum",
     "size": 1
   },
   {
@@ -805,6 +933,10 @@
   },
   {
     "text": "brass",
+    "size": 1
+  },
+  {
+    "text": "real",
     "size": 1
   },
   {
@@ -832,7 +964,15 @@
     "size": 1
   },
   {
+    "text": "no",
+    "size": 1
+  },
+  {
     "text": "piro",
+    "size": 1
+  },
+  {
+    "text": "ignis",
     "size": 1
   },
   {
@@ -852,151 +992,11 @@
     "size": 1
   },
   {
+    "text": "slot",
+    "size": 1
+  },
+  {
     "text": "magasin",
-    "size": 1
-  },
-  {
-    "text": "gervin",
-    "size": 1
-  },
-  {
-    "text": "fanny",
-    "size": 1
-  },
-  {
-    "text": "penen",
-    "size": 1
-  },
-  {
-    "text": "universal",
-    "size": 1
-  },
-  {
-    "text": "servimur",
-    "size": 1
-  },
-  {
-    "text": "vocht",
-    "size": 1
-  },
-  {
-    "text": "steeman",
-    "size": 1
-  },
-  {
-    "text": "rosé",
-    "size": 1
-  },
-  {
-    "text": "cru",
-    "size": 1
-  },
-  {
-    "text": "berx",
-    "size": 1
-  },
-  {
-    "text": "visplat-diner",
-    "size": 1
-  },
-  {
-    "text": "dard-dard",
-    "size": 1
-  },
-  {
-    "text": "kaulille",
-    "size": 1
-  },
-  {
-    "text": "grafe",
-    "size": 1
-  },
-  {
-    "text": "zwarte",
-    "size": 1
-  },
-  {
-    "text": "cock",
-    "size": 1
-  },
-  {
-    "text": "stokerij",
-    "size": 1
-  },
-  {
-    "text": "hoppy",
-    "size": 1
-  },
-  {
-    "text": "depreter",
-    "size": 1
-  },
-  {
-    "text": "jean-francois",
-    "size": 1
-  },
-  {
-    "text": "bijengaard",
-    "size": 1
-  },
-  {
-    "text": "hypocras",
-    "size": 1
-  },
-  {
-    "text": "ring",
-    "size": 1
-  },
-  {
-    "text": "wissels",
-    "size": 1
-  },
-  {
-    "text": "taste",
-    "size": 1
-  },
-  {
-    "text": "dendre",
-    "size": 1
-  },
-  {
-    "text": "wcsi",
-    "size": 1
-  },
-  {
-    "text": "jan",
-    "size": 1
-  },
-  {
-    "text": "prés",
-    "size": 1
-  },
-  {
-    "text": "trudo",
-    "size": 1
-  },
-  {
-    "text": "d\u0027happy",
-    "size": 1
-  },
-  {
-    "text": "edith",
-    "size": 1
-  },
-  {
-    "text": "fraises",
-    "size": 1
-  },
-  {
-    "text": "karl",
-    "size": 1
-  },
-  {
-    "text": "château",
-    "size": 1
-  },
-  {
-    "text": "hagelander",
     "size": 1
   }
 ]

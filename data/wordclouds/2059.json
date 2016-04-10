@@ -1,18 +1,18 @@
 [
   {
     "text": "belgium",
-    "size": 25
+    "size": 32
   },
   {
     "text": "nv",
-    "size": 15
-  },
-  {
-    "text": "chemicals",
-    "size": 12
+    "size": 18
   },
   {
     "text": "europe",
+    "size": 13
+  },
+  {
+    "text": "chemicals",
     "size": 11
   },
   {
@@ -20,12 +20,20 @@
     "size": 10
   },
   {
+    "text": "photography",
+    "size": 7
+  },
+  {
     "text": "the",
     "size": 6
   },
   {
-    "text": "photography",
+    "text": "benelux",
     "size": 6
+  },
+  {
+    "text": "bvba",
+    "size": 5
   },
   {
     "text": "sprl",
@@ -36,15 +44,19 @@
     "size": 4
   },
   {
-    "text": "benelux",
-    "size": 4
-  },
-  {
     "text": "fotografie",
     "size": 4
   },
   {
-    "text": "chemical",
+    "text": "studio",
+    "size": 4
+  },
+  {
+    "text": "products",
+    "size": 4
+  },
+  {
+    "text": "ineos",
     "size": 3
   },
   {
@@ -52,7 +64,11 @@
     "size": 3
   },
   {
-    "text": "products",
+    "text": "materials",
+    "size": 3
+  },
+  {
+    "text": "mason",
     "size": 3
   },
   {
@@ -60,7 +76,7 @@
     "size": 3
   },
   {
-    "text": "kodak",
+    "text": "media",
     "size": 3
   },
   {
@@ -68,7 +84,7 @@
     "size": 3
   },
   {
-    "text": "bert",
+    "text": "jar",
     "size": 3
   },
   {
@@ -77,6 +93,10 @@
   },
   {
     "text": "engineering",
+    "size": 3
+  },
+  {
+    "text": "imaging",
     "size": 3
   },
   {
@@ -92,23 +112,39 @@
     "size": 3
   },
   {
+    "text": "consult",
+    "size": 3
+  },
+  {
     "text": "emulco",
     "size": 3
   },
   {
-    "text": "projects",
+    "text": "chemical",
+    "size": 3
+  },
+  {
+    "text": "advanced",
+    "size": 3
+  },
+  {
+    "text": "made",
+    "size": 3
+  },
+  {
+    "text": "kodak",
+    "size": 3
+  },
+  {
+    "text": "bert",
+    "size": 3
+  },
+  {
+    "text": "branch",
     "size": 2
   },
   {
     "text": "visual",
-    "size": 2
-  },
-  {
-    "text": "systems",
-    "size": 2
-  },
-  {
-    "text": "co",
     "size": 2
   },
   {
@@ -120,11 +156,7 @@
     "size": 2
   },
   {
-    "text": "materials",
-    "size": 2
-  },
-  {
-    "text": "company",
+    "text": "production",
     "size": 2
   },
   {
@@ -132,15 +164,7 @@
     "size": 2
   },
   {
-    "text": "advanced",
-    "size": 2
-  },
-  {
     "text": "kurt",
-    "size": 2
-  },
-  {
-    "text": "made",
     "size": 2
   },
   {
@@ -156,10 +180,6 @@
     "size": 2
   },
   {
-    "text": "media",
-    "size": 2
-  },
-  {
     "text": "and",
     "size": 2
   },
@@ -168,19 +188,11 @@
     "size": 2
   },
   {
-    "text": "chimie",
-    "size": 2
-  },
-  {
-    "text": "regeneration",
-    "size": 2
-  },
-  {
     "text": "belgian",
     "size": 2
   },
   {
-    "text": "aerts",
+    "text": "consulting",
     "size": 2
   },
   {
@@ -196,15 +208,7 @@
     "size": 2
   },
   {
-    "text": "pharma",
-    "size": 2
-  },
-  {
     "text": "sulferic",
-    "size": 2
-  },
-  {
-    "text": "solutions",
     "size": 2
   },
   {
@@ -212,23 +216,7 @@
     "size": 2
   },
   {
-    "text": "imaging",
-    "size": 2
-  },
-  {
     "text": "polymer",
-    "size": 2
-  },
-  {
-    "text": "lawter",
-    "size": 2
-  },
-  {
-    "text": "studio",
-    "size": 2
-  },
-  {
-    "text": "keshe",
     "size": 2
   },
   {
@@ -236,35 +224,7 @@
     "size": 2
   },
   {
-    "text": "oplichter",
-    "size": 2
-  },
-  {
-    "text": "foundation",
-    "size": 2
-  },
-  {
-    "text": "consult",
-    "size": 2
-  },
-  {
-    "text": "chemie",
-    "size": 2
-  },
-  {
     "text": "bouwchemie",
-    "size": 2
-  },
-  {
-    "text": "development",
-    "size": 2
-  },
-  {
-    "text": "bvba",
-    "size": 2
-  },
-  {
-    "text": "cleaning",
     "size": 2
   },
   {
@@ -272,11 +232,95 @@
     "size": 2
   },
   {
-    "text": "seaport",
-    "size": 1
+    "text": "projects",
+    "size": 2
   },
   {
-    "text": "electronics",
+    "text": "systems",
+    "size": 2
+  },
+  {
+    "text": "co",
+    "size": 2
+  },
+  {
+    "text": "company",
+    "size": 2
+  },
+  {
+    "text": "management",
+    "size": 2
+  },
+  {
+    "text": "trading",
+    "size": 2
+  },
+  {
+    "text": "b.v",
+    "size": 2
+  },
+  {
+    "text": "chimie",
+    "size": 2
+  },
+  {
+    "text": "regeneration",
+    "size": 2
+  },
+  {
+    "text": "aerts",
+    "size": 2
+  },
+  {
+    "text": "pharma",
+    "size": 2
+  },
+  {
+    "text": "solutions",
+    "size": 2
+  },
+  {
+    "text": "lawter",
+    "size": 2
+  },
+  {
+    "text": "keshe",
+    "size": 2
+  },
+  {
+    "text": "oplichter",
+    "size": 2
+  },
+  {
+    "text": "north",
+    "size": 2
+  },
+  {
+    "text": "foundation",
+    "size": 2
+  },
+  {
+    "text": "chemie",
+    "size": 2
+  },
+  {
+    "text": "sales",
+    "size": 2
+  },
+  {
+    "text": "development",
+    "size": 2
+  },
+  {
+    "text": "cleaning",
+    "size": 2
+  },
+  {
+    "text": "performance",
+    "size": 2
+  },
+  {
+    "text": "seaport",
     "size": 1
   },
   {
@@ -284,51 +328,11 @@
     "size": 1
   },
   {
-    "text": "ashland",
-    "size": 1
-  },
-  {
     "text": "your",
     "size": 1
   },
   {
-    "text": "kiss",
-    "size": 1
-  },
-  {
-    "text": "den",
-    "size": 1
-  },
-  {
-    "text": "branch",
-    "size": 1
-  },
-  {
-    "text": "lux",
-    "size": 1
-  },
-  {
-    "text": "eurogentec",
-    "size": 1
-  },
-  {
     "text": "diamko",
-    "size": 1
-  },
-  {
-    "text": "advance",
-    "size": 1
-  },
-  {
-    "text": "marca",
-    "size": 1
-  },
-  {
-    "text": "hipra",
-    "size": 1
-  },
-  {
-    "text": "drukpunt",
     "size": 1
   },
   {
@@ -340,7 +344,7 @@
     "size": 1
   },
   {
-    "text": "manufacturing",
+    "text": "eline",
     "size": 1
   },
   {
@@ -356,10 +360,6 @@
     "size": 1
   },
   {
-    "text": "you",
-    "size": 1
-  },
-  {
     "text": "mosselman",
     "size": 1
   },
@@ -368,11 +368,11 @@
     "size": 1
   },
   {
-    "text": "avia",
+    "text": "seru",
     "size": 1
   },
   {
-    "text": "ac",
+    "text": "avia",
     "size": 1
   },
   {
@@ -380,7 +380,15 @@
     "size": 1
   },
   {
+    "text": "frames",
+    "size": 1
+  },
+  {
     "text": "biologics",
+    "size": 1
+  },
+  {
+    "text": "ipm",
     "size": 1
   },
   {
@@ -388,35 +396,19 @@
     "size": 1
   },
   {
-    "text": "fertikal",
-    "size": 1
-  },
-  {
-    "text": "phae",
-    "size": 1
-  },
-  {
-    "text": "active",
-    "size": 1
-  },
-  {
-    "text": "natalie",
-    "size": 1
-  },
-  {
     "text": "analysis",
     "size": 1
   },
   {
-    "text": "firma",
+    "text": "radermecker",
+    "size": 1
+  },
+  {
+    "text": "timac",
     "size": 1
   },
   {
     "text": "be.pharbel-manufacturing",
-    "size": 1
-  },
-  {
-    "text": "polyplast",
     "size": 1
   },
   {
@@ -432,35 +424,7 @@
     "size": 1
   },
   {
-    "text": "greidonus",
-    "size": 1
-  },
-  {
-    "text": "aaron",
-    "size": 1
-  },
-  {
-    "text": "clarijs",
-    "size": 1
-  },
-  {
-    "text": "gedaa",
-    "size": 1
-  },
-  {
     "text": "electrion",
-    "size": 1
-  },
-  {
-    "text": "technisch",
-    "size": 1
-  },
-  {
-    "text": "ineos",
-    "size": 1
-  },
-  {
-    "text": "compagny",
     "size": 1
   },
   {
@@ -472,23 +436,7 @@
     "size": 1
   },
   {
-    "text": "be.pharbel",
-    "size": 1
-  },
-  {
-    "text": "denis",
-    "size": 1
-  },
-  {
     "text": "imprifab.com",
-    "size": 1
-  },
-  {
-    "text": "jsr",
-    "size": 1
-  },
-  {
-    "text": "bizprint",
     "size": 1
   },
   {
@@ -500,10 +448,6 @@
     "size": 1
   },
   {
-    "text": "agorimco",
-    "size": 1
-  },
-  {
     "text": "concept-image",
     "size": 1
   },
@@ -512,23 +456,7 @@
     "size": 1
   },
   {
-    "text": "bram",
-    "size": 1
-  },
-  {
     "text": "bellco",
-    "size": 1
-  },
-  {
-    "text": "d8",
-    "size": 1
-  },
-  {
-    "text": "grass",
-    "size": 1
-  },
-  {
-    "text": "by",
     "size": 1
   },
   {
@@ -552,31 +480,7 @@
     "size": 1
   },
   {
-    "text": "innovation",
-    "size": 1
-  },
-  {
-    "text": "alaris",
-    "size": 1
-  },
-  {
     "text": "flavour",
-    "size": 1
-  },
-  {
-    "text": "recinco",
-    "size": 1
-  },
-  {
-    "text": "bdf",
-    "size": 1
-  },
-  {
-    "text": "ch",
-    "size": 1
-  },
-  {
-    "text": "smartchim",
     "size": 1
   },
   {
@@ -588,31 +492,7 @@
     "size": 1
   },
   {
-    "text": "cp",
-    "size": 1
-  },
-  {
-    "text": "rossum",
-    "size": 1
-  },
-  {
-    "text": "awesome",
-    "size": 1
-  },
-  {
     "text": "jens",
-    "size": 1
-  },
-  {
-    "text": "durieu",
-    "size": 1
-  },
-  {
-    "text": "pollie",
-    "size": 1
-  },
-  {
-    "text": "coninck",
     "size": 1
   },
   {
@@ -620,19 +500,7 @@
     "size": 1
   },
   {
-    "text": "codima",
-    "size": 1
-  },
-  {
     "text": "standard",
-    "size": 1
-  },
-  {
-    "text": "spécialités",
-    "size": 1
-  },
-  {
-    "text": "mzougui",
     "size": 1
   },
   {
@@ -640,7 +508,11 @@
     "size": 1
   },
   {
-    "text": "sabali",
+    "text": "senses",
+    "size": 1
+  },
+  {
+    "text": "damme",
     "size": 1
   },
   {
@@ -648,31 +520,11 @@
     "size": 1
   },
   {
-    "text": "dienstverlening",
-    "size": 1
-  },
-  {
     "text": "asaert",
     "size": 1
   },
   {
-    "text": "ghiant",
-    "size": 1
-  },
-  {
-    "text": "fleurs",
-    "size": 1
-  },
-  {
-    "text": "wos",
-    "size": 1
-  },
-  {
     "text": "rsansfin",
-    "size": 1
-  },
-  {
-    "text": "enzybel",
     "size": 1
   },
   {
@@ -696,19 +548,11 @@
     "size": 1
   },
   {
-    "text": "image",
+    "text": "alinel",
     "size": 1
   },
   {
     "text": "maelen",
-    "size": 1
-  },
-  {
-    "text": "consultancy",
-    "size": 1
-  },
-  {
-    "text": "journey",
     "size": 1
   },
   {
@@ -720,15 +564,11 @@
     "size": 1
   },
   {
-    "text": "el",
-    "size": 1
-  },
-  {
-    "text": "keni",
-    "size": 1
-  },
-  {
     "text": "neef",
+    "size": 1
+  },
+  {
+    "text": "inceptua",
     "size": 1
   },
   {
@@ -736,15 +576,7 @@
     "size": 1
   },
   {
-    "text": "dewaele",
-    "size": 1
-  },
-  {
     "text": "nils",
-    "size": 1
-  },
-  {
-    "text": "p.noir",
     "size": 1
   },
   {
@@ -752,27 +584,11 @@
     "size": 1
   },
   {
-    "text": "p.t.b.-compaktuna",
-    "size": 1
-  },
-  {
     "text": "filers",
     "size": 1
   },
   {
-    "text": "chem-lab-analytical",
-    "size": 1
-  },
-  {
     "text": "tecsen",
-    "size": 1
-  },
-  {
-    "text": "smet",
-    "size": 1
-  },
-  {
-    "text": "maisha",
     "size": 1
   },
   {
@@ -784,15 +600,11 @@
     "size": 1
   },
   {
+    "text": "private",
+    "size": 1
+  },
+  {
     "text": "ascend",
-    "size": 1
-  },
-  {
-    "text": "production",
-    "size": 1
-  },
-  {
-    "text": "for",
     "size": 1
   },
   {
@@ -808,11 +620,7 @@
     "size": 1
   },
   {
-    "text": "straticell",
-    "size": 1
-  },
-  {
-    "text": "zilt",
+    "text": "agro",
     "size": 1
   },
   {
@@ -824,67 +632,7 @@
     "size": 1
   },
   {
-    "text": "co-koen",
-    "size": 1
-  },
-  {
-    "text": "wetlands",
-    "size": 1
-  },
-  {
-    "text": "fx",
-    "size": 1
-  },
-  {
-    "text": "auto-electro",
-    "size": 1
-  },
-  {
-    "text": "prisma",
-    "size": 1
-  },
-  {
-    "text": "redascendant",
-    "size": 1
-  },
-  {
-    "text": "lonte",
-    "size": 1
-  },
-  {
-    "text": "gc",
-    "size": 1
-  },
-  {
-    "text": "human",
-    "size": 1
-  },
-  {
-    "text": "concept.m",
-    "size": 1
-  },
-  {
-    "text": "meulen",
-    "size": 1
-  },
-  {
-    "text": "biosciences",
-    "size": 1
-  },
-  {
-    "text": "practical",
-    "size": 1
-  },
-  {
-    "text": "associes",
-    "size": 1
-  },
-  {
-    "text": "go",
-    "size": 1
-  },
-  {
-    "text": "beecham",
+    "text": "propur",
     "size": 1
   },
   {
@@ -892,15 +640,11 @@
     "size": 1
   },
   {
-    "text": "grand",
+    "text": "mediatraining",
     "size": 1
   },
   {
-    "text": "vandepopeliere",
-    "size": 1
-  },
-  {
-    "text": "killed",
+    "text": "societe",
     "size": 1
   },
   {
@@ -908,15 +652,7 @@
     "size": 1
   },
   {
-    "text": "p-photography",
-    "size": 1
-  },
-  {
-    "text": "patine",
-    "size": 1
-  },
-  {
-    "text": "print",
+    "text": "agri",
     "size": 1
   },
   {
@@ -932,15 +668,7 @@
     "size": 1
   },
   {
-    "text": "management",
-    "size": 1
-  },
-  {
-    "text": "microbiofuel",
-    "size": 1
-  },
-  {
-    "text": "icspert",
+    "text": "cheez",
     "size": 1
   },
   {
@@ -948,39 +676,11 @@
     "size": 1
   },
   {
-    "text": "vandepoel",
-    "size": 1
-  },
-  {
-    "text": "r.a.p",
-    "size": 1
-  },
-  {
     "text": "reservoir",
     "size": 1
   },
   {
-    "text": "fort",
-    "size": 1
-  },
-  {
-    "text": "dme",
-    "size": 1
-  },
-  {
     "text": "gsk",
-    "size": 1
-  },
-  {
-    "text": "expert",
-    "size": 1
-  },
-  {
-    "text": "saraya",
-    "size": 1
-  },
-  {
-    "text": "globalyeast",
     "size": 1
   },
   {
@@ -992,11 +692,311 @@
     "size": 1
   },
   {
-    "text": "verlinden",
+    "text": "sarex",
     "size": 1
   },
   {
-    "text": "zjerome",
+    "text": "eltochem",
+    "size": 1
+  },
+  {
+    "text": "biomegawatt",
+    "size": 1
+  },
+  {
+    "text": "e.f",
+    "size": 1
+  },
+  {
+    "text": "wizzwizz",
+    "size": 1
+  },
+  {
+    "text": "phytos",
+    "size": 1
+  },
+  {
+    "text": "decisia",
+    "size": 1
+  },
+  {
+    "text": "gavic",
+    "size": 1
+  },
+  {
+    "text": "korneel",
+    "size": 1
+  },
+  {
+    "text": "cmc",
+    "size": 1
+  },
+  {
+    "text": "hollander",
+    "size": 1
+  },
+  {
+    "text": "narcol",
+    "size": 1
+  },
+  {
+    "text": "cemminerals",
+    "size": 1
+  },
+  {
+    "text": "wendy",
+    "size": 1
+  },
+  {
+    "text": "cell",
+    "size": 1
+  },
+  {
+    "text": "healthcare",
+    "size": 1
+  },
+  {
+    "text": "hoorebeke",
+    "size": 1
+  },
+  {
+    "text": "tom",
+    "size": 1
+  },
+  {
+    "text": "erc",
+    "size": 1
+  },
+  {
+    "text": "electronic",
+    "size": 1
+  },
+  {
+    "text": "symebel",
+    "size": 1
+  },
+  {
+    "text": "meadow",
+    "size": 1
+  },
+  {
+    "text": "lycops",
+    "size": 1
+  },
+  {
+    "text": "in-liner",
+    "size": 1
+  },
+  {
+    "text": "cpac",
+    "size": 1
+  },
+  {
+    "text": "product",
+    "size": 1
+  },
+  {
+    "text": "millibeter",
+    "size": 1
+  },
+  {
+    "text": "infoproconseil",
+    "size": 1
+  },
+  {
+    "text": "belux",
+    "size": 1
+  },
+  {
+    "text": "foliaworx",
+    "size": 1
+  },
+  {
+    "text": "58elephants",
+    "size": 1
+  },
+  {
+    "text": "ge-ka",
+    "size": 1
+  },
+  {
+    "text": "callens",
+    "size": 1
+  },
+  {
+    "text": "braine",
+    "size": 1
+  },
+  {
+    "text": "jai-research",
+    "size": 1
+  },
+  {
+    "text": "arcanes",
+    "size": 1
+  },
+  {
+    "text": "air-sec",
+    "size": 1
+  },
+  {
+    "text": "vagebond",
+    "size": 1
+  },
+  {
+    "text": "trinseo",
+    "size": 1
+  },
+  {
+    "text": "laurent",
+    "size": 1
+  },
+  {
+    "text": "pim",
+    "size": 1
+  },
+  {
+    "text": "laurens",
+    "size": 1
+  },
+  {
+    "text": "sophie\u0027s",
+    "size": 1
+  },
+  {
+    "text": "b.b.c.i",
+    "size": 1
+  },
+  {
+    "text": "cpi",
+    "size": 1
+  },
+  {
+    "text": "ets",
+    "size": 1
+  },
+  {
+    "text": "tekenbureau",
+    "size": 1
+  },
+  {
+    "text": "helios",
+    "size": 1
+  },
+  {
+    "text": "woods",
+    "size": 1
+  },
+  {
+    "text": "solitaire",
+    "size": 1
+  },
+  {
+    "text": "pardon",
+    "size": 1
+  },
+  {
+    "text": "govi",
+    "size": 1
+  },
+  {
+    "text": "toon",
+    "size": 1
+  },
+  {
+    "text": "ghent",
+    "size": 1
+  },
+  {
+    "text": "cetprobel",
+    "size": 1
+  },
+  {
+    "text": "exactement",
+    "size": 1
+  },
+  {
+    "text": "s.k.i",
+    "size": 1
+  },
+  {
+    "text": "jeldan",
+    "size": 1
+  },
+  {
+    "text": "aerosols",
+    "size": 1
+  },
+  {
+    "text": "effective",
+    "size": 1
+  },
+  {
+    "text": "sarco",
+    "size": 1
+  },
+  {
+    "text": "lebak",
+    "size": 1
+  },
+  {
+    "text": "energizer",
+    "size": 1
+  },
+  {
+    "text": "edialux-formulex",
+    "size": 1
+  },
+  {
+    "text": "anc",
+    "size": 1
+  },
+  {
+    "text": "land",
+    "size": 1
+  },
+  {
+    "text": "construction",
+    "size": 1
+  },
+  {
+    "text": "lmpeq",
+    "size": 1
+  },
+  {
+    "text": "smithkline",
+    "size": 1
+  },
+  {
+    "text": "coating",
+    "size": 1
+  },
+  {
+    "text": "locomat",
+    "size": 1
+  },
+  {
+    "text": "textiles-4-u",
+    "size": 1
+  },
+  {
+    "text": "dilly",
+    "size": 1
+  },
+  {
+    "text": "scheler",
+    "size": 1
+  },
+  {
+    "text": "stickerparadise",
+    "size": 1
+  },
+  {
+    "text": "industrial",
+    "size": 1
+  },
+  {
+    "text": "pineapple",
     "size": 1
   }
 ]

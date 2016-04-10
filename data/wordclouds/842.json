@@ -1,7 +1,7 @@
 [
   {
     "text": "police",
-    "size": 305
+    "size": 307
   },
   {
     "text": "justice",
@@ -12,11 +12,11 @@
     "size": 162
   },
   {
-    "text": "paix",
-    "size": 158
+    "text": "poste",
+    "size": 160
   },
   {
-    "text": "poste",
+    "text": "paix",
     "size": 158
   },
   {
@@ -33,15 +33,15 @@
   },
   {
     "text": "site",
-    "size": 100
+    "size": 101
   },
   {
     "text": "politiezone",
-    "size": 89
+    "size": 90
   },
   {
     "text": "zone",
-    "size": 79
+    "size": 80
   },
   {
     "text": "post",
@@ -49,15 +49,15 @@
   },
   {
     "text": "commissariat",
-    "size": 65
+    "size": 66
+  },
+  {
+    "text": "proximité",
+    "size": 59
   },
   {
     "text": "zetel",
     "size": 59
-  },
-  {
-    "text": "proximité",
-    "size": 58
   },
   {
     "text": "brandweerpost",
@@ -73,6 +73,10 @@
   },
   {
     "text": "antenne",
+    "size": 48
+  },
+  {
+    "text": "kw",
     "size": 47
   },
   {
@@ -81,7 +85,7 @@
   },
   {
     "text": "maison",
-    "size": 44
+    "size": 45
   },
   {
     "text": "lokale",
@@ -108,11 +112,11 @@
     "size": 35
   },
   {
-    "text": "politiepost",
-    "size": 33
+    "text": "division",
+    "size": 34
   },
   {
-    "text": "division",
+    "text": "politiepost",
     "size": 33
   },
   {
@@ -132,15 +136,11 @@
     "size": 26
   },
   {
-    "text": "landsverdediging",
-    "size": 25
-  },
-  {
     "text": "brandweerkazerne",
     "size": 25
   },
   {
-    "text": "bruxelles",
+    "text": "charleroi",
     "size": 25
   },
   {
@@ -156,7 +156,7 @@
     "size": 23
   },
   {
-    "text": "charleroi",
+    "text": "bruxelles",
     "size": 23
   },
   {
@@ -176,12 +176,12 @@
     "size": 21
   },
   {
-    "text": "hasselt",
+    "text": "wijkkantoor",
     "size": 21
   },
   {
-    "text": "wijkkantoor",
-    "size": 21
+    "text": "hasselt",
+    "size": 20
   },
   {
     "text": "commissariaat",
@@ -192,8 +192,8 @@
     "size": 19
   },
   {
-    "text": "namur",
-    "size": 19
+    "text": "caserne",
+    "size": 18
   },
   {
     "text": "secours",
@@ -204,19 +204,19 @@
     "size": 18
   },
   {
-    "text": "mons",
-    "size": 17
-  },
-  {
     "text": "hulpverleningszone",
     "size": 17
   },
   {
-    "text": "défense",
+    "text": "namur",
     "size": 17
   },
   {
     "text": "hoofdcommissariaat",
+    "size": 16
+  },
+  {
+    "text": "mons",
     "size": 16
   },
   {
@@ -234,6 +234,10 @@
   {
     "text": "incendie",
     "size": 15
+  },
+  {
+    "text": "direction",
+    "size": 14
   },
   {
     "text": "centrum",
@@ -260,19 +264,15 @@
     "size": 13
   },
   {
-    "text": "direction",
-    "size": 13
-  },
-  {
     "text": "1er",
     "size": 13
   },
   {
-    "text": "brugge",
+    "text": "dendermonde",
     "size": 13
   },
   {
-    "text": "liège",
+    "text": "bpo",
     "size": 13
   },
   {
@@ -292,19 +292,11 @@
     "size": 12
   },
   {
-    "text": "gent",
-    "size": 12
-  },
-  {
     "text": "neufchâteau",
     "size": 12
   },
   {
     "text": "ét",
-    "size": 12
-  },
-  {
-    "text": "dendermonde",
     "size": 12
   },
   {
@@ -316,11 +308,19 @@
     "size": 12
   },
   {
-    "text": "leuven",
+    "text": "liège",
     "size": 12
   },
   {
     "text": "dienst",
+    "size": 11
+  },
+  {
+    "text": "bergen",
+    "size": 11
+  },
+  {
+    "text": "gent",
     "size": 11
   },
   {
@@ -332,8 +332,8 @@
     "size": 11
   },
   {
-    "text": "caserne",
-    "size": 10
+    "text": "brugge",
+    "size": 11
   },
   {
     "text": "procureur",
@@ -344,15 +344,23 @@
     "size": 10
   },
   {
-    "text": "bergen",
-    "size": 10
-  },
-  {
     "text": "pompiers",
     "size": 10
   },
   {
+    "text": "administration",
+    "size": 10
+  },
+  {
+    "text": "bâtiment",
+    "size": 10
+  },
+  {
     "text": "5343",
+    "size": 10
+  },
+  {
+    "text": "leuven",
     "size": 10
   },
   {
@@ -368,7 +376,7 @@
     "size": 9
   },
   {
-    "text": "marche-en-famenne",
+    "text": "services",
     "size": 9
   },
   {
@@ -388,10 +396,6 @@
     "size": 9
   },
   {
-    "text": "administration",
-    "size": 9
-  },
-  {
     "text": "parket",
     "size": 9
   },
@@ -405,10 +409,6 @@
   },
   {
     "text": "gand",
-    "size": 9
-  },
-  {
-    "text": "bâtiment",
     "size": 9
   },
   {
@@ -428,7 +428,11 @@
     "size": 8
   },
   {
-    "text": "services",
+    "text": "marche-en-famenne",
+    "size": 8
+  },
+  {
+    "text": "bvba",
     "size": 8
   },
   {
@@ -441,10 +445,6 @@
   },
   {
     "text": "nivelles",
-    "size": 8
-  },
-  {
-    "text": "ieper",
     "size": 8
   },
   {
@@ -472,11 +472,19 @@
     "size": 7
   },
   {
-    "text": "bvba",
+    "text": "brasschaat",
     "size": 7
   },
   {
     "text": "wijkpolitie",
+    "size": 7
+  },
+  {
+    "text": "arches",
+    "size": 7
+  },
+  {
+    "text": "jumet",
     "size": 7
   },
   {
@@ -485,6 +493,14 @@
   },
   {
     "text": "verviers",
+    "size": 7
+  },
+  {
+    "text": "roi",
+    "size": 7
+  },
+  {
+    "text": "ieper",
     "size": 7
   },
   {
@@ -536,19 +552,15 @@
     "size": 6
   },
   {
+    "text": "consulting",
+    "size": 6
+  },
+  {
     "text": "district",
     "size": 6
   },
   {
     "text": "tongeren",
-    "size": 6
-  },
-  {
-    "text": "brasschaat",
-    "size": 6
-  },
-  {
-    "text": "arches",
     "size": 6
   },
   {
@@ -560,6 +572,10 @@
     "size": 6
   },
   {
+    "text": "vlaamse",
+    "size": 6
+  },
+  {
     "text": "asse",
     "size": 6
   },
@@ -568,7 +584,7 @@
     "size": 6
   },
   {
-    "text": "jumet",
+    "text": "safety",
     "size": 6
   },
   {
@@ -580,11 +596,15 @@
     "size": 6
   },
   {
-    "text": "roi",
+    "text": "sécurité",
     "size": 6
   },
   {
-    "text": "sécurité",
+    "text": "camp",
+    "size": 6
+  },
+  {
+    "text": "ardennen",
     "size": 6
   },
   {
@@ -604,11 +624,11 @@
     "size": 6
   },
   {
-    "text": "spf",
+    "text": "zaventem",
     "size": 6
   },
   {
-    "text": "zaventem",
+    "text": "sta",
     "size": 6
   },
   {
@@ -652,6 +672,10 @@
     "size": 5
   },
   {
+    "text": "den",
+    "size": 5
+  },
+  {
     "text": "schelde-leie",
     "size": 5
   },
@@ -665,10 +689,6 @@
   },
   {
     "text": "huy",
-    "size": 5
-  },
-  {
-    "text": "vlaamse",
     "size": 5
   },
   {
@@ -704,10 +724,6 @@
     "size": 5
   },
   {
-    "text": "ardennen",
-    "size": 5
-  },
-  {
     "text": "gerechtsgebouw",
     "size": 5
   },
@@ -732,7 +748,15 @@
     "size": 5
   },
   {
+    "text": "slt",
+    "size": 5
+  },
+  {
     "text": "rhode",
+    "size": 5
+  },
+  {
+    "text": "spf",
     "size": 5
   },
   {
@@ -753,6 +777,10 @@
   },
   {
     "text": "virton",
+    "size": 5
+  },
+  {
+    "text": "security",
     "size": 5
   },
   {
@@ -780,10 +808,6 @@
     "size": 4
   },
   {
-    "text": "consulting",
-    "size": 4
-  },
-  {
     "text": "anderlecht",
     "size": 4
   },
@@ -805,6 +829,10 @@
   },
   {
     "text": "hoei",
+    "size": 4
+  },
+  {
+    "text": "dep",
     "size": 4
   },
   {
@@ -852,6 +880,10 @@
     "size": 4
   },
   {
+    "text": "baron",
+    "size": 4
+  },
+  {
     "text": "herve",
     "size": 4
   },
@@ -896,6 +928,10 @@
     "size": 4
   },
   {
+    "text": "kruishoutem",
+    "size": 4
+  },
+  {
     "text": "arbeidsauditoraat",
     "size": 4
   },
@@ -904,7 +940,7 @@
     "size": 4
   },
   {
-    "text": "safety",
+    "text": "communale",
     "size": 4
   },
   {
@@ -936,10 +972,6 @@
     "size": 4
   },
   {
-    "text": "arlon",
-    "size": 4
-  },
-  {
     "text": "epi",
     "size": 4
   },
@@ -956,47 +988,15 @@
     "size": 4
   },
   {
+    "text": "belgium",
+    "size": 4
+  },
+  {
     "text": "zuid",
     "size": 4
   },
   {
     "text": "herzele-zottegem",
-    "size": 4
-  },
-  {
-    "text": "ninove",
-    "size": 4
-  },
-  {
-    "text": "wetteren",
-    "size": 4
-  },
-  {
-    "text": "geel",
-    "size": 4
-  },
-  {
-    "text": "palais",
-    "size": 4
-  },
-  {
-    "text": "tweede",
-    "size": 4
-  },
-  {
-    "text": "graaf",
-    "size": 4
-  },
-  {
-    "text": "boom",
-    "size": 4
-  },
-  {
-    "text": "overijse-zaventem",
-    "size": 4
-  },
-  {
-    "text": "malle",
     "size": 4
   }
 ]

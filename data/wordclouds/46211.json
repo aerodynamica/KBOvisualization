@@ -1,50 +1,78 @@
 [
   {
     "text": "bvba",
-    "size": 60
+    "size": 67
   },
   {
     "text": "nv",
-    "size": 28
-  },
-  {
-    "text": "agro",
-    "size": 26
+    "size": 32
   },
   {
     "text": "agri",
-    "size": 24
+    "size": 31
+  },
+  {
+    "text": "agro",
+    "size": 30
   },
   {
     "text": "sprl",
-    "size": 13
+    "size": 14
+  },
+  {
+    "text": "aveve",
+    "size": 12
+  },
+  {
+    "text": "trading",
+    "size": 12
   },
   {
     "text": "ferme",
     "size": 12
   },
   {
-    "text": "aveve",
-    "size": 11
+    "text": "services",
+    "size": 10
+  },
+  {
+    "text": "luc",
+    "size": 10
   },
   {
     "text": "voeders",
     "size": 10
   },
   {
-    "text": "trading",
+    "text": "tuincentrum",
     "size": 10
   },
   {
     "text": "service",
-    "size": 8
+    "size": 9
   },
   {
-    "text": "services",
-    "size": 8
+    "text": "international",
+    "size": 9
   },
   {
-    "text": "luc",
+    "text": "tuinen",
+    "size": 9
+  },
+  {
+    "text": "belgium",
+    "size": 9
+  },
+  {
+    "text": "wim",
+    "size": 9
+  },
+  {
+    "text": "co",
+    "size": 9
+  },
+  {
+    "text": "den",
     "size": 8
   },
   {
@@ -52,27 +80,15 @@
     "size": 8
   },
   {
-    "text": "tuinen",
+    "text": "benelux",
     "size": 8
-  },
-  {
-    "text": "international",
-    "size": 7
-  },
-  {
-    "text": "tuincentrum",
-    "size": 7
-  },
-  {
-    "text": "belgium",
-    "size": 7
   },
   {
     "text": "ets",
     "size": 7
   },
   {
-    "text": "den",
+    "text": "pet",
     "size": 6
   },
   {
@@ -84,11 +100,27 @@
     "size": 6
   },
   {
-    "text": "trade",
+    "text": "marc",
     "size": 6
   },
   {
-    "text": "wim",
+    "text": "tuinwerken",
+    "size": 6
+  },
+  {
+    "text": "jan",
+    "size": 6
+  },
+  {
+    "text": "jardin",
+    "size": 6
+  },
+  {
+    "text": "tuinaanleg",
+    "size": 6
+  },
+  {
+    "text": "agricole",
     "size": 6
   },
   {
@@ -100,7 +132,23 @@
     "size": 6
   },
   {
+    "text": "landbouwvennootschap",
+    "size": 5
+  },
+  {
+    "text": "consulting",
+    "size": 5
+  },
+  {
     "text": "johan",
+    "size": 5
+  },
+  {
+    "text": "maes",
+    "size": 5
+  },
+  {
+    "text": "lieven",
     "size": 5
   },
   {
@@ -108,7 +156,7 @@
     "size": 5
   },
   {
-    "text": "marc",
+    "text": "trade",
     "size": 5
   },
   {
@@ -116,11 +164,15 @@
     "size": 5
   },
   {
-    "text": "jardin",
+    "text": "vof",
     "size": 5
   },
   {
-    "text": "co",
+    "text": "transport",
+    "size": 5
+  },
+  {
+    "text": "lv",
     "size": 5
   },
   {
@@ -132,11 +184,19 @@
     "size": 5
   },
   {
-    "text": "pet",
+    "text": "export",
     "size": 4
   },
   {
-    "text": "consulting",
+    "text": "design",
+    "size": 4
+  },
+  {
+    "text": "group",
+    "size": 4
+  },
+  {
+    "text": "peter",
     "size": 4
   },
   {
@@ -144,11 +204,19 @@
     "size": 4
   },
   {
-    "text": "quality",
+    "text": "grondwerken",
     "size": 4
   },
   {
-    "text": "lieven",
+    "text": "aardappelhandel",
+    "size": 4
+  },
+  {
+    "text": "bert",
+    "size": 4
+  },
+  {
+    "text": "quality",
     "size": 4
   },
   {
@@ -160,15 +228,7 @@
     "size": 4
   },
   {
-    "text": "vof",
-    "size": 4
-  },
-  {
     "text": "bois",
-    "size": 4
-  },
-  {
-    "text": "agricole",
     "size": 4
   },
   {
@@ -184,7 +244,15 @@
     "size": 4
   },
   {
-    "text": "export",
+    "text": "pauwels",
+    "size": 4
+  },
+  {
+    "text": "ronny",
+    "size": 3
+  },
+  {
+    "text": "koen",
     "size": 3
   },
   {
@@ -196,11 +264,15 @@
     "size": 3
   },
   {
-    "text": "design",
+    "text": "land",
     "size": 3
   },
   {
-    "text": "land",
+    "text": "algemene",
+    "size": 3
+  },
+  {
+    "text": "descamps",
     "size": 3
   },
   {
@@ -216,19 +288,27 @@
     "size": 3
   },
   {
-    "text": "group",
+    "text": "eric",
     "size": 3
   },
   {
-    "text": "peter",
+    "text": "consult",
     "size": 3
   },
   {
-    "text": "maes",
+    "text": "garden",
     "size": 3
   },
   {
-    "text": "aardappelhandel",
+    "text": "goossens",
+    "size": 3
+  },
+  {
+    "text": "s.a",
+    "size": 3
+  },
+  {
+    "text": "fourage",
     "size": 3
   },
   {
@@ -240,7 +320,27 @@
     "size": 3
   },
   {
+    "text": "vermeiren",
+    "size": 3
+  },
+  {
     "text": "etablissement",
+    "size": 3
+  },
+  {
+    "text": "francis",
+    "size": 3
+  },
+  {
+    "text": "pierre",
+    "size": 3
+  },
+  {
+    "text": "raf",
+    "size": 3
+  },
+  {
+    "text": "centrum",
     "size": 3
   },
   {
@@ -252,11 +352,15 @@
     "size": 3
   },
   {
-    "text": "transport",
+    "text": "handelskwekerij",
     "size": 3
   },
   {
     "text": "foods",
+    "size": 3
+  },
+  {
+    "text": "huis",
     "size": 3
   },
   {
@@ -272,6 +376,10 @@
     "size": 3
   },
   {
+    "text": "jos",
+    "size": 3
+  },
+  {
     "text": "projects",
     "size": 3
   },
@@ -280,7 +388,19 @@
     "size": 3
   },
   {
+    "text": "stoeterij",
+    "size": 3
+  },
+  {
+    "text": "bio",
+    "size": 3
+  },
+  {
     "text": "zaadhandel",
+    "size": 3
+  },
+  {
+    "text": "my",
     "size": 3
   },
   {
@@ -288,7 +408,15 @@
     "size": 3
   },
   {
-    "text": "benelux",
+    "text": "molens",
+    "size": 3
+  },
+  {
+    "text": "horta",
+    "size": 3
+  },
+  {
+    "text": "lauwers",
     "size": 3
   },
   {
@@ -296,11 +424,35 @@
     "size": 3
   },
   {
+    "text": "terrassements",
+    "size": 3
+  },
+  {
     "text": "witte",
     "size": 3
   },
   {
+    "text": "cuyvers",
+    "size": 2
+  },
+  {
+    "text": "kws",
+    "size": 2
+  },
+  {
+    "text": "stefan",
+    "size": 2
+  },
+  {
     "text": "verstraete",
+    "size": 2
+  },
+  {
+    "text": "patrick",
+    "size": 2
+  },
+  {
+    "text": "société",
     "size": 2
   },
   {
@@ -308,7 +460,7 @@
     "size": 2
   },
   {
-    "text": "ronny",
+    "text": "adrien",
     "size": 2
   },
   {
@@ -316,7 +468,11 @@
     "size": 2
   },
   {
-    "text": "koen",
+    "text": "loonwerk",
+    "size": 2
+  },
+  {
+    "text": "andy",
     "size": 2
   },
   {
@@ -325,10 +481,6 @@
   },
   {
     "text": "pavan",
-    "size": 2
-  },
-  {
-    "text": "algemene",
     "size": 2
   },
   {
@@ -344,6 +496,14 @@
     "size": 2
   },
   {
+    "text": "team",
+    "size": 2
+  },
+  {
+    "text": "anouk",
+    "size": 2
+  },
+  {
     "text": "degroote",
     "size": 2
   },
@@ -352,7 +512,11 @@
     "size": 2
   },
   {
-    "text": "eric",
+    "text": "mengvoeders",
+    "size": 2
+  },
+  {
+    "text": "loonwerken",
     "size": 2
   },
   {
@@ -361,6 +525,10 @@
   },
   {
     "text": "bolle",
+    "size": 2
+  },
+  {
+    "text": "wauters",
     "size": 2
   },
   {
@@ -376,11 +544,19 @@
     "size": 2
   },
   {
+    "text": "wouter",
+    "size": 2
+  },
+  {
+    "text": "gillis",
+    "size": 2
+  },
+  {
     "text": "ecuries",
     "size": 2
   },
   {
-    "text": "consult",
+    "text": "smets",
     "size": 2
   },
   {
@@ -408,6 +584,14 @@
     "size": 2
   },
   {
+    "text": "oleum",
+    "size": 2
+  },
+  {
+    "text": "agrarservice",
+    "size": 2
+  },
+  {
     "text": "zonen",
     "size": 2
   },
@@ -420,19 +604,11 @@
     "size": 2
   },
   {
-    "text": "goossens",
-    "size": 2
-  },
-  {
     "text": "devos",
     "size": 2
   },
   {
     "text": "fritco",
-    "size": 2
-  },
-  {
-    "text": "grondwerken",
     "size": 2
   },
   {
@@ -444,7 +620,7 @@
     "size": 2
   },
   {
-    "text": "s.a",
+    "text": "aminata",
     "size": 2
   },
   {
@@ -456,11 +632,7 @@
     "size": 2
   },
   {
-    "text": "fourage",
-    "size": 2
-  },
-  {
-    "text": "bert",
+    "text": "hiels",
     "size": 2
   },
   {
@@ -469,6 +641,10 @@
   },
   {
     "text": "pieter",
+    "size": 2
+  },
+  {
+    "text": "loonbedrijf",
     "size": 2
   },
   {
@@ -492,7 +668,15 @@
     "size": 2
   },
   {
+    "text": "solutions",
+    "size": 2
+  },
+  {
     "text": "agrarisch",
+    "size": 2
+  },
+  {
+    "text": "pollo",
     "size": 2
   },
   {
@@ -500,7 +684,11 @@
     "size": 2
   },
   {
-    "text": "vermeiren",
+    "text": "plantenkwekerij",
+    "size": 2
+  },
+  {
+    "text": "verhelst",
     "size": 2
   },
   {
@@ -516,27 +704,15 @@
     "size": 2
   },
   {
+    "text": "dyck",
+    "size": 2
+  },
+  {
     "text": "verbist",
     "size": 2
   },
   {
-    "text": "francis",
-    "size": 2
-  },
-  {
-    "text": "pierre",
-    "size": 2
-  },
-  {
-    "text": "raf",
-    "size": 2
-  },
-  {
     "text": "yvan",
-    "size": 2
-  },
-  {
-    "text": "centrum",
     "size": 2
   },
   {
@@ -560,11 +736,11 @@
     "size": 2
   },
   {
-    "text": "tuinwerken",
+    "text": "herman",
     "size": 2
   },
   {
-    "text": "herman",
+    "text": "kurt",
     "size": 2
   },
   {
@@ -600,15 +776,15 @@
     "size": 2
   },
   {
+    "text": "europoint",
+    "size": 2
+  },
+  {
     "text": "etienne",
     "size": 2
   },
   {
     "text": "bruyne",
-    "size": 2
-  },
-  {
-    "text": "jan",
     "size": 2
   },
   {
@@ -620,11 +796,19 @@
     "size": 2
   },
   {
+    "text": "vandeweghe",
+    "size": 2
+  },
+  {
     "text": "verhaegen",
     "size": 2
   },
   {
     "text": "bollen",
+    "size": 2
+  },
+  {
+    "text": "elevage",
     "size": 2
   },
   {
@@ -636,11 +820,11 @@
     "size": 2
   },
   {
-    "text": "huis",
+    "text": "vekemans",
     "size": 2
   },
   {
-    "text": "vekemans",
+    "text": "planten",
     "size": 2
   },
   {
@@ -648,7 +832,15 @@
     "size": 2
   },
   {
+    "text": "dieter",
+    "size": 2
+  },
+  {
     "text": "l\u0027alliance",
+    "size": 2
+  },
+  {
+    "text": "l.v",
     "size": 2
   },
   {
@@ -664,7 +856,11 @@
     "size": 2
   },
   {
-    "text": "jos",
+    "text": "vervoer",
+    "size": 2
+  },
+  {
+    "text": "dierenspeciaalzaak",
     "size": 2
   },
   {
@@ -672,7 +868,7 @@
     "size": 2
   },
   {
-    "text": "tuinaanleg",
+    "text": "emmers",
     "size": 2
   },
   {
@@ -688,7 +884,11 @@
     "size": 2
   },
   {
-    "text": "frans",
+    "text": "fonk",
+    "size": 2
+  },
+  {
+    "text": "bloemen",
     "size": 2
   },
   {
@@ -696,15 +896,19 @@
     "size": 2
   },
   {
+    "text": "beestjes",
+    "size": 2
+  },
+  {
     "text": "smet",
     "size": 2
   },
   {
-    "text": "wulf",
+    "text": "fv",
     "size": 2
   },
   {
-    "text": "bio",
+    "text": "wulf",
     "size": 2
   },
   {
@@ -716,7 +920,19 @@
     "size": 2
   },
   {
+    "text": "eddy",
+    "size": 2
+  },
+  {
+    "text": "landbouwwerken",
+    "size": 2
+  },
+  {
     "text": "comfort",
+    "size": 2
+  },
+  {
+    "text": "christof",
     "size": 2
   },
   {
@@ -724,7 +940,7 @@
     "size": 2
   },
   {
-    "text": "my",
+    "text": "jeroen",
     "size": 2
   },
   {
@@ -740,15 +956,15 @@
     "size": 2
   },
   {
-    "text": "horta",
+    "text": "sporthorses",
+    "size": 2
+  },
+  {
+    "text": "aerts",
     "size": 2
   },
   {
     "text": "malterie",
-    "size": 2
-  },
-  {
-    "text": "lauwers",
     "size": 2
   },
   {
@@ -760,10 +976,6 @@
     "size": 2
   },
   {
-    "text": "aqua",
-    "size": 2
-  },
-  {
     "text": "plantencentrum",
     "size": 2
   },
@@ -772,11 +984,11 @@
     "size": 2
   },
   {
-    "text": "quirynen",
+    "text": "vanderhaegen",
     "size": 2
   },
   {
-    "text": "terrassements",
+    "text": "quirynen",
     "size": 2
   },
   {
@@ -786,217 +998,5 @@
   {
     "text": "frederic",
     "size": 2
-  },
-  {
-    "text": "filip",
-    "size": 2
-  },
-  {
-    "text": "james",
-    "size": 2
-  },
-  {
-    "text": "cool",
-    "size": 2
-  },
-  {
-    "text": "pauwels",
-    "size": 2
-  },
-  {
-    "text": "joris",
-    "size": 2
-  },
-  {
-    "text": "nutreco",
-    "size": 2
-  },
-  {
-    "text": "graham",
-    "size": 2
-  },
-  {
-    "text": "landbouwproducten",
-    "size": 1
-  },
-  {
-    "text": "trois",
-    "size": 1
-  },
-  {
-    "text": "hanolux",
-    "size": 1
-  },
-  {
-    "text": "reygaert",
-    "size": 1
-  },
-  {
-    "text": "jean-marie",
-    "size": 1
-  },
-  {
-    "text": "verla-seeds",
-    "size": 1
-  },
-  {
-    "text": "trilec",
-    "size": 1
-  },
-  {
-    "text": "guerveau",
-    "size": 1
-  },
-  {
-    "text": "staumont",
-    "size": 1
-  },
-  {
-    "text": "taveirne",
-    "size": 1
-  },
-  {
-    "text": "nova",
-    "size": 1
-  },
-  {
-    "text": "pepiniere",
-    "size": 1
-  },
-  {
-    "text": "debaeke",
-    "size": 1
-  },
-  {
-    "text": "gabriel",
-    "size": 1
-  },
-  {
-    "text": "biovar",
-    "size": 1
-  },
-  {
-    "text": "investment",
-    "size": 1
-  },
-  {
-    "text": "vindevogel",
-    "size": 1
-  },
-  {
-    "text": "reusel",
-    "size": 1
-  },
-  {
-    "text": "decagri",
-    "size": 1
-  },
-  {
-    "text": "glenn",
-    "size": 1
-  },
-  {
-    "text": "roete",
-    "size": 1
-  },
-  {
-    "text": "vande",
-    "size": 1
-  },
-  {
-    "text": "decwey",
-    "size": 1
-  },
-  {
-    "text": "helena",
-    "size": 1
-  },
-  {
-    "text": "lapage",
-    "size": 1
-  },
-  {
-    "text": "fagard",
-    "size": 1
-  },
-  {
-    "text": "bouche",
-    "size": 1
-  },
-  {
-    "text": "c.b.s",
-    "size": 1
-  },
-  {
-    "text": "pond\u0027or",
-    "size": 1
-  },
-  {
-    "text": "nowi",
-    "size": 1
-  },
-  {
-    "text": "cuyvers",
-    "size": 1
-  },
-  {
-    "text": "the",
-    "size": 1
-  },
-  {
-    "text": "thermaleg",
-    "size": 1
-  },
-  {
-    "text": "litle",
-    "size": 1
-  },
-  {
-    "text": "blonk",
-    "size": 1
-  },
-  {
-    "text": "grond",
-    "size": 1
-  },
-  {
-    "text": "thv",
-    "size": 1
-  },
-  {
-    "text": "sanglan",
-    "size": 1
-  },
-  {
-    "text": "nespen",
-    "size": 1
-  },
-  {
-    "text": "sodicom",
-    "size": 1
-  },
-  {
-    "text": "synova",
-    "size": 1
-  },
-  {
-    "text": "ambigreen",
-    "size": 1
-  },
-  {
-    "text": "wise",
-    "size": 1
-  },
-  {
-    "text": "créations",
-    "size": 1
-  },
-  {
-    "text": "pan",
-    "size": 1
-  },
-  {
-    "text": "novisem",
-    "size": 1
   }
 ]

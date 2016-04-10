@@ -1,42 +1,46 @@
 [
   {
     "text": "media",
-    "size": 27
+    "size": 35
   },
   {
     "text": "editions",
-    "size": 26
-  },
-  {
-    "text": "belgium",
-    "size": 12
-  },
-  {
-    "text": "sprl",
-    "size": 11
-  },
-  {
-    "text": "design",
-    "size": 11
+    "size": 28
   },
   {
     "text": "bvba",
-    "size": 11
+    "size": 16
+  },
+  {
+    "text": "sprl",
+    "size": 14
   },
   {
     "text": "consulting",
-    "size": 10
+    "size": 13
+  },
+  {
+    "text": "belgium",
+    "size": 13
+  },
+  {
+    "text": "the",
+    "size": 12
+  },
+  {
+    "text": "design",
+    "size": 12
   },
   {
     "text": "concept",
-    "size": 9
+    "size": 10
   },
   {
     "text": "group",
     "size": 9
   },
   {
-    "text": "the",
+    "text": "imprimerie",
     "size": 8
   },
   {
@@ -44,16 +48,36 @@
     "size": 8
   },
   {
-    "text": "imprimerie",
-    "size": 8
+    "text": "services",
+    "size": 7
   },
   {
-    "text": "services",
+    "text": "consult",
+    "size": 7
+  },
+  {
+    "text": "print",
     "size": 7
   },
   {
     "text": "uitgeverij",
     "size": 7
+  },
+  {
+    "text": "production",
+    "size": 7
+  },
+  {
+    "text": "drukkerij",
+    "size": 7
+  },
+  {
+    "text": "publishing",
+    "size": 7
+  },
+  {
+    "text": "printing",
+    "size": 6
   },
   {
     "text": "productions",
@@ -64,7 +88,7 @@
     "size": 6
   },
   {
-    "text": "drukkerij",
+    "text": "studio",
     "size": 6
   },
   {
@@ -76,11 +100,11 @@
     "size": 6
   },
   {
-    "text": "production",
+    "text": "press",
     "size": 5
   },
   {
-    "text": "press",
+    "text": "and",
     "size": 5
   },
   {
@@ -88,35 +112,7 @@
     "size": 5
   },
   {
-    "text": "consult",
-    "size": 5
-  },
-  {
-    "text": "print",
-    "size": 5
-  },
-  {
-    "text": "publishing",
-    "size": 5
-  },
-  {
-    "text": "printing",
-    "size": 4
-  },
-  {
-    "text": "new",
-    "size": 4
-  },
-  {
     "text": "pkl",
-    "size": 4
-  },
-  {
-    "text": "art",
-    "size": 4
-  },
-  {
-    "text": "studio",
     "size": 4
   },
   {
@@ -132,19 +128,47 @@
     "size": 4
   },
   {
+    "text": "publications",
+    "size": 4
+  },
+  {
+    "text": "international",
+    "size": 4
+  },
+  {
+    "text": "advies",
+    "size": 4
+  },
+  {
+    "text": "europe",
+    "size": 4
+  },
+  {
+    "text": "new",
+    "size": 4
+  },
+  {
+    "text": "art",
+    "size": 4
+  },
+  {
+    "text": "communications",
+    "size": 4
+  },
+  {
     "text": "co",
     "size": 4
   },
   {
-    "text": "pierre",
-    "size": 3
+    "text": "management",
+    "size": 4
   },
   {
     "text": "blue",
     "size": 3
   },
   {
-    "text": "and",
+    "text": "advertising",
     "size": 3
   },
   {
@@ -164,11 +188,15 @@
     "size": 3
   },
   {
-    "text": "scs",
+    "text": "liègeoise",
     "size": 3
   },
   {
-    "text": "liègeoise",
+    "text": "vision",
+    "size": 3
+  },
+  {
+    "text": "training",
     "size": 3
   },
   {
@@ -180,27 +208,15 @@
     "size": 3
   },
   {
-    "text": "management",
-    "size": 3
-  },
-  {
-    "text": "bip",
-    "size": 3
-  },
-  {
     "text": "vlan",
     "size": 3
   },
   {
-    "text": "international",
+    "text": "invest",
     "size": 3
   },
   {
-    "text": "benelux",
-    "size": 3
-  },
-  {
-    "text": "advies",
+    "text": "solutions",
     "size": 3
   },
   {
@@ -208,43 +224,79 @@
     "size": 3
   },
   {
+    "text": "pierre",
+    "size": 3
+  },
+  {
+    "text": "yves",
+    "size": 3
+  },
+  {
+    "text": "king",
+    "size": 3
+  },
+  {
+    "text": "projects",
+    "size": 3
+  },
+  {
+    "text": "l\u0027avenir",
+    "size": 3
+  },
+  {
+    "text": "scs",
+    "size": 3
+  },
+  {
+    "text": "grafisch",
+    "size": 3
+  },
+  {
+    "text": "graphics",
+    "size": 3
+  },
+  {
+    "text": "bip",
+    "size": 3
+  },
+  {
+    "text": "plus",
+    "size": 3
+  },
+  {
+    "text": "express",
+    "size": 3
+  },
+  {
+    "text": "namur",
+    "size": 3
+  },
+  {
+    "text": "groupe",
+    "size": 3
+  },
+  {
     "text": "vastgoed",
     "size": 2
   },
   {
-    "text": "vie",
+    "text": "technics",
     "size": 2
   },
   {
-    "text": "music",
+    "text": "magazine",
     "size": 2
   },
   {
-    "text": "abc",
+    "text": "corporation",
     "size": 2
   },
   {
-    "text": "red",
+    "text": "jean-françois",
     "size": 2
   },
   {
-    "text": "latour",
-    "size": 2
-  },
-  {
-    "text": "wavre",
-    "size": 2
-  },
-  {
-    "text": "drukhuis",
-    "size": 2
-  },
-  {
-    "text": "yves",
-    "size": 2
-  },
-  {
-    "text": "city",
+    "text": "com",
     "size": 2
   },
   {
@@ -252,19 +304,19 @@
     "size": 2
   },
   {
-    "text": "vrije",
+    "text": "fuel",
     "size": 2
   },
   {
-    "text": "salestreets",
+    "text": "laurent",
     "size": 2
   },
   {
-    "text": "advertising",
+    "text": "immo",
     "size": 2
   },
   {
-    "text": "professional",
+    "text": "mountain",
     "size": 2
   },
   {
@@ -288,7 +340,7 @@
     "size": 2
   },
   {
-    "text": "blockken",
+    "text": "time",
     "size": 2
   },
   {
@@ -296,23 +348,15 @@
     "size": 2
   },
   {
-    "text": "ediclam",
+    "text": "bright",
     "size": 2
   },
   {
-    "text": "projects",
+    "text": "luc",
     "size": 2
   },
   {
-    "text": "l\u0027avenir",
-    "size": 2
-  },
-  {
-    "text": "gazetje",
-    "size": 2
-  },
-  {
-    "text": "communications",
+    "text": "adviesbureau",
     "size": 2
   },
   {
@@ -320,11 +364,7 @@
     "size": 2
   },
   {
-    "text": "systems",
-    "size": 2
-  },
-  {
-    "text": "publications",
+    "text": "peter",
     "size": 2
   },
   {
@@ -332,27 +372,19 @@
     "size": 2
   },
   {
-    "text": "graphics",
-    "size": 2
-  },
-  {
-    "text": "vision",
-    "size": 2
-  },
-  {
-    "text": "for",
-    "size": 2
-  },
-  {
-    "text": "training",
-    "size": 2
-  },
-  {
-    "text": "olivier",
-    "size": 2
-  },
-  {
     "text": "tank",
+    "size": 2
+  },
+  {
+    "text": "home",
+    "size": 2
+  },
+  {
+    "text": "victoria",
+    "size": 2
+  },
+  {
+    "text": "trading",
     "size": 2
   },
   {
@@ -360,19 +392,7 @@
     "size": 2
   },
   {
-    "text": "auto",
-    "size": 2
-  },
-  {
     "text": "vlaamse",
-    "size": 2
-  },
-  {
-    "text": "plus",
-    "size": 2
-  },
-  {
-    "text": "daniel",
     "size": 2
   },
   {
@@ -381,6 +401,178 @@
   },
   {
     "text": "pieter",
+    "size": 2
+  },
+  {
+    "text": "global",
+    "size": 2
+  },
+  {
+    "text": "seven",
+    "size": 2
+  },
+  {
+    "text": "evere",
+    "size": 2
+  },
+  {
+    "text": "brut",
+    "size": 2
+  },
+  {
+    "text": "abrégé",
+    "size": 2
+  },
+  {
+    "text": "prints",
+    "size": 2
+  },
+  {
+    "text": "tête",
+    "size": 2
+  },
+  {
+    "text": "mvr",
+    "size": 2
+  },
+  {
+    "text": "vie",
+    "size": 2
+  },
+  {
+    "text": "music",
+    "size": 2
+  },
+  {
+    "text": "abc",
+    "size": 2
+  },
+  {
+    "text": "duca",
+    "size": 2
+  },
+  {
+    "text": "red",
+    "size": 2
+  },
+  {
+    "text": "latour",
+    "size": 2
+  },
+  {
+    "text": "wavre",
+    "size": 2
+  },
+  {
+    "text": "drukhuis",
+    "size": 2
+  },
+  {
+    "text": "city",
+    "size": 2
+  },
+  {
+    "text": "sarah",
+    "size": 2
+  },
+  {
+    "text": "vrije",
+    "size": 2
+  },
+  {
+    "text": "salestreets",
+    "size": 2
+  },
+  {
+    "text": "professional",
+    "size": 2
+  },
+  {
+    "text": "partners",
+    "size": 2
+  },
+  {
+    "text": "oliver",
+    "size": 2
+  },
+  {
+    "text": "engineering",
+    "size": 2
+  },
+  {
+    "text": "blockken",
+    "size": 2
+  },
+  {
+    "text": "grafiek",
+    "size": 2
+  },
+  {
+    "text": "rent",
+    "size": 2
+  },
+  {
+    "text": "ediclam",
+    "size": 2
+  },
+  {
+    "text": "immedia",
+    "size": 2
+  },
+  {
+    "text": "gazetje",
+    "size": 2
+  },
+  {
+    "text": "prepress",
+    "size": 2
+  },
+  {
+    "text": "systems",
+    "size": 2
+  },
+  {
+    "text": "db",
+    "size": 2
+  },
+  {
+    "text": "for",
+    "size": 2
+  },
+  {
+    "text": "olivier",
+    "size": 2
+  },
+  {
+    "text": "it",
+    "size": 2
+  },
+  {
+    "text": "auto",
+    "size": 2
+  },
+  {
+    "text": "sign",
+    "size": 2
+  },
+  {
+    "text": "mg",
+    "size": 2
+  },
+  {
+    "text": "daniel",
+    "size": 2
+  },
+  {
+    "text": "nv",
+    "size": 2
+  },
+  {
+    "text": "phoenix",
+    "size": 2
+  },
+  {
+    "text": "benelux",
     "size": 2
   },
   {
@@ -396,10 +588,6 @@
     "size": 2
   },
   {
-    "text": "solutions",
-    "size": 2
-  },
-  {
     "text": "ocean",
     "size": 2
   },
@@ -408,27 +596,15 @@
     "size": 2
   },
   {
-    "text": "evere",
-    "size": 2
-  },
-  {
-    "text": "brut",
-    "size": 2
-  },
-  {
     "text": "records",
     "size": 2
   },
   {
-    "text": "prints",
-    "size": 2
-  },
-  {
-    "text": "namur",
-    "size": 2
-  },
-  {
     "text": "liège",
+    "size": 2
+  },
+  {
+    "text": "connection",
     "size": 2
   },
   {
@@ -440,36 +616,24 @@
     "size": 2
   },
   {
-    "text": "europe",
+    "text": "sound",
+    "size": 2
+  },
+  {
+    "text": "publishers",
+    "size": 2
+  },
+  {
+    "text": "ontwerp",
+    "size": 2
+  },
+  {
+    "text": "brussels",
     "size": 2
   },
   {
     "text": "line",
     "size": 2
-  },
-  {
-    "text": "tête",
-    "size": 2
-  },
-  {
-    "text": "mvr",
-    "size": 2
-  },
-  {
-    "text": "groupe",
-    "size": 2
-  },
-  {
-    "text": "d\u0027etude",
-    "size": 1
-  },
-  {
-    "text": "gastromania",
-    "size": 1
-  },
-  {
-    "text": "godfailed",
-    "size": 1
   },
   {
     "text": "jean-marie",
@@ -480,11 +644,11 @@
     "size": 1
   },
   {
-    "text": "via",
+    "text": "financiere",
     "size": 1
   },
   {
-    "text": "financiere",
+    "text": "impuls",
     "size": 1
   },
   {
@@ -492,39 +656,11 @@
     "size": 1
   },
   {
-    "text": "termote",
-    "size": 1
-  },
-  {
     "text": "schrijverke",
     "size": 1
   },
   {
-    "text": "visual",
-    "size": 1
-  },
-  {
-    "text": "vin",
-    "size": 1
-  },
-  {
     "text": "empreinte.be",
-    "size": 1
-  },
-  {
-    "text": "springer",
-    "size": 1
-  },
-  {
-    "text": "glowbal",
-    "size": 1
-  },
-  {
-    "text": "maarten",
-    "size": 1
-  },
-  {
-    "text": "reines-beaux",
     "size": 1
   },
   {
@@ -533,14 +669,6 @@
   },
   {
     "text": "bertaux",
-    "size": 1
-  },
-  {
-    "text": "oyen",
-    "size": 1
-  },
-  {
-    "text": "matthieu",
     "size": 1
   },
   {
@@ -564,7 +692,7 @@
     "size": 1
   },
   {
-    "text": "sallie",
+    "text": "lion",
     "size": 1
   },
   {
@@ -572,31 +700,15 @@
     "size": 1
   },
   {
-    "text": "yvan",
-    "size": 1
-  },
-  {
     "text": "srïp",
     "size": 1
   },
   {
-    "text": "science",
-    "size": 1
-  },
-  {
-    "text": "notch",
+    "text": "headlime",
     "size": 1
   },
   {
     "text": "jografix",
-    "size": 1
-  },
-  {
-    "text": "centrum",
-    "size": 1
-  },
-  {
-    "text": "daoudal",
     "size": 1
   },
   {
@@ -608,19 +720,19 @@
     "size": 1
   },
   {
+    "text": "t.o.m",
+    "size": 1
+  },
+  {
     "text": "booster",
     "size": 1
   },
   {
-    "text": "concept-image",
+    "text": "weis",
     "size": 1
   },
   {
-    "text": "officielles",
-    "size": 1
-  },
-  {
-    "text": "ateliers",
+    "text": "company-on",
     "size": 1
   },
   {
@@ -628,31 +740,11 @@
     "size": 1
   },
   {
-    "text": "declercq",
+    "text": "mindz",
     "size": 1
   },
   {
-    "text": "martens",
-    "size": 1
-  },
-  {
-    "text": "jeprint",
-    "size": 1
-  },
-  {
-    "text": "verba-z",
-    "size": 1
-  },
-  {
-    "text": "jeffry",
-    "size": 1
-  },
-  {
-    "text": "fernando",
-    "size": 1
-  },
-  {
-    "text": "révolté",
+    "text": "vanwelde",
     "size": 1
   },
   {
@@ -660,35 +752,11 @@
     "size": 1
   },
   {
-    "text": "unlimited",
-    "size": 1
-  },
-  {
-    "text": "gouzal",
-    "size": 1
-  },
-  {
-    "text": "l\u0027elan",
-    "size": 1
-  },
-  {
-    "text": "ejv",
-    "size": 1
-  },
-  {
-    "text": "lietaer",
+    "text": "sitwear",
     "size": 1
   },
   {
     "text": "gaëlle",
-    "size": 1
-  },
-  {
-    "text": "urbanisation",
-    "size": 1
-  },
-  {
-    "text": "borgerhoff",
     "size": 1
   },
   {
@@ -708,15 +776,7 @@
     "size": 1
   },
   {
-    "text": "grensverspreider",
-    "size": 1
-  },
-  {
     "text": "scribes",
-    "size": 1
-  },
-  {
-    "text": "editeurs",
     "size": 1
   },
   {
@@ -724,31 +784,7 @@
     "size": 1
   },
   {
-    "text": "publisit",
-    "size": 1
-  },
-  {
-    "text": "duca",
-    "size": 1
-  },
-  {
-    "text": "damnation",
-    "size": 1
-  },
-  {
-    "text": "dender",
-    "size": 1
-  },
-  {
-    "text": "graphisme",
-    "size": 1
-  },
-  {
-    "text": "keters",
-    "size": 1
-  },
-  {
-    "text": "duchêne",
+    "text": "forza-group",
     "size": 1
   },
   {
@@ -756,7 +792,11 @@
     "size": 1
   },
   {
-    "text": "duck",
+    "text": "pac",
+    "size": 1
+  },
+  {
+    "text": "sylvie",
     "size": 1
   },
   {
@@ -764,15 +804,11 @@
     "size": 1
   },
   {
-    "text": "rsansfin",
+    "text": "rome",
     "size": 1
   },
   {
     "text": "sant",
-    "size": 1
-  },
-  {
-    "text": "educational",
     "size": 1
   },
   {
@@ -784,23 +820,7 @@
     "size": 1
   },
   {
-    "text": "quentin",
-    "size": 1
-  },
-  {
-    "text": "adserve",
-    "size": 1
-  },
-  {
     "text": "novala",
-    "size": 1
-  },
-  {
-    "text": "els",
-    "size": 1
-  },
-  {
-    "text": "gmid",
     "size": 1
   },
   {
@@ -816,23 +836,11 @@
     "size": 1
   },
   {
-    "text": "technics",
-    "size": 1
-  },
-  {
     "text": "cie",
     "size": 1
   },
   {
-    "text": "united",
-    "size": 1
-  },
-  {
     "text": "scico",
-    "size": 1
-  },
-  {
-    "text": "euroconnect",
     "size": 1
   },
   {
@@ -844,15 +852,7 @@
     "size": 1
   },
   {
-    "text": "avalon",
-    "size": 1
-  },
-  {
     "text": "folie",
-    "size": 1
-  },
-  {
-    "text": "omroeper",
     "size": 1
   },
   {
@@ -861,6 +861,10 @@
   },
   {
     "text": "gelissen",
+    "size": 1
+  },
+  {
+    "text": "lexisnexis",
     "size": 1
   },
   {
@@ -876,19 +880,15 @@
     "size": 1
   },
   {
+    "text": "nicolasvadot.com",
+    "size": 1
+  },
+  {
     "text": "strobbe",
     "size": 1
   },
   {
     "text": "c-fresh",
-    "size": 1
-  },
-  {
-    "text": "visuel",
-    "size": 1
-  },
-  {
-    "text": "cuistax.com",
     "size": 1
   },
   {
@@ -900,19 +900,11 @@
     "size": 1
   },
   {
-    "text": "gazeuse",
+    "text": "i4u",
     "size": 1
   },
   {
-    "text": "afr",
-    "size": 1
-  },
-  {
-    "text": "ivy",
-    "size": 1
-  },
-  {
-    "text": "kreuk",
+    "text": "voce",
     "size": 1
   },
   {
@@ -920,11 +912,11 @@
     "size": 1
   },
   {
-    "text": "forum",
+    "text": "stickerparadijs",
     "size": 1
   },
   {
-    "text": "stickerparadijs",
+    "text": "marechal",
     "size": 1
   },
   {
@@ -932,19 +924,19 @@
     "size": 1
   },
   {
+    "text": "ramos",
+    "size": 1
+  },
+  {
+    "text": "t.d.m.c",
+    "size": 1
+  },
+  {
     "text": "translation",
     "size": 1
   },
   {
-    "text": "drukcenter",
-    "size": 1
-  },
-  {
-    "text": "joker",
-    "size": 1
-  },
-  {
-    "text": "magazine",
+    "text": "handling",
     "size": 1
   },
   {
@@ -956,47 +948,55 @@
     "size": 1
   },
   {
-    "text": "agb",
-    "size": 1
-  },
-  {
-    "text": "noten",
-    "size": 1
-  },
-  {
-    "text": "crossmedia",
-    "size": 1
-  },
-  {
     "text": "arrose",
     "size": 1
   },
   {
-    "text": "movie",
+    "text": "avislux",
     "size": 1
   },
   {
-    "text": "cilnius",
+    "text": "c-works",
     "size": 1
   },
   {
-    "text": "mensen",
+    "text": "write",
     "size": 1
   },
   {
-    "text": "dyod",
+    "text": "boonen",
     "size": 1
   },
   {
-    "text": "3000",
+    "text": "bmb-tee",
     "size": 1
   },
   {
-    "text": "ongenaet",
+    "text": "chamalin.com",
     "size": 1
   },
   {
-    "text": "weekblad",
+    "text": "tekstwolf",
+    "size": 1
+  },
+  {
+    "text": "mediasympa",
+    "size": 1
+  },
+  {
+    "text": "esther",
+    "size": 1
+  },
+  {
+    "text": "tnd",
+    "size": 1
+  },
+  {
+    "text": "cls",
+    "size": 1
+  },
+  {
+    "text": "chambre",
     "size": 1
   }
 ]

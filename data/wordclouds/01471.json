@@ -1,30 +1,34 @@
 [
   {
     "text": "ferme",
-    "size": 32
+    "size": 36
   },
   {
     "text": "bvba",
-    "size": 21
+    "size": 23
   },
   {
     "text": "lv",
-    "size": 17
-  },
-  {
-    "text": "agri",
-    "size": 9
+    "size": 18
   },
   {
     "text": "nv",
-    "size": 8
+    "size": 15
   },
   {
-    "text": "elevage",
-    "size": 7
+    "text": "agri",
+    "size": 11
   },
   {
     "text": "eric",
+    "size": 8
+  },
+  {
+    "text": "koen",
+    "size": 7
+  },
+  {
+    "text": "elevage",
     "size": 7
   },
   {
@@ -33,6 +37,10 @@
   },
   {
     "text": "pierre",
+    "size": 6
+  },
+  {
+    "text": "sprl",
     "size": 6
   },
   {
@@ -52,11 +60,27 @@
     "size": 6
   },
   {
-    "text": "koen",
+    "text": "sagr",
+    "size": 6
+  },
+  {
+    "text": "jozef",
     "size": 5
   },
   {
-    "text": "sprl",
+    "text": "geert",
+    "size": 5
+  },
+  {
+    "text": "pluimveebedrijf",
+    "size": 5
+  },
+  {
+    "text": "services",
+    "size": 5
+  },
+  {
+    "text": "luc",
     "size": 5
   },
   {
@@ -68,15 +92,23 @@
     "size": 5
   },
   {
-    "text": "sagr",
+    "text": "vincent",
     "size": 5
+  },
+  {
+    "text": "patrick",
+    "size": 4
+  },
+  {
+    "text": "mathieu",
+    "size": 4
   },
   {
     "text": "guillaume",
     "size": 4
   },
   {
-    "text": "jozef",
+    "text": "saveurs",
     "size": 4
   },
   {
@@ -84,15 +116,15 @@
     "size": 4
   },
   {
-    "text": "geert",
-    "size": 4
-  },
-  {
-    "text": "pluimveebedrijf",
-    "size": 4
-  },
-  {
     "text": "bernard",
+    "size": 4
+  },
+  {
+    "text": "wouter",
+    "size": 4
+  },
+  {
+    "text": "wim",
     "size": 4
   },
   {
@@ -100,7 +132,7 @@
     "size": 4
   },
   {
-    "text": "luc",
+    "text": "entreprise",
     "size": 4
   },
   {
@@ -108,11 +140,11 @@
     "size": 4
   },
   {
-    "text": "thomas",
+    "text": "paul",
     "size": 4
   },
   {
-    "text": "benoit",
+    "text": "thomas",
     "size": 4
   },
   {
@@ -120,11 +152,15 @@
     "size": 4
   },
   {
-    "text": "pascal",
+    "text": "antoine",
     "size": 4
   },
   {
-    "text": "vincent",
+    "text": "françois",
+    "size": 4
+  },
+  {
+    "text": "pascal",
     "size": 4
   },
   {
@@ -136,27 +172,23 @@
     "size": 3
   },
   {
-    "text": "patrick",
+    "text": "pluimvee",
     "size": 3
   },
   {
-    "text": "mathieu",
+    "text": "service",
     "size": 3
   },
   {
-    "text": "saveurs",
+    "text": "poultry",
     "size": 3
   },
   {
-    "text": "services",
+    "text": "sébastien",
     "size": 3
   },
   {
     "text": "jardin",
-    "size": 3
-  },
-  {
-    "text": "wouter",
     "size": 3
   },
   {
@@ -176,15 +208,15 @@
     "size": 3
   },
   {
-    "text": "wim",
-    "size": 3
-  },
-  {
     "text": "projects",
     "size": 3
   },
   {
-    "text": "entreprise",
+    "text": "den",
+    "size": 3
+  },
+  {
+    "text": "steven",
     "size": 3
   },
   {
@@ -200,7 +232,7 @@
     "size": 3
   },
   {
-    "text": "paul",
+    "text": "danny",
     "size": 3
   },
   {
@@ -220,11 +252,27 @@
     "size": 3
   },
   {
+    "text": "management",
+    "size": 3
+  },
+  {
     "text": "alexandre",
     "size": 3
   },
   {
+    "text": "ska",
+    "size": 3
+  },
+  {
     "text": "bio",
+    "size": 3
+  },
+  {
+    "text": "benoit",
+    "size": 3
+  },
+  {
+    "text": "philippe",
     "size": 3
   },
   {
@@ -244,19 +292,19 @@
     "size": 3
   },
   {
-    "text": "antoine",
-    "size": 3
-  },
-  {
-    "text": "françois",
-    "size": 3
-  },
-  {
     "text": "sens",
     "size": 3
   },
   {
+    "text": "katrien",
+    "size": 3
+  },
+  {
     "text": "ter",
+    "size": 2
+  },
+  {
+    "text": "hans",
     "size": 2
   },
   {
@@ -292,11 +340,7 @@
     "size": 2
   },
   {
-    "text": "pluimvee",
-    "size": 2
-  },
-  {
-    "text": "service",
+    "text": "landbouwvennootschap",
     "size": 2
   },
   {
@@ -308,7 +352,19 @@
     "size": 2
   },
   {
+    "text": "vanderostyne",
+    "size": 2
+  },
+  {
+    "text": "guy",
+    "size": 2
+  },
+  {
     "text": "tom",
+    "size": 2
+  },
+  {
+    "text": "damien",
     "size": 2
   },
   {
@@ -332,6 +388,14 @@
     "size": 2
   },
   {
+    "text": "all",
+    "size": 2
+  },
+  {
+    "text": "estate",
+    "size": 2
+  },
+  {
     "text": "abbeloos",
     "size": 2
   },
@@ -345,10 +409,6 @@
   },
   {
     "text": "gils",
-    "size": 2
-  },
-  {
-    "text": "poultry",
     "size": 2
   },
   {
@@ -376,11 +436,11 @@
     "size": 2
   },
   {
-    "text": "jef",
+    "text": "anne",
     "size": 2
   },
   {
-    "text": "sébastien",
+    "text": "jef",
     "size": 2
   },
   {
@@ -389,6 +449,22 @@
   },
   {
     "text": "jonathan",
+    "size": 2
+  },
+  {
+    "text": "echelpoel",
+    "size": 2
+  },
+  {
+    "text": "bruno",
+    "size": 2
+  },
+  {
+    "text": "julie",
+    "size": 2
+  },
+  {
+    "text": "consult",
     "size": 2
   },
   {
@@ -428,6 +504,10 @@
     "size": 2
   },
   {
+    "text": "ludo",
+    "size": 2
+  },
+  {
     "text": "desmedt",
     "size": 2
   },
@@ -452,10 +532,6 @@
     "size": 2
   },
   {
-    "text": "den",
-    "size": 2
-  },
-  {
     "text": "mertens",
     "size": 2
   },
@@ -476,7 +552,15 @@
     "size": 2
   },
   {
-    "text": "steven",
+    "text": "craywinckelhof",
+    "size": 2
+  },
+  {
+    "text": "wilma",
+    "size": 2
+  },
+  {
+    "text": "farming",
     "size": 2
   },
   {
@@ -496,7 +580,7 @@
     "size": 2
   },
   {
-    "text": "danny",
+    "text": "michel",
     "size": 2
   },
   {
@@ -509,14 +593,6 @@
   },
   {
     "text": "kris",
-    "size": 2
-  },
-  {
-    "text": "management",
-    "size": 2
-  },
-  {
-    "text": "ska",
     "size": 2
   },
   {
@@ -544,7 +620,7 @@
     "size": 2
   },
   {
-    "text": "philippe",
+    "text": "smedt",
     "size": 2
   },
   {
@@ -588,6 +664,10 @@
     "size": 2
   },
   {
+    "text": "garage",
+    "size": 2
+  },
+  {
     "text": "motmans",
     "size": 2
   },
@@ -604,7 +684,15 @@
     "size": 2
   },
   {
+    "text": "hermans",
+    "size": 2
+  },
+  {
     "text": "pollo",
+    "size": 2
+  },
+  {
+    "text": "gebroeders",
     "size": 2
   },
   {
@@ -616,6 +704,10 @@
     "size": 2
   },
   {
+    "text": "quirynen",
+    "size": 2
+  },
+  {
     "text": "filip",
     "size": 2
   },
@@ -624,11 +716,11 @@
     "size": 2
   },
   {
-    "text": "seutin",
+    "text": "clarisse",
     "size": 2
   },
   {
-    "text": "clarisse",
+    "text": "christophe",
     "size": 2
   },
   {
@@ -640,7 +732,11 @@
     "size": 2
   },
   {
-    "text": "katrien",
+    "text": "henricot",
+    "size": 2
+  },
+  {
+    "text": "joeri",
     "size": 2
   },
   {
@@ -720,6 +816,10 @@
     "size": 1
   },
   {
+    "text": "energy",
+    "size": 1
+  },
+  {
     "text": "neirynck",
     "size": 1
   },
@@ -792,10 +892,6 @@
     "size": 1
   },
   {
-    "text": "hans",
-    "size": 1
-  },
-  {
     "text": "roks",
     "size": 1
   },
@@ -816,6 +912,10 @@
     "size": 1
   },
   {
+    "text": "verzorgingsbedrijf",
+    "size": 1
+  },
+  {
     "text": "chise",
     "size": 1
   },
@@ -828,7 +928,15 @@
     "size": 1
   },
   {
+    "text": "rinaldo",
+    "size": 1
+  },
+  {
     "text": "belgabroed",
+    "size": 1
+  },
+  {
+    "text": "cornu",
     "size": 1
   },
   {
@@ -845,6 +953,10 @@
   },
   {
     "text": "maeyer",
+    "size": 1
+  },
+  {
+    "text": "lugerco",
     "size": 1
   },
   {
@@ -868,7 +980,15 @@
     "size": 1
   },
   {
+    "text": "tanjïa",
+    "size": 1
+  },
+  {
     "text": "limburgse",
+    "size": 1
+  },
+  {
+    "text": "poirrier",
     "size": 1
   },
   {
@@ -877,126 +997,6 @@
   },
   {
     "text": "caballo",
-    "size": 1
-  },
-  {
-    "text": "louette",
-    "size": 1
-  },
-  {
-    "text": "berger",
-    "size": 1
-  },
-  {
-    "text": "adf",
-    "size": 1
-  },
-  {
-    "text": "declerck",
-    "size": 1
-  },
-  {
-    "text": "brakelshof",
-    "size": 1
-  },
-  {
-    "text": "tramac",
-    "size": 1
-  },
-  {
-    "text": "chauvaux",
-    "size": 1
-  },
-  {
-    "text": "els",
-    "size": 1
-  },
-  {
-    "text": "haesen",
-    "size": 1
-  },
-  {
-    "text": "scri",
-    "size": 1
-  },
-  {
-    "text": "agro.energy",
-    "size": 1
-  },
-  {
-    "text": "puravida",
-    "size": 1
-  },
-  {
-    "text": "mercier",
-    "size": 1
-  },
-  {
-    "text": "hanquet",
-    "size": 1
-  },
-  {
-    "text": "cie",
-    "size": 1
-  },
-  {
-    "text": "raoul",
-    "size": 1
-  },
-  {
-    "text": "production",
-    "size": 1
-  },
-  {
-    "text": "delphine",
-    "size": 1
-  },
-  {
-    "text": "laer",
-    "size": 1
-  },
-  {
-    "text": "rooy",
-    "size": 1
-  },
-  {
-    "text": "lecocq",
-    "size": 1
-  },
-  {
-    "text": "poultryfarms",
-    "size": 1
-  },
-  {
-    "text": "snick",
-    "size": 1
-  },
-  {
-    "text": "landbouwvennootschap",
-    "size": 1
-  },
-  {
-    "text": "maximilian",
-    "size": 1
-  },
-  {
-    "text": "bracke",
-    "size": 1
-  },
-  {
-    "text": "nv-vantuur",
-    "size": 1
-  },
-  {
-    "text": "traiteur",
-    "size": 1
-  },
-  {
-    "text": "sweertvaegher",
-    "size": 1
-  },
-  {
-    "text": "societe",
     "size": 1
   }
 ]

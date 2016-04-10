@@ -12,24 +12,24 @@
     "size": 25
   },
   {
-    "text": "accueil",
+    "text": "centre",
     "size": 25
   },
   {
-    "text": "centre",
-    "size": 24
+    "text": "accueil",
+    "size": 25
   },
   {
     "text": "extra-scolaire",
     "size": 24
   },
   {
-    "text": "dg",
+    "text": "service",
     "size": 22
   },
   {
-    "text": "service",
-    "size": 21
+    "text": "dg",
+    "size": 22
   },
   {
     "text": "ocmw",
@@ -52,11 +52,11 @@
     "size": 15
   },
   {
-    "text": "santé",
-    "size": 14
+    "text": "bureau",
+    "size": 13
   },
   {
-    "text": "bureau",
+    "text": "santé",
     "size": 13
   },
   {
@@ -76,15 +76,11 @@
     "size": 10
   },
   {
-    "text": "publique",
-    "size": 9
-  },
-  {
-    "text": "spf",
-    "size": 9
-  },
-  {
     "text": "sport",
+    "size": 8
+  },
+  {
+    "text": "consultation",
     "size": 8
   },
   {
@@ -104,11 +100,15 @@
     "size": 8
   },
   {
-    "text": "consultation",
+    "text": "publique",
     "size": 7
   },
   {
     "text": "inspection",
+    "size": 7
+  },
+  {
+    "text": "spf",
     "size": 7
   },
   {
@@ -248,6 +248,10 @@
     "size": 5
   },
   {
+    "text": "provinciedomein",
+    "size": 4
+  },
+  {
     "text": "inspectie",
     "size": 4
   },
@@ -285,10 +289,6 @@
   },
   {
     "text": "provinciaal",
-    "size": 4
-  },
-  {
-    "text": "wallon",
     "size": 4
   },
   {
@@ -340,10 +340,6 @@
     "size": 3
   },
   {
-    "text": "provinciedomein",
-    "size": 3
-  },
-  {
     "text": "medex",
     "size": 3
   },
@@ -352,7 +348,15 @@
     "size": 3
   },
   {
+    "text": "vlaams-brabant",
+    "size": 3
+  },
+  {
     "text": "technique",
+    "size": 3
+  },
+  {
+    "text": "zutendaal",
     "size": 3
   },
   {
@@ -372,11 +376,23 @@
     "size": 3
   },
   {
+    "text": "consulting",
+    "size": 3
+  },
+  {
+    "text": "kasteel",
+    "size": 3
+  },
+  {
     "text": "huis",
     "size": 3
   },
   {
     "text": "fédéral",
+    "size": 3
+  },
+  {
+    "text": "tongeren",
     "size": 3
   },
   {
@@ -420,6 +436,14 @@
     "size": 3
   },
   {
+    "text": "wallon",
+    "size": 3
+  },
+  {
+    "text": "nv",
+    "size": 3
+  },
+  {
     "text": "polyvalente",
     "size": 3
   },
@@ -433,6 +457,10 @@
   },
   {
     "text": "relais",
+    "size": 3
+  },
+  {
+    "text": "gemeente",
     "size": 3
   },
   {
@@ -454,6 +482,10 @@
   {
     "text": "turnhout",
     "size": 3
+  },
+  {
+    "text": "afdeling",
+    "size": 2
   },
   {
     "text": "wauthier-braine",
@@ -504,10 +536,6 @@
     "size": 2
   },
   {
-    "text": "projet",
-    "size": 2
-  },
-  {
     "text": "luxembourg",
     "size": 2
   },
@@ -517,10 +545,6 @@
   },
   {
     "text": "ecole",
-    "size": 2
-  },
-  {
-    "text": "vlaams-brabant",
     "size": 2
   },
   {
@@ -540,10 +564,6 @@
     "size": 2
   },
   {
-    "text": "consulting",
-    "size": 2
-  },
-  {
     "text": "kasterlee",
     "size": 2
   },
@@ -552,11 +572,11 @@
     "size": 2
   },
   {
-    "text": "kasteel",
+    "text": "vilvoorde",
     "size": 2
   },
   {
-    "text": "vilvoorde",
+    "text": "biopower",
     "size": 2
   },
   {
@@ -572,15 +592,15 @@
     "size": 2
   },
   {
+    "text": "académie",
+    "size": 2
+  },
+  {
     "text": "d\u0027enseignement",
     "size": 2
   },
   {
     "text": "preventie",
-    "size": 2
-  },
-  {
-    "text": "tongeren",
     "size": 2
   },
   {
@@ -597,6 +617,10 @@
   },
   {
     "text": "hdt",
+    "size": 2
+  },
+  {
+    "text": "administratie",
     "size": 2
   },
   {
@@ -732,10 +756,6 @@
     "size": 2
   },
   {
-    "text": "valorisantes",
-    "size": 2
-  },
-  {
     "text": "roodebeek",
     "size": 2
   },
@@ -785,10 +805,6 @@
   },
   {
     "text": "woon-en",
-    "size": 2
-  },
-  {
-    "text": "nv",
     "size": 2
   },
   {
@@ -884,6 +900,10 @@
     "size": 2
   },
   {
+    "text": "marc",
+    "size": 2
+  },
+  {
     "text": "antenne",
     "size": 2
   },
@@ -928,8 +948,16 @@
     "size": 2
   },
   {
+    "text": "dentaire",
+    "size": 2
+  },
+  {
     "text": "vandevelde",
     "size": 2
+  },
+  {
+    "text": "ecosence",
+    "size": 1
   },
   {
     "text": "toerisme",
@@ -968,35 +996,7 @@
     "size": 1
   },
   {
-    "text": "instel",
-    "size": 1
-  },
-  {
     "text": "ipf",
-    "size": 1
-  },
-  {
-    "text": "ter",
-    "size": 1
-  },
-  {
-    "text": "bijnsgebouw",
-    "size": 1
-  },
-  {
-    "text": "afdeling",
-    "size": 1
-  },
-  {
-    "text": "woluwé",
-    "size": 1
-  },
-  {
-    "text": "planning",
-    "size": 1
-  },
-  {
-    "text": "socale",
     "size": 1
   }
 ]

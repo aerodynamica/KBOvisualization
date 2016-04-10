@@ -1,23 +1,27 @@
 [
   {
     "form": "Natuurlijk Persoon",
-    "count": 327
+    "count": 1145
   },
   {
     "form": "Andere federale dienst",
     "count": 1
   },
   {
+    "form": "Autonoom gemeentebedrijf",
+    "count": 1
+  },
+  {
     "form": "Besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 246
+    "count": 795
   },
   {
     "form": "BTW-eenheid",
-    "count": 2
+    "count": 12
   },
   {
     "form": "Buitenlandse onderneming",
-    "count": 2
+    "count": 3
   },
   {
     "form": "Buitenlandse onderneming met onroerend goed in België (met rechtspersoonlijkheid)",
@@ -25,11 +29,15 @@
   },
   {
     "form": "Burgerlijke vennootschap onder vorm van besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 2
+    "count": 10
   },
   {
     "form": "Burgerlijke vennootschap onder vorm van coöperatieve vennootschap met beperkte aansprakelijkheid",
-    "count": 1
+    "count": 3
+  },
+  {
+    "form": "Burgerlijke vennootschap onder vorm van gewone commanditaire vennootschap",
+    "count": 2
   },
   {
     "form": "Burgerlijke vennootschap onder vorm van naamloze vennootschap",
@@ -37,15 +45,15 @@
   },
   {
     "form": "Commanditaire vennootschap op aandelen",
-    "count": 6
+    "count": 9
   },
   {
     "form": "Coöperatieve vennootschap (oud statuut)",
-    "count": 1
+    "count": 2
   },
   {
     "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid",
-    "count": 11
+    "count": 22
   },
   {
     "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid met een sociaal oogmerk",
@@ -53,15 +61,19 @@
   },
   {
     "form": "Coöperatieve vennootschap met onbeperkte aansprakelijkheid",
-    "count": 6
+    "count": 15
   },
   {
     "form": "Eenpersoons besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 17
+    "count": 67
   },
   {
     "form": "Gewone commanditaire vennootschap",
-    "count": 12
+    "count": 62
+  },
+  {
+    "form": "Gewone commanditaire vennootschap met een sociaal oogmerk",
+    "count": 1
   },
   {
     "form": "Ministerie van Binnenlandse Zaken",
@@ -69,7 +81,7 @@
   },
   {
     "form": "Naamloze vennootschap",
-    "count": 126
+    "count": 282
   },
   {
     "form": "Private stichting",
@@ -77,18 +89,22 @@
   },
   {
     "form": "Stad / gemeente",
-    "count": 1
+    "count": 5
   },
   {
     "form": "Vennootschap of vereniging zonder rechtspersoonlijkheid",
-    "count": 8
+    "count": 21
   },
   {
     "form": "Vennootschap onder firma",
-    "count": 15
+    "count": 68
+  },
+  {
+    "form": "Vereniging van OCMW\u0027s",
+    "count": 1
   },
   {
     "form": "Vereniging zonder winstoogmerk",
-    "count": 25
+    "count": 78
   }
 ]

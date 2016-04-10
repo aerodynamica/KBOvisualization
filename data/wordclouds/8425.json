@@ -36,6 +36,10 @@
     "size": 17
   },
   {
+    "text": "caserne",
+    "size": 16
+  },
+  {
     "text": "hoofdzetel",
     "size": 15
   },
@@ -46,10 +50,6 @@
   {
     "text": "pompiers",
     "size": 10
-  },
-  {
-    "text": "caserne",
-    "size": 9
   },
   {
     "text": "zone",
@@ -64,6 +64,10 @@
     "size": 7
   },
   {
+    "text": "100",
+    "size": 5
+  },
+  {
     "text": "dienst",
     "size": 5
   },
@@ -76,15 +80,11 @@
     "size": 5
   },
   {
-    "text": "100",
-    "size": 5
-  },
-  {
-    "text": "brw",
+    "text": "centrum",
     "size": 4
   },
   {
-    "text": "centrum",
+    "text": "brw",
     "size": 4
   },
   {
@@ -100,6 +100,10 @@
     "size": 3
   },
   {
+    "text": "zuid",
+    "size": 3
+  },
+  {
     "text": "malle",
     "size": 3
   },
@@ -112,12 +116,56 @@
     "size": 3
   },
   {
-    "text": "zuid",
+    "text": "noord",
     "size": 3
   },
   {
-    "text": "noord",
-    "size": 3
+    "text": "duffel",
+    "size": 2
+  },
+  {
+    "text": "i.i.l.e",
+    "size": 2
+  },
+  {
+    "text": "basècles",
+    "size": 2
+  },
+  {
+    "text": "poperinge",
+    "size": 2
+  },
+  {
+    "text": "tienen",
+    "size": 2
+  },
+  {
+    "text": "brandweerarsenaal",
+    "size": 2
+  },
+  {
+    "text": "cite",
+    "size": 2
+  },
+  {
+    "text": "west",
+    "size": 2
+  },
+  {
+    "text": "assenede",
+    "size": 2
+  },
+  {
+    "text": "charleroi",
+    "size": 2
+  },
+  {
+    "text": "sri",
+    "size": 2
+  },
+  {
+    "text": "berendrecht",
+    "size": 2
   },
   {
     "text": "beveren",
@@ -140,27 +188,11 @@
     "size": 2
   },
   {
-    "text": "duffel",
-    "size": 2
-  },
-  {
-    "text": "i.i.l.e",
-    "size": 2
-  },
-  {
     "text": "administration",
     "size": 2
   },
   {
-    "text": "basècles",
-    "size": 2
-  },
-  {
     "text": "zoersel",
-    "size": 2
-  },
-  {
-    "text": "poperinge",
     "size": 2
   },
   {
@@ -176,11 +208,11 @@
     "size": 2
   },
   {
-    "text": "tienen",
+    "text": "brugge",
     "size": 2
   },
   {
-    "text": "brugge",
+    "text": "communale",
     "size": 2
   },
   {
@@ -196,27 +228,11 @@
     "size": 2
   },
   {
-    "text": "brandweerarsenaal",
-    "size": 2
-  },
-  {
-    "text": "cite",
-    "size": 2
-  },
-  {
-    "text": "west",
-    "size": 2
-  },
-  {
     "text": "kazerne",
     "size": 2
   },
   {
     "text": "avancé",
-    "size": 2
-  },
-  {
-    "text": "assenede",
     "size": 2
   },
   {
@@ -228,31 +244,11 @@
     "size": 2
   },
   {
-    "text": "sri",
-    "size": 2
-  },
-  {
     "text": "pompier",
     "size": 2
   },
   {
-    "text": "berendrecht",
-    "size": 2
-  },
-  {
     "text": "german",
-    "size": 1
-  },
-  {
-    "text": "landen",
-    "size": 1
-  },
-  {
-    "text": "baarle-hertog",
-    "size": 1
-  },
-  {
-    "text": "grivegnée",
     "size": 1
   },
   {
@@ -264,15 +260,7 @@
     "size": 1
   },
   {
-    "text": "braine-l\u0027alleud",
-    "size": 1
-  },
-  {
     "text": "vielsam",
-    "size": 1
-  },
-  {
-    "text": "dilbeek",
     "size": 1
   },
   {
@@ -300,10 +288,6 @@
     "size": 1
   },
   {
-    "text": "leuven",
-    "size": 1
-  },
-  {
     "text": "lochristi",
     "size": 1
   },
@@ -312,27 +296,11 @@
     "size": 1
   },
   {
-    "text": "hoogstraten",
-    "size": 1
-  },
-  {
     "text": "rumst",
     "size": 1
   },
   {
     "text": "raf",
-    "size": 1
-  },
-  {
-    "text": "herzele",
-    "size": 1
-  },
-  {
-    "text": "lendelede",
-    "size": 1
-  },
-  {
-    "text": "quiévrain",
     "size": 1
   },
   {
@@ -356,23 +324,7 @@
     "size": 1
   },
   {
-    "text": "limburg",
-    "size": 1
-  },
-  {
-    "text": "15",
-    "size": 1
-  },
-  {
-    "text": "proximité",
-    "size": 1
-  },
-  {
     "text": "soignies",
-    "size": 1
-  },
-  {
-    "text": "16",
     "size": 1
   },
   {
@@ -380,19 +332,7 @@
     "size": 1
   },
   {
-    "text": "asse",
-    "size": 1
-  },
-  {
-    "text": "benelux",
-    "size": 1
-  },
-  {
-    "text": "bastogne",
-    "size": 1
-  },
-  {
-    "text": "heuvelland-kemmel",
+    "text": "beaumont",
     "size": 1
   },
   {
@@ -408,11 +348,7 @@
     "size": 1
   },
   {
-    "text": "régional",
-    "size": 1
-  },
-  {
-    "text": "gentbrugge",
+    "text": "villes",
     "size": 1
   },
   {
@@ -424,23 +360,11 @@
     "size": 1
   },
   {
-    "text": "houthulst-merkem",
-    "size": 1
-  },
-  {
     "text": "kuurne",
     "size": 1
   },
   {
     "text": "frank",
-    "size": 1
-  },
-  {
-    "text": "sud",
-    "size": 1
-  },
-  {
-    "text": "d\u0027antoing",
     "size": 1
   },
   {
@@ -456,19 +380,7 @@
     "size": 1
   },
   {
-    "text": "bilzen",
-    "size": 1
-  },
-  {
-    "text": "hoofdkazerne",
-    "size": 1
-  },
-  {
-    "text": "zomergem",
-    "size": 1
-  },
-  {
-    "text": "arendonk",
+    "text": "magazijn",
     "size": 1
   },
   {
@@ -492,10 +404,6 @@
     "size": 1
   },
   {
-    "text": "stedelijke",
-    "size": 1
-  },
-  {
     "text": "linker",
     "size": 1
   },
@@ -516,18 +424,6 @@
     "size": 1
   },
   {
-    "text": "kasterlee",
-    "size": 1
-  },
-  {
-    "text": "garage",
-    "size": 1
-  },
-  {
-    "text": "d\u0027estaimpuis",
-    "size": 1
-  },
-  {
     "text": "avelgem",
     "size": 1
   },
@@ -540,59 +436,7 @@
     "size": 1
   },
   {
-    "text": "merksplas",
-    "size": 1
-  },
-  {
-    "text": "lauwe",
-    "size": 1
-  },
-  {
-    "text": "lillo",
-    "size": 1
-  },
-  {
-    "text": "aarschot",
-    "size": 1
-  },
-  {
-    "text": "roeselare",
-    "size": 1
-  },
-  {
-    "text": "buggenhout",
-    "size": 1
-  },
-  {
-    "text": "beerse",
-    "size": 1
-  },
-  {
     "text": "paul",
-    "size": 1
-  },
-  {
-    "text": "ledegem",
-    "size": 1
-  },
-  {
-    "text": "d\u0027andenne",
-    "size": 1
-  },
-  {
-    "text": "brandweercentrale",
-    "size": 1
-  },
-  {
-    "text": "antonius",
-    "size": 1
-  },
-  {
-    "text": "kruishoutem",
-    "size": 1
-  },
-  {
-    "text": "vilvoorde",
     "size": 1
   },
   {
@@ -600,31 +444,11 @@
     "size": 1
   },
   {
-    "text": "linkeroever",
-    "size": 1
-  },
-  {
-    "text": "mouscron",
-    "size": 1
-  },
-  {
     "text": "waasland",
     "size": 1
   },
   {
-    "text": "kevin",
-    "size": 1
-  },
-  {
-    "text": "nivelles",
-    "size": 1
-  },
-  {
-    "text": "loos",
-    "size": 1
-  },
-  {
-    "text": "beauraing",
+    "text": "chimay",
     "size": 1
   },
   {
@@ -652,26 +476,6 @@
     "size": 1
   },
   {
-    "text": "florennes",
-    "size": 1
-  },
-  {
-    "text": "sint",
-    "size": 1
-  },
-  {
-    "text": "halle",
-    "size": 1
-  },
-  {
-    "text": "couvin",
-    "size": 1
-  },
-  {
-    "text": "sint-lievens-houtem",
-    "size": 1
-  },
-  {
     "text": "waregem",
     "size": 1
   },
@@ -684,23 +488,11 @@
     "size": 1
   },
   {
-    "text": "clermont",
-    "size": 1
-  },
-  {
-    "text": "schilde",
+    "text": "défi",
     "size": 1
   },
   {
     "text": "kortemark",
-    "size": 1
-  },
-  {
-    "text": "wondelgem",
-    "size": 1
-  },
-  {
-    "text": "canoot",
     "size": 1
   },
   {
@@ -724,15 +516,7 @@
     "size": 1
   },
   {
-    "text": "boom",
-    "size": 1
-  },
-  {
-    "text": "londerzeel",
-    "size": 1
-  },
-  {
-    "text": "hamme",
+    "text": "schilderwerken",
     "size": 1
   },
   {
@@ -744,39 +528,7 @@
     "size": 1
   },
   {
-    "text": "villers-la-ville",
-    "size": 1
-  },
-  {
-    "text": "menen",
-    "size": 1
-  },
-  {
-    "text": "gits",
-    "size": 1
-  },
-  {
-    "text": "nieuwkerke",
-    "size": 1
-  },
-  {
     "text": "diksmuide-leke",
-    "size": 1
-  },
-  {
-    "text": "mons",
-    "size": 1
-  },
-  {
-    "text": "ciney",
-    "size": 1
-  },
-  {
-    "text": "kruibeke",
-    "size": 1
-  },
-  {
-    "text": "lier",
     "size": 1
   },
   {
@@ -792,27 +544,7 @@
     "size": 1
   },
   {
-    "text": "ruddervoorde",
-    "size": 1
-  },
-  {
     "text": "mobiliteit",
-    "size": 1
-  },
-  {
-    "text": "preventie",
-    "size": 1
-  },
-  {
-    "text": "gembloux",
-    "size": 1
-  },
-  {
-    "text": "wervik",
-    "size": 1
-  },
-  {
-    "text": "ardennen",
     "size": 1
   },
   {
@@ -820,31 +552,7 @@
     "size": 1
   },
   {
-    "text": "d\u0027ath",
-    "size": 1
-  },
-  {
-    "text": "beveren-leie",
-    "size": 1
-  },
-  {
-    "text": "chièvres",
-    "size": 1
-  },
-  {
-    "text": "brandweerkorps",
-    "size": 1
-  },
-  {
     "text": "deerlijk",
-    "size": 1
-  },
-  {
-    "text": "falck",
-    "size": 1
-  },
-  {
-    "text": "welkenraedt",
     "size": 1
   },
   {
@@ -856,39 +564,11 @@
     "size": 1
   },
   {
-    "text": "kemmel",
-    "size": 1
-  },
-  {
     "text": "heuvelland-nieuwkerke",
     "size": 1
   },
   {
-    "text": "fietsendepot",
-    "size": 1
-  },
-  {
-    "text": "feuerwehrkaserne",
-    "size": 1
-  },
-  {
-    "text": "gemeente",
-    "size": 1
-  },
-  {
-    "text": "freiwillige",
-    "size": 1
-  },
-  {
-    "text": "daniels",
-    "size": 1
-  },
-  {
     "text": "fluvia",
-    "size": 1
-  },
-  {
-    "text": "100-centrale",
     "size": 1
   },
   {
@@ -904,39 +584,11 @@
     "size": 1
   },
   {
-    "text": "brakel",
-    "size": 1
-  },
-  {
-    "text": "binche",
-    "size": 1
-  },
-  {
-    "text": "communale",
-    "size": 1
-  },
-  {
     "text": "marke",
     "size": 1
   },
   {
-    "text": "safety",
-    "size": 1
-  },
-  {
-    "text": "hoofdvestiging",
-    "size": 1
-  },
-  {
-    "text": "quartier",
-    "size": 1
-  },
-  {
     "text": "brien",
-    "size": 1
-  },
-  {
-    "text": "zottegem",
     "size": 1
   },
   {
@@ -948,23 +600,11 @@
     "size": 1
   },
   {
-    "text": "brandweergebouw",
-    "size": 1
-  },
-  {
-    "text": "plan",
-    "size": 1
-  },
-  {
     "text": "kreemers",
     "size": 1
   },
   {
     "text": "tessenderlo",
-    "size": 1
-  },
-  {
-    "text": "tubize",
     "size": 1
   },
   {
@@ -984,19 +624,379 @@
     "size": 1
   },
   {
-    "text": "bouillon",
-    "size": 1
-  },
-  {
-    "text": "hainaut",
-    "size": 1
-  },
-  {
     "text": "essen",
     "size": 1
   },
   {
-    "text": "schoten",
+    "text": "comines",
+    "size": 1
+  },
+  {
+    "text": "arsenaal",
+    "size": 1
+  },
+  {
+    "text": "lessines",
+    "size": 1
+  },
+  {
+    "text": "famenne",
+    "size": 1
+  },
+  {
+    "text": "cerfontaine",
+    "size": 1
+  },
+  {
+    "text": "panne",
+    "size": 1
+  },
+  {
+    "text": "westhoek",
+    "size": 1
+  },
+  {
+    "text": "kapellen",
+    "size": 1
+  },
+  {
+    "text": "kortrijk",
+    "size": 1
+  },
+  {
+    "text": "flémalle",
+    "size": 1
+  },
+  {
+    "text": "peruwelz",
+    "size": 1
+  },
+  {
+    "text": "resqme",
+    "size": 1
+  },
+  {
+    "text": "prévention",
+    "size": 1
+  },
+  {
+    "text": "borsbeek",
+    "size": 1
+  },
+  {
+    "text": "lebbeke",
+    "size": 1
+  },
+  {
+    "text": "hasselt",
+    "size": 1
+  },
+  {
+    "text": "herve",
+    "size": 1
+  },
+  {
+    "text": "jololex",
+    "size": 1
+  },
+  {
+    "text": "wervik-geluwe",
+    "size": 1
+  },
+  {
+    "text": "bâtiment",
+    "size": 1
+  },
+  {
+    "text": "wuustwezel",
+    "size": 1
+  },
+  {
+    "text": "deurne",
+    "size": 1
+  },
+  {
+    "text": "wevelgem",
+    "size": 1
+  },
+  {
+    "text": "berlare",
+    "size": 1
+  },
+  {
+    "text": "lo",
+    "size": 1
+  },
+  {
+    "text": "vlaamse",
+    "size": 1
+  },
+  {
+    "text": "kruisweg",
+    "size": 1
+  },
+  {
+    "text": "wwo",
+    "size": 1
+  },
+  {
+    "text": "hilfleistungszone",
+    "size": 1
+  },
+  {
+    "text": "overijse",
+    "size": 1
+  },
+  {
+    "text": "ambuce",
+    "size": 1
+  },
+  {
+    "text": "berg",
+    "size": 1
+  },
+  {
+    "text": "md",
+    "size": 1
+  },
+  {
+    "text": "ronse",
+    "size": 1
+  },
+  {
+    "text": "d\u0027erezée",
+    "size": 1
+  },
+  {
+    "text": "vichte",
+    "size": 1
+  },
+  {
+    "text": "scherpenheuvel-zichem",
+    "size": 1
+  },
+  {
+    "text": "spa",
+    "size": 1
+  },
+  {
+    "text": "d\u0027aubange",
+    "size": 1
+  },
+  {
+    "text": "gavere",
+    "size": 1
+  },
+  {
+    "text": "zaventem",
+    "size": 1
+  },
+  {
+    "text": "waasmunster",
+    "size": 1
+  },
+  {
+    "text": "philippot",
+    "size": 1
+  },
+  {
+    "text": "wallon",
+    "size": 1
+  },
+  {
+    "text": "pepinster",
+    "size": 1
+  },
+  {
+    "text": "bernissart",
+    "size": 1
+  },
+  {
+    "text": "lokeren",
+    "size": 1
+  },
+  {
+    "text": "zelzate",
+    "size": 1
+  },
+  {
+    "text": "hamoir",
+    "size": 1
+  },
+  {
+    "text": "amu",
+    "size": 1
+  },
+  {
+    "text": "meulebeke",
+    "size": 1
+  },
+  {
+    "text": "zuid-west",
+    "size": 1
+  },
+  {
+    "text": "lennik",
+    "size": 1
+  },
+  {
+    "text": "zele",
+    "size": 1
+  },
+  {
+    "text": "expo",
+    "size": 1
+  },
+  {
+    "text": "gewestelijke",
+    "size": 1
+  },
+  {
+    "text": "wommelgem",
+    "size": 1
+  },
+  {
+    "text": "mesen",
+    "size": 1
+  },
+  {
+    "text": "winnings",
+    "size": 1
+  },
+  {
+    "text": "temse",
+    "size": 1
+  },
+  {
+    "text": "d\u0027eghezée",
+    "size": 1
+  },
+  {
+    "text": "landen",
+    "size": 1
+  },
+  {
+    "text": "baarle-hertog",
+    "size": 1
+  },
+  {
+    "text": "grivegnée",
+    "size": 1
+  },
+  {
+    "text": "braine-l\u0027alleud",
+    "size": 1
+  },
+  {
+    "text": "dilbeek",
+    "size": 1
+  },
+  {
+    "text": "grandes",
+    "size": 1
+  },
+  {
+    "text": "leuven",
+    "size": 1
+  },
+  {
+    "text": "hoogstraten",
+    "size": 1
+  },
+  {
+    "text": "herzele",
+    "size": 1
+  },
+  {
+    "text": "lendelede",
+    "size": 1
+  },
+  {
+    "text": "quiévrain",
+    "size": 1
+  },
+  {
+    "text": "limburg",
+    "size": 1
+  },
+  {
+    "text": "15",
+    "size": 1
+  },
+  {
+    "text": "proximité",
+    "size": 1
+  },
+  {
+    "text": "16",
+    "size": 1
+  },
+  {
+    "text": "vanrusselt",
+    "size": 1
+  },
+  {
+    "text": "asse",
+    "size": 1
+  },
+  {
+    "text": "benelux",
+    "size": 1
+  },
+  {
+    "text": "bastogne",
+    "size": 1
+  },
+  {
+    "text": "heuvelland-kemmel",
+    "size": 1
+  },
+  {
+    "text": "régional",
+    "size": 1
+  },
+  {
+    "text": "gentbrugge",
+    "size": 1
+  },
+  {
+    "text": "houthulst-merkem",
+    "size": 1
+  },
+  {
+    "text": "sud",
+    "size": 1
+  },
+  {
+    "text": "d\u0027antoing",
+    "size": 1
+  },
+  {
+    "text": "bilzen",
+    "size": 1
+  },
+  {
+    "text": "hoofdkazerne",
+    "size": 1
+  },
+  {
+    "text": "zomergem",
+    "size": 1
+  },
+  {
+    "text": "arendonk",
+    "size": 1
+  },
+  {
+    "text": "stedelijke",
+    "size": 1
+  },
+  {
+    "text": "charleurope",
+    "size": 1
+  },
+  {
+    "text": "consulting",
     "size": 1
   }
 ]

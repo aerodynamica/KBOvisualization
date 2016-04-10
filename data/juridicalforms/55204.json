@@ -1,7 +1,7 @@
 [
   {
     "form": "Natuurlijk Persoon",
-    "count": 702
+    "count": 1034
   },
   {
     "form": "Autonoom gemeentebedrijf",
@@ -9,15 +9,19 @@
   },
   {
     "form": "Besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 205
+    "count": 456
   },
   {
     "form": "BTW-eenheid",
-    "count": 2
+    "count": 10
+  },
+  {
+    "form": "Buitenlandse onderneming",
+    "count": 1
   },
   {
     "form": "Burgerlijke vennootschap onder vorm van besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 5
+    "count": 6
   },
   {
     "form": "Burgerlijke Vennootschap onder vorm van Landbouwvennootschap (BV LV)",
@@ -29,7 +33,7 @@
   },
   {
     "form": "Commanditaire vennootschap op aandelen",
-    "count": 1
+    "count": 2
   },
   {
     "form": "Coöperatieve vennootschap (oud statuut)",
@@ -37,7 +41,11 @@
   },
   {
     "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid",
-    "count": 6
+    "count": 13
+  },
+  {
+    "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid met een sociaal oogmerk",
+    "count": 1
   },
   {
     "form": "Coöperatieve vennootschap met onbeperkte aansprakelijkheid",
@@ -45,11 +53,11 @@
   },
   {
     "form": "Eenpersoons besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 13
+    "count": 19
   },
   {
     "form": "Gewone commanditaire vennootschap",
-    "count": 21
+    "count": 48
   },
   {
     "form": "Gewone commanditaire vennootschap met een sociaal oogmerk",
@@ -57,18 +65,22 @@
   },
   {
     "form": "Naamloze vennootschap",
-    "count": 29
+    "count": 63
+  },
+  {
+    "form": "Stad / gemeente",
+    "count": 1
   },
   {
     "form": "Vennootschap of vereniging zonder rechtspersoonlijkheid",
-    "count": 11
-  },
-  {
-    "form": "Vennootschap onder firma",
     "count": 22
   },
   {
+    "form": "Vennootschap onder firma",
+    "count": 49
+  },
+  {
     "form": "Vereniging zonder winstoogmerk",
-    "count": 5
+    "count": 11
   }
 ]

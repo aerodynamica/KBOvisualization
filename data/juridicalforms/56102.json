@@ -1,27 +1,39 @@
 [
   {
     "form": "Natuurlijk Persoon",
-    "count": 10076
+    "count": 13475
   },
   {
     "form": "Andere privaatrechtelijke vorm met rechtspersoonlijkheid",
     "count": 1
   },
   {
+    "form": "Autonoom gemeentebedrijf",
+    "count": 7
+  },
+  {
+    "form": "Beroepsvereniging",
+    "count": 1
+  },
+  {
     "form": "Besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 10522
+    "count": 14364
   },
   {
     "form": "BTW-eenheid",
-    "count": 11
+    "count": 26
   },
   {
     "form": "Buitenlandse onderneming",
-    "count": 24
+    "count": 33
   },
   {
     "form": "Burgerlijke vennootschap onder vorm van besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 5
+    "count": 9
+  },
+  {
+    "form": "Burgerlijke vennootschap onder vorm van coöperatieve vennootschap met beperkte aansprakelijkheid",
+    "count": 1
   },
   {
     "form": "Burgerlijke vennootschap onder vorm van coöperatieve vennootschap met onbeperkte aansprakelijkheid",
@@ -37,27 +49,31 @@
   },
   {
     "form": "Burgerlijke vennootschap onder vorm van vennootschap onder firma",
-    "count": 1
+    "count": 2
   },
   {
     "form": "Commanditaire vennootschap op aandelen",
-    "count": 4
+    "count": 8
   },
   {
     "form": "Coöperatieve vennootschap (oud statuut)",
-    "count": 37
+    "count": 50
   },
   {
     "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid",
-    "count": 140
+    "count": 224
   },
   {
     "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid met een sociaal oogmerk",
-    "count": 12
+    "count": 15
+  },
+  {
+    "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid, bij wijze van deelneming",
+    "count": 1
   },
   {
     "form": "Coöperatieve vennootschap met onbeperkte aansprakelijkheid",
-    "count": 164
+    "count": 199
   },
   {
     "form": "Coöperatieve vennootschap met onbeperkte aansprakelijkheid met een sociaal oogmerk",
@@ -65,11 +81,15 @@
   },
   {
     "form": "Eenpersoons besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 483
+    "count": 629
+  },
+  {
+    "form": "Europees economisch samenwerkingsverband",
+    "count": 1
   },
   {
     "form": "Gewone commanditaire vennootschap",
-    "count": 450
+    "count": 621
   },
   {
     "form": "Gewone commanditaire vennootschap met een sociaal oogmerk",
@@ -77,30 +97,38 @@
   },
   {
     "form": "Landbouwvennootschap",
-    "count": 1
-  },
-  {
-    "form": "Naamloze vennootschap",
-    "count": 424
-  },
-  {
-    "form": "Openbaar centrum voor maatschappelijk welzijn",
     "count": 3
   },
   {
+    "form": "Naamloze vennootschap",
+    "count": 761
+  },
+  {
+    "form": "Openbaar centrum voor maatschappelijk welzijn",
+    "count": 6
+  },
+  {
+    "form": "Provinciale overheid",
+    "count": 1
+  },
+  {
     "form": "Stad / gemeente",
-    "count": 5
+    "count": 8
+  },
+  {
+    "form": "Tijdelijke vereniging",
+    "count": 1
   },
   {
     "form": "Vennootschap of vereniging zonder rechtspersoonlijkheid",
-    "count": 235
+    "count": 295
   },
   {
     "form": "Vennootschap onder firma",
-    "count": 545
+    "count": 783
   },
   {
     "form": "Vereniging zonder winstoogmerk",
-    "count": 253
+    "count": 530
   }
 ]

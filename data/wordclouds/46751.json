@@ -1,7 +1,7 @@
 [
   {
     "text": "belgium",
-    "size": 56
+    "size": 65
   },
   {
     "text": "europe",
@@ -9,66 +9,78 @@
   },
   {
     "text": "bvba",
-    "size": 33
-  },
-  {
-    "text": "international",
-    "size": 30
+    "size": 41
   },
   {
     "text": "nv",
-    "size": 29
+    "size": 34
+  },
+  {
+    "text": "international",
+    "size": 33
   },
   {
     "text": "benelux",
-    "size": 29
+    "size": 31
   },
   {
     "text": "services",
-    "size": 26
+    "size": 30
   },
   {
     "text": "clean",
-    "size": 25
-  },
-  {
-    "text": "chemicals",
-    "size": 24
+    "size": 30
   },
   {
     "text": "cleaning",
-    "size": 23
+    "size": 29
+  },
+  {
+    "text": "chemicals",
+    "size": 26
   },
   {
     "text": "trading",
-    "size": 18
+    "size": 20
   },
   {
     "text": "service",
-    "size": 16
-  },
-  {
-    "text": "industries",
-    "size": 14
-  },
-  {
-    "text": "products",
-    "size": 14
+    "size": 19
   },
   {
     "text": "consulting",
-    "size": 13
+    "size": 17
+  },
+  {
+    "text": "industries",
+    "size": 16
+  },
+  {
+    "text": "products",
+    "size": 16
+  },
+  {
+    "text": "solutions",
+    "size": 16
+  },
+  {
+    "text": "group",
+    "size": 12
   },
   {
     "text": "sprl",
     "size": 12
   },
   {
-    "text": "group",
+    "text": "pro",
     "size": 11
   },
   {
-    "text": "pro",
+    "text": "center",
+    "size": 11
+  },
+  {
+    "text": "company",
     "size": 10
   },
   {
@@ -76,19 +88,15 @@
     "size": 10
   },
   {
-    "text": "center",
+    "text": "distribution",
     "size": 9
-  },
-  {
-    "text": "solutions",
-    "size": 9
-  },
-  {
-    "text": "company",
-    "size": 8
   },
   {
     "text": "ets",
+    "size": 8
+  },
+  {
+    "text": "materials",
     "size": 7
   },
   {
@@ -97,6 +105,18 @@
   },
   {
     "text": "coatings",
+    "size": 6
+  },
+  {
+    "text": "supplies",
+    "size": 6
+  },
+  {
+    "text": "b.v",
+    "size": 6
+  },
+  {
+    "text": "invest",
     "size": 6
   },
   {
@@ -112,19 +132,23 @@
     "size": 6
   },
   {
-    "text": "distribution",
+    "text": "partners",
     "size": 6
   },
   {
+    "text": "co",
+    "size": 6
+  },
+  {
+    "text": "management",
+    "size": 6
+  },
+  {
+    "text": "antwerp",
+    "size": 5
+  },
+  {
     "text": "wash",
-    "size": 5
-  },
-  {
-    "text": "supplies",
-    "size": 5
-  },
-  {
-    "text": "invest",
     "size": 5
   },
   {
@@ -132,23 +156,39 @@
     "size": 5
   },
   {
+    "text": "gmbh",
+    "size": 5
+  },
+  {
     "text": "performance",
     "size": 5
   },
   {
-    "text": "materials",
+    "text": "ineos",
     "size": 5
   },
   {
-    "text": "partners",
+    "text": "green",
     "size": 5
   },
   {
-    "text": "co",
+    "text": "projects",
     "size": 5
   },
   {
-    "text": "management",
+    "text": "food",
+    "size": 5
+  },
+  {
+    "text": "plus",
+    "size": 5
+  },
+  {
+    "text": "aqua",
+    "size": 5
+  },
+  {
+    "text": "chemie",
     "size": 5
   },
   {
@@ -156,7 +196,11 @@
     "size": 5
   },
   {
-    "text": "antwerp",
+    "text": "gsi",
+    "size": 4
+  },
+  {
+    "text": "claes",
     "size": 4
   },
   {
@@ -164,15 +208,19 @@
     "size": 4
   },
   {
+    "text": "logistics",
+    "size": 4
+  },
+  {
+    "text": "business",
+    "size": 4
+  },
+  {
+    "text": "belgique",
+    "size": 4
+  },
+  {
     "text": "eco",
-    "size": 4
-  },
-  {
-    "text": "gmbh",
-    "size": 4
-  },
-  {
-    "text": "trade",
     "size": 4
   },
   {
@@ -180,11 +228,11 @@
     "size": 4
   },
   {
-    "text": "ineos",
+    "text": "evonik",
     "size": 4
   },
   {
-    "text": "evonik",
+    "text": "agri",
     "size": 4
   },
   {
@@ -192,19 +240,11 @@
     "size": 4
   },
   {
+    "text": "handelsonderneming",
+    "size": 4
+  },
+  {
     "text": "entreprise",
-    "size": 4
-  },
-  {
-    "text": "food",
-    "size": 4
-  },
-  {
-    "text": "plus",
-    "size": 4
-  },
-  {
-    "text": "aqua",
     "size": 4
   },
   {
@@ -220,11 +260,15 @@
     "size": 4
   },
   {
-    "text": "chemie",
-    "size": 4
+    "text": "energy",
+    "size": 3
   },
   {
-    "text": "gsi",
+    "text": "hand",
+    "size": 3
+  },
+  {
+    "text": "organics",
     "size": 3
   },
   {
@@ -232,19 +276,27 @@
     "size": 3
   },
   {
+    "text": "antwerpen",
+    "size": 3
+  },
+  {
+    "text": "coaching",
+    "size": 3
+  },
+  {
     "text": "marine",
     "size": 3
   },
   {
-    "text": "logistics",
+    "text": "consult",
     "size": 3
   },
   {
-    "text": "business",
+    "text": "peter",
     "size": 3
   },
   {
-    "text": "b.v",
+    "text": "tuincentrum",
     "size": 3
   },
   {
@@ -252,11 +304,19 @@
     "size": 3
   },
   {
-    "text": "belgique",
+    "text": "polymers",
     "size": 3
   },
   {
-    "text": "polymers",
+    "text": "verhelst",
+    "size": 3
+  },
+  {
+    "text": "mol",
+    "size": 3
+  },
+  {
+    "text": "schoonmaakbedrijf",
     "size": 3
   },
   {
@@ -264,7 +324,35 @@
     "size": 3
   },
   {
+    "text": "trade",
+    "size": 3
+  },
+  {
+    "text": "carwash",
+    "size": 3
+  },
+  {
+    "text": "metals",
+    "size": 3
+  },
+  {
+    "text": "all",
+    "size": 3
+  },
+  {
     "text": "new",
+    "size": 3
+  },
+  {
+    "text": "strategy",
+    "size": 3
+  },
+  {
+    "text": "plastics",
+    "size": 3
+  },
+  {
+    "text": "engineering",
     "size": 3
   },
   {
@@ -272,11 +360,7 @@
     "size": 3
   },
   {
-    "text": "green",
-    "size": 3
-  },
-  {
-    "text": "handelsonderneming",
+    "text": "cars",
     "size": 3
   },
   {
@@ -292,11 +376,23 @@
     "size": 3
   },
   {
-    "text": "projects",
+    "text": "systems",
     "size": 3
   },
   {
-    "text": "systems",
+    "text": "deco",
+    "size": 3
+  },
+  {
+    "text": "horeca",
+    "size": 3
+  },
+  {
+    "text": "bio",
+    "size": 3
+  },
+  {
+    "text": "world",
     "size": 3
   },
   {
@@ -308,12 +404,16 @@
     "size": 3
   },
   {
-    "text": "hygiene",
+    "text": "life",
     "size": 3
   },
   {
-    "text": "energy",
-    "size": 2
+    "text": "schoonmaak",
+    "size": 3
+  },
+  {
+    "text": "hygiene",
+    "size": 3
   },
   {
     "text": "ter",
@@ -324,11 +424,15 @@
     "size": 2
   },
   {
-    "text": "export",
+    "text": "the",
     "size": 2
   },
   {
-    "text": "organics",
+    "text": "pfizer",
+    "size": 2
+  },
+  {
+    "text": "export",
     "size": 2
   },
   {
@@ -336,7 +440,19 @@
     "size": 2
   },
   {
+    "text": "andrex",
+    "size": 2
+  },
+  {
     "text": "labo",
+    "size": 2
+  },
+  {
+    "text": "technics",
+    "size": 2
+  },
+  {
+    "text": "schilderwerken",
     "size": 2
   },
   {
@@ -345,6 +461,14 @@
   },
   {
     "text": "hapax",
+    "size": 2
+  },
+  {
+    "text": "aveve",
+    "size": 2
+  },
+  {
+    "text": "china",
     "size": 2
   },
   {
@@ -369,14 +493,6 @@
   },
   {
     "text": "maintenance",
-    "size": 2
-  },
-  {
-    "text": "antwerpen",
-    "size": 2
-  },
-  {
-    "text": "coaching",
     "size": 2
   },
   {
@@ -424,7 +540,15 @@
     "size": 2
   },
   {
+    "text": "multi",
+    "size": 2
+  },
+  {
     "text": "carbon",
+    "size": 2
+  },
+  {
+    "text": "maxipur",
     "size": 2
   },
   {
@@ -432,7 +556,7 @@
     "size": 2
   },
   {
-    "text": "consult",
+    "text": "facility",
     "size": 2
   },
   {
@@ -444,11 +568,27 @@
     "size": 2
   },
   {
+    "text": "mertens",
+    "size": 2
+  },
+  {
     "text": "denis",
     "size": 2
   },
   {
-    "text": "peter",
+    "text": "danny",
+    "size": 2
+  },
+  {
+    "text": "biosciences",
+    "size": 2
+  },
+  {
+    "text": "home",
+    "size": 2
+  },
+  {
+    "text": "print",
     "size": 2
   },
   {
@@ -496,10 +636,6 @@
     "size": 2
   },
   {
-    "text": "tuincentrum",
-    "size": 2
-  },
-  {
     "text": "tuinen",
     "size": 2
   },
@@ -512,11 +648,11 @@
     "size": 2
   },
   {
-    "text": "verhelst",
+    "text": "belgie",
     "size": 2
   },
   {
-    "text": "mol",
+    "text": "jean",
     "size": 2
   },
   {
@@ -524,7 +660,15 @@
     "size": 2
   },
   {
+    "text": "petrochemicals",
+    "size": 2
+  },
+  {
     "text": "steel",
+    "size": 2
+  },
+  {
+    "text": "nick",
     "size": 2
   },
   {
@@ -536,11 +680,7 @@
     "size": 2
   },
   {
-    "text": "schoonmaakbedrijf",
-    "size": 2
-  },
-  {
-    "text": "belgië",
+    "text": "scientific",
     "size": 2
   },
   {
@@ -549,6 +689,18 @@
   },
   {
     "text": "ojoka",
+    "size": 2
+  },
+  {
+    "text": "informatix",
+    "size": 2
+  },
+  {
+    "text": "centrum",
+    "size": 2
+  },
+  {
+    "text": "brands",
     "size": 2
   },
   {
@@ -568,6 +720,10 @@
     "size": 2
   },
   {
+    "text": "ahc",
+    "size": 2
+  },
+  {
     "text": "artilabo",
     "size": 2
   },
@@ -580,15 +736,11 @@
     "size": 2
   },
   {
-    "text": "metals",
-    "size": 2
-  },
-  {
     "text": "bureau",
     "size": 2
   },
   {
-    "text": "all",
+    "text": "rob",
     "size": 2
   },
   {
@@ -596,7 +748,7 @@
     "size": 2
   },
   {
-    "text": "strategy",
+    "text": "europoint",
     "size": 2
   },
   {
@@ -612,15 +764,7 @@
     "size": 2
   },
   {
-    "text": "plastics",
-    "size": 2
-  },
-  {
     "text": "sulferic",
-    "size": 2
-  },
-  {
-    "text": "engineering",
     "size": 2
   },
   {
@@ -632,11 +776,19 @@
     "size": 2
   },
   {
+    "text": "fan",
+    "size": 2
+  },
+  {
+    "text": "gent",
+    "size": 2
+  },
+  {
     "text": "laboratoires",
     "size": 2
   },
   {
-    "text": "cars",
+    "text": "protect",
     "size": 2
   },
   {
@@ -644,11 +796,23 @@
     "size": 2
   },
   {
+    "text": "bouw",
+    "size": 2
+  },
+  {
     "text": "hillewaere",
     "size": 2
   },
   {
+    "text": "raja",
+    "size": 2
+  },
+  {
     "text": "nutrition",
+    "size": 2
+  },
+  {
+    "text": "beauté",
     "size": 2
   },
   {
@@ -664,15 +828,19 @@
     "size": 2
   },
   {
-    "text": "deco",
+    "text": "dk",
     "size": 2
   },
   {
-    "text": "horeca",
+    "text": "for",
     "size": 2
   },
   {
     "text": "oils",
+    "size": 2
+  },
+  {
+    "text": "gasco",
     "size": 2
   },
   {
@@ -681,10 +849,6 @@
   },
   {
     "text": "advanced",
-    "size": 2
-  },
-  {
-    "text": "bio",
     "size": 2
   },
   {
@@ -708,15 +872,23 @@
     "size": 2
   },
   {
+    "text": "john",
+    "size": 2
+  },
+  {
     "text": "works",
     "size": 2
   },
   {
-    "text": "world",
+    "text": "ruitenwasser",
     "size": 2
   },
   {
     "text": "skeberis",
+    "size": 2
+  },
+  {
+    "text": "dakwerken",
     "size": 2
   },
   {
@@ -736,7 +908,19 @@
     "size": 2
   },
   {
+    "text": "different",
+    "size": 2
+  },
+  {
     "text": "daniel",
+    "size": 2
+  },
+  {
+    "text": "total",
+    "size": 2
+  },
+  {
+    "text": "oil",
     "size": 2
   },
   {
@@ -756,11 +940,19 @@
     "size": 2
   },
   {
+    "text": "paint",
+    "size": 2
+  },
+  {
     "text": "qg",
     "size": 2
   },
   {
     "text": "innochem",
+    "size": 2
+  },
+  {
+    "text": "aerts",
     "size": 2
   },
   {
@@ -773,6 +965,10 @@
   },
   {
     "text": "aromatics",
+    "size": 2
+  },
+  {
+    "text": "proviron",
     "size": 2
   },
   {
@@ -796,207 +992,11 @@
     "size": 2
   },
   {
+    "text": "pirtek",
+    "size": 2
+  },
+  {
     "text": "filip",
     "size": 2
-  },
-  {
-    "text": "schoonmaak",
-    "size": 2
-  },
-  {
-    "text": "sales",
-    "size": 2
-  },
-  {
-    "text": "synaco",
-    "size": 2
-  },
-  {
-    "text": "seaport",
-    "size": 1
-  },
-  {
-    "text": "bedrijfsdiensten",
-    "size": 1
-  },
-  {
-    "text": "inkxpress",
-    "size": 1
-  },
-  {
-    "text": "aerocare",
-    "size": 1
-  },
-  {
-    "text": "oxeno",
-    "size": 1
-  },
-  {
-    "text": "jean-marie",
-    "size": 1
-  },
-  {
-    "text": "malesys",
-    "size": 1
-  },
-  {
-    "text": "incly",
-    "size": 1
-  },
-  {
-    "text": "financiere",
-    "size": 1
-  },
-  {
-    "text": "investina",
-    "size": 1
-  },
-  {
-    "text": "emma",
-    "size": 1
-  },
-  {
-    "text": "equa",
-    "size": 1
-  },
-  {
-    "text": "nova",
-    "size": 1
-  },
-  {
-    "text": "gabriel",
-    "size": 1
-  },
-  {
-    "text": "investment",
-    "size": 1
-  },
-  {
-    "text": "glo",
-    "size": 1
-  },
-  {
-    "text": "innovations",
-    "size": 1
-  },
-  {
-    "text": "cds",
-    "size": 1
-  },
-  {
-    "text": "eleven",
-    "size": 1
-  },
-  {
-    "text": "orhco",
-    "size": 1
-  },
-  {
-    "text": "independent",
-    "size": 1
-  },
-  {
-    "text": "calochem",
-    "size": 1
-  },
-  {
-    "text": "1000",
-    "size": 1
-  },
-  {
-    "text": "eco2fix",
-    "size": 1
-  },
-  {
-    "text": "magazijn",
-    "size": 1
-  },
-  {
-    "text": "everseen",
-    "size": 1
-  },
-  {
-    "text": "plettinckx",
-    "size": 1
-  },
-  {
-    "text": "titres-services",
-    "size": 1
-  },
-  {
-    "text": "almex",
-    "size": 1
-  },
-  {
-    "text": "hand",
-    "size": 1
-  },
-  {
-    "text": "mesija",
-    "size": 1
-  },
-  {
-    "text": "kvl",
-    "size": 1
-  },
-  {
-    "text": "salt",
-    "size": 1
-  },
-  {
-    "text": "so-lution",
-    "size": 1
-  },
-  {
-    "text": "m.l.s",
-    "size": 1
-  },
-  {
-    "text": "prechim",
-    "size": 1
-  },
-  {
-    "text": "printing",
-    "size": 1
-  },
-  {
-    "text": "the",
-    "size": 1
-  },
-  {
-    "text": "raico",
-    "size": 1
-  },
-  {
-    "text": "consultant",
-    "size": 1
-  },
-  {
-    "text": "pfizer",
-    "size": 1
-  },
-  {
-    "text": "spons",
-    "size": 1
-  },
-  {
-    "text": "cgh",
-    "size": 1
-  },
-  {
-    "text": "synova",
-    "size": 1
-  },
-  {
-    "text": "rhiwa",
-    "size": 1
-  },
-  {
-    "text": "maubert",
-    "size": 1
-  },
-  {
-    "text": "techniek",
-    "size": 1
   }
 ]

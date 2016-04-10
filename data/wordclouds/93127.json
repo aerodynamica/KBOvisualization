@@ -1,42 +1,54 @@
 [
   {
     "text": "stal",
-    "size": 36
-  },
-  {
-    "text": "stables",
-    "size": 26
+    "size": 48
   },
   {
     "text": "horses",
+    "size": 35
+  },
+  {
+    "text": "stables",
+    "size": 32
+  },
+  {
+    "text": "ecurie",
     "size": 23
   },
   {
     "text": "ecuries",
-    "size": 20
+    "size": 21
   },
   {
-    "text": "ecurie",
-    "size": 19
+    "text": "horse",
+    "size": 21
   },
   {
     "text": "equestre",
     "size": 15
   },
   {
-    "text": "horse",
-    "size": 15
+    "text": "bvba",
+    "size": 12
   },
   {
-    "text": "haras",
-    "size": 10
+    "text": "sporthorses",
+    "size": 11
   },
   {
     "text": "services",
     "size": 10
   },
   {
-    "text": "cercle",
+    "text": "ferme",
+    "size": 10
+  },
+  {
+    "text": "haras",
+    "size": 10
+  },
+  {
+    "text": "equi",
     "size": 9
   },
   {
@@ -44,11 +56,19 @@
     "size": 9
   },
   {
-    "text": "ferme",
+    "text": "manege",
     "size": 9
   },
   {
-    "text": "manege",
+    "text": "dressage",
+    "size": 9
+  },
+  {
+    "text": "cercle",
+    "size": 8
+  },
+  {
+    "text": "consulting",
     "size": 8
   },
   {
@@ -60,35 +80,47 @@
     "size": 7
   },
   {
-    "text": "bvba",
-    "size": 7
-  },
-  {
-    "text": "sporthorses",
-    "size": 7
-  },
-  {
-    "text": "équestre",
-    "size": 7
-  },
-  {
-    "text": "equi",
-    "size": 6
-  },
-  {
-    "text": "consulting",
-    "size": 6
-  },
-  {
     "text": "asbl",
-    "size": 6
+    "size": 7
   },
   {
     "text": "club",
+    "size": 7
+  },
+  {
+    "text": "training",
+    "size": 7
+  },
+  {
+    "text": "consult",
     "size": 6
   },
   {
-    "text": "dressage",
+    "text": "equestrian",
+    "size": 6
+  },
+  {
+    "text": "équestre",
+    "size": 6
+  },
+  {
+    "text": "sport",
+    "size": 5
+  },
+  {
+    "text": "company",
+    "size": 5
+  },
+  {
+    "text": "trading",
+    "size": 5
+  },
+  {
+    "text": "invest",
+    "size": 5
+  },
+  {
+    "text": "marc",
     "size": 5
   },
   {
@@ -100,15 +132,7 @@
     "size": 5
   },
   {
-    "text": "training",
-    "size": 5
-  },
-  {
-    "text": "company",
-    "size": 5
-  },
-  {
-    "text": "equestrian",
+    "text": "management",
     "size": 5
   },
   {
@@ -116,23 +140,27 @@
     "size": 4
   },
   {
-    "text": "and",
-    "size": 4
-  },
-  {
     "text": "team",
     "size": 4
   },
   {
-    "text": "trading",
+    "text": "kevin",
     "size": 4
   },
   {
-    "text": "invest",
+    "text": "bruno",
     "size": 4
   },
   {
-    "text": "marc",
+    "text": "and",
+    "size": 4
+  },
+  {
+    "text": "jan",
+    "size": 4
+  },
+  {
+    "text": "stefaan",
     "size": 4
   },
   {
@@ -148,11 +176,91 @@
     "size": 4
   },
   {
-    "text": "transport",
+    "text": "ter",
     "size": 3
   },
   {
-    "text": "jan",
+    "text": "service",
+    "size": 3
+  },
+  {
+    "text": "tom",
+    "size": 3
+  },
+  {
+    "text": "stable",
+    "size": 3
+  },
+  {
+    "text": "center",
+    "size": 3
+  },
+  {
+    "text": "premium",
+    "size": 3
+  },
+  {
+    "text": "group",
+    "size": 3
+  },
+  {
+    "text": "den",
+    "size": 3
+  },
+  {
+    "text": "peter",
+    "size": 3
+  },
+  {
+    "text": "mind",
+    "size": 3
+  },
+  {
+    "text": "horsemanship",
+    "size": 3
+  },
+  {
+    "text": "trainingscentrum",
+    "size": 3
+  },
+  {
+    "text": "international",
+    "size": 3
+  },
+  {
+    "text": "ellen",
+    "size": 3
+  },
+  {
+    "text": "relais",
+    "size": 3
+  },
+  {
+    "text": "star",
+    "size": 3
+  },
+  {
+    "text": "simon",
+    "size": 3
+  },
+  {
+    "text": "project",
+    "size": 3
+  },
+  {
+    "text": "event",
+    "size": 3
+  },
+  {
+    "text": "vds",
+    "size": 3
+  },
+  {
+    "text": "belgium",
+    "size": 3
+  },
+  {
+    "text": "transport",
     "size": 3
   },
   {
@@ -160,15 +268,15 @@
     "size": 3
   },
   {
-    "text": "kevin",
+    "text": "vzw",
     "size": 3
   },
   {
-    "text": "bruno",
+    "text": "janssens",
     "size": 3
   },
   {
-    "text": "consult",
+    "text": "partners",
     "size": 3
   },
   {
@@ -176,7 +284,7 @@
     "size": 3
   },
   {
-    "text": "dl",
+    "text": "consultancy",
     "size": 3
   },
   {
@@ -192,19 +300,7 @@
     "size": 3
   },
   {
-    "text": "management",
-    "size": 3
-  },
-  {
-    "text": "dirk",
-    "size": 3
-  },
-  {
-    "text": "stefaan",
-    "size": 3
-  },
-  {
-    "text": "trainingscentrum",
+    "text": "philippe",
     "size": 3
   },
   {
@@ -216,19 +312,7 @@
     "size": 3
   },
   {
-    "text": "relais",
-    "size": 3
-  },
-  {
-    "text": "thierry",
-    "size": 3
-  },
-  {
-    "text": "simon",
-    "size": 3
-  },
-  {
-    "text": "project",
+    "text": "hoeve",
     "size": 3
   },
   {
@@ -240,15 +324,7 @@
     "size": 3
   },
   {
-    "text": "event",
-    "size": 3
-  },
-  {
-    "text": "farm",
-    "size": 2
-  },
-  {
-    "text": "claesen",
+    "text": "triple",
     "size": 2
   },
   {
@@ -256,19 +332,7 @@
     "size": 2
   },
   {
-    "text": "stud",
-    "size": 2
-  },
-  {
-    "text": "viviane",
-    "size": 2
-  },
-  {
     "text": "patrick",
-    "size": 2
-  },
-  {
-    "text": "special",
     "size": 2
   },
   {
@@ -276,39 +340,11 @@
     "size": 2
   },
   {
-    "text": "herman",
-    "size": 2
-  },
-  {
     "text": "coach",
     "size": 2
   },
   {
-    "text": "nele",
-    "size": 2
-  },
-  {
-    "text": "tom",
-    "size": 2
-  },
-  {
-    "text": "sprl",
-    "size": 2
-  },
-  {
-    "text": "heide",
-    "size": 2
-  },
-  {
-    "text": "belgium",
-    "size": 2
-  },
-  {
-    "text": "godefroid",
-    "size": 2
-  },
-  {
-    "text": "stable",
+    "text": "spirit",
     "size": 2
   },
   {
@@ -324,11 +360,11 @@
     "size": 2
   },
   {
-    "text": "vzw",
+    "text": "geurts",
     "size": 2
   },
   {
-    "text": "geurts",
+    "text": "dries",
     "size": 2
   },
   {
@@ -336,31 +372,15 @@
     "size": 2
   },
   {
-    "text": "art",
-    "size": 2
-  },
-  {
     "text": "marketing",
     "size": 2
   },
   {
-    "text": "elevage",
+    "text": "pro",
     "size": 2
   },
   {
-    "text": "center",
-    "size": 2
-  },
-  {
-    "text": "julie",
-    "size": 2
-  },
-  {
-    "text": "ridder",
-    "size": 2
-  },
-  {
-    "text": "group",
+    "text": "rebecca",
     "size": 2
   },
   {
@@ -368,11 +388,11 @@
     "size": 2
   },
   {
-    "text": "amandine",
+    "text": "nathalie",
     "size": 2
   },
   {
-    "text": "tuinaanleg",
+    "text": "luc",
     "size": 2
   },
   {
@@ -380,19 +400,7 @@
     "size": 2
   },
   {
-    "text": "den",
-    "size": 2
-  },
-  {
     "text": "mertens",
-    "size": 2
-  },
-  {
-    "text": "moerman",
-    "size": 2
-  },
-  {
-    "text": "steven",
     "size": 2
   },
   {
@@ -400,11 +408,7 @@
     "size": 2
   },
   {
-    "text": "peter",
-    "size": 2
-  },
-  {
-    "text": "mind",
+    "text": "j2l",
     "size": 2
   },
   {
@@ -416,14 +420,6 @@
     "size": 2
   },
   {
-    "text": "co",
-    "size": 2
-  },
-  {
-    "text": "horsemanship",
-    "size": 2
-  },
-  {
     "text": "paul",
     "size": 2
   },
@@ -432,15 +428,7 @@
     "size": 2
   },
   {
-    "text": "d\u0027equitation",
-    "size": 2
-  },
-  {
     "text": "trail",
-    "size": 2
-  },
-  {
-    "text": "el",
     "size": 2
   },
   {
@@ -448,27 +436,19 @@
     "size": 2
   },
   {
-    "text": "alain",
-    "size": 2
-  },
-  {
-    "text": "seynhaeve",
-    "size": 2
-  },
-  {
-    "text": "little",
-    "size": 2
-  },
-  {
     "text": "htc",
     "size": 2
   },
   {
-    "text": "begijnakker",
+    "text": "thomas",
     "size": 2
   },
   {
     "text": "grand",
+    "size": 2
+  },
+  {
+    "text": "home",
     "size": 2
   },
   {
@@ -480,15 +460,11 @@
     "size": 2
   },
   {
-    "text": "dressuurstal",
+    "text": "johan",
     "size": 2
   },
   {
-    "text": "mh",
-    "size": 2
-  },
-  {
-    "text": "philippe",
+    "text": "products",
     "size": 2
   },
   {
@@ -497,14 +473,6 @@
   },
   {
     "text": "valley",
-    "size": 2
-  },
-  {
-    "text": "nv",
-    "size": 2
-  },
-  {
-    "text": "ellen",
     "size": 2
   },
   {
@@ -520,23 +488,7 @@
     "size": 2
   },
   {
-    "text": "rc",
-    "size": 2
-  },
-  {
-    "text": "star",
-    "size": 2
-  },
-  {
-    "text": "hoeve",
-    "size": 2
-  },
-  {
     "text": "sofie",
-    "size": 2
-  },
-  {
-    "text": "l\u0027ecurie",
     "size": 2
   },
   {
@@ -548,15 +500,223 @@
     "size": 2
   },
   {
-    "text": "vds",
+    "text": "manège",
+    "size": 2
+  },
+  {
+    "text": "arion",
+    "size": 2
+  },
+  {
+    "text": "wuyts",
+    "size": 2
+  },
+  {
+    "text": "sophie",
+    "size": 2
+  },
+  {
+    "text": "farm",
+    "size": 2
+  },
+  {
+    "text": "claesen",
+    "size": 2
+  },
+  {
+    "text": "stud",
+    "size": 2
+  },
+  {
+    "text": "viviane",
+    "size": 2
+  },
+  {
+    "text": "yves",
+    "size": 2
+  },
+  {
+    "text": "special",
+    "size": 2
+  },
+  {
+    "text": "herman",
+    "size": 2
+  },
+  {
+    "text": "nele",
+    "size": 2
+  },
+  {
+    "text": "sprl",
+    "size": 2
+  },
+  {
+    "text": "heide",
+    "size": 2
+  },
+  {
+    "text": "hoefsmid",
+    "size": 2
+  },
+  {
+    "text": "jumping",
+    "size": 2
+  },
+  {
+    "text": "godefroid",
+    "size": 2
+  },
+  {
+    "text": "millesime",
+    "size": 2
+  },
+  {
+    "text": "jam",
+    "size": 2
+  },
+  {
+    "text": "art",
+    "size": 2
+  },
+  {
+    "text": "elevage",
+    "size": 2
+  },
+  {
+    "text": "julie",
+    "size": 2
+  },
+  {
+    "text": "julia",
+    "size": 2
+  },
+  {
+    "text": "ridder",
+    "size": 2
+  },
+  {
+    "text": "amandine",
+    "size": 2
+  },
+  {
+    "text": "wim",
+    "size": 2
+  },
+  {
+    "text": "tuinaanleg",
+    "size": 2
+  },
+  {
+    "text": "moerman",
+    "size": 2
+  },
+  {
+    "text": "steven",
+    "size": 2
+  },
+  {
+    "text": "ca",
+    "size": 2
+  },
+  {
+    "text": "awouters",
+    "size": 2
+  },
+  {
+    "text": "co",
+    "size": 2
+  },
+  {
+    "text": "d\u0027equitation",
+    "size": 2
+  },
+  {
+    "text": "dl",
+    "size": 2
+  },
+  {
+    "text": "horse\u0027s",
+    "size": 2
+  },
+  {
+    "text": "el",
+    "size": 2
+  },
+  {
+    "text": "alain",
+    "size": 2
+  },
+  {
+    "text": "seynhaeve",
+    "size": 2
+  },
+  {
+    "text": "western",
+    "size": 2
+  },
+  {
+    "text": "little",
+    "size": 2
+  },
+  {
+    "text": "olivier",
+    "size": 2
+  },
+  {
+    "text": "begijnakker",
+    "size": 2
+  },
+  {
+    "text": "kris",
+    "size": 2
+  },
+  {
+    "text": "dirk",
+    "size": 2
+  },
+  {
+    "text": "poney-club",
+    "size": 2
+  },
+  {
+    "text": "mh",
+    "size": 2
+  },
+  {
+    "text": "genin",
+    "size": 2
+  },
+  {
+    "text": "nv",
+    "size": 2
+  },
+  {
+    "text": "poulains",
+    "size": 2
+  },
+  {
+    "text": "rc",
+    "size": 2
+  },
+  {
+    "text": "thierry",
+    "size": 2
+  },
+  {
+    "text": "sven",
+    "size": 2
+  },
+  {
+    "text": "l\u0027ecurie",
+    "size": 2
+  },
+  {
+    "text": "power",
     "size": 2
   },
   {
     "text": "wathelet",
-    "size": 2
-  },
-  {
-    "text": "manège",
     "size": 2
   },
   {
@@ -568,7 +728,7 @@
     "size": 2
   },
   {
-    "text": "wuyts",
+    "text": "cleaning",
     "size": 2
   },
   {
@@ -576,19 +736,7 @@
     "size": 2
   },
   {
-    "text": "sophie",
-    "size": 2
-  },
-  {
     "text": "immobiliere",
-    "size": 1
-  },
-  {
-    "text": "optimal",
-    "size": 1
-  },
-  {
-    "text": "opud",
     "size": 1
   },
   {
@@ -596,23 +744,11 @@
     "size": 1
   },
   {
-    "text": "opus",
-    "size": 1
-  },
-  {
     "text": "vosch",
     "size": 1
   },
   {
-    "text": "pierre",
-    "size": 1
-  },
-  {
-    "text": "sambre",
-    "size": 1
-  },
-  {
-    "text": "vie",
+    "text": "youth",
     "size": 1
   },
   {
@@ -620,47 +756,11 @@
     "size": 1
   },
   {
-    "text": "gramme",
-    "size": 1
-  },
-  {
-    "text": "creassist",
-    "size": 1
-  },
-  {
-    "text": "dj\u0027s",
-    "size": 1
-  },
-  {
     "text": "i.d",
     "size": 1
   },
   {
-    "text": "beule",
-    "size": 1
-  },
-  {
     "text": "energy",
-    "size": 1
-  },
-  {
-    "text": "koningshof",
-    "size": 1
-  },
-  {
-    "text": "ter",
-    "size": 1
-  },
-  {
-    "text": "dessoy",
-    "size": 1
-  },
-  {
-    "text": "excellent",
-    "size": 1
-  },
-  {
-    "text": "mallezie",
     "size": 1
   },
   {
@@ -672,39 +772,15 @@
     "size": 1
   },
   {
-    "text": "cedric\u0027s",
-    "size": 1
-  },
-  {
-    "text": "roegiers",
-    "size": 1
-  },
-  {
-    "text": "triple",
-    "size": 1
-  },
-  {
-    "text": "boris",
-    "size": 1
-  },
-  {
-    "text": "ydalir",
-    "size": 1
-  },
-  {
-    "text": "iserbyt",
-    "size": 1
-  },
-  {
-    "text": "zilveren",
-    "size": 1
-  },
-  {
     "text": "groenhove",
     "size": 1
   },
   {
     "text": "paardenhof",
+    "size": 1
+  },
+  {
+    "text": "dem-ets",
     "size": 1
   },
   {
@@ -716,23 +792,11 @@
     "size": 1
   },
   {
-    "text": "wiliquet",
-    "size": 1
-  },
-  {
-    "text": "maertens",
-    "size": 1
-  },
-  {
     "text": "vande",
     "size": 1
   },
   {
-    "text": "wautan",
-    "size": 1
-  },
-  {
-    "text": "bellehof",
+    "text": "youri",
     "size": 1
   },
   {
@@ -740,19 +804,7 @@
     "size": 1
   },
   {
-    "text": "damse",
-    "size": 1
-  },
-  {
-    "text": "baudoin",
-    "size": 1
-  },
-  {
     "text": "hans",
-    "size": 1
-  },
-  {
-    "text": "vandemoortele",
     "size": 1
   },
   {
@@ -764,10 +816,6 @@
     "size": 1
   },
   {
-    "text": "vandeven",
-    "size": 1
-  },
-  {
     "text": "naessens",
     "size": 1
   },
@@ -776,35 +824,7 @@
     "size": 1
   },
   {
-    "text": "vaisiere",
-    "size": 1
-  },
-  {
-    "text": "martens",
-    "size": 1
-  },
-  {
-    "text": "meersdale",
-    "size": 1
-  },
-  {
     "text": "paardenwellness",
-    "size": 1
-  },
-  {
-    "text": "haverbilken",
-    "size": 1
-  },
-  {
-    "text": "saint",
-    "size": 1
-  },
-  {
-    "text": "temp\u0027home",
-    "size": 1
-  },
-  {
-    "text": "meiboom",
     "size": 1
   },
   {
@@ -812,19 +832,7 @@
     "size": 1
   },
   {
-    "text": "klaverberg",
-    "size": 1
-  },
-  {
-    "text": "jdconsult",
-    "size": 1
-  },
-  {
     "text": "coeur",
-    "size": 1
-  },
-  {
-    "text": "jens",
     "size": 1
   },
   {
@@ -848,11 +856,15 @@
     "size": 1
   },
   {
+    "text": "exclusiv",
+    "size": 1
+  },
+  {
     "text": "volders",
     "size": 1
   },
   {
-    "text": "onderbeke",
+    "text": "forza-group",
     "size": 1
   },
   {
@@ -860,11 +872,7 @@
     "size": 1
   },
   {
-    "text": "paardenklusser",
-    "size": 1
-  },
-  {
-    "text": "damme",
+    "text": "gunter",
     "size": 1
   },
   {
@@ -876,27 +884,11 @@
     "size": 1
   },
   {
-    "text": "fridishof-godefridis",
-    "size": 1
-  },
-  {
-    "text": "decleir",
-    "size": 1
-  },
-  {
     "text": "monceau",
     "size": 1
   },
   {
-    "text": "perenboom",
-    "size": 1
-  },
-  {
-    "text": "chatelier",
-    "size": 1
-  },
-  {
-    "text": "bouckaert",
+    "text": "paardenpension",
     "size": 1
   },
   {
@@ -916,11 +908,11 @@
     "size": 1
   },
   {
-    "text": "paco\u0027m",
+    "text": "dw-stables",
     "size": 1
   },
   {
-    "text": "bille",
+    "text": "paco\u0027m",
     "size": 1
   },
   {
@@ -928,15 +920,11 @@
     "size": 1
   },
   {
+    "text": "matthy",
+    "size": 1
+  },
+  {
     "text": "verstraete",
-    "size": 1
-  },
-  {
-    "text": "yves",
-    "size": 1
-  },
-  {
-    "text": "boite",
     "size": 1
   },
   {
@@ -948,7 +936,7 @@
     "size": 1
   },
   {
-    "text": "jossy",
+    "text": "@horse",
     "size": 1
   },
   {
@@ -956,19 +944,15 @@
     "size": 1
   },
   {
-    "text": "gravenhof",
-    "size": 1
-  },
-  {
     "text": "landhuis",
     "size": 1
   },
   {
-    "text": "production",
+    "text": "laurence",
     "size": 1
   },
   {
-    "text": "laurence",
+    "text": "dekens",
     "size": 1
   },
   {
@@ -984,19 +968,35 @@
     "size": 1
   },
   {
-    "text": "vof",
-    "size": 1
-  },
-  {
-    "text": "jay\u0027s",
-    "size": 1
-  },
-  {
-    "text": "rico",
+    "text": "pakhuys",
     "size": 1
   },
   {
     "text": "huize",
+    "size": 1
+  },
+  {
+    "text": "hara",
+    "size": 1
+  },
+  {
+    "text": "paardensport",
+    "size": 1
+  },
+  {
+    "text": "chaberley",
+    "size": 1
+  },
+  {
+    "text": "rubeli",
+    "size": 1
+  },
+  {
+    "text": "equipromo",
+    "size": 1
+  },
+  {
+    "text": "mobile",
     "size": 1
   }
 ]

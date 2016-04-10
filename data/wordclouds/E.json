@@ -1,110 +1,390 @@
 [
   {
     "text": "bvba",
-    "size": 182
+    "size": 732
   },
   {
     "text": "nv",
+    "size": 432
+  },
+  {
+    "text": "sprl",
+    "size": 270
+  },
+  {
+    "text": "construct",
+    "size": 196
+  },
+  {
+    "text": "services",
     "size": 162
+  },
+  {
+    "text": "parc",
+    "size": 156
   },
   {
     "text": "rwzi",
     "size": 155
   },
   {
-    "text": "parc",
-    "size": 140
+    "text": "design",
+    "size": 145
   },
   {
-    "text": "construct",
-    "size": 122
+    "text": "interieur",
+    "size": 143
   },
   {
-    "text": "sprl",
-    "size": 118
+    "text": "atelier",
+    "size": 133
   },
   {
-    "text": "services",
-    "size": 103
-  },
-  {
-    "text": "recycling",
-    "size": 98
-  },
-  {
-    "text": "conteneurs",
-    "size": 93
-  },
-  {
-    "text": "containerpark",
-    "size": 89
-  },
-  {
-    "text": "garage",
-    "size": 64
-  },
-  {
-    "text": "construction",
-    "size": 59
-  },
-  {
-    "text": "entreprise",
-    "size": 58
+    "text": "menuiserie",
+    "size": 128
   },
   {
     "text": "belgium",
-    "size": 55
+    "size": 115
   },
   {
-    "text": "service",
-    "size": 50
+    "text": "recycling",
+    "size": 109
   },
   {
-    "text": "algemene",
-    "size": 44
-  },
-  {
-    "text": "clean",
-    "size": 41
-  },
-  {
-    "text": "cleaning",
-    "size": 41
+    "text": "entreprise",
+    "size": 99
   },
   {
     "text": "concept",
-    "size": 39
+    "size": 98
   },
   {
-    "text": "station",
-    "size": 38
+    "text": "algemene",
+    "size": 98
+  },
+  {
+    "text": "schrijnwerkerij",
+    "size": 96
+  },
+  {
+    "text": "conteneurs",
+    "size": 95
+  },
+  {
+    "text": "service",
+    "size": 94
+  },
+  {
+    "text": "containerpark",
+    "size": 91
   },
   {
     "text": "ets",
-    "size": 30
+    "size": 90
   },
   {
-    "text": "auto",
-    "size": 30
+    "text": "keukens",
+    "size": 89
   },
   {
-    "text": "solutions",
-    "size": 30
+    "text": "construction",
+    "size": 87
   },
   {
-    "text": "bouwwerken",
-    "size": 29
+    "text": "marc",
+    "size": 80
   },
   {
-    "text": "fils",
-    "size": 29
+    "text": "luc",
+    "size": 79
+  },
+  {
+    "text": "garage",
+    "size": 75
   },
   {
     "text": "co",
-    "size": 28
+    "size": 74
+  },
+  {
+    "text": "diamonds",
+    "size": 70
+  },
+  {
+    "text": "den",
+    "size": 69
+  },
+  {
+    "text": "art",
+    "size": 68
+  },
+  {
+    "text": "international",
+    "size": 67
   },
   {
     "text": "philippe",
+    "size": 65
+  },
+  {
+    "text": "jan",
+    "size": 64
+  },
+  {
+    "text": "fils",
+    "size": 64
+  },
+  {
+    "text": "patrick",
+    "size": 63
+  },
+  {
+    "text": "peter",
+    "size": 63
+  },
+  {
+    "text": "projects",
+    "size": 61
+  },
+  {
+    "text": "meubelen",
+    "size": 59
+  },
+  {
+    "text": "the",
+    "size": 54
+  },
+  {
+    "text": "christophe",
+    "size": 54
+  },
+  {
+    "text": "bart",
+    "size": 53
+  },
+  {
+    "text": "dirk",
+    "size": 50
+  },
+  {
+    "text": "decor",
+    "size": 50
+  },
+  {
+    "text": "bois",
+    "size": 48
+  },
+  {
+    "text": "olivier",
+    "size": 48
+  },
+  {
+    "text": "cleaning",
+    "size": 48
+  },
+  {
+    "text": "clean",
+    "size": 46
+  },
+  {
+    "text": "johan",
+    "size": 46
+  },
+  {
+    "text": "solutions",
+    "size": 45
+  },
+  {
+    "text": "tom",
+    "size": 44
+  },
+  {
+    "text": "geert",
+    "size": 44
+  },
+  {
+    "text": "jean",
+    "size": 43
+  },
+  {
+    "text": "bouwwerken",
+    "size": 43
+  },
+  {
+    "text": "wim",
+    "size": 43
+  },
+  {
+    "text": "group",
+    "size": 43
+  },
+  {
+    "text": "michel",
+    "size": 42
+  },
+  {
+    "text": "alain",
+    "size": 42
+  },
+  {
+    "text": "all",
+    "size": 41
+  },
+  {
+    "text": "wood",
+    "size": 40
+  },
+  {
+    "text": "gebroeders",
+    "size": 40
+  },
+  {
+    "text": "kris",
+    "size": 40
+  },
+  {
+    "text": "home",
+    "size": 40
+  },
+  {
+    "text": "station",
+    "size": 39
+  },
+  {
+    "text": "company",
+    "size": 38
+  },
+  {
+    "text": "eric",
+    "size": 38
+  },
+  {
+    "text": "and",
+    "size": 38
+  },
+  {
+    "text": "david",
+    "size": 36
+  },
+  {
+    "text": "thierry",
+    "size": 36
+  },
+  {
+    "text": "metal",
+    "size": 36
+  },
+  {
+    "text": "paul",
+    "size": 36
+  },
+  {
+    "text": "sc",
+    "size": 35
+  },
+  {
+    "text": "pierre",
+    "size": 35
+  },
+  {
+    "text": "invest",
+    "size": 34
+  },
+  {
+    "text": "new",
+    "size": 34
+  },
+  {
+    "text": "pvba",
+    "size": 34
+  },
+  {
+    "text": "entreprises",
+    "size": 34
+  },
+  {
+    "text": "koen",
+    "size": 34
+  },
+  {
+    "text": "steven",
+    "size": 34
+  },
+  {
+    "text": "trading",
+    "size": 33
+  },
+  {
+    "text": "cv",
+    "size": 33
+  },
+  {
+    "text": "pascal",
+    "size": 33
+  },
+  {
+    "text": "containers",
+    "size": 33
+  },
+  {
+    "text": "maison",
+    "size": 32
+  },
+  {
+    "text": "bouw",
+    "size": 32
+  },
+  {
+    "text": "auto",
+    "size": 32
+  },
+  {
+    "text": "ebenisterie",
+    "size": 31
+  },
+  {
+    "text": "creations",
+    "size": 31
+  },
+  {
+    "text": "zonen",
+    "size": 31
+  },
+  {
+    "text": "laurent",
+    "size": 30
+  },
+  {
+    "text": "immo",
+    "size": 30
+  },
+  {
+    "text": "recyclagepark",
+    "size": 30
+  },
+  {
+    "text": "consulting",
+    "size": 30
+  },
+  {
+    "text": "kristof",
+    "size": 29
+  },
+  {
+    "text": "creation",
+    "size": 29
+  },
+  {
+    "text": "diamond",
+    "size": 29
+  },
+  {
+    "text": "firma",
+    "size": 28
+  },
+  {
+    "text": "toitures",
     "size": 28
   },
   {
@@ -112,891 +392,611 @@
     "size": 28
   },
   {
-    "text": "metal",
+    "text": "center",
     "size": 28
   },
   {
-    "text": "containers",
+    "text": "technics",
     "size": 27
   },
   {
-    "text": "international",
+    "text": "guy",
     "size": 27
   },
   {
-    "text": "projects",
-    "size": 25
+    "text": "project",
+    "size": 27
   },
   {
-    "text": "marc",
-    "size": 24
+    "text": "kurt",
+    "size": 27
   },
   {
-    "text": "olivier",
-    "size": 24
+    "text": "martin",
+    "size": 26
   },
   {
-    "text": "christophe",
-    "size": 22
-  },
-  {
-    "text": "luc",
-    "size": 22
-  },
-  {
-    "text": "peter",
-    "size": 22
-  },
-  {
-    "text": "entreprises",
-    "size": 21
-  },
-  {
-    "text": "jean",
-    "size": 21
-  },
-  {
-    "text": "bouw",
-    "size": 21
+    "text": "frank",
+    "size": 26
   },
   {
     "text": "carrosserie",
+    "size": 26
+  },
+  {
+    "text": "willy",
+    "size": 26
+  },
+  {
+    "text": "electro",
+    "size": 26
+  },
+  {
+    "text": "garden",
+    "size": 26
+  },
+  {
+    "text": "antiek",
+    "size": 26
+  },
+  {
+    "text": "thomas",
+    "size": 25
+  },
+  {
+    "text": "christian",
+    "size": 25
+  },
+  {
+    "text": "zoon",
+    "size": 25
+  },
+  {
+    "text": "yves",
+    "size": 25
+  },
+  {
+    "text": "danny",
+    "size": 25
+  },
+  {
+    "text": "car",
+    "size": 25
+  },
+  {
+    "text": "plus",
+    "size": 24
+  },
+  {
+    "text": "bruno",
+    "size": 24
+  },
+  {
+    "text": "erik",
+    "size": 24
+  },
+  {
+    "text": "dakwerken",
+    "size": 24
+  },
+  {
+    "text": "filip",
+    "size": 24
+  },
+  {
+    "text": "vincent",
+    "size": 24
+  },
+  {
+    "text": "studio",
+    "size": 24
+  },
+  {
+    "text": "andre",
+    "size": 24
+  },
+  {
+    "text": "eddy",
+    "size": 24
+  },
+  {
+    "text": "deco",
+    "size": 24
+  },
+  {
+    "text": "claes",
+    "size": 23
+  },
+  {
+    "text": "euro",
+    "size": 23
+  },
+  {
+    "text": "etablissements",
+    "size": 23
+  },
+  {
+    "text": "maes",
+    "size": 22
+  },
+  {
+    "text": "europe",
+    "size": 22
+  },
+  {
+    "text": "jardins",
+    "size": 22
+  },
+  {
+    "text": "peeters",
+    "size": 22
+  },
+  {
+    "text": "frédéric",
+    "size": 22
+  },
+  {
+    "text": "systems",
+    "size": 22
+  },
+  {
+    "text": "bernard",
+    "size": 22
+  },
+  {
+    "text": "partners",
+    "size": 22
+  },
+  {
+    "text": "autohandel",
     "size": 21
   },
   {
-    "text": "jan",
+    "text": "tuinen",
+    "size": 21
+  },
+  {
+    "text": "tuinaanleg",
+    "size": 21
+  },
+  {
+    "text": "constructions",
+    "size": 21
+  },
+  {
+    "text": "janssens",
+    "size": 21
+  },
+  {
+    "text": "pro",
+    "size": 21
+  },
+  {
+    "text": "smet",
+    "size": 21
+  },
+  {
+    "text": "joris",
+    "size": 21
+  },
+  {
+    "text": "chris",
     "size": 20
   },
   {
-    "text": "group",
+    "text": "style",
+    "size": 20
+  },
+  {
+    "text": "meubles",
+    "size": 20
+  },
+  {
+    "text": "frederic",
+    "size": 20
+  },
+  {
+    "text": "renovatie",
+    "size": 20
+  },
+  {
+    "text": "sdc",
+    "size": 20
+  },
+  {
+    "text": "tim",
+    "size": 20
+  },
+  {
+    "text": "top",
+    "size": 20
+  },
+  {
+    "text": "andy",
     "size": 20
   },
   {
     "text": "d\u0027épuration",
-    "size": 19
-  },
-  {
-    "text": "thierry",
-    "size": 19
-  },
-  {
-    "text": "design",
-    "size": 19
-  },
-  {
-    "text": "sdc",
-    "size": 19
-  },
-  {
-    "text": "autohandel",
-    "size": 18
-  },
-  {
-    "text": "den",
-    "size": 18
-  },
-  {
-    "text": "recyclagepark",
-    "size": 17
-  },
-  {
-    "text": "pascal",
-    "size": 17
-  },
-  {
-    "text": "car",
-    "size": 17
-  },
-  {
-    "text": "technics",
-    "size": 16
-  },
-  {
-    "text": "tom",
-    "size": 16
-  },
-  {
-    "text": "vidange",
-    "size": 16
-  },
-  {
-    "text": "michel",
-    "size": 16
-  },
-  {
-    "text": "company",
-    "size": 15
-  },
-  {
-    "text": "trading",
-    "size": 15
-  },
-  {
-    "text": "toitures",
-    "size": 15
-  },
-  {
-    "text": "cars",
-    "size": 15
-  },
-  {
-    "text": "the",
-    "size": 14
-  },
-  {
-    "text": "patrick",
-    "size": 14
-  },
-  {
-    "text": "tuinen",
-    "size": 14
-  },
-  {
-    "text": "laurent",
-    "size": 14
-  },
-  {
-    "text": "zonen",
-    "size": 14
-  },
-  {
-    "text": "new",
-    "size": 14
-  },
-  {
-    "text": "engineering",
-    "size": 14
-  },
-  {
-    "text": "container",
-    "size": 14
-  },
-  {
-    "text": "consulting",
-    "size": 14
-  },
-  {
-    "text": "galloo",
-    "size": 14
-  },
-  {
-    "text": "afbraakwerken",
-    "size": 13
-  },
-  {
-    "text": "david",
-    "size": 13
-  },
-  {
-    "text": "aqua",
-    "size": 13
-  },
-  {
-    "text": "nicolas",
-    "size": 13
-  },
-  {
-    "text": "invest",
-    "size": 13
-  },
-  {
-    "text": "steven",
-    "size": 13
-  },
-  {
-    "text": "all",
-    "size": 13
-  },
-  {
-    "text": "transport",
-    "size": 12
-  },
-  {
-    "text": "martin",
-    "size": 12
-  },
-  {
-    "text": "containerdienst",
-    "size": 12
-  },
-  {
-    "text": "sc",
-    "size": 12
-  },
-  {
-    "text": "grondwerken",
-    "size": 12
-  },
-  {
-    "text": "travaux",
-    "size": 12
-  },
-  {
-    "text": "dépôt",
-    "size": 12
-  },
-  {
-    "text": "geert",
-    "size": 12
-  },
-  {
-    "text": "grond",
-    "size": 12
-  },
-  {
-    "text": "etablissements",
-    "size": 12
-  },
-  {
-    "text": "jardins",
-    "size": 12
-  },
-  {
-    "text": "building",
-    "size": 12
-  },
-  {
-    "text": "and",
-    "size": 12
-  },
-  {
-    "text": "bois",
-    "size": 12
-  },
-  {
-    "text": "kristof",
-    "size": 11
-  },
-  {
-    "text": "bart",
-    "size": 11
-  },
-  {
-    "text": "pierre",
-    "size": 11
-  },
-  {
-    "text": "yves",
-    "size": 11
-  },
-  {
-    "text": "tuinaanleg",
-    "size": 11
-  },
-  {
-    "text": "gebroeders",
-    "size": 11
-  },
-  {
-    "text": "firma",
-    "size": 11
-  },
-  {
-    "text": "antiek",
-    "size": 11
-  },
-  {
-    "text": "epuration",
-    "size": 11
-  },
-  {
-    "text": "christian",
-    "size": 11
-  },
-  {
-    "text": "eric",
-    "size": 11
-  },
-  {
-    "text": "recup",
-    "size": 11
-  },
-  {
-    "text": "andre",
-    "size": 11
-  },
-  {
-    "text": "chauffage",
-    "size": 11
-  },
-  {
-    "text": "robert",
-    "size": 11
-  },
-  {
-    "text": "antoine",
-    "size": 11
-  },
-  {
-    "text": "frédéric",
-    "size": 11
-  },
-  {
-    "text": "top",
-    "size": 10
-  },
-  {
-    "text": "thomas",
-    "size": 10
-  },
-  {
-    "text": "eco",
-    "size": 10
-  },
-  {
-    "text": "garden",
-    "size": 10
-  },
-  {
-    "text": "chez",
-    "size": 10
-  },
-  {
-    "text": "aannemingen",
-    "size": 10
-  },
-  {
-    "text": "michael",
-    "size": 10
-  },
-  {
-    "text": "pieter",
-    "size": 10
-  },
-  {
-    "text": "auto\u0027s",
-    "size": 10
-  },
-  {
-    "text": "sita",
-    "size": 10
-  },
-  {
-    "text": "export",
-    "size": 10
-  },
-  {
-    "text": "center",
-    "size": 10
-  },
-  {
-    "text": "centre",
-    "size": 10
-  },
-  {
-    "text": "mol",
-    "size": 10
-  },
-  {
-    "text": "francis",
-    "size": 10
-  },
-  {
-    "text": "agro",
-    "size": 10
-  },
-  {
-    "text": "bernard",
-    "size": 10
-  },
-  {
-    "text": "euro",
-    "size": 10
-  },
-  {
-    "text": "frederic",
-    "size": 10
-  },
-  {
-    "text": "terrassement",
-    "size": 10
-  },
-  {
-    "text": "energy",
-    "size": 9
-  },
-  {
-    "text": "kevin",
-    "size": 9
-  },
-  {
-    "text": "bati",
-    "size": 9
+    "size": 20
   },
   {
     "text": "jacques",
-    "size": 9
+    "size": 20
   },
   {
-    "text": "green",
-    "size": 9
+    "text": "grondwerken",
+    "size": 20
   },
   {
-    "text": "wim",
-    "size": 9
-  },
-  {
-    "text": "cv",
-    "size": 9
-  },
-  {
-    "text": "dirk",
-    "size": 9
-  },
-  {
-    "text": "koen",
-    "size": 9
-  },
-  {
-    "text": "renovation",
-    "size": 9
-  },
-  {
-    "text": "guy",
-    "size": 9
-  },
-  {
-    "text": "depannage",
-    "size": 9
+    "text": "gems",
+    "size": 20
   },
   {
     "text": "nico",
-    "size": 9
-  },
-  {
-    "text": "vincent",
-    "size": 9
-  },
-  {
-    "text": "damien",
-    "size": 9
-  },
-  {
-    "text": "maintenance",
-    "size": 9
-  },
-  {
-    "text": "paul",
-    "size": 9
+    "size": 19
   },
   {
     "text": "julien",
-    "size": 9
+    "size": 19
   },
   {
-    "text": "intercommunale",
-    "size": 9
+    "text": "engineering",
+    "size": 19
   },
   {
-    "text": "frank",
-    "size": 9
+    "text": "green",
+    "size": 19
   },
   {
-    "text": "pro",
-    "size": 9
+    "text": "afbraakwerken",
+    "size": 19
   },
   {
-    "text": "bio",
-    "size": 9
+    "text": "steve",
+    "size": 19
   },
   {
-    "text": "tim",
-    "size": 8
+    "text": "antoine",
+    "size": 19
   },
   {
-    "text": "andy",
-    "size": 8
+    "text": "cars",
+    "size": 19
   },
   {
-    "text": "team",
-    "size": 8
-  },
-  {
-    "text": "denis",
-    "size": 8
+    "text": "productions",
+    "size": 18
   },
   {
     "text": "business",
-    "size": 8
+    "size": 18
   },
   {
-    "text": "ruimdienst",
-    "size": 8
+    "text": "herman",
+    "size": 18
   },
   {
-    "text": "systems",
-    "size": 8
+    "text": "l\u0027atelier",
+    "size": 18
   },
   {
-    "text": "wpc",
-    "size": 8
+    "text": "nicolas",
+    "size": 18
   },
   {
-    "text": "ii",
-    "size": 8
+    "text": "renovation",
+    "size": 18
   },
   {
-    "text": "plus",
-    "size": 8
+    "text": "karel",
+    "size": 18
+  },
+  {
+    "text": "francis",
+    "size": 18
+  },
+  {
+    "text": "martens",
+    "size": 18
+  },
+  {
+    "text": "pieter",
+    "size": 18
+  },
+  {
+    "text": "management",
+    "size": 18
+  },
+  {
+    "text": "robert",
+    "size": 18
+  },
+  {
+    "text": "jacobs",
+    "size": 18
+  },
+  {
+    "text": "didier",
+    "size": 18
+  },
+  {
+    "text": "energy",
+    "size": 17
+  },
+  {
+    "text": "vidange",
+    "size": 17
+  },
+  {
+    "text": "factory",
+    "size": 17
+  },
+  {
+    "text": "aannemingen",
+    "size": 17
+  },
+  {
+    "text": "bert",
+    "size": 17
+  },
+  {
+    "text": "stefan",
+    "size": 17
+  },
+  {
+    "text": "sport",
+    "size": 17
+  },
+  {
+    "text": "daniel",
+    "size": 17
+  },
+  {
+    "text": "building",
+    "size": 17
+  },
+  {
+    "text": "willems",
+    "size": 17
+  },
+  {
+    "text": "denis",
+    "size": 17
+  },
+  {
+    "text": "transport",
+    "size": 17
+  },
+  {
+    "text": "aqua",
+    "size": 17
+  },
+  {
+    "text": "industries",
+    "size": 17
+  },
+  {
+    "text": "centre",
+    "size": 17
+  },
+  {
+    "text": "stijn",
+    "size": 17
+  },
+  {
+    "text": "elektro",
+    "size": 17
+  },
+  {
+    "text": "kevin",
+    "size": 16
+  },
+  {
+    "text": "jo",
+    "size": 16
+  },
+  {
+    "text": "interieurbouw",
+    "size": 16
   },
   {
     "text": "sven",
-    "size": 8
+    "size": 16
   },
   {
-    "text": "terrassements",
-    "size": 8
+    "text": "chez",
+    "size": 16
   },
   {
-    "text": "toiture",
-    "size": 8
-  },
-  {
-    "text": "bouwonderneming",
-    "size": 8
-  },
-  {
-    "text": "kris",
-    "size": 8
+    "text": "interiors",
+    "size": 16
   },
   {
     "text": "works",
-    "size": 8
+    "size": 16
   },
   {
-    "text": "constructions",
-    "size": 8
+    "text": "schrijnwerk",
+    "size": 16
   },
   {
-    "text": "immo",
-    "size": 8
+    "text": "frans",
+    "size": 16
   },
   {
-    "text": "project",
-    "size": 8
+    "text": "coiffure",
+    "size": 16
   },
   {
-    "text": "kurt",
-    "size": 8
-  },
-  {
-    "text": "réservoir",
-    "size": 8
-  },
-  {
-    "text": "eddy",
-    "size": 8
-  },
-  {
-    "text": "wallonie",
-    "size": 8
-  },
-  {
-    "text": "beton",
-    "size": 8
-  },
-  {
-    "text": "joris",
-    "size": 8
-  },
-  {
-    "text": "demolition",
-    "size": 8
-  },
-  {
-    "text": "s.a",
-    "size": 8
-  },
-  {
-    "text": "trade",
-    "size": 8
-  },
-  {
-    "text": "plastics",
-    "size": 8
-  },
-  {
-    "text": "jonathan",
-    "size": 8
-  },
-  {
-    "text": "peeters",
-    "size": 8
-  },
-  {
-    "text": "alain",
-    "size": 8
-  },
-  {
-    "text": "dakwerken",
-    "size": 8
-  },
-  {
-    "text": "filip",
-    "size": 8
-  },
-  {
-    "text": "cie",
-    "size": 7
-  },
-  {
-    "text": "brocante",
-    "size": 7
-  },
-  {
-    "text": "house",
-    "size": 7
-  },
-  {
-    "text": "wouter",
-    "size": 7
-  },
-  {
-    "text": "michaël",
-    "size": 7
-  },
-  {
-    "text": "johan",
-    "size": 7
-  },
-  {
-    "text": "maes",
-    "size": 7
-  },
-  {
-    "text": "waste",
-    "size": 7
-  },
-  {
-    "text": "gregory",
-    "size": 7
-  },
-  {
-    "text": "interieur",
-    "size": 7
-  },
-  {
-    "text": "déchets",
-    "size": 7
-  },
-  {
-    "text": "centrum",
-    "size": 7
-  },
-  {
-    "text": "compost",
-    "size": 7
-  },
-  {
-    "text": "metals",
-    "size": 7
-  },
-  {
-    "text": "belle",
-    "size": 7
-  },
-  {
-    "text": "power",
-    "size": 7
-  },
-  {
-    "text": "usine",
-    "size": 7
-  },
-  {
-    "text": "gent",
-    "size": 7
-  },
-  {
-    "text": "adam",
-    "size": 7
-  },
-  {
-    "text": "parts",
-    "size": 7
-  },
-  {
-    "text": "technology",
-    "size": 7
-  },
-  {
-    "text": "mathieu",
-    "size": 7
-  },
-  {
-    "text": "industrial",
-    "size": 7
-  },
-  {
-    "text": "matthias",
-    "size": 7
-  },
-  {
-    "text": "agri",
-    "size": 7
-  },
-  {
-    "text": "smet",
-    "size": 7
-  },
-  {
-    "text": "pvba",
-    "size": 7
-  },
-  {
-    "text": "guillaume",
-    "size": 7
-  },
-  {
-    "text": "groep",
-    "size": 7
-  },
-  {
-    "text": "milieu",
-    "size": 7
-  },
-  {
-    "text": "gilles",
-    "size": 7
-  },
-  {
-    "text": "trans",
-    "size": 7
-  },
-  {
-    "text": "banden",
-    "size": 7
+    "text": "juwelen",
+    "size": 16
   },
   {
     "text": "serge",
-    "size": 7
-  },
-  {
-    "text": "oude",
-    "size": 7
-  },
-  {
-    "text": "partners",
-    "size": 7
+    "size": 16
   },
   {
     "text": "francois",
-    "size": 7
+    "size": 16
   },
   {
     "text": "benelux",
-    "size": 7
+    "size": 16
   },
   {
-    "text": "consult",
-    "size": 6
+    "text": "team",
+    "size": 16
   },
   {
-    "text": "logistics",
-    "size": 6
+    "text": "vof",
+    "size": 16
   },
   {
-    "text": "bram",
-    "size": 6
+    "text": "michael",
+    "size": 16
   },
   {
-    "text": "confort",
-    "size": 6
+    "text": "espace",
+    "size": 16
   },
   {
-    "text": "europe",
-    "size": 6
+    "text": "mario",
+    "size": 16
   },
   {
-    "text": "verschueren",
-    "size": 6
+    "text": "shop",
+    "size": 16
   },
   {
-    "text": "metaux",
-    "size": 6
+    "text": "grond",
+    "size": 16
   },
   {
-    "text": "metaal",
-    "size": 6
+    "text": "simon",
+    "size": 16
   },
   {
-    "text": "ac",
-    "size": 6
+    "text": "generale",
+    "size": 16
   },
   {
-    "text": "gs",
-    "size": 6
+    "text": "cie",
+    "size": 15
   },
   {
-    "text": "benoit",
-    "size": 6
+    "text": "antwerp",
+    "size": 15
   },
   {
-    "text": "renov",
-    "size": 6
+    "text": "wouter",
+    "size": 15
   },
   {
-    "text": "pidpa",
-    "size": 6
+    "text": "gallery",
+    "size": 15
   },
   {
-    "text": "vasile",
-    "size": 6
+    "text": "galerie",
+    "size": 15
+  },
+  {
+    "text": "dries",
+    "size": 15
+  },
+  {
+    "text": "interior",
+    "size": 15
   },
   {
     "text": "rudy",
-    "size": 6
+    "size": 15
   },
   {
     "text": "rudi",
-    "size": 6
+    "size": 15
   },
   {
-    "text": "vanheede",
-    "size": 6
+    "text": "travaux",
+    "size": 15
   },
   {
-    "text": "style",
-    "size": 6
+    "text": "schrijnwerken",
+    "size": 15
   },
   {
-    "text": "dieter",
-    "size": 6
-  },
-  {
-    "text": "autos",
-    "size": 6
-  },
-  {
-    "text": "dimitri",
-    "size": 6
-  },
-  {
-    "text": "west",
-    "size": 6
-  },
-  {
-    "text": "claes",
-    "size": 6
-  },
-  {
-    "text": "erik",
-    "size": 6
-  },
-  {
-    "text": "maison",
-    "size": 6
-  },
-  {
-    "text": "constantin",
-    "size": 6
+    "text": "jewels",
+    "size": 15
   },
   {
     "text": "claude",
-    "size": 6
+    "size": 15
   },
   {
-    "text": "alexandru",
-    "size": 6
+    "text": "decoratie",
+    "size": 15
+  },
+  {
+    "text": "container",
+    "size": 15
+  },
+  {
+    "text": "temps",
+    "size": 15
+  },
+  {
+    "text": "conteneur",
+    "size": 15
+  },
+  {
+    "text": "house",
+    "size": 15
+  },
+  {
+    "text": "benoit",
+    "size": 15
+  },
+  {
+    "text": "mathieu",
+    "size": 15
+  },
+  {
+    "text": "music",
+    "size": 15
+  },
+  {
+    "text": "ateliers",
+    "size": 15
+  },
+  {
+    "text": "jozef",
+    "size": 14
+  },
+  {
+    "text": "gregory",
+    "size": 14
+  },
+  {
+    "text": "renovatiewerken",
+    "size": 14
+  },
+  {
+    "text": "bati",
+    "size": 14
+  },
+  {
+    "text": "ii",
+    "size": 14
+  },
+  {
+    "text": "pauwels",
+    "size": 14
+  },
+  {
+    "text": "louis",
+    "size": 14
+  },
+  {
+    "text": "chauffage",
+    "size": 14
   }
 ]

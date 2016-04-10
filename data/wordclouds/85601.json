@@ -5,7 +5,7 @@
   },
   {
     "text": "centre",
-    "size": 103
+    "size": 105
   },
   {
     "text": "pms",
@@ -17,7 +17,7 @@
   },
   {
     "text": "vrij",
-    "size": 65
+    "size": 66
   },
   {
     "text": "go",
@@ -44,12 +44,24 @@
     "size": 12
   },
   {
-    "text": "antwerpen",
+    "text": "service",
     "size": 11
   },
   {
     "text": "psycho-médico-social",
     "size": 11
+  },
+  {
+    "text": "antwerpen",
+    "size": 11
+  },
+  {
+    "text": "centrum",
+    "size": 10
+  },
+  {
+    "text": "social",
+    "size": 10
   },
   {
     "text": "communauté",
@@ -60,27 +72,7 @@
     "size": 10
   },
   {
-    "text": "service",
-    "size": 10
-  },
-  {
-    "text": "social",
-    "size": 10
-  },
-  {
-    "text": "limburg",
-    "size": 9
-  },
-  {
-    "text": "centrum",
-    "size": 9
-  },
-  {
     "text": "santé",
-    "size": 9
-  },
-  {
-    "text": "medico",
     "size": 9
   },
   {
@@ -88,11 +80,19 @@
     "size": 9
   },
   {
-    "text": "ssm",
-    "size": 8
+    "text": "limburg",
+    "size": 9
+  },
+  {
+    "text": "medico",
+    "size": 9
   },
   {
     "text": "spécialisé",
+    "size": 8
+  },
+  {
+    "text": "ssm",
     "size": 8
   },
   {
@@ -101,6 +101,10 @@
   },
   {
     "text": "leerlingenbegeleiding",
+    "size": 7
+  },
+  {
+    "text": "communaute",
     "size": 6
   },
   {
@@ -108,20 +112,8 @@
     "size": 6
   },
   {
-    "text": "communaute",
-    "size": 6
-  },
-  {
     "text": "francaise",
     "size": 6
-  },
-  {
-    "text": "middengebied",
-    "size": 5
-  },
-  {
-    "text": "centres",
-    "size": 5
   },
   {
     "text": "kaleido",
@@ -137,6 +129,18 @@
   },
   {
     "text": "libres",
+    "size": 5
+  },
+  {
+    "text": "middengebied",
+    "size": 5
+  },
+  {
+    "text": "centres",
+    "size": 5
+  },
+  {
+    "text": "p.m.s",
     "size": 5
   },
   {
@@ -156,15 +160,23 @@
     "size": 4
   },
   {
-    "text": "regio",
-    "size": 4
-  },
-  {
     "text": "jambes",
     "size": 4
   },
   {
-    "text": "p.m.s",
+    "text": "zuid",
+    "size": 4
+  },
+  {
+    "text": "kempen",
+    "size": 4
+  },
+  {
+    "text": "association",
+    "size": 4
+  },
+  {
+    "text": "regio",
     "size": 4
   },
   {
@@ -180,19 +192,7 @@
     "size": 4
   },
   {
-    "text": "zuid",
-    "size": 4
-  },
-  {
-    "text": "kempen",
-    "size": 4
-  },
-  {
     "text": "adite",
-    "size": 3
-  },
-  {
-    "text": "association",
     "size": 3
   },
   {
@@ -201,6 +201,30 @@
   },
   {
     "text": "oost",
+    "size": 3
+  },
+  {
+    "text": "médico",
+    "size": 3
+  },
+  {
+    "text": "ii",
+    "size": 3
+  },
+  {
+    "text": "hasselt",
+    "size": 3
+  },
+  {
+    "text": "wallonie-bruxelles",
+    "size": 3
+  },
+  {
+    "text": "charleroi",
+    "size": 3
+  },
+  {
+    "text": "wissel",
     "size": 3
   },
   {
@@ -216,19 +240,11 @@
     "size": 3
   },
   {
-    "text": "médico",
-    "size": 3
-  },
-  {
     "text": "mons",
     "size": 3
   },
   {
     "text": "binche",
-    "size": 3
-  },
-  {
-    "text": "ii",
     "size": 3
   },
   {
@@ -240,27 +256,11 @@
     "size": 3
   },
   {
-    "text": "hasselt",
-    "size": 3
-  },
-  {
     "text": "oudenaarde",
     "size": 3
   },
   {
-    "text": "wallonie-bruxelles",
-    "size": 3
-  },
-  {
     "text": "noord",
-    "size": 3
-  },
-  {
-    "text": "charleroi",
-    "size": 3
-  },
-  {
-    "text": "wissel",
     "size": 3
   },
   {
@@ -276,14 +276,6 @@
     "size": 3
   },
   {
-    "text": "pieter",
-    "size": 2
-  },
-  {
-    "text": "ring",
-    "size": 2
-  },
-  {
     "text": "brasschaat",
     "size": 2
   },
@@ -292,19 +284,7 @@
     "size": 2
   },
   {
-    "text": "vlaanderen",
-    "size": 2
-  },
-  {
-    "text": "limburg-noord",
-    "size": 2
-  },
-  {
-    "text": "leuven",
-    "size": 2
-  },
-  {
-    "text": "schaerbeek",
+    "text": "réinsertion",
     "size": 2
   },
   {
@@ -320,15 +300,7 @@
     "size": 2
   },
   {
-    "text": "zuid-limburg",
-    "size": 2
-  },
-  {
     "text": "oostkust",
-    "size": 2
-  },
-  {
-    "text": "poc",
     "size": 2
   },
   {
@@ -352,27 +324,7 @@
     "size": 2
   },
   {
-    "text": "services",
-    "size": 2
-  },
-  {
-    "text": "to",
-    "size": 2
-  },
-  {
-    "text": "vilvoorde",
-    "size": 2
-  },
-  {
     "text": "waasland",
-    "size": 2
-  },
-  {
-    "text": "ath",
-    "size": 2
-  },
-  {
-    "text": "nivelles",
     "size": 2
   },
   {
@@ -381,10 +333,6 @@
   },
   {
     "text": "kompas",
-    "size": 2
-  },
-  {
-    "text": "couvin",
     "size": 2
   },
   {
@@ -397,18 +345,6 @@
   },
   {
     "text": "sociale",
-    "size": 2
-  },
-  {
-    "text": "groeninge",
-    "size": 2
-  },
-  {
-    "text": "interstedelijk",
-    "size": 2
-  },
-  {
-    "text": "pms-zentrum",
     "size": 2
   },
   {
@@ -428,15 +364,11 @@
     "size": 2
   },
   {
+    "text": "professionnelle",
+    "size": 2
+  },
+  {
     "text": "iv",
-    "size": 2
-  },
-  {
-    "text": "noordwest",
-    "size": 2
-  },
-  {
-    "text": "gemeentelijk",
     "size": 2
   },
   {
@@ -444,19 +376,7 @@
     "size": 2
   },
   {
-    "text": "diest",
-    "size": 2
-  },
-  {
     "text": "onderwijs",
-    "size": 2
-  },
-  {
-    "text": "gemeenschapscommissie",
-    "size": 2
-  },
-  {
-    "text": "wolu-services",
     "size": 2
   },
   {
@@ -465,10 +385,6 @@
   },
   {
     "text": "vlaamse",
-    "size": 2
-  },
-  {
-    "text": "virton",
     "size": 2
   },
   {
@@ -488,6 +404,130 @@
     "size": 2
   },
   {
+    "text": "wallon",
+    "size": 2
+  },
+  {
+    "text": "verviers",
+    "size": 2
+  },
+  {
+    "text": "ninove",
+    "size": 2
+  },
+  {
+    "text": "s.p.s.e",
+    "size": 2
+  },
+  {
+    "text": "noorderkempen",
+    "size": 2
+  },
+  {
+    "text": "pieter",
+    "size": 2
+  },
+  {
+    "text": "ring",
+    "size": 2
+  },
+  {
+    "text": "vlaanderen",
+    "size": 2
+  },
+  {
+    "text": "limburg-noord",
+    "size": 2
+  },
+  {
+    "text": "leuven",
+    "size": 2
+  },
+  {
+    "text": "schaerbeek",
+    "size": 2
+  },
+  {
+    "text": "zuid-limburg",
+    "size": 2
+  },
+  {
+    "text": "poc",
+    "size": 2
+  },
+  {
+    "text": "socio",
+    "size": 2
+  },
+  {
+    "text": "services",
+    "size": 2
+  },
+  {
+    "text": "to",
+    "size": 2
+  },
+  {
+    "text": "vilvoorde",
+    "size": 2
+  },
+  {
+    "text": "ath",
+    "size": 2
+  },
+  {
+    "text": "nivelles",
+    "size": 2
+  },
+  {
+    "text": "couvin",
+    "size": 2
+  },
+  {
+    "text": "groeninge",
+    "size": 2
+  },
+  {
+    "text": "interstedelijk",
+    "size": 2
+  },
+  {
+    "text": "pms-zentrum",
+    "size": 2
+  },
+  {
+    "text": "noordwest",
+    "size": 2
+  },
+  {
+    "text": "gemeentelijk",
+    "size": 2
+  },
+  {
+    "text": "bertrand",
+    "size": 2
+  },
+  {
+    "text": "formation",
+    "size": 2
+  },
+  {
+    "text": "diest",
+    "size": 2
+  },
+  {
+    "text": "gemeenschapscommissie",
+    "size": 2
+  },
+  {
+    "text": "wolu-services",
+    "size": 2
+  },
+  {
+    "text": "virton",
+    "size": 2
+  },
+  {
     "text": "freies",
     "size": 2
   },
@@ -504,27 +544,11 @@
     "size": 2
   },
   {
-    "text": "verviers",
-    "size": 2
-  },
-  {
-    "text": "ninove",
-    "size": 2
-  },
-  {
-    "text": "s.p.s.e",
-    "size": 2
-  },
-  {
     "text": "marcinelle",
     "size": 2
   },
   {
     "text": "jodoigne",
-    "size": 2
-  },
-  {
-    "text": "noorderkempen",
     "size": 2
   },
   {
@@ -544,14 +568,6 @@
     "size": 2
   },
   {
-    "text": "d\u0027action",
-    "size": 1
-  },
-  {
-    "text": "pres",
-    "size": 1
-  },
-  {
     "text": "d\u0027etude",
     "size": 1
   },
@@ -560,15 +576,7 @@
     "size": 1
   },
   {
-    "text": "illuminée",
-    "size": 1
-  },
-  {
-    "text": "braine-l\u0027alleud",
-    "size": 1
-  },
-  {
-    "text": "kadelink",
+    "text": "tea",
     "size": 1
   },
   {
@@ -576,15 +584,7 @@
     "size": 1
   },
   {
-    "text": "province",
-    "size": 1
-  },
-  {
     "text": "ondersteuningscel",
-    "size": 1
-  },
-  {
-    "text": "gezondheidscentrum",
     "size": 1
   },
   {
@@ -593,14 +593,6 @@
   },
   {
     "text": "bagusco",
-    "size": 1
-  },
-  {
-    "text": "coaching",
-    "size": 1
-  },
-  {
-    "text": "réinsertion",
     "size": 1
   },
   {
@@ -616,6 +608,10 @@
     "size": 1
   },
   {
+    "text": "mômes",
+    "size": 1
+  },
+  {
     "text": "philippeville",
     "size": 1
   },
@@ -624,11 +620,7 @@
     "size": 1
   },
   {
-    "text": "aalst",
-    "size": 1
-  },
-  {
-    "text": "bastogne",
+    "text": "mesters",
     "size": 1
   },
   {
@@ -644,15 +636,7 @@
     "size": 1
   },
   {
-    "text": "alex",
-    "size": 1
-  },
-  {
-    "text": "dienstencentrum",
-    "size": 1
-  },
-  {
-    "text": "psych-médico-social",
+    "text": "vries",
     "size": 1
   },
   {
@@ -660,23 +644,11 @@
     "size": 1
   },
   {
-    "text": "marloie",
-    "size": 1
-  },
-  {
     "text": "l\u0027orientation",
     "size": 1
   },
   {
-    "text": "sud",
-    "size": 1
-  },
-  {
-    "text": "permanente",
-    "size": 1
-  },
-  {
-    "text": "e.f.t",
+    "text": "verbruggen",
     "size": 1
   },
   {
@@ -688,39 +660,11 @@
     "size": 1
   },
   {
-    "text": "envol",
-    "size": 1
-  },
-  {
-    "text": "ocmw",
-    "size": 1
-  },
-  {
-    "text": "ovsg",
-    "size": 1
-  },
-  {
-    "text": "moment",
-    "size": 1
-  },
-  {
-    "text": "louvain",
-    "size": 1
-  },
-  {
     "text": "vith",
     "size": 1
   },
   {
-    "text": "b2b",
-    "size": 1
-  },
-  {
-    "text": "d\u0027erquelinnes",
-    "size": 1
-  },
-  {
-    "text": "twee",
+    "text": "intimita",
     "size": 1
   },
   {
@@ -728,19 +672,11 @@
     "size": 1
   },
   {
-    "text": "l\u0027envol",
-    "size": 1
-  },
-  {
-    "text": "st",
-    "size": 1
-  },
-  {
     "text": "business",
     "size": 1
   },
   {
-    "text": "socio",
+    "text": "klijr",
     "size": 1
   },
   {
@@ -752,35 +688,11 @@
     "size": 1
   },
   {
-    "text": "educatif",
-    "size": 1
-  },
-  {
-    "text": "d\u0027uccle",
-    "size": 1
-  },
-  {
-    "text": "jorn",
-    "size": 1
-  },
-  {
-    "text": "aarschot",
-    "size": 1
-  },
-  {
-    "text": "roeselare",
+    "text": "the",
     "size": 1
   },
   {
     "text": "cv",
-    "size": 1
-  },
-  {
-    "text": "partners",
-    "size": 1
-  },
-  {
-    "text": "antwerp",
     "size": 1
   },
   {
@@ -792,19 +704,11 @@
     "size": 1
   },
   {
-    "text": "tutelle",
-    "size": 1
-  },
-  {
-    "text": "medical",
-    "size": 1
-  },
-  {
-    "text": "saint-lambert",
-    "size": 1
-  },
-  {
     "text": "demilier",
+    "size": 1
+  },
+  {
+    "text": "brigitte",
     "size": 1
   },
   {
@@ -816,23 +720,15 @@
     "size": 1
   },
   {
+    "text": "chapitre",
+    "size": 1
+  },
+  {
     "text": "huy1",
     "size": 1
   },
   {
     "text": "club",
-    "size": 1
-  },
-  {
-    "text": "driessche-agri",
-    "size": 1
-  },
-  {
-    "text": "lokaal",
-    "size": 1
-  },
-  {
-    "text": "kelmis",
     "size": 1
   },
   {
@@ -852,23 +748,15 @@
     "size": 1
   },
   {
+    "text": "hilde",
+    "size": 1
+  },
+  {
     "text": "g.o",
     "size": 1
   },
   {
-    "text": "develop",
-    "size": 1
-  },
-  {
-    "text": "f.w-b",
-    "size": 1
-  },
-  {
     "text": "scolaire",
-    "size": 1
-  },
-  {
-    "text": "auderghem",
     "size": 1
   },
   {
@@ -880,15 +768,7 @@
     "size": 1
   },
   {
-    "text": "focant",
-    "size": 1
-  },
-  {
     "text": "altando",
-    "size": 1
-  },
-  {
-    "text": "hornu",
     "size": 1
   },
   {
@@ -896,23 +776,15 @@
     "size": 1
   },
   {
-    "text": "marijn",
-    "size": 1
-  },
-  {
-    "text": "boom",
-    "size": 1
-  },
-  {
     "text": "ramaekers",
     "size": 1
   },
   {
-    "text": "flupke",
+    "text": "zilverpand",
     "size": 1
   },
   {
-    "text": "zilverpand",
+    "text": "olivier",
     "size": 1
   },
   {
@@ -928,11 +800,15 @@
     "size": 1
   },
   {
-    "text": "lier",
+    "text": "amélie",
     "size": 1
   },
   {
-    "text": "amélie",
+    "text": "maria",
+    "size": 1
+  },
+  {
+    "text": "camphora",
     "size": 1
   },
   {
@@ -940,19 +816,11 @@
     "size": 1
   },
   {
-    "text": "d\u0027ath",
-    "size": 1
-  },
-  {
-    "text": "m-ascot",
-    "size": 1
-  },
-  {
     "text": "veronique",
     "size": 1
   },
   {
-    "text": "camille",
+    "text": "linda",
     "size": 1
   },
   {
@@ -964,23 +832,15 @@
     "size": 1
   },
   {
-    "text": "psycho-médico-sociaux",
-    "size": 1
-  },
-  {
-    "text": "région",
-    "size": 1
-  },
-  {
-    "text": "guidance",
-    "size": 1
-  },
-  {
     "text": "d\u0027accompagnement",
     "size": 1
   },
   {
     "text": "leieland",
+    "size": 1
+  },
+  {
+    "text": "valorisantes",
     "size": 1
   },
   {
@@ -997,6 +857,146 @@
   },
   {
     "text": "psycho-médico-sociale",
+    "size": 1
+  },
+  {
+    "text": "azertie",
+    "size": 1
+  },
+  {
+    "text": "d\u0027arlon",
+    "size": 1
+  },
+  {
+    "text": "hull\u0027s",
+    "size": 1
+  },
+  {
+    "text": "espace",
+    "size": 1
+  },
+  {
+    "text": "huynen",
+    "size": 1
+  },
+  {
+    "text": "bruelles",
+    "size": 1
+  },
+  {
+    "text": "saint-hubert",
+    "size": 1
+  },
+  {
+    "text": "comines",
+    "size": 1
+  },
+  {
+    "text": "veurne-diksmuide-westkust",
+    "size": 1
+  },
+  {
+    "text": "febelcarrosserie",
+    "size": 1
+  },
+  {
+    "text": "city",
+    "size": 1
+  },
+  {
+    "text": "bogaert",
+    "size": 1
+  },
+  {
+    "text": "guy",
+    "size": 1
+  },
+  {
+    "text": "air",
+    "size": 1
+  },
+  {
+    "text": "geboers",
+    "size": 1
+  },
+  {
+    "text": "projet",
+    "size": 1
+  },
+  {
+    "text": "luxembourg",
+    "size": 1
+  },
+  {
+    "text": "gilbert",
+    "size": 1
+  },
+  {
+    "text": "tekst",
+    "size": 1
+  },
+  {
+    "text": "auvelais",
+    "size": 1
+  },
+  {
+    "text": "positive",
+    "size": 1
+  },
+  {
+    "text": "maes",
+    "size": 1
+  },
+  {
+    "text": "erquelinnes",
+    "size": 1
+  },
+  {
+    "text": "d\u0027expertise",
+    "size": 1
+  },
+  {
+    "text": "christianen",
+    "size": 1
+  },
+  {
+    "text": "karen",
+    "size": 1
+  },
+  {
+    "text": "spoor",
+    "size": 1
+  },
+  {
+    "text": "nisenbaum",
+    "size": 1
+  },
+  {
+    "text": "bemiddelingsdienst",
+    "size": 1
+  },
+  {
+    "text": "spa",
+    "size": 1
+  },
+  {
+    "text": "jemeppe-sur-sambre",
+    "size": 1
+  },
+  {
+    "text": "woluwe",
+    "size": 1
+  },
+  {
+    "text": "fwb",
+    "size": 1
+  },
+  {
+    "text": "anouck",
+    "size": 1
+  },
+  {
+    "text": "beeckman",
     "size": 1
   }
 ]

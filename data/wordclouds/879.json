@@ -28,15 +28,19 @@
     "size": 22
   },
   {
+    "text": "afdeling",
+    "size": 19
+  },
+  {
     "text": "dagcentrum",
-    "size": 16
+    "size": 17
   },
   {
     "text": "service",
-    "size": 15
+    "size": 16
   },
   {
-    "text": "centrum",
+    "text": "ter",
     "size": 14
   },
   {
@@ -44,8 +48,8 @@
     "size": 14
   },
   {
-    "text": "ter",
-    "size": 13
+    "text": "centrum",
+    "size": 14
   },
   {
     "text": "acis",
@@ -56,27 +60,27 @@
     "size": 13
   },
   {
-    "text": "afdeling",
+    "text": "jeugdzorg",
     "size": 12
   },
   {
-    "text": "jeugdzorg",
-    "size": 12
+    "text": "asbl",
+    "size": 11
   },
   {
     "text": "serviceflats",
     "size": 11
   },
   {
-    "text": "asbl",
-    "size": 10
-  },
-  {
-    "text": "jeunes",
+    "text": "home",
     "size": 9
   },
   {
-    "text": "home",
+    "text": "ocmw",
+    "size": 9
+  },
+  {
+    "text": "jeunes",
     "size": 9
   },
   {
@@ -92,19 +96,15 @@
     "size": 8
   },
   {
-    "text": "d\u0027aide",
-    "size": 8
-  },
-  {
     "text": "enfants",
     "size": 8
   },
   {
-    "text": "ten",
-    "size": 7
+    "text": "d\u0027aide",
+    "size": 8
   },
   {
-    "text": "bjb",
+    "text": "ten",
     "size": 7
   },
   {
@@ -116,11 +116,15 @@
     "size": 7
   },
   {
-    "text": "wonen",
+    "text": "dienstencentrum",
     "size": 7
   },
   {
-    "text": "ocmw",
+    "text": "bjb",
+    "size": 7
+  },
+  {
+    "text": "wonen",
     "size": 7
   },
   {
@@ -130,6 +134,18 @@
   {
     "text": "accueil",
     "size": 7
+  },
+  {
+    "text": "hof",
+    "size": 6
+  },
+  {
+    "text": "residence",
+    "size": 6
+  },
+  {
+    "text": "vie",
+    "size": 6
   },
   {
     "text": "logis",
@@ -144,11 +160,7 @@
     "size": 6
   },
   {
-    "text": "den",
-    "size": 6
-  },
-  {
-    "text": "hof",
+    "text": "leven",
     "size": 6
   },
   {
@@ -164,7 +176,7 @@
     "size": 6
   },
   {
-    "text": "vie",
+    "text": "résidence",
     "size": 5
   },
   {
@@ -176,10 +188,6 @@
     "size": 5
   },
   {
-    "text": "gentianes",
-    "size": 5
-  },
-  {
     "text": "nederlands",
     "size": 5
   },
@@ -188,19 +196,7 @@
     "size": 5
   },
   {
-    "text": "residence",
-    "size": 5
-  },
-  {
-    "text": "leven",
-    "size": 5
-  },
-  {
-    "text": "dienstencentrum",
-    "size": 5
-  },
-  {
-    "text": "blij",
+    "text": "den",
     "size": 5
   },
   {
@@ -208,24 +204,16 @@
     "size": 5
   },
   {
-    "text": "pierre",
-    "size": 4
+    "text": "gentianes",
+    "size": 5
   },
   {
-    "text": "pasrel",
-    "size": 4
+    "text": "terre",
+    "size": 5
   },
   {
-    "text": "résidence",
-    "size": 4
-  },
-  {
-    "text": "onthaal",
-    "size": 4
-  },
-  {
-    "text": "jeunesse",
-    "size": 4
+    "text": "blij",
+    "size": 5
   },
   {
     "text": "rosa",
@@ -248,19 +236,7 @@
     "size": 4
   },
   {
-    "text": "stichting",
-    "size": 4
-  },
-  {
     "text": "monte",
-    "size": 4
-  },
-  {
-    "text": "terre",
-    "size": 4
-  },
-  {
-    "text": "centrale",
     "size": 4
   },
   {
@@ -276,10 +252,6 @@
     "size": 4
   },
   {
-    "text": "tb",
-    "size": 4
-  },
-  {
     "text": "d\u0027enfants",
     "size": 4
   },
@@ -292,23 +264,51 @@
     "size": 4
   },
   {
-    "text": "l\u0027enfant",
-    "size": 3
+    "text": "pierre",
+    "size": 4
+  },
+  {
+    "text": "pasrel",
+    "size": 4
+  },
+  {
+    "text": "onthaal",
+    "size": 4
+  },
+  {
+    "text": "jeunesse",
+    "size": 4
+  },
+  {
+    "text": "care",
+    "size": 4
+  },
+  {
+    "text": "joba",
+    "size": 4
+  },
+  {
+    "text": "centrale",
+    "size": 4
+  },
+  {
+    "text": "spa",
+    "size": 4
+  },
+  {
+    "text": "tb",
+    "size": 4
+  },
+  {
+    "text": "caw",
+    "size": 4
   },
   {
     "text": "coeur",
     "size": 3
   },
   {
-    "text": "demandeurs",
-    "size": 3
-  },
-  {
     "text": "famille",
-    "size": 3
-  },
-  {
-    "text": "beschut",
     "size": 3
   },
   {
@@ -324,27 +324,7 @@
     "size": 3
   },
   {
-    "text": "fontaine",
-    "size": 3
-  },
-  {
-    "text": "engels",
-    "size": 3
-  },
-  {
-    "text": "d\u0027asile",
-    "size": 3
-  },
-  {
     "text": "verde",
-    "size": 3
-  },
-  {
-    "text": "d\u0027education",
-    "size": 3
-  },
-  {
-    "text": "cité",
     "size": 3
   },
   {
@@ -356,31 +336,11 @@
     "size": 3
   },
   {
-    "text": "kleine",
-    "size": 3
-  },
-  {
-    "text": "soins",
-    "size": 3
-  },
-  {
-    "text": "elegast",
-    "size": 3
-  },
-  {
-    "text": "jardin",
+    "text": "emmaüs",
     "size": 3
   },
   {
     "text": "familiale",
-    "size": 3
-  },
-  {
-    "text": "care",
-    "size": 3
-  },
-  {
-    "text": "liege",
     "size": 3
   },
   {
@@ -396,27 +356,15 @@
     "size": 3
   },
   {
-    "text": "ouvert",
-    "size": 3
-  },
-  {
     "text": "clos",
     "size": 3
   },
   {
-    "text": "joba",
-    "size": 3
-  },
-  {
-    "text": "thuislozen",
+    "text": "femmes",
     "size": 3
   },
   {
     "text": "paul",
-    "size": 3
-  },
-  {
-    "text": "sentiers",
     "size": 3
   },
   {
@@ -428,15 +376,7 @@
     "size": 3
   },
   {
-    "text": "auberge",
-    "size": 3
-  },
-  {
-    "text": "spa",
-    "size": 3
-  },
-  {
-    "text": "social",
+    "text": "villa",
     "size": 3
   },
   {
@@ -456,10 +396,6 @@
     "size": 3
   },
   {
-    "text": "aide",
-    "size": 3
-  },
-  {
     "text": "belgique",
     "size": 3
   },
@@ -468,11 +404,103 @@
     "size": 3
   },
   {
-    "text": "serviceflat",
+    "text": "educative",
     "size": 3
   },
   {
-    "text": "educative",
+    "text": "d\u0027acceuil",
+    "size": 3
+  },
+  {
+    "text": "l\u0027enfant",
+    "size": 3
+  },
+  {
+    "text": "demandeurs",
+    "size": 3
+  },
+  {
+    "text": "beschut",
+    "size": 3
+  },
+  {
+    "text": "fontaine",
+    "size": 3
+  },
+  {
+    "text": "engels",
+    "size": 3
+  },
+  {
+    "text": "d\u0027asile",
+    "size": 3
+  },
+  {
+    "text": "d\u0027education",
+    "size": 3
+  },
+  {
+    "text": "cité",
+    "size": 3
+  },
+  {
+    "text": "lieues",
+    "size": 3
+  },
+  {
+    "text": "takel",
+    "size": 3
+  },
+  {
+    "text": "kleine",
+    "size": 3
+  },
+  {
+    "text": "soins",
+    "size": 3
+  },
+  {
+    "text": "elegast",
+    "size": 3
+  },
+  {
+    "text": "stichting",
+    "size": 3
+  },
+  {
+    "text": "liege",
+    "size": 3
+  },
+  {
+    "text": "ouvert",
+    "size": 3
+  },
+  {
+    "text": "isabelle",
+    "size": 3
+  },
+  {
+    "text": "thuislozen",
+    "size": 3
+  },
+  {
+    "text": "sentiers",
+    "size": 3
+  },
+  {
+    "text": "auberge",
+    "size": 3
+  },
+  {
+    "text": "social",
+    "size": 3
+  },
+  {
+    "text": "aide",
+    "size": 3
+  },
+  {
+    "text": "serviceflat",
     "size": 3
   },
   {
@@ -488,11 +516,7 @@
     "size": 3
   },
   {
-    "text": "caw",
-    "size": 3
-  },
-  {
-    "text": "d\u0027acceuil",
+    "text": "sept",
     "size": 3
   },
   {
@@ -504,23 +528,11 @@
     "size": 2
   },
   {
-    "text": "l\u0027accueil",
-    "size": 2
-  },
-  {
     "text": "groot",
     "size": 2
   },
   {
     "text": "gezinsondersteuning",
-    "size": 2
-  },
-  {
-    "text": "observatie",
-    "size": 2
-  },
-  {
-    "text": "orphelins",
     "size": 2
   },
   {
@@ -544,14 +556,6 @@
     "size": 2
   },
   {
-    "text": "onthaaltehuis",
-    "size": 2
-  },
-  {
-    "text": "maréchal",
-    "size": 2
-  },
-  {
     "text": "cig",
     "size": 2
   },
@@ -560,31 +564,11 @@
     "size": 2
   },
   {
-    "text": "toit",
-    "size": 2
-  },
-  {
     "text": "woonbegeleiding",
     "size": 2
   },
   {
-    "text": "ivo",
-    "size": 2
-  },
-  {
     "text": "schommel",
-    "size": 2
-  },
-  {
-    "text": "linde",
-    "size": 2
-  },
-  {
-    "text": "westvlaams",
-    "size": 2
-  },
-  {
-    "text": "arlon",
     "size": 2
   },
   {
@@ -596,11 +580,11 @@
     "size": 2
   },
   {
-    "text": "protection",
+    "text": "poets",
     "size": 2
   },
   {
-    "text": "gesloten",
+    "text": "protection",
     "size": 2
   },
   {
@@ -608,19 +592,7 @@
     "size": 2
   },
   {
-    "text": "heide",
-    "size": 2
-  },
-  {
     "text": "caserne",
-    "size": 2
-  },
-  {
-    "text": "filles",
-    "size": 2
-  },
-  {
-    "text": "cite",
     "size": 2
   },
   {
@@ -628,23 +600,7 @@
     "size": 2
   },
   {
-    "text": "godtschalck",
-    "size": 2
-  },
-  {
     "text": "hadron",
-    "size": 2
-  },
-  {
-    "text": "belgium",
-    "size": 2
-  },
-  {
-    "text": "ney",
-    "size": 2
-  },
-  {
-    "text": "domaine",
     "size": 2
   },
   {
@@ -652,15 +608,7 @@
     "size": 2
   },
   {
-    "text": "joseph",
-    "size": 2
-  },
-  {
     "text": "kempen",
-    "size": 2
-  },
-  {
-    "text": "vrede",
     "size": 2
   },
   {
@@ -672,19 +620,7 @@
     "size": 2
   },
   {
-    "text": "jac",
-    "size": 2
-  },
-  {
     "text": "molenberg",
-    "size": 2
-  },
-  {
-    "text": "kamerbewoning",
-    "size": 2
-  },
-  {
-    "text": "app",
     "size": 2
   },
   {
@@ -696,31 +632,7 @@
     "size": 2
   },
   {
-    "text": "joli-bois",
-    "size": 2
-  },
-  {
-    "text": "ankertje",
-    "size": 2
-  },
-  {
-    "text": "art",
-    "size": 2
-  },
-  {
-    "text": "tout",
-    "size": 2
-  },
-  {
-    "text": "goretti",
-    "size": 2
-  },
-  {
-    "text": "mols",
-    "size": 2
-  },
-  {
-    "text": "emmaüs",
+    "text": "jeugdhuis",
     "size": 2
   },
   {
@@ -732,10 +644,6 @@
     "size": 2
   },
   {
-    "text": "thuisbegeleidingsdienst",
-    "size": 2
-  },
-  {
     "text": "heynsdaele",
     "size": 2
   },
@@ -744,27 +652,11 @@
     "size": 2
   },
   {
-    "text": "jules",
-    "size": 2
-  },
-  {
     "text": "federaal",
     "size": 2
   },
   {
-    "text": "jardins",
-    "size": 2
-  },
-  {
     "text": "hei",
-    "size": 2
-  },
-  {
-    "text": "etre",
-    "size": 2
-  },
-  {
-    "text": "administratie",
     "size": 2
   },
   {
@@ -776,35 +668,11 @@
     "size": 2
   },
   {
-    "text": "notre-dame",
-    "size": 2
-  },
-  {
-    "text": "georges",
-    "size": 2
-  },
-  {
-    "text": "ariane",
-    "size": 2
-  },
-  {
-    "text": "collectif",
-    "size": 2
-  },
-  {
-    "text": "vriendenkring",
-    "size": 2
-  },
-  {
-    "text": "magnolia",
+    "text": "wallez",
     "size": 2
   },
   {
     "text": "tourelles",
-    "size": 2
-  },
-  {
-    "text": "secretariaat",
     "size": 2
   },
   {
@@ -828,23 +696,11 @@
     "size": 2
   },
   {
-    "text": "talita",
-    "size": 2
-  },
-  {
-    "text": "projects",
-    "size": 2
-  },
-  {
     "text": "levenslust",
     "size": 2
   },
   {
     "text": "christine",
-    "size": 2
-  },
-  {
-    "text": "diga",
     "size": 2
   },
   {
@@ -856,35 +712,15 @@
     "size": 2
   },
   {
-    "text": "femmes",
-    "size": 2
-  },
-  {
-    "text": "co",
-    "size": 2
-  },
-  {
     "text": "gestion",
     "size": 2
   },
   {
+    "text": "vreugdeborg",
+    "size": 2
+  },
+  {
     "text": "jongeren",
-    "size": 2
-  },
-  {
-    "text": "dc",
-    "size": 2
-  },
-  {
-    "text": "l\u0027oasis",
-    "size": 2
-  },
-  {
-    "text": "familial",
-    "size": 2
-  },
-  {
-    "text": "provinciaal",
     "size": 2
   },
   {
@@ -893,18 +729,6 @@
   },
   {
     "text": "kinderzorg",
-    "size": 2
-  },
-  {
-    "text": "hilde",
-    "size": 2
-  },
-  {
-    "text": "matin",
-    "size": 2
-  },
-  {
-    "text": "huurhuis",
     "size": 2
   },
   {
@@ -920,23 +744,11 @@
     "size": 2
   },
   {
-    "text": "fées",
-    "size": 2
-  },
-  {
     "text": "éducative",
     "size": 2
   },
   {
-    "text": "binnenstad",
-    "size": 2
-  },
-  {
     "text": "oriëntatie",
-    "size": 2
-  },
-  {
-    "text": "communaute",
     "size": 2
   },
   {
@@ -952,27 +764,11 @@
     "size": 2
   },
   {
-    "text": "kortrijk",
-    "size": 2
-  },
-  {
-    "text": "emmaus",
-    "size": 2
-  },
-  {
-    "text": "cecile",
-    "size": 2
-  },
-  {
     "text": "trainingscentrum",
     "size": 2
   },
   {
     "text": "nursing",
-    "size": 2
-  },
-  {
-    "text": "zorgverblijf",
     "size": 2
   },
   {
@@ -984,19 +780,223 @@
     "size": 2
   },
   {
-    "text": "philippe",
-    "size": 2
-  },
-  {
     "text": "familiales",
     "size": 2
   },
   {
-    "text": "michotte",
+    "text": "belle-vue",
     "size": 2
   },
   {
-    "text": "nr",
+    "text": "seniorie",
+    "size": 2
+  },
+  {
+    "text": "mfc",
+    "size": 2
+  },
+  {
+    "text": "eigen",
+    "size": 2
+  },
+  {
+    "text": "psycho-sociale",
+    "size": 2
+  },
+  {
+    "text": "pieter",
+    "size": 2
+  },
+  {
+    "text": "christelijke",
+    "size": 2
+  },
+  {
+    "text": "kindertehuis",
+    "size": 2
+  },
+  {
+    "text": "d\u0027urgence",
+    "size": 2
+  },
+  {
+    "text": "29",
+    "size": 2
+  },
+  {
+    "text": "bonheur",
+    "size": 2
+  },
+  {
+    "text": "vereniging",
+    "size": 2
+  },
+  {
+    "text": "advies",
+    "size": 2
+  },
+  {
+    "text": "maisons",
+    "size": 2
+  },
+  {
+    "text": "sofie",
+    "size": 2
+  },
+  {
+    "text": "blanche",
+    "size": 2
+  },
+  {
+    "text": "asselbergs",
+    "size": 2
+  },
+  {
+    "text": "64",
+    "size": 2
+  },
+  {
+    "text": "assistance",
+    "size": 2
+  },
+  {
+    "text": "kering",
+    "size": 2
+  },
+  {
+    "text": "kinderland",
+    "size": 2
+  },
+  {
+    "text": "jongerenwerking",
+    "size": 2
+  },
+  {
+    "text": "internat",
+    "size": 2
+  },
+  {
+    "text": "patio",
+    "size": 2
+  },
+  {
+    "text": "pacis",
+    "size": 2
+  },
+  {
+    "text": "ukkepuk",
+    "size": 2
+  },
+  {
+    "text": "vds",
+    "size": 2
+  },
+  {
+    "text": "dageraad",
+    "size": 2
+  },
+  {
+    "text": "vrouwenopvang",
+    "size": 2
+  },
+  {
+    "text": "zon",
+    "size": 2
+  },
+  {
+    "text": "l\u0027accueil",
+    "size": 2
+  },
+  {
+    "text": "observatie",
+    "size": 2
+  },
+  {
+    "text": "orphelins",
+    "size": 2
+  },
+  {
+    "text": "onthaaltehuis",
+    "size": 2
+  },
+  {
+    "text": "maréchal",
+    "size": 2
+  },
+  {
+    "text": "toit",
+    "size": 2
+  },
+  {
+    "text": "ivo",
+    "size": 2
+  },
+  {
+    "text": "linde",
+    "size": 2
+  },
+  {
+    "text": "westvlaams",
+    "size": 2
+  },
+  {
+    "text": "arlon",
+    "size": 2
+  },
+  {
+    "text": "gesloten",
+    "size": 2
+  },
+  {
+    "text": "heide",
+    "size": 2
+  },
+  {
+    "text": "filles",
+    "size": 2
+  },
+  {
+    "text": "cite",
+    "size": 2
+  },
+  {
+    "text": "poudrière",
+    "size": 2
+  },
+  {
+    "text": "belgium",
+    "size": 2
+  },
+  {
+    "text": "ney",
+    "size": 2
+  },
+  {
+    "text": "domaine",
+    "size": 2
+  },
+  {
+    "text": "estate",
+    "size": 2
+  },
+  {
+    "text": "real",
+    "size": 2
+  },
+  {
+    "text": "joseph",
+    "size": 2
+  },
+  {
+    "text": "vrede",
+    "size": 2
+  },
+  {
+    "text": "jac",
+    "size": 2
+  },
+  {
+    "text": "kamerbewoning",
     "size": 2
   }
 ]

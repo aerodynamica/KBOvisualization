@@ -1,82 +1,142 @@
 [
   {
     "text": "construct",
-    "size": 60
+    "size": 74
   },
   {
     "text": "bvba",
-    "size": 50
-  },
-  {
-    "text": "sprl",
-    "size": 46
-  },
-  {
-    "text": "concept",
-    "size": 33
-  },
-  {
-    "text": "design",
-    "size": 24
+    "size": 73
   },
   {
     "text": "interieur",
-    "size": 23
+    "size": 49
+  },
+  {
+    "text": "sprl",
+    "size": 49
   },
   {
     "text": "tuinen",
-    "size": 22
+    "size": 39
   },
   {
-    "text": "garden",
-    "size": 21
+    "text": "concept",
+    "size": 37
   },
   {
-    "text": "menuiserie",
-    "size": 21
+    "text": "design",
+    "size": 31
   },
   {
     "text": "services",
-    "size": 19
+    "size": 26
   },
   {
-    "text": "wood",
-    "size": 18
+    "text": "garden",
+    "size": 26
   },
   {
     "text": "projects",
-    "size": 17
+    "size": 23
+  },
+  {
+    "text": "wood",
+    "size": 22
+  },
+  {
+    "text": "menuiserie",
+    "size": 22
   },
   {
     "text": "brico",
-    "size": 16
-  },
-  {
-    "text": "nv",
-    "size": 15
-  },
-  {
-    "text": "jardins",
-    "size": 15
-  },
-  {
-    "text": "construction",
-    "size": 15
+    "size": 21
   },
   {
     "text": "algemene",
-    "size": 12
-  },
-  {
-    "text": "thomas",
-    "size": 12
-  },
-  {
-    "text": "ets",
-    "size": 12
+    "size": 20
   },
   {
     "text": "home",
+    "size": 19
+  },
+  {
+    "text": "schrijnwerkerij",
+    "size": 19
+  },
+  {
+    "text": "co",
+    "size": 18
+  },
+  {
+    "text": "construction",
+    "size": 18
+  },
+  {
+    "text": "nv",
+    "size": 16
+  },
+  {
+    "text": "jardins",
+    "size": 16
+  },
+  {
+    "text": "bouw",
+    "size": 16
+  },
+  {
+    "text": "den",
+    "size": 15
+  },
+  {
+    "text": "trading",
+    "size": 14
+  },
+  {
+    "text": "service",
+    "size": 14
+  },
+  {
+    "text": "chassis",
+    "size": 14
+  },
+  {
+    "text": "thomas",
+    "size": 13
+  },
+  {
+    "text": "solutions",
+    "size": 13
+  },
+  {
+    "text": "bart",
+    "size": 13
+  },
+  {
+    "text": "ets",
+    "size": 13
+  },
+  {
+    "text": "houthandel",
+    "size": 13
+  },
+  {
+    "text": "immo",
+    "size": 12
+  },
+  {
+    "text": "pierre",
+    "size": 12
+  },
+  {
+    "text": "davy",
+    "size": 12
+  },
+  {
+    "text": "peter",
+    "size": 12
+  },
+  {
+    "text": "all",
     "size": 12
   },
   {
@@ -84,27 +144,55 @@
     "size": 12
   },
   {
-    "text": "chassis",
+    "text": "deco",
     "size": 12
   },
   {
-    "text": "co",
+    "text": "tom",
     "size": 11
   },
   {
-    "text": "houthandel",
+    "text": "geert",
     "size": 11
   },
   {
-    "text": "immo",
-    "size": 10
+    "text": "invest",
+    "size": 11
   },
   {
-    "text": "den",
-    "size": 10
+    "text": "jardin",
+    "size": 11
   },
   {
     "text": "green",
+    "size": 11
+  },
+  {
+    "text": "consulting",
+    "size": 11
+  },
+  {
+    "text": "group",
+    "size": 11
+  },
+  {
+    "text": "and",
+    "size": 11
+  },
+  {
+    "text": "parket",
+    "size": 11
+  },
+  {
+    "text": "entreprise",
+    "size": 11
+  },
+  {
+    "text": "dakwerken",
+    "size": 11
+  },
+  {
+    "text": "patrick",
     "size": 10
   },
   {
@@ -112,11 +200,11 @@
     "size": 10
   },
   {
-    "text": "davy",
+    "text": "koen",
     "size": 10
   },
   {
-    "text": "group",
+    "text": "international",
     "size": 10
   },
   {
@@ -128,23 +216,27 @@
     "size": 10
   },
   {
-    "text": "bouw",
+    "text": "jan",
     "size": 10
   },
   {
-    "text": "entreprise",
+    "text": "schrijnwerken",
     "size": 10
   },
   {
-    "text": "deco",
+    "text": "constructions",
     "size": 10
   },
   {
-    "text": "pierre",
+    "text": "jonas",
+    "size": 10
+  },
+  {
+    "text": "technics",
     "size": 9
   },
   {
-    "text": "jardin",
+    "text": "david",
     "size": 9
   },
   {
@@ -152,7 +244,15 @@
     "size": 9
   },
   {
-    "text": "service",
+    "text": "pro",
+    "size": 9
+  },
+  {
+    "text": "hout",
+    "size": 9
+  },
+  {
+    "text": "bert",
     "size": 9
   },
   {
@@ -160,11 +260,19 @@
     "size": 9
   },
   {
+    "text": "art",
+    "size": 9
+  },
+  {
     "text": "the",
     "size": 8
   },
   {
-    "text": "tom",
+    "text": "claes",
+    "size": 8
+  },
+  {
+    "text": "kevin",
     "size": 8
   },
   {
@@ -172,11 +280,7 @@
     "size": 8
   },
   {
-    "text": "trading",
-    "size": 8
-  },
-  {
-    "text": "solutions",
+    "text": "marc",
     "size": 8
   },
   {
@@ -184,27 +288,43 @@
     "size": 8
   },
   {
-    "text": "consulting",
+    "text": "bouwwerken",
     "size": 8
   },
   {
-    "text": "pro",
+    "text": "tuinaanleg",
     "size": 8
   },
   {
-    "text": "international",
+    "text": "ramen",
     "size": 8
   },
   {
-    "text": "and",
+    "text": "steve",
     "size": 8
   },
   {
-    "text": "patrick",
+    "text": "toitures",
+    "size": 8
+  },
+  {
+    "text": "tuinwerken",
+    "size": 8
+  },
+  {
+    "text": "deuren",
+    "size": 8
+  },
+  {
+    "text": "tuin",
+    "size": 8
+  },
+  {
+    "text": "company",
     "size": 7
   },
   {
-    "text": "invest",
+    "text": "johan",
     "size": 7
   },
   {
@@ -212,43 +332,55 @@
     "size": 7
   },
   {
-    "text": "david",
+    "text": "vof",
     "size": 7
   },
   {
-    "text": "schrijnwerkerij",
+    "text": "wim",
     "size": 7
   },
   {
-    "text": "all",
+    "text": "michel",
     "size": 7
   },
   {
-    "text": "dakwerken",
+    "text": "afsluitingen",
     "size": 7
   },
   {
-    "text": "constructions",
+    "text": "christophe",
     "size": 7
   },
   {
-    "text": "technics",
-    "size": 6
+    "text": "wellness",
+    "size": 7
+  },
+  {
+    "text": "peeters",
+    "size": 7
+  },
+  {
+    "text": "gert",
+    "size": 7
+  },
+  {
+    "text": "kris",
+    "size": 7
+  },
+  {
+    "text": "filip",
+    "size": 7
   },
   {
     "text": "cie",
     "size": 6
   },
   {
-    "text": "geert",
+    "text": "europe",
     "size": 6
   },
   {
-    "text": "claes",
-    "size": 6
-  },
-  {
-    "text": "marc",
+    "text": "kurt",
     "size": 6
   },
   {
@@ -256,35 +388,43 @@
     "size": 6
   },
   {
+    "text": "steven",
+    "size": 6
+  },
+  {
     "text": "my",
     "size": 6
   },
   {
-    "text": "nicolas",
+    "text": "renov",
     "size": 6
   },
   {
-    "text": "etablissements",
+    "text": "thierry",
     "size": 6
   },
   {
-    "text": "peter",
+    "text": "schilderwerken",
     "size": 6
   },
   {
-    "text": "steve",
+    "text": "verde",
     "size": 6
   },
   {
-    "text": "bert",
+    "text": "interior",
     "size": 6
   },
   {
-    "text": "toitures",
+    "text": "robert",
     "size": 6
   },
   {
-    "text": "art",
+    "text": "boomverzorging",
+    "size": 6
+  },
+  {
+    "text": "trade",
     "size": 6
   },
   {
@@ -296,35 +436,47 @@
     "size": 6
   },
   {
-    "text": "filip",
-    "size": 6
-  },
-  {
-    "text": "kevin",
+    "text": "stefan",
     "size": 5
   },
   {
-    "text": "bart",
+    "text": "kristof",
     "size": 5
   },
   {
-    "text": "bouwwerken",
+    "text": "consult",
     "size": 5
   },
   {
-    "text": "wim",
+    "text": "luc",
     "size": 5
   },
   {
-    "text": "tuinaanleg",
+    "text": "tuincentrum",
     "size": 5
   },
   {
-    "text": "steven",
+    "text": "project",
     "size": 5
   },
   {
-    "text": "michel",
+    "text": "eco",
+    "size": 5
+  },
+  {
+    "text": "bricolage",
+    "size": 5
+  },
+  {
+    "text": "bernard",
+    "size": 5
+  },
+  {
+    "text": "handelsonderneming",
+    "size": 5
+  },
+  {
+    "text": "tuinonderhoud",
     "size": 5
   },
   {
@@ -332,15 +484,19 @@
     "size": 5
   },
   {
-    "text": "afsluitingen",
+    "text": "management",
     "size": 5
   },
   {
-    "text": "renov",
+    "text": "benoit",
     "size": 5
   },
   {
-    "text": "koen",
+    "text": "nicolas",
+    "size": 5
+  },
+  {
+    "text": "frederik",
     "size": 5
   },
   {
@@ -348,15 +504,11 @@
     "size": 5
   },
   {
-    "text": "verde",
+    "text": "etablissements",
     "size": 5
   },
   {
-    "text": "wellness",
-    "size": 5
-  },
-  {
-    "text": "interior",
+    "text": "renovatie",
     "size": 5
   },
   {
@@ -364,19 +516,35 @@
     "size": 5
   },
   {
-    "text": "robert",
+    "text": "michael",
     "size": 5
   },
   {
-    "text": "hout",
+    "text": "timmer",
     "size": 5
   },
   {
-    "text": "jan",
+    "text": "pieter",
     "size": 5
   },
   {
-    "text": "parket",
+    "text": "bouwmaterialen",
+    "size": 5
+  },
+  {
+    "text": "global",
+    "size": 5
+  },
+  {
+    "text": "bouwonderneming",
+    "size": 5
+  },
+  {
+    "text": "benjamin",
+    "size": 5
+  },
+  {
+    "text": "partners",
     "size": 5
   },
   {
@@ -384,11 +552,35 @@
     "size": 5
   },
   {
-    "text": "deuren",
+    "text": "onderhoud",
     "size": 5
   },
   {
-    "text": "kris",
+    "text": "frédéric",
+    "size": 5
+  },
+  {
+    "text": "sam",
+    "size": 5
+  },
+  {
+    "text": "tuinmachines",
+    "size": 5
+  },
+  {
+    "text": "montage",
+    "size": 5
+  },
+  {
+    "text": "alain",
+    "size": 5
+  },
+  {
+    "text": "interieurwerken",
+    "size": 5
+  },
+  {
+    "text": "didier",
     "size": 5
   },
   {
@@ -396,15 +588,19 @@
     "size": 5
   },
   {
-    "text": "jonas",
+    "text": "schrijnwerk",
     "size": 5
   },
   {
-    "text": "stefan",
+    "text": "timmerwerken",
     "size": 4
   },
   {
-    "text": "consult",
+    "text": "roof",
+    "size": 4
+  },
+  {
+    "text": "erik",
     "size": 4
   },
   {
@@ -412,11 +608,15 @@
     "size": 4
   },
   {
+    "text": "vermeersch",
+    "size": 4
+  },
+  {
     "text": "bram",
     "size": 4
   },
   {
-    "text": "company",
+    "text": "dhz",
     "size": 4
   },
   {
@@ -424,19 +624,15 @@
     "size": 4
   },
   {
-    "text": "johan",
-    "size": 4
-  },
-  {
     "text": "stéphane",
     "size": 4
   },
   {
-    "text": "tuincentrum",
+    "text": "bouwbedrijf",
     "size": 4
   },
   {
-    "text": "project",
+    "text": "atelier",
     "size": 4
   },
   {
@@ -448,15 +644,19 @@
     "size": 4
   },
   {
-    "text": "europe",
+    "text": "vdb",
     "size": 4
   },
   {
-    "text": "bricolage",
+    "text": "klus",
     "size": 4
   },
   {
-    "text": "kurt",
+    "text": "centrum",
+    "size": 4
+  },
+  {
+    "text": "gunther",
     "size": 4
   },
   {
@@ -464,19 +664,31 @@
     "size": 4
   },
   {
-    "text": "bernard",
+    "text": "systems",
     "size": 4
   },
   {
-    "text": "handelsonderneming",
+    "text": "di",
     "size": 4
   },
   {
-    "text": "management",
+    "text": "oak",
     "size": 4
   },
   {
-    "text": "benoit",
+    "text": "metal",
+    "size": 4
+  },
+  {
+    "text": "hasselt",
+    "size": 4
+  },
+  {
+    "text": "jeroen",
+    "size": 4
+  },
+  {
+    "text": "euro",
     "size": 4
   },
   {
@@ -484,11 +696,23 @@
     "size": 4
   },
   {
-    "text": "christophe",
+    "text": "lemmens",
     "size": 4
   },
   {
-    "text": "schilderwerken",
+    "text": "frederic",
+    "size": 4
+  },
+  {
+    "text": "sales",
+    "size": 4
+  },
+  {
+    "text": "pauwels",
+    "size": 4
+  },
+  {
+    "text": "ronny",
     "size": 4
   },
   {
@@ -500,7 +724,7 @@
     "size": 4
   },
   {
-    "text": "ramen",
+    "text": "chris",
     "size": 4
   },
   {
@@ -512,19 +736,15 @@
     "size": 4
   },
   {
-    "text": "michael",
+    "text": "products",
     "size": 4
   },
   {
-    "text": "pieter",
+    "text": "s.a",
     "size": 4
   },
   {
-    "text": "bouwmaterialen",
-    "size": 4
-  },
-  {
-    "text": "boomverzorging",
+    "text": "simon",
     "size": 4
   },
   {
@@ -532,19 +752,15 @@
     "size": 4
   },
   {
-    "text": "trade",
+    "text": "interieurs",
     "size": 4
   },
   {
-    "text": "benjamin",
+    "text": "martens",
     "size": 4
   },
   {
     "text": "maatwerk",
-    "size": 4
-  },
-  {
-    "text": "tuinwerken",
     "size": 4
   },
   {
@@ -556,15 +772,15 @@
     "size": 4
   },
   {
+    "text": "jonathan",
+    "size": 4
+  },
+  {
     "text": "cash",
     "size": 4
   },
   {
-    "text": "schrijnwerken",
-    "size": 4
-  },
-  {
-    "text": "gert",
+    "text": "dieter",
     "size": 4
   },
   {
@@ -572,15 +788,11 @@
     "size": 4
   },
   {
-    "text": "alain",
+    "text": "decor",
     "size": 4
   },
   {
     "text": "interiors",
-    "size": 4
-  },
-  {
-    "text": "didier",
     "size": 4
   },
   {
@@ -593,10 +805,6 @@
   },
   {
     "text": "francois",
-    "size": 4
-  },
-  {
-    "text": "stone",
     "size": 4
   },
   {
@@ -616,11 +824,15 @@
     "size": 3
   },
   {
-    "text": "roof",
+    "text": "tim",
     "size": 3
   },
   {
-    "text": "kristof",
+    "text": "desmet",
+    "size": 3
+  },
+  {
+    "text": "mathieu",
     "size": 3
   },
   {
@@ -628,7 +840,19 @@
     "size": 3
   },
   {
-    "text": "erik",
+    "text": "studio",
+    "size": 3
+  },
+  {
+    "text": "wouter",
+    "size": 3
+  },
+  {
+    "text": "everaert",
+    "size": 3
+  },
+  {
+    "text": "angelo",
     "size": 3
   },
   {
@@ -640,7 +864,15 @@
     "size": 3
   },
   {
-    "text": "luc",
+    "text": "brecht",
+    "size": 3
+  },
+  {
+    "text": "denis",
+    "size": 3
+  },
+  {
+    "text": "devos",
     "size": 3
   },
   {
@@ -648,7 +880,27 @@
     "size": 3
   },
   {
-    "text": "eco",
+    "text": "bouwcenter",
+    "size": 3
+  },
+  {
+    "text": "sneyers",
+    "size": 3
+  },
+  {
+    "text": "work",
+    "size": 3
+  },
+  {
+    "text": "dumont",
+    "size": 3
+  },
+  {
+    "text": "verschueren",
+    "size": 3
+  },
+  {
+    "text": "tuindesign",
     "size": 3
   },
   {
@@ -668,11 +920,31 @@
     "size": 3
   },
   {
+    "text": "special",
+    "size": 3
+  },
+  {
+    "text": "herman",
+    "size": 3
+  },
+  {
+    "text": "marcel",
+    "size": 3
+  },
+  {
     "text": "new",
     "size": 3
   },
   {
-    "text": "gunther",
+    "text": "woods",
+    "size": 3
+  },
+  {
+    "text": "transport",
+    "size": 3
+  },
+  {
+    "text": "hubo",
     "size": 3
   },
   {
@@ -692,15 +964,19 @@
     "size": 3
   },
   {
+    "text": "huis",
+    "size": 3
+  },
+  {
+    "text": "eeckhout",
+    "size": 3
+  },
+  {
     "text": "supersauna",
     "size": 3
   },
   {
     "text": "elec",
-    "size": 3
-  },
-  {
-    "text": "tuinonderhoud",
     "size": 3
   },
   {
@@ -716,287 +992,11 @@
     "size": 3
   },
   {
-    "text": "systems",
+    "text": "frank",
     "size": 3
   },
   {
-    "text": "da",
+    "text": "bg",
     "size": 3
-  },
-  {
-    "text": "di",
-    "size": 3
-  },
-  {
-    "text": "carre",
-    "size": 3
-  },
-  {
-    "text": "oak",
-    "size": 3
-  },
-  {
-    "text": "metal",
-    "size": 3
-  },
-  {
-    "text": "eddy",
-    "size": 3
-  },
-  {
-    "text": "hasselt",
-    "size": 3
-  },
-  {
-    "text": "lb",
-    "size": 3
-  },
-  {
-    "text": "daniel",
-    "size": 3
-  },
-  {
-    "text": "jeroen",
-    "size": 3
-  },
-  {
-    "text": "noel",
-    "size": 3
-  },
-  {
-    "text": "thierry",
-    "size": 3
-  },
-  {
-    "text": "euro",
-    "size": 3
-  },
-  {
-    "text": "lemmens",
-    "size": 3
-  },
-  {
-    "text": "frederik",
-    "size": 3
-  },
-  {
-    "text": "distribution",
-    "size": 3
-  },
-  {
-    "text": "sales",
-    "size": 3
-  },
-  {
-    "text": "pauwels",
-    "size": 3
-  },
-  {
-    "text": "aveve",
-    "size": 3
-  },
-  {
-    "text": "groen",
-    "size": 3
-  },
-  {
-    "text": "roland",
-    "size": 3
-  },
-  {
-    "text": "chauffage",
-    "size": 3
-  },
-  {
-    "text": "chape",
-    "size": 3
-  },
-  {
-    "text": "gillet",
-    "size": 3
-  },
-  {
-    "text": "gilles",
-    "size": 3
-  },
-  {
-    "text": "danny",
-    "size": 3
-  },
-  {
-    "text": "petit",
-    "size": 3
-  },
-  {
-    "text": "entreprises",
-    "size": 3
-  },
-  {
-    "text": "products",
-    "size": 3
-  },
-  {
-    "text": "timmer",
-    "size": 3
-  },
-  {
-    "text": "ludovic",
-    "size": 3
-  },
-  {
-    "text": "vermeulen",
-    "size": 3
-  },
-  {
-    "text": "simon",
-    "size": 3
-  },
-  {
-    "text": "travaux",
-    "size": 3
-  },
-  {
-    "text": "interieurs",
-    "size": 3
-  },
-  {
-    "text": "pool",
-    "size": 3
-  },
-  {
-    "text": "bouwonderneming",
-    "size": 3
-  },
-  {
-    "text": "air",
-    "size": 3
-  },
-  {
-    "text": "engels",
-    "size": 3
-  },
-  {
-    "text": "partners",
-    "size": 3
-  },
-  {
-    "text": "dieter",
-    "size": 3
-  },
-  {
-    "text": "style",
-    "size": 3
-  },
-  {
-    "text": "onderhoud",
-    "size": 3
-  },
-  {
-    "text": "frédéric",
-    "size": 3
-  },
-  {
-    "text": "tuinmachines",
-    "size": 3
-  },
-  {
-    "text": "interieurwerken",
-    "size": 3
-  },
-  {
-    "text": "decor",
-    "size": 3
-  },
-  {
-    "text": "spa",
-    "size": 3
-  },
-  {
-    "text": "horta",
-    "size": 3
-  },
-  {
-    "text": "benelux",
-    "size": 3
-  },
-  {
-    "text": "dimitri",
-    "size": 3
-  },
-  {
-    "text": "express",
-    "size": 3
-  },
-  {
-    "text": "schrijnwerk",
-    "size": 3
-  },
-  {
-    "text": "verte",
-    "size": 3
-  },
-  {
-    "text": "verstraete",
-    "size": 2
-  },
-  {
-    "text": "roos",
-    "size": 2
-  },
-  {
-    "text": "mathieu",
-    "size": 2
-  },
-  {
-    "text": "plafond",
-    "size": 2
-  },
-  {
-    "text": "industries",
-    "size": 2
-  },
-  {
-    "text": "prest",
-    "size": 2
-  },
-  {
-    "text": "weyn",
-    "size": 2
-  },
-  {
-    "text": "creation",
-    "size": 2
-  },
-  {
-    "text": "house",
-    "size": 2
-  },
-  {
-    "text": "lifestyle",
-    "size": 2
-  },
-  {
-    "text": "n.s",
-    "size": 2
-  },
-  {
-    "text": "flowers",
-    "size": 2
-  },
-  {
-    "text": "everaert",
-    "size": 2
-  },
-  {
-    "text": "angelo",
-    "size": 2
-  },
-  {
-    "text": "cauwenberghs",
-    "size": 2
-  },
-  {
-    "text": "centre",
-    "size": 2
   }
 ]

@@ -1,22 +1,34 @@
 [
   {
     "text": "fruit",
-    "size": 21
-  },
-  {
-    "text": "ferme",
-    "size": 14
-  },
-  {
-    "text": "food",
-    "size": 11
-  },
-  {
-    "text": "belgium",
-    "size": 10
+    "size": 26
   },
   {
     "text": "bvba",
+    "size": 16
+  },
+  {
+    "text": "ferme",
+    "size": 16
+  },
+  {
+    "text": "food",
+    "size": 12
+  },
+  {
+    "text": "belgium",
+    "size": 11
+  },
+  {
+    "text": "nv",
+    "size": 10
+  },
+  {
+    "text": "foods",
+    "size": 9
+  },
+  {
+    "text": "the",
     "size": 8
   },
   {
@@ -24,7 +36,11 @@
     "size": 7
   },
   {
-    "text": "foods",
+    "text": "services",
+    "size": 7
+  },
+  {
+    "text": "fresh",
     "size": 7
   },
   {
@@ -32,11 +48,7 @@
     "size": 7
   },
   {
-    "text": "nv",
-    "size": 7
-  },
-  {
-    "text": "the",
+    "text": "groenten",
     "size": 6
   },
   {
@@ -44,8 +56,12 @@
     "size": 6
   },
   {
-    "text": "services",
+    "text": "fruits",
     "size": 6
+  },
+  {
+    "text": "jardin",
+    "size": 5
   },
   {
     "text": "group",
@@ -56,11 +72,35 @@
     "size": 5
   },
   {
-    "text": "fresh",
+    "text": "cuisine",
     "size": 5
   },
   {
-    "text": "groenten",
+    "text": "traiteur",
+    "size": 4
+  },
+  {
+    "text": "green",
+    "size": 4
+  },
+  {
+    "text": "david",
+    "size": 4
+  },
+  {
+    "text": "den",
+    "size": 4
+  },
+  {
+    "text": "comptoir",
+    "size": 4
+  },
+  {
+    "text": "co",
+    "size": 4
+  },
+  {
+    "text": "safran",
     "size": 4
   },
   {
@@ -68,19 +108,31 @@
     "size": 4
   },
   {
+    "text": "bio",
+    "size": 4
+  },
+  {
     "text": "international",
     "size": 4
   },
   {
-    "text": "cuisine",
+    "text": "délices",
     "size": 4
   },
   {
-    "text": "fruits",
-    "size": 3
+    "text": "natural",
+    "size": 4
+  },
+  {
+    "text": "verger",
+    "size": 4
   },
   {
     "text": "ingredients",
+    "size": 3
+  },
+  {
+    "text": "eric",
     "size": 3
   },
   {
@@ -88,7 +140,7 @@
     "size": 3
   },
   {
-    "text": "jardin",
+    "text": "jos",
     "size": 3
   },
   {
@@ -100,14 +152,6 @@
     "size": 3
   },
   {
-    "text": "co",
-    "size": 3
-  },
-  {
-    "text": "safran",
-    "size": 3
-  },
-  {
     "text": "borgloon",
     "size": 3
   },
@@ -116,11 +160,11 @@
     "size": 3
   },
   {
-    "text": "nature",
+    "text": "lv",
     "size": 3
   },
   {
-    "text": "délices",
+    "text": "nature",
     "size": 3
   },
   {
@@ -128,11 +172,19 @@
     "size": 3
   },
   {
-    "text": "verger",
+    "text": "lambert",
+    "size": 3
+  },
+  {
+    "text": "factory",
     "size": 3
   },
   {
     "text": "farm",
+    "size": 2
+  },
+  {
+    "text": "moors",
     "size": 2
   },
   {
@@ -156,15 +208,27 @@
     "size": 2
   },
   {
+    "text": "vof",
+    "size": 2
+  },
+  {
+    "text": "lens",
+    "size": 2
+  },
+  {
     "text": "agro",
     "size": 2
   },
   {
-    "text": "traiteur",
+    "text": "agri",
     "size": 2
   },
   {
-    "text": "agri",
+    "text": "coffee",
+    "size": 2
+  },
+  {
+    "text": "lady",
     "size": 2
   },
   {
@@ -192,6 +256,10 @@
     "size": 2
   },
   {
+    "text": "pistoleeke",
+    "size": 2
+  },
+  {
     "text": "laura",
     "size": 2
   },
@@ -208,7 +276,19 @@
     "size": 2
   },
   {
+    "text": "café",
+    "size": 2
+  },
+  {
+    "text": "jan",
+    "size": 2
+  },
+  {
     "text": "d\u0027iris",
+    "size": 2
+  },
+  {
+    "text": "pack",
     "size": 2
   },
   {
@@ -216,19 +296,19 @@
     "size": 2
   },
   {
-    "text": "eric",
-    "size": 2
-  },
-  {
     "text": "tomaterie",
     "size": 2
   },
   {
-    "text": "green",
+    "text": "charlier",
     "size": 2
   },
   {
     "text": "jardins",
+    "size": 2
+  },
+  {
+    "text": "creative",
     "size": 2
   },
   {
@@ -245,6 +325,10 @@
   },
   {
     "text": "fruitbedrijf",
+    "size": 2
+  },
+  {
+    "text": "more",
     "size": 2
   },
   {
@@ -276,11 +360,7 @@
     "size": 2
   },
   {
-    "text": "david",
-    "size": 2
-  },
-  {
-    "text": "den",
+    "text": "gezond",
     "size": 2
   },
   {
@@ -292,11 +372,23 @@
     "size": 2
   },
   {
-    "text": "comptoir",
+    "text": "wolfcarius",
     "size": 2
   },
   {
-    "text": "wolfcarius",
+    "text": "isabelle",
+    "size": 2
+  },
+  {
+    "text": "brasserie",
+    "size": 2
+  },
+  {
+    "text": "peter",
+    "size": 2
+  },
+  {
+    "text": "terre",
     "size": 2
   },
   {
@@ -305,6 +397,10 @@
   },
   {
     "text": "hilde",
+    "size": 2
+  },
+  {
+    "text": "alain",
     "size": 2
   },
   {
@@ -324,11 +420,15 @@
     "size": 2
   },
   {
+    "text": "bakkerij",
+    "size": 2
+  },
+  {
     "text": "devos",
     "size": 2
   },
   {
-    "text": "bio",
+    "text": "bruyninckx",
     "size": 2
   },
   {
@@ -337,6 +437,10 @@
   },
   {
     "text": "johan",
+    "size": 2
+  },
+  {
+    "text": "trading",
     "size": 2
   },
   {
@@ -364,11 +468,23 @@
     "size": 2
   },
   {
+    "text": "aminata",
+    "size": 2
+  },
+  {
     "text": "varoxx",
     "size": 2
   },
   {
     "text": "slagerij",
+    "size": 2
+  },
+  {
+    "text": "pieter",
+    "size": 2
+  },
+  {
+    "text": "saison",
     "size": 2
   },
   {
@@ -380,7 +496,7 @@
     "size": 2
   },
   {
-    "text": "hérisson",
+    "text": "star",
     "size": 2
   },
   {
@@ -396,10 +512,6 @@
     "size": 2
   },
   {
-    "text": "natural",
-    "size": 2
-  },
-  {
     "text": "nico",
     "size": 2
   },
@@ -412,7 +524,7 @@
     "size": 2
   },
   {
-    "text": "lambert",
+    "text": "wijndomein",
     "size": 2
   },
   {
@@ -428,19 +540,15 @@
     "size": 2
   },
   {
-    "text": "factory",
-    "size": 2
-  },
-  {
-    "text": "trade",
-    "size": 2
-  },
-  {
     "text": "francis",
     "size": 2
   },
   {
     "text": "renaux",
+    "size": 1
+  },
+  {
+    "text": "kollebloem",
     "size": 1
   },
   {
@@ -452,6 +560,10 @@
     "size": 1
   },
   {
+    "text": "halk",
+    "size": 1
+  },
+  {
     "text": "vestiging",
     "size": 1
   },
@@ -460,11 +572,19 @@
     "size": 1
   },
   {
+    "text": "vie",
+    "size": 1
+  },
+  {
     "text": "barenberg",
     "size": 1
   },
   {
     "text": "nadine",
+    "size": 1
+  },
+  {
+    "text": "raf",
     "size": 1
   },
   {
@@ -516,6 +636,10 @@
     "size": 1
   },
   {
+    "text": "denckens-heremans",
+    "size": 1
+  },
+  {
     "text": "krok\u0027anne",
     "size": 1
   },
@@ -548,11 +672,19 @@
     "size": 1
   },
   {
+    "text": "versmarkt",
+    "size": 1
+  },
+  {
     "text": "dessy",
     "size": 1
   },
   {
     "text": "berghe",
+    "size": 1
+  },
+  {
+    "text": "clarenne",
     "size": 1
   },
   {
@@ -565,6 +697,10 @@
   },
   {
     "text": "helena",
+    "size": 1
+  },
+  {
+    "text": "maxime",
     "size": 1
   },
   {
@@ -584,6 +720,10 @@
     "size": 1
   },
   {
+    "text": "fleur-couleur",
+    "size": 1
+  },
+  {
     "text": "distillerie",
     "size": 1
   },
@@ -597,6 +737,10 @@
   },
   {
     "text": "vraies",
+    "size": 1
+  },
+  {
+    "text": "close",
     "size": 1
   },
   {
@@ -621,6 +765,10 @@
   },
   {
     "text": "vlg",
+    "size": 1
+  },
+  {
+    "text": "peltzer",
     "size": 1
   },
   {
@@ -656,11 +804,15 @@
     "size": 1
   },
   {
+    "text": "mincé",
+    "size": 1
+  },
+  {
     "text": "bosporus",
     "size": 1
   },
   {
-    "text": "mincé",
+    "text": "coopmans",
     "size": 1
   },
   {
@@ -676,11 +828,27 @@
     "size": 1
   },
   {
+    "text": "good",
+    "size": 1
+  },
+  {
     "text": "sylvio",
     "size": 1
   },
   {
     "text": "bergez",
+    "size": 1
+  },
+  {
+    "text": "speakers",
+    "size": 1
+  },
+  {
+    "text": "dapper",
+    "size": 1
+  },
+  {
+    "text": "nusse",
     "size": 1
   },
   {
@@ -692,7 +860,19 @@
     "size": 1
   },
   {
+    "text": "organics",
+    "size": 1
+  },
+  {
+    "text": "elf",
+    "size": 1
+  },
+  {
     "text": "hermyne",
+    "size": 1
+  },
+  {
+    "text": "werken",
     "size": 1
   },
   {
@@ -740,6 +920,10 @@
     "size": 1
   },
   {
+    "text": "yves",
+    "size": 1
+  },
+  {
     "text": "cine",
     "size": 1
   },
@@ -764,6 +948,10 @@
     "size": 1
   },
   {
+    "text": "tomeco",
+    "size": 1
+  },
+  {
     "text": "jeanne",
     "size": 1
   },
@@ -776,11 +964,19 @@
     "size": 1
   },
   {
+    "text": "rabarber",
+    "size": 1
+  },
+  {
     "text": "conserverie",
     "size": 1
   },
   {
     "text": "production",
+    "size": 1
+  },
+  {
+    "text": "handelsmaatschappij",
     "size": 1
   },
   {
@@ -792,11 +988,7 @@
     "size": 1
   },
   {
-    "text": "vof",
-    "size": 1
-  },
-  {
-    "text": "lens",
+    "text": "biosmose",
     "size": 1
   },
   {
@@ -804,199 +996,7 @@
     "size": 1
   },
   {
-    "text": "keukenkoets",
-    "size": 1
-  },
-  {
-    "text": "pcf",
-    "size": 1
-  },
-  {
-    "text": "fruitig",
-    "size": 1
-  },
-  {
-    "text": "dolce",
-    "size": 1
-  },
-  {
-    "text": "rico",
-    "size": 1
-  },
-  {
-    "text": "archipel",
-    "size": 1
-  },
-  {
-    "text": "patrick",
-    "size": 1
-  },
-  {
-    "text": "icconcept",
-    "size": 1
-  },
-  {
-    "text": "steertjeshoeve",
-    "size": 1
-  },
-  {
-    "text": "escargots",
-    "size": 1
-  },
-  {
-    "text": "heyn",
-    "size": 1
-  },
-  {
-    "text": "zilverberg",
-    "size": 1
-  },
-  {
-    "text": "tip-top",
-    "size": 1
-  },
-  {
-    "text": "enz",
-    "size": 1
-  },
-  {
-    "text": "mathieu",
-    "size": 1
-  },
-  {
-    "text": "scierie-foresterie",
-    "size": 1
-  },
-  {
-    "text": "coffee",
-    "size": 1
-  },
-  {
-    "text": "ansgar",
-    "size": 1
-  },
-  {
-    "text": "lady",
-    "size": 1
-  },
-  {
-    "text": "fernelmont",
-    "size": 1
-  },
-  {
-    "text": "ruche",
-    "size": 1
-  },
-  {
-    "text": "tidane",
-    "size": 1
-  },
-  {
-    "text": "bio-unique",
-    "size": 1
-  },
-  {
-    "text": "shah",
-    "size": 1
-  },
-  {
-    "text": "j\u0027aime",
-    "size": 1
-  },
-  {
-    "text": "guillaume",
-    "size": 1
-  },
-  {
-    "text": "huy/waremme",
-    "size": 1
-  },
-  {
-    "text": "herman",
-    "size": 1
-  },
-  {
-    "text": "cruysveld",
-    "size": 1
-  },
-  {
-    "text": "epi",
-    "size": 1
-  },
-  {
-    "text": "kitom",
-    "size": 1
-  },
-  {
-    "text": "tsjuster",
-    "size": 1
-  },
-  {
-    "text": "guldenboom",
-    "size": 1
-  },
-  {
-    "text": "gerben",
-    "size": 1
-  },
-  {
-    "text": "tiarmont",
-    "size": 1
-  },
-  {
-    "text": "jozef",
-    "size": 1
-  },
-  {
-    "text": "hotaru",
-    "size": 1
-  },
-  {
-    "text": "suikerberg",
-    "size": 1
-  },
-  {
-    "text": "bbdesign",
-    "size": 1
-  },
-  {
-    "text": "hoeveslagerij",
-    "size": 1
-  },
-  {
-    "text": "queen",
-    "size": 1
-  },
-  {
-    "text": "guy",
-    "size": 1
-  },
-  {
-    "text": "celo",
-    "size": 1
-  },
-  {
-    "text": "jusdici",
-    "size": 1
-  },
-  {
-    "text": "univeg",
-    "size": 1
-  },
-  {
-    "text": "chappel",
-    "size": 1
-  },
-  {
-    "text": "selma-turen",
-    "size": 1
-  },
-  {
-    "text": "emballage",
-    "size": 1
-  },
-  {
-    "text": "potato",
+    "text": "avalon",
     "size": 1
   }
 ]

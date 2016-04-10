@@ -1,10 +1,18 @@
 [
   {
-    "text": "wijndomein",
-    "size": 9
+    "text": "brouwerij",
+    "size": 12
   },
   {
-    "text": "brouwerij",
+    "text": "wijndomein",
+    "size": 11
+  },
+  {
+    "text": "wine",
+    "size": 7
+  },
+  {
+    "text": "wines",
     "size": 7
   },
   {
@@ -12,11 +20,15 @@
     "size": 6
   },
   {
-    "text": "wine",
+    "text": "brasserie",
     "size": 5
   },
   {
-    "text": "brasserie",
+    "text": "bvba",
+    "size": 5
+  },
+  {
+    "text": "den",
     "size": 4
   },
   {
@@ -24,35 +36,27 @@
     "size": 4
   },
   {
-    "text": "bvba",
+    "text": "sprl",
     "size": 4
   },
   {
-    "text": "den",
-    "size": 3
+    "text": "wijngaard",
+    "size": 4
+  },
+  {
+    "text": "vins",
+    "size": 4
   },
   {
     "text": "co",
     "size": 3
   },
   {
-    "text": "sprl",
-    "size": 3
-  },
-  {
-    "text": "wijngaard",
+    "text": "belgian",
     "size": 3
   },
   {
     "text": "wijngoed",
-    "size": 3
-  },
-  {
-    "text": "wines",
-    "size": 3
-  },
-  {
-    "text": "vins",
     "size": 3
   },
   {
@@ -72,7 +76,19 @@
     "size": 2
   },
   {
+    "text": "comptoir",
+    "size": 2
+  },
+  {
+    "text": "l\u0027espace",
+    "size": 2
+  },
+  {
     "text": "peter",
+    "size": 2
+  },
+  {
+    "text": "danny",
     "size": 2
   },
   {
@@ -88,7 +104,19 @@
     "size": 2
   },
   {
+    "text": "vert",
+    "size": 2
+  },
+  {
     "text": "johan",
+    "size": 2
+  },
+  {
+    "text": "brewery",
+    "size": 2
+  },
+  {
+    "text": "international",
     "size": 2
   },
   {
@@ -101,10 +129,6 @@
   },
   {
     "text": "nv",
-    "size": 2
-  },
-  {
-    "text": "belgian",
     "size": 2
   },
   {
@@ -128,11 +152,23 @@
     "size": 2
   },
   {
+    "text": "bart",
+    "size": 2
+  },
+  {
     "text": "garden",
     "size": 2
   },
   {
     "text": "wijnbouw",
+    "size": 2
+  },
+  {
+    "text": "lambert",
+    "size": 2
+  },
+  {
+    "text": "david",
     "size": 2
   },
   {
@@ -169,6 +205,10 @@
   },
   {
     "text": "farm",
+    "size": 1
+  },
+  {
+    "text": "descombe",
     "size": 1
   },
   {
@@ -232,15 +272,15 @@
     "size": 1
   },
   {
-    "text": "comptoir",
-    "size": 1
-  },
-  {
     "text": "ruwet",
     "size": 1
   },
   {
     "text": "reynaert",
+    "size": 1
+  },
+  {
+    "text": "stadsbrouwerijke",
     "size": 1
   },
   {
@@ -272,10 +312,6 @@
     "size": 1
   },
   {
-    "text": "l\u0027espace",
-    "size": 1
-  },
-  {
     "text": "berghe",
     "size": 1
   },
@@ -293,6 +329,10 @@
   },
   {
     "text": "biosolv",
+    "size": 1
+  },
+  {
+    "text": "seb",
     "size": 1
   },
   {
@@ -368,6 +408,10 @@
     "size": 1
   },
   {
+    "text": "acht",
+    "size": 1
+  },
+  {
     "text": "prebendiers",
     "size": 1
   },
@@ -381,6 +425,10 @@
   },
   {
     "text": "weldia",
+    "size": 1
+  },
+  {
+    "text": "tafel",
     "size": 1
   },
   {
@@ -444,11 +492,11 @@
     "size": 1
   },
   {
-    "text": "danny",
+    "text": "botseberg",
     "size": 1
   },
   {
-    "text": "botseberg",
+    "text": "pietershof",
     "size": 1
   },
   {
@@ -505,6 +553,10 @@
   },
   {
     "text": "biosmose",
+    "size": 1
+  },
+  {
+    "text": "passy",
     "size": 1
   },
   {
@@ -612,11 +664,15 @@
     "size": 1
   },
   {
-    "text": "vinhos",
+    "text": "select",
     "size": 1
   },
   {
-    "text": "vert",
+    "text": "neuve-eglise",
+    "size": 1
+  },
+  {
+    "text": "vinhos",
     "size": 1
   },
   {
@@ -625,6 +681,14 @@
   },
   {
     "text": "construct",
+    "size": 1
+  },
+  {
+    "text": "chateau",
+    "size": 1
+  },
+  {
+    "text": "dalhem",
     "size": 1
   },
   {
@@ -648,6 +712,10 @@
     "size": 1
   },
   {
+    "text": "beverages",
+    "size": 1
+  },
+  {
     "text": "graanstokerij",
     "size": 1
   },
@@ -665,6 +733,10 @@
   },
   {
     "text": "vermeesch",
+    "size": 1
+  },
+  {
+    "text": "marik",
     "size": 1
   },
   {
@@ -716,6 +788,14 @@
     "size": 1
   },
   {
+    "text": "tom",
+    "size": 1
+  },
+  {
+    "text": "marticote",
+    "size": 1
+  },
+  {
     "text": "coutinho",
     "size": 1
   },
@@ -732,7 +812,7 @@
     "size": 1
   },
   {
-    "text": "brewery",
+    "text": "sunnaert",
     "size": 1
   },
   {
@@ -784,6 +864,14 @@
     "size": 1
   },
   {
+    "text": "dekimpe",
+    "size": 1
+  },
+  {
+    "text": "kokoleka",
+    "size": 1
+  },
+  {
     "text": "usa",
     "size": 1
   },
@@ -808,7 +896,23 @@
     "size": 1
   },
   {
+    "text": "jong",
+    "size": 1
+  },
+  {
+    "text": "sol",
+    "size": 1
+  },
+  {
+    "text": "feyter",
+    "size": 1
+  },
+  {
     "text": "laurent",
+    "size": 1
+  },
+  {
+    "text": "than",
     "size": 1
   },
   {
@@ -820,7 +924,7 @@
     "size": 1
   },
   {
-    "text": "international",
+    "text": "inventhiga",
     "size": 1
   },
   {
@@ -840,7 +944,15 @@
     "size": 1
   },
   {
+    "text": "bebidas",
+    "size": 1
+  },
+  {
     "text": "vins\u0027amour",
+    "size": 1
+  },
+  {
+    "text": "vehiculum",
     "size": 1
   },
   {
@@ -868,6 +980,10 @@
     "size": 1
   },
   {
+    "text": "compagnie",
+    "size": 1
+  },
+  {
     "text": "elixirs",
     "size": 1
   },
@@ -881,122 +997,6 @@
   },
   {
     "text": "cinoco",
-    "size": 1
-  },
-  {
-    "text": "simad",
-    "size": 1
-  },
-  {
-    "text": "piro",
-    "size": 1
-  },
-  {
-    "text": "belchar",
-    "size": 1
-  },
-  {
-    "text": "charleroi",
-    "size": 1
-  },
-  {
-    "text": "heerlijk",
-    "size": 1
-  },
-  {
-    "text": "millevertus",
-    "size": 1
-  },
-  {
-    "text": "taranartos",
-    "size": 1
-  },
-  {
-    "text": "pirar",
-    "size": 1
-  },
-  {
-    "text": "wynluyden",
-    "size": 1
-  },
-  {
-    "text": "penen",
-    "size": 1
-  },
-  {
-    "text": "universal",
-    "size": 1
-  },
-  {
-    "text": "servimur",
-    "size": 1
-  },
-  {
-    "text": "vocht",
-    "size": 1
-  },
-  {
-    "text": "nature",
-    "size": 1
-  },
-  {
-    "text": "rosé",
-    "size": 1
-  },
-  {
-    "text": "cru",
-    "size": 1
-  },
-  {
-    "text": "visplat-diner",
-    "size": 1
-  },
-  {
-    "text": "berx",
-    "size": 1
-  },
-  {
-    "text": "lodewijk",
-    "size": 1
-  },
-  {
-    "text": "detombe",
-    "size": 1
-  },
-  {
-    "text": "dard-dard",
-    "size": 1
-  },
-  {
-    "text": "carine",
-    "size": 1
-  },
-  {
-    "text": "gentse",
-    "size": 1
-  },
-  {
-    "text": "grafe",
-    "size": 1
-  },
-  {
-    "text": "zwarte",
-    "size": 1
-  },
-  {
-    "text": "mille",
-    "size": 1
-  },
-  {
-    "text": "cock",
-    "size": 1
-  },
-  {
-    "text": "villa",
-    "size": 1
-  },
-  {
-    "text": "hoppy",
     "size": 1
   }
 ]

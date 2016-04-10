@@ -1,23 +1,27 @@
 [
   {
     "form": "Natuurlijk Persoon",
-    "count": 30
+    "count": 102
   },
   {
     "form": "Andere rechtsvorm",
     "count": 1
   },
   {
+    "form": "Autonoom gemeentebedrijf",
+    "count": 1
+  },
+  {
     "form": "Besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 159
+    "count": 393
   },
   {
     "form": "BTW-eenheid",
-    "count": 5
+    "count": 20
   },
   {
     "form": "Buitenlandse onderneming",
-    "count": 5
+    "count": 9
   },
   {
     "form": "Buitenlandse onderneming zonder Belgische vestiging met vertegenwoordiger voor BTW",
@@ -25,22 +29,30 @@
   },
   {
     "form": "Burgerlijke vennootschap onder vorm van coöperatieve vennootschap met beperkte aansprakelijkheid",
+    "count": 3
+  },
+  {
+    "form": "Coöperatieve vennootschap (oud statuut)",
     "count": 1
   },
   {
     "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid",
-    "count": 19
+    "count": 29
   },
   {
     "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid met een sociaal oogmerk",
-    "count": 3
+    "count": 6
   },
   {
     "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid van publiek recht",
-    "count": 3
+    "count": 4
   },
   {
     "form": "Coöperatieve vennootschap met onbeperkte aansprakelijkheid",
+    "count": 2
+  },
+  {
+    "form": "Dienstverlenende vereniging (Vlaams Gewest)",
     "count": 1
   },
   {
@@ -49,11 +61,15 @@
   },
   {
     "form": "Eenpersoons besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 14
+    "count": 16
   },
   {
     "form": "Gewone commanditaire vennootschap",
-    "count": 5
+    "count": 12
+  },
+  {
+    "form": "Intercommunale",
+    "count": 1
   },
   {
     "form": "Internationale vereniging zonder winstoogmerk",
@@ -61,15 +77,15 @@
   },
   {
     "form": "Naamloze vennootschap",
-    "count": 211
+    "count": 305
   },
   {
     "form": "Opdrachthoudende vereniging (Vlaams Gewest)",
-    "count": 25
+    "count": 29
   },
   {
     "form": "Stad / gemeente",
-    "count": 1
+    "count": 3
   },
   {
     "form": "Stichting van openbaar nut",
@@ -81,11 +97,11 @@
   },
   {
     "form": "Vennootschap of vereniging zonder rechtspersoonlijkheid",
-    "count": 11
+    "count": 21
   },
   {
     "form": "Vennootschap onder firma",
-    "count": 1
+    "count": 4
   },
   {
     "form": "Vereniging van OCMW\u0027s",
@@ -93,6 +109,6 @@
   },
   {
     "form": "Vereniging zonder winstoogmerk",
-    "count": 4
+    "count": 9
   }
 ]

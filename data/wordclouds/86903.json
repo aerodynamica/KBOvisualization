@@ -1,34 +1,42 @@
 [
   {
     "text": "ambulance",
-    "size": 24
+    "size": 27
   },
   {
     "text": "ambulances",
-    "size": 23
+    "size": 26
   },
   {
     "text": "service",
-    "size": 14
-  },
-  {
-    "text": "taxi",
-    "size": 13
+    "size": 17
   },
   {
     "text": "ambulancedienst",
     "size": 12
   },
   {
+    "text": "taxi",
+    "size": 11
+  },
+  {
     "text": "medical",
-    "size": 10
+    "size": 11
   },
   {
     "text": "services",
-    "size": 8
+    "size": 10
   },
   {
     "text": "ambu",
+    "size": 8
+  },
+  {
+    "text": "bvba",
+    "size": 8
+  },
+  {
+    "text": "brandweerpost",
     "size": 7
   },
   {
@@ -38,6 +46,10 @@
   {
     "text": "assistance",
     "size": 7
+  },
+  {
+    "text": "trans",
+    "size": 6
   },
   {
     "text": "rescue",
@@ -56,7 +68,11 @@
     "size": 6
   },
   {
-    "text": "bvba",
+    "text": "group",
+    "size": 6
+  },
+  {
+    "text": "ziekenvervoer",
     "size": 6
   },
   {
@@ -64,11 +80,11 @@
     "size": 5
   },
   {
-    "text": "group",
+    "text": "support",
     "size": 5
   },
   {
-    "text": "ziekenvervoer",
+    "text": "care",
     "size": 5
   },
   {
@@ -76,7 +92,7 @@
     "size": 4
   },
   {
-    "text": "emergency",
+    "text": "all",
     "size": 4
   },
   {
@@ -92,19 +108,43 @@
     "size": 4
   },
   {
+    "text": "limburg",
+    "size": 4
+  },
+  {
+    "text": "vzw",
+    "size": 4
+  },
+  {
     "text": "team",
     "size": 4
   },
   {
-    "text": "support",
+    "text": "solutions",
     "size": 4
   },
   {
-    "text": "care",
-    "size": 4
+    "text": "drive",
+    "size": 3
   },
   {
-    "text": "trans",
+    "text": "ambuteam",
+    "size": 3
+  },
+  {
+    "text": "emergency",
+    "size": 3
+  },
+  {
+    "text": "consultancy",
+    "size": 3
+  },
+  {
+    "text": "alain",
+    "size": 3
+  },
+  {
+    "text": "ems",
     "size": 3
   },
   {
@@ -112,7 +152,7 @@
     "size": 3
   },
   {
-    "text": "all",
+    "text": "and",
     "size": 3
   },
   {
@@ -120,11 +160,11 @@
     "size": 3
   },
   {
-    "text": "limburg",
+    "text": "vlaanderen",
     "size": 3
   },
   {
-    "text": "vzw",
+    "text": "assist",
     "size": 3
   },
   {
@@ -133,10 +173,6 @@
   },
   {
     "text": "life",
-    "size": 3
-  },
-  {
-    "text": "safety",
     "size": 3
   },
   {
@@ -152,12 +188,20 @@
     "size": 3
   },
   {
+    "text": "vervoer",
+    "size": 3
+  },
+  {
     "text": "car",
     "size": 3
   },
   {
     "text": "luc",
     "size": 3
+  },
+  {
+    "text": "vip",
+    "size": 2
   },
   {
     "text": "uitvaartzorg",
@@ -172,11 +216,11 @@
     "size": 2
   },
   {
-    "text": "centrum",
+    "text": "at",
     "size": 2
   },
   {
-    "text": "ambuteam",
+    "text": "centrum",
     "size": 2
   },
   {
@@ -196,19 +240,19 @@
     "size": 2
   },
   {
-    "text": "els",
-    "size": 2
-  },
-  {
-    "text": "ems",
-    "size": 2
-  },
-  {
     "text": "olivier",
     "size": 2
   },
   {
+    "text": "marie",
+    "size": 2
+  },
+  {
     "text": "mobile",
+    "size": 2
+  },
+  {
+    "text": "home",
     "size": 2
   },
   {
@@ -232,7 +276,7 @@
     "size": 2
   },
   {
-    "text": "international",
+    "text": "daniel",
     "size": 2
   },
   {
@@ -240,15 +284,11 @@
     "size": 2
   },
   {
-    "text": "and",
+    "text": "thuisverpleging",
     "size": 2
   },
   {
     "text": "pieter",
-    "size": 2
-  },
-  {
-    "text": "vlaanderen",
     "size": 2
   },
   {
@@ -264,6 +304,10 @@
     "size": 2
   },
   {
+    "text": "global",
+    "size": 2
+  },
+  {
     "text": "dienst",
     "size": 2
   },
@@ -272,15 +316,7 @@
     "size": 2
   },
   {
-    "text": "assist",
-    "size": 2
-  },
-  {
-    "text": "bvd",
-    "size": 2
-  },
-  {
-    "text": "solutions",
+    "text": "fullcontrol",
     "size": 2
   },
   {
@@ -304,6 +340,10 @@
     "size": 2
   },
   {
+    "text": "safety",
+    "size": 2
+  },
+  {
     "text": "cornelis",
     "size": 2
   },
@@ -324,11 +364,23 @@
     "size": 2
   },
   {
+    "text": "stroomer",
+    "size": 2
+  },
+  {
+    "text": "filip",
+    "size": 2
+  },
+  {
     "text": "rode",
     "size": 2
   },
   {
     "text": "elite",
+    "size": 2
+  },
+  {
+    "text": "event",
     "size": 2
   },
   {
@@ -340,15 +392,15 @@
     "size": 2
   },
   {
-    "text": "vervoer",
+    "text": "elisa",
+    "size": 2
+  },
+  {
+    "text": "asbl",
     "size": 2
   },
   {
     "text": "security",
-    "size": 2
-  },
-  {
-    "text": "david",
     "size": 2
   },
   {
@@ -380,11 +432,27 @@
     "size": 1
   },
   {
+    "text": "vastgoed",
+    "size": 1
+  },
+  {
     "text": "meditrans",
     "size": 1
   },
   {
+    "text": "cover-it",
+    "size": 1
+  },
+  {
+    "text": "your",
+    "size": 1
+  },
+  {
     "text": "dendas",
+    "size": 1
+  },
+  {
+    "text": "lux",
     "size": 1
   },
   {
@@ -416,18 +484,6 @@
     "size": 1
   },
   {
-    "text": "cars-den",
-    "size": 1
-  },
-  {
-    "text": "vip",
-    "size": 1
-  },
-  {
-    "text": "robeerst",
-    "size": 1
-  },
-  {
     "text": "coocking",
     "size": 1
   },
@@ -437,6 +493,10 @@
   },
   {
     "text": "outtier",
+    "size": 1
+  },
+  {
+    "text": "conde",
     "size": 1
   },
   {
@@ -461,6 +521,14 @@
   },
   {
     "text": "schakel",
+    "size": 1
+  },
+  {
+    "text": "christine",
+    "size": 1
+  },
+  {
+    "text": "arijs",
     "size": 1
   },
   {
@@ -496,6 +564,10 @@
     "size": 1
   },
   {
+    "text": "cloos",
+    "size": 1
+  },
+  {
     "text": "ambulanciedienst",
     "size": 1
   },
@@ -524,11 +596,15 @@
     "size": 1
   },
   {
-    "text": "drive",
+    "text": "sdk",
     "size": 1
   },
   {
     "text": "m.m.j",
+    "size": 1
+  },
+  {
+    "text": "hof",
     "size": 1
   },
   {
@@ -557,6 +633,10 @@
   },
   {
     "text": "isabelle",
+    "size": 1
+  },
+  {
+    "text": "poppel",
     "size": 1
   },
   {
@@ -593,10 +673,6 @@
   },
   {
     "text": "landrain",
-    "size": 1
-  },
-  {
-    "text": "willebroek",
     "size": 1
   },
   {
@@ -644,11 +720,19 @@
     "size": 1
   },
   {
+    "text": "heghe",
+    "size": 1
+  },
+  {
     "text": "paramedical",
     "size": 1
   },
   {
     "text": "sweet",
+    "size": 1
+  },
+  {
+    "text": "paul",
     "size": 1
   },
   {
@@ -660,7 +744,19 @@
     "size": 1
   },
   {
+    "text": "hannelore",
+    "size": 1
+  },
+  {
+    "text": "bel-air",
+    "size": 1
+  },
+  {
     "text": "gunter",
+    "size": 1
+  },
+  {
+    "text": "sprint",
     "size": 1
   },
   {
@@ -676,6 +772,10 @@
     "size": 1
   },
   {
+    "text": "innovamed",
+    "size": 1
+  },
+  {
     "text": "quadflieg",
     "size": 1
   },
@@ -685,6 +785,14 @@
   },
   {
     "text": "post",
+    "size": 1
+  },
+  {
+    "text": "nathan",
+    "size": 1
+  },
+  {
+    "text": "callebaut",
     "size": 1
   },
   {
@@ -709,10 +817,6 @@
   },
   {
     "text": "adf",
-    "size": 1
-  },
-  {
-    "text": "consultancy",
     "size": 1
   },
   {
@@ -748,11 +852,27 @@
     "size": 1
   },
   {
+    "text": "els",
+    "size": 1
+  },
+  {
     "text": "paramédical",
     "size": 1
   },
   {
-    "text": "alain",
+    "text": "shc",
+    "size": 1
+  },
+  {
+    "text": "yves",
+    "size": 1
+  },
+  {
+    "text": "waregem",
+    "size": 1
+  },
+  {
+    "text": "cupola",
     "size": 1
   },
   {
@@ -769,6 +889,22 @@
   },
   {
     "text": "perfectservice",
+    "size": 1
+  },
+  {
+    "text": "wegridder",
+    "size": 1
+  },
+  {
+    "text": "smet",
+    "size": 1
+  },
+  {
+    "text": "klönhammer",
+    "size": 1
+  },
+  {
+    "text": "harelbeke",
     "size": 1
   },
   {
@@ -808,6 +944,10 @@
     "size": 1
   },
   {
+    "text": "dominique",
+    "size": 1
+  },
+  {
     "text": "navettes",
     "size": 1
   },
@@ -832,11 +972,11 @@
     "size": 1
   },
   {
-    "text": "ambemes",
+    "text": "premereur",
     "size": 1
   },
   {
-    "text": "pajottenland",
+    "text": "ambemes",
     "size": 1
   },
   {
@@ -857,146 +997,6 @@
   },
   {
     "text": "bhn",
-    "size": 1
-  },
-  {
-    "text": "emiel",
-    "size": 1
-  },
-  {
-    "text": "vanden",
-    "size": 1
-  },
-  {
-    "text": "demerie",
-    "size": 1
-  },
-  {
-    "text": "tienen",
-    "size": 1
-  },
-  {
-    "text": "home",
-    "size": 1
-  },
-  {
-    "text": "travels",
-    "size": 1
-  },
-  {
-    "text": "algemeen",
-    "size": 1
-  },
-  {
-    "text": "res-q",
-    "size": 1
-  },
-  {
-    "text": "d\u0027italia",
-    "size": 1
-  },
-  {
-    "text": "herentals",
-    "size": 1
-  },
-  {
-    "text": "ambulo",
-    "size": 1
-  },
-  {
-    "text": "hd",
-    "size": 1
-  },
-  {
-    "text": "oellibrandt",
-    "size": 1
-  },
-  {
-    "text": "goossens",
-    "size": 1
-  },
-  {
-    "text": "eurosamu",
-    "size": 1
-  },
-  {
-    "text": "engelen",
-    "size": 1
-  },
-  {
-    "text": "construct",
-    "size": 1
-  },
-  {
-    "text": "guillaume",
-    "size": 1
-  },
-  {
-    "text": "renotib-groupe",
-    "size": 1
-  },
-  {
-    "text": "bejomar",
-    "size": 1
-  },
-  {
-    "text": "sos-secours",
-    "size": 1
-  },
-  {
-    "text": "dendermonde",
-    "size": 1
-  },
-  {
-    "text": "ambutra",
-    "size": 1
-  },
-  {
-    "text": "noord-limburgse",
-    "size": 1
-  },
-  {
-    "text": "verdin",
-    "size": 1
-  },
-  {
-    "text": "consultances",
-    "size": 1
-  },
-  {
-    "text": "rumpst",
-    "size": 1
-  },
-  {
-    "text": "julien",
-    "size": 1
-  },
-  {
-    "text": "johan",
-    "size": 1
-  },
-  {
-    "text": "cmg",
-    "size": 1
-  },
-  {
-    "text": "jo",
-    "size": 1
-  },
-  {
-    "text": "albrecht",
-    "size": 1
-  },
-  {
-    "text": "co3",
-    "size": 1
-  },
-  {
-    "text": "save",
-    "size": 1
-  },
-  {
-    "text": "cycla",
     "size": 1
   }
 ]

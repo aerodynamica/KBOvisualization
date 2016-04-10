@@ -1,15 +1,19 @@
 [
   {
     "text": "pleisterwerken",
-    "size": 23
+    "size": 24
   },
   {
     "text": "construct",
-    "size": 16
+    "size": 18
   },
   {
     "text": "algemene",
-    "size": 12
+    "size": 13
+  },
+  {
+    "text": "bvba",
+    "size": 11
   },
   {
     "text": "bouwwerken",
@@ -24,20 +28,16 @@
     "size": 9
   },
   {
-    "text": "bvba",
+    "text": "bouw",
     "size": 9
   },
   {
-    "text": "bouw",
+    "text": "building",
     "size": 8
   },
   {
-    "text": "building",
-    "size": 7
-  },
-  {
     "text": "services",
-    "size": 7
+    "size": 8
   },
   {
     "text": "construction",
@@ -48,12 +48,36 @@
     "size": 5
   },
   {
+    "text": "renovatie",
+    "size": 5
+  },
+  {
     "text": "usine",
+    "size": 5
+  },
+  {
+    "text": "den",
+    "size": 5
+  },
+  {
+    "text": "co",
     "size": 5
   },
   {
     "text": "kris",
     "size": 5
+  },
+  {
+    "text": "johan",
+    "size": 5
+  },
+  {
+    "text": "nv",
+    "size": 5
+  },
+  {
+    "text": "carriere",
+    "size": 4
   },
   {
     "text": "patrick",
@@ -76,11 +100,11 @@
     "size": 4
   },
   {
-    "text": "renovatie",
+    "text": "jan",
     "size": 4
   },
   {
-    "text": "jan",
+    "text": "dries",
     "size": 4
   },
   {
@@ -92,19 +116,15 @@
     "size": 4
   },
   {
-    "text": "den",
+    "text": "peter",
     "size": 4
   },
   {
-    "text": "co",
+    "text": "decor",
     "size": 4
   },
   {
     "text": "dirk",
-    "size": 4
-  },
-  {
-    "text": "nv",
     "size": 4
   },
   {
@@ -124,15 +144,15 @@
     "size": 3
   },
   {
-    "text": "carriere",
+    "text": "yves",
+    "size": 3
+  },
+  {
+    "text": "jerry",
     "size": 3
   },
   {
     "text": "geert",
-    "size": 3
-  },
-  {
-    "text": "dries",
     "size": 3
   },
   {
@@ -164,7 +184,7 @@
     "size": 3
   },
   {
-    "text": "peter",
+    "text": "danny",
     "size": 3
   },
   {
@@ -172,15 +192,7 @@
     "size": 3
   },
   {
-    "text": "decor",
-    "size": 3
-  },
-  {
     "text": "interiors",
-    "size": 3
-  },
-  {
-    "text": "johan",
     "size": 3
   },
   {
@@ -212,6 +224,10 @@
     "size": 3
   },
   {
+    "text": "stijn",
+    "size": 3
+  },
+  {
     "text": "decoratiewerken",
     "size": 2
   },
@@ -220,15 +236,7 @@
     "size": 2
   },
   {
-    "text": "yves",
-    "size": 2
-  },
-  {
     "text": "technics",
-    "size": 2
-  },
-  {
-    "text": "jerry",
     "size": 2
   },
   {
@@ -253,6 +261,10 @@
   },
   {
     "text": "dhondt",
+    "size": 2
+  },
+  {
+    "text": "afwerkingsbedrijf",
     "size": 2
   },
   {
@@ -320,6 +332,10 @@
     "size": 2
   },
   {
+    "text": "gilles",
+    "size": 2
+  },
+  {
     "text": "clean",
     "size": 2
   },
@@ -340,7 +356,11 @@
     "size": 2
   },
   {
-    "text": "danny",
+    "text": "michel",
+    "size": 2
+  },
+  {
+    "text": "prefabbeton",
     "size": 2
   },
   {
@@ -360,7 +380,15 @@
     "size": 2
   },
   {
+    "text": "dakwerken",
+    "size": 2
+  },
+  {
     "text": "mb",
+    "size": 2
+  },
+  {
+    "text": "international",
     "size": 2
   },
   {
@@ -373,6 +401,10 @@
   },
   {
     "text": "renov",
+    "size": 2
+  },
+  {
+    "text": "recycling",
     "size": 2
   },
   {
@@ -389,6 +421,10 @@
   },
   {
     "text": "constructions",
+    "size": 2
+  },
+  {
+    "text": "bouwmaterialen",
     "size": 2
   },
   {
@@ -416,7 +452,19 @@
     "size": 2
   },
   {
+    "text": "willem",
+    "size": 2
+  },
+  {
+    "text": "stef",
+    "size": 2
+  },
+  {
     "text": "marc",
+    "size": 2
+  },
+  {
+    "text": "dany",
     "size": 2
   },
   {
@@ -428,7 +476,7 @@
     "size": 2
   },
   {
-    "text": "stijn",
+    "text": "cbr",
     "size": 2
   },
   {
@@ -476,11 +524,19 @@
     "size": 1
   },
   {
+    "text": "sensenergy",
+    "size": 1
+  },
+  {
     "text": "chrigabo",
     "size": 1
   },
   {
     "text": "neirynck",
+    "size": 1
+  },
+  {
+    "text": "maarten",
     "size": 1
   },
   {
@@ -544,6 +600,14 @@
     "size": 1
   },
   {
+    "text": "martens",
+    "size": 1
+  },
+  {
+    "text": "masson",
+    "size": 1
+  },
+  {
     "text": "kenneth",
     "size": 1
   },
@@ -560,7 +624,15 @@
     "size": 1
   },
   {
+    "text": "grond",
+    "size": 1
+  },
+  {
     "text": "pst-partners",
+    "size": 1
+  },
+  {
+    "text": "crepi-bel",
     "size": 1
   },
   {
@@ -604,11 +676,19 @@
     "size": 1
   },
   {
+    "text": "bouckaert",
+    "size": 1
+  },
+  {
     "text": "tim",
     "size": 1
   },
   {
     "text": "tip",
+    "size": 1
+  },
+  {
+    "text": "b-design",
     "size": 1
   },
   {
@@ -624,7 +704,15 @@
     "size": 1
   },
   {
+    "text": "verstraete",
+    "size": 1
+  },
+  {
     "text": "allround",
+    "size": 1
+  },
+  {
+    "text": "materials",
     "size": 1
   },
   {
@@ -648,6 +736,10 @@
     "size": 1
   },
   {
+    "text": "liesl",
+    "size": 1
+  },
+  {
     "text": "kopydlowski",
     "size": 1
   },
@@ -657,6 +749,10 @@
   },
   {
     "text": "paintings",
+    "size": 1
+  },
+  {
+    "text": "vucom",
     "size": 1
   },
   {
@@ -673,6 +769,10 @@
   },
   {
     "text": "danhieux",
+    "size": 1
+  },
+  {
+    "text": "damian",
     "size": 1
   },
   {
@@ -808,6 +908,10 @@
     "size": 1
   },
   {
+    "text": "verec",
+    "size": 1
+  },
+  {
     "text": "djolle",
     "size": 1
   },
@@ -825,6 +929,10 @@
   },
   {
     "text": "toni",
+    "size": 1
+  },
+  {
+    "text": "cemminerals",
     "size": 1
   },
   {
@@ -872,6 +980,14 @@
     "size": 1
   },
   {
+    "text": "art-imo",
+    "size": 1
+  },
+  {
+    "text": "ionut",
+    "size": 1
+  },
+  {
     "text": "bacrau",
     "size": 1
   },
@@ -881,122 +997,6 @@
   },
   {
     "text": "gvs",
-    "size": 1
-  },
-  {
-    "text": "helmut",
-    "size": 1
-  },
-  {
-    "text": "vercammen",
-    "size": 1
-  },
-  {
-    "text": "cnv",
-    "size": 1
-  },
-  {
-    "text": "liquid-kurk",
-    "size": 1
-  },
-  {
-    "text": "vandycke",
-    "size": 1
-  },
-  {
-    "text": "celi",
-    "size": 1
-  },
-  {
-    "text": "victor-meyer",
-    "size": 1
-  },
-  {
-    "text": "2.0",
-    "size": 1
-  },
-  {
-    "text": "retroconstruct",
-    "size": 1
-  },
-  {
-    "text": "logic",
-    "size": 1
-  },
-  {
-    "text": "denaeghel",
-    "size": 1
-  },
-  {
-    "text": "alba",
-    "size": 1
-  },
-  {
-    "text": "vasile",
-    "size": 1
-  },
-  {
-    "text": "saras",
-    "size": 1
-  },
-  {
-    "text": "west",
-    "size": 1
-  },
-  {
-    "text": "wouters",
-    "size": 1
-  },
-  {
-    "text": "machineverhuur",
-    "size": 1
-  },
-  {
-    "text": "construction-renovation-nettoyage",
-    "size": 1
-  },
-  {
-    "text": "spoor",
-    "size": 1
-  },
-  {
-    "text": "net",
-    "size": 1
-  },
-  {
-    "text": "calaerts",
-    "size": 1
-  },
-  {
-    "text": "picard",
-    "size": 1
-  },
-  {
-    "text": "impecco",
-    "size": 1
-  },
-  {
-    "text": "niebojewski",
-    "size": 1
-  },
-  {
-    "text": "marcel",
-    "size": 1
-  },
-  {
-    "text": "warre",
-    "size": 1
-  },
-  {
-    "text": "emarub",
-    "size": 1
-  },
-  {
-    "text": "andy",
-    "size": 1
-  },
-  {
-    "text": "achim",
     "size": 1
   }
 ]

@@ -1,10 +1,14 @@
 [
   {
+    "text": "finance",
+    "size": 15
+  },
+  {
     "text": "immo",
     "size": 14
   },
   {
-    "text": "finance",
+    "text": "bvba",
     "size": 10
   },
   {
@@ -12,7 +16,23 @@
     "size": 8
   },
   {
+    "text": "credit",
+    "size": 8
+  },
+  {
+    "text": "belgium",
+    "size": 8
+  },
+  {
+    "text": "zakenkantoor",
+    "size": 7
+  },
+  {
     "text": "era",
+    "size": 7
+  },
+  {
+    "text": "group",
     "size": 7
   },
   {
@@ -28,23 +48,39 @@
     "size": 6
   },
   {
-    "text": "belgium",
+    "text": "partners",
     "size": 6
   },
   {
-    "text": "group",
-    "size": 6
+    "text": "kbc",
+    "size": 5
+  },
+  {
+    "text": "bank",
+    "size": 5
   },
   {
     "text": "services",
     "size": 5
   },
   {
-    "text": "zakenkantoor",
+    "text": "center",
     "size": 5
   },
   {
-    "text": "partners",
+    "text": "branch",
+    "size": 4
+  },
+  {
+    "text": "capital",
+    "size": 4
+  },
+  {
+    "text": "financial",
+    "size": 4
+  },
+  {
+    "text": "invest",
     "size": 4
   },
   {
@@ -52,28 +88,16 @@
     "size": 4
   },
   {
+    "text": "kantoor",
+    "size": 4
+  },
+  {
     "text": "paribas",
-    "size": 4
-  },
-  {
-    "text": "credit",
-    "size": 4
-  },
-  {
-    "text": "bvba",
     "size": 4
   },
   {
     "text": "cbc",
     "size": 4
-  },
-  {
-    "text": "vendor",
-    "size": 3
-  },
-  {
-    "text": "invest",
-    "size": 3
   },
   {
     "text": "agence",
@@ -100,11 +124,27 @@
     "size": 3
   },
   {
-    "text": "kantoor",
+    "text": "bnp",
     "size": 3
   },
   {
-    "text": "bnp",
+    "text": "nv",
+    "size": 3
+  },
+  {
+    "text": "beheer",
+    "size": 3
+  },
+  {
+    "text": "vendor",
+    "size": 3
+  },
+  {
+    "text": "janssens",
+    "size": 3
+  },
+  {
+    "text": "jos",
     "size": 3
   },
   {
@@ -112,23 +152,23 @@
     "size": 3
   },
   {
-    "text": "kbc",
-    "size": 3
-  },
-  {
     "text": "vastgoed",
     "size": 2
   },
   {
-    "text": "branch",
+    "text": "den",
     "size": 2
   },
   {
-    "text": "benelux",
+    "text": "lloyd",
     "size": 2
   },
   {
-    "text": "roeck",
+    "text": "mutuel",
+    "size": 2
+  },
+  {
+    "text": "be",
     "size": 2
   },
   {
@@ -136,19 +176,23 @@
     "size": 2
   },
   {
-    "text": "sc",
-    "size": 2
-  },
-  {
     "text": "immotheker",
     "size": 2
   },
   {
-    "text": "vrancken",
+    "text": "credimatic",
     "size": 2
   },
   {
-    "text": "commercial",
+    "text": "european",
+    "size": 2
+  },
+  {
+    "text": "treasury",
+    "size": 2
+  },
+  {
+    "text": "konings",
     "size": 2
   },
   {
@@ -160,11 +204,71 @@
     "size": 2
   },
   {
-    "text": "center",
+    "text": "management",
     "size": 2
   },
   {
-    "text": "management",
+    "text": "agentschap",
+    "size": 2
+  },
+  {
+    "text": "trading",
+    "size": 2
+  },
+  {
+    "text": "bogaert",
+    "size": 2
+  },
+  {
+    "text": "protection",
+    "size": 2
+  },
+  {
+    "text": "s.a",
+    "size": 2
+  },
+  {
+    "text": "compagnie",
+    "size": 2
+  },
+  {
+    "text": "delta",
+    "size": 2
+  },
+  {
+    "text": "benelux",
+    "size": 2
+  },
+  {
+    "text": "rd",
+    "size": 2
+  },
+  {
+    "text": "roeck",
+    "size": 2
+  },
+  {
+    "text": "sc",
+    "size": 2
+  },
+  {
+    "text": "consulting",
+    "size": 2
+  },
+  {
+    "text": "vrancken",
+    "size": 2
+  },
+  {
+    "text": "commercial",
+    "size": 2
+  },
+  {
+    "text": "uk",
+    "size": 2
+  },
+  {
+    "text": "verzekeringen",
     "size": 2
   },
   {
@@ -176,23 +280,31 @@
     "size": 2
   },
   {
+    "text": "crelan",
+    "size": 2
+  },
+  {
     "text": "eurofactor",
     "size": 2
   },
   {
-    "text": "s.a",
+    "text": "brussels",
     "size": 2
   },
   {
-    "text": "financial",
+    "text": "argenta",
     "size": 2
   },
   {
-    "text": "nv",
+    "text": "finalux",
     "size": 2
   },
   {
-    "text": "beheer",
+    "text": "leroy",
+    "size": 2
+  },
+  {
+    "text": "ing",
     "size": 2
   },
   {
@@ -208,14 +320,6 @@
     "size": 1
   },
   {
-    "text": "immobiliën",
-    "size": 1
-  },
-  {
-    "text": "delta",
-    "size": 1
-  },
-  {
     "text": "fin",
     "size": 1
   },
@@ -224,15 +328,11 @@
     "size": 1
   },
   {
-    "text": "den",
-    "size": 1
-  },
-  {
-    "text": "johnson",
-    "size": 1
-  },
-  {
     "text": "fintech",
+    "size": 1
+  },
+  {
+    "text": "fransen",
     "size": 1
   },
   {
@@ -240,11 +340,7 @@
     "size": 1
   },
   {
-    "text": "beobank",
-    "size": 1
-  },
-  {
-    "text": "a.c.r.-credit",
+    "text": "dircs",
     "size": 1
   },
   {
@@ -252,19 +348,11 @@
     "size": 1
   },
   {
-    "text": "azimut",
-    "size": 1
-  },
-  {
-    "text": "bank",
-    "size": 1
-  },
-  {
     "text": "music",
     "size": 1
   },
   {
-    "text": "t-services",
+    "text": "verschingel",
     "size": 1
   },
   {
@@ -272,15 +360,15 @@
     "size": 1
   },
   {
-    "text": "minerva",
+    "text": "easyrent",
+    "size": 1
+  },
+  {
+    "text": "record",
     "size": 1
   },
   {
     "text": "impic",
-    "size": 1
-  },
-  {
-    "text": "lloyd",
     "size": 1
   },
   {
@@ -296,11 +384,11 @@
     "size": 1
   },
   {
-    "text": "ad",
+    "text": "marynissen",
     "size": 1
   },
   {
-    "text": "ceuleneer",
+    "text": "ad",
     "size": 1
   },
   {
@@ -312,10 +400,6 @@
     "size": 1
   },
   {
-    "text": "servilux",
-    "size": 1
-  },
-  {
     "text": "investment",
     "size": 1
   },
@@ -324,15 +408,15 @@
     "size": 1
   },
   {
-    "text": "croes-vercauteren",
+    "text": "iseghem",
     "size": 1
   },
   {
-    "text": "vlassenbroeck",
+    "text": "planning",
     "size": 1
   },
   {
-    "text": "rd",
+    "text": "yvan",
     "size": 1
   },
   {
@@ -340,11 +424,7 @@
     "size": 1
   },
   {
-    "text": "creytens.com",
-    "size": 1
-  },
-  {
-    "text": "mutuel",
+    "text": "reusel",
     "size": 1
   },
   {
@@ -356,15 +436,7 @@
     "size": 1
   },
   {
-    "text": "fiduciaire",
-    "size": 1
-  },
-  {
-    "text": "bsv",
-    "size": 1
-  },
-  {
-    "text": "global",
+    "text": "hubert",
     "size": 1
   },
   {
@@ -372,7 +444,7 @@
     "size": 1
   },
   {
-    "text": "j.m.h",
+    "text": "hans",
     "size": 1
   },
   {
@@ -380,19 +452,11 @@
     "size": 1
   },
   {
-    "text": "figarec",
-    "size": 1
-  },
-  {
     "text": "juridisch",
     "size": 1
   },
   {
-    "text": "weyn",
-    "size": 1
-  },
-  {
-    "text": "atirel",
+    "text": "peter",
     "size": 1
   },
   {
@@ -400,19 +464,11 @@
     "size": 1
   },
   {
-    "text": "hees",
+    "text": "cb",
     "size": 1
   },
   {
-    "text": "carefin",
-    "size": 1
-  },
-  {
-    "text": "l.v.b",
-    "size": 1
-  },
-  {
-    "text": "semois",
+    "text": "sainte",
     "size": 1
   },
   {
@@ -424,15 +480,11 @@
     "size": 1
   },
   {
+    "text": "business",
+    "size": 1
+  },
+  {
     "text": "bourg",
-    "size": 1
-  },
-  {
-    "text": "courtois",
-    "size": 1
-  },
-  {
-    "text": "consulting",
     "size": 1
   },
   {
@@ -440,19 +492,11 @@
     "size": 1
   },
   {
-    "text": "janssens",
+    "text": "veraart",
     "size": 1
   },
   {
-    "text": "thierry",
-    "size": 1
-  },
-  {
-    "text": "secury",
-    "size": 1
-  },
-  {
-    "text": "esgemo",
+    "text": "co",
     "size": 1
   },
   {
@@ -460,19 +504,7 @@
     "size": 1
   },
   {
-    "text": "standing",
-    "size": 1
-  },
-  {
     "text": "cfs",
-    "size": 1
-  },
-  {
-    "text": "marketing",
-    "size": 1
-  },
-  {
-    "text": "calomme",
     "size": 1
   },
   {
@@ -488,23 +520,7 @@
     "size": 1
   },
   {
-    "text": "vandendriessche",
-    "size": 1
-  },
-  {
-    "text": "sofithuin",
-    "size": 1
-  },
-  {
-    "text": "cabinet",
-    "size": 1
-  },
-  {
-    "text": "v.-construct",
-    "size": 1
-  },
-  {
-    "text": "credimatic",
+    "text": "paul",
     "size": 1
   },
   {
@@ -520,39 +536,7 @@
     "size": 1
   },
   {
-    "text": "suppliers",
-    "size": 1
-  },
-  {
-    "text": "mkg-bank",
-    "size": 1
-  },
-  {
-    "text": "acasa",
-    "size": 1
-  },
-  {
-    "text": "icc",
-    "size": 1
-  },
-  {
-    "text": "timmermans",
-    "size": 1
-  },
-  {
-    "text": "project",
-    "size": 1
-  },
-  {
-    "text": "vivanor",
-    "size": 1
-  },
-  {
     "text": "familial",
-    "size": 1
-  },
-  {
-    "text": "delore",
     "size": 1
   },
   {
@@ -560,27 +544,11 @@
     "size": 1
   },
   {
-    "text": "graaf",
-    "size": 1
-  },
-  {
-    "text": "b4l",
+    "text": "jvi",
     "size": 1
   },
   {
     "text": "info",
-    "size": 1
-  },
-  {
-    "text": "abeele",
-    "size": 1
-  },
-  {
-    "text": "paccar",
-    "size": 1
-  },
-  {
-    "text": "european",
     "size": 1
   },
   {
@@ -600,10 +568,6 @@
     "size": 1
   },
   {
-    "text": "vd",
-    "size": 1
-  },
-  {
     "text": "mattisse",
     "size": 1
   },
@@ -616,6 +580,10 @@
     "size": 1
   },
   {
+    "text": "zoetis",
+    "size": 1
+  },
+  {
     "text": "claims",
     "size": 1
   },
@@ -624,11 +592,11 @@
     "size": 1
   },
   {
-    "text": "finances",
+    "text": "vache",
     "size": 1
   },
   {
-    "text": "support",
+    "text": "finances",
     "size": 1
   },
   {
@@ -644,11 +612,11 @@
     "size": 1
   },
   {
-    "text": "konings",
+    "text": "sonja",
     "size": 1
   },
   {
-    "text": "euro",
+    "text": "goffin",
     "size": 1
   },
   {
@@ -656,15 +624,7 @@
     "size": 1
   },
   {
-    "text": "xbs",
-    "size": 1
-  },
-  {
-    "text": "tinv",
-    "size": 1
-  },
-  {
-    "text": "commerce",
+    "text": "trained",
     "size": 1
   },
   {
@@ -672,7 +632,7 @@
     "size": 1
   },
   {
-    "text": "fiskamed",
+    "text": "olivier",
     "size": 1
   },
   {
@@ -680,35 +640,7 @@
     "size": 1
   },
   {
-    "text": "unispar",
-    "size": 1
-  },
-  {
-    "text": "lier",
-    "size": 1
-  },
-  {
-    "text": "reynders",
-    "size": 1
-  },
-  {
-    "text": "abrégé",
-    "size": 1
-  },
-  {
-    "text": "luxrecovery",
-    "size": 1
-  },
-  {
     "text": "company",
-    "size": 1
-  },
-  {
-    "text": "assent",
-    "size": 1
-  },
-  {
-    "text": "factor",
     "size": 1
   },
   {
@@ -716,11 +648,11 @@
     "size": 1
   },
   {
-    "text": "dexia",
+    "text": "hendrik",
     "size": 1
   },
   {
-    "text": "q-fin",
+    "text": "maba",
     "size": 1
   },
   {
@@ -728,7 +660,11 @@
     "size": 1
   },
   {
-    "text": "jean-michel",
+    "text": "kris",
+    "size": 1
+  },
+  {
+    "text": "secobel",
     "size": 1
   },
   {
@@ -740,19 +676,11 @@
     "size": 1
   },
   {
-    "text": "h.s.a",
-    "size": 1
-  },
-  {
-    "text": "h.d.v.v",
-    "size": 1
-  },
-  {
     "text": "horizon",
     "size": 1
   },
   {
-    "text": "tdbv",
+    "text": "stella",
     "size": 1
   },
   {
@@ -764,10 +692,6 @@
     "size": 1
   },
   {
-    "text": "time",
-    "size": 1
-  },
-  {
     "text": "defauw",
     "size": 1
   },
@@ -776,15 +700,11 @@
     "size": 1
   },
   {
-    "text": "coor-di",
-    "size": 1
-  },
-  {
     "text": "concorde",
     "size": 1
   },
   {
-    "text": "casa",
+    "text": "hammoud",
     "size": 1
   },
   {
@@ -792,19 +712,11 @@
     "size": 1
   },
   {
-    "text": "verzekeringen",
-    "size": 1
-  },
-  {
     "text": "snackaert",
     "size": 1
   },
   {
-    "text": "charles",
-    "size": 1
-  },
-  {
-    "text": "eurofides",
+    "text": "construct",
     "size": 1
   },
   {
@@ -812,19 +724,7 @@
     "size": 1
   },
   {
-    "text": "axa",
-    "size": 1
-  },
-  {
-    "text": "debiservice",
-    "size": 1
-  },
-  {
     "text": "america",
-    "size": 1
-  },
-  {
-    "text": "ludwig",
     "size": 1
   },
   {
@@ -848,10 +748,6 @@
     "size": 1
   },
   {
-    "text": "plan",
-    "size": 1
-  },
-  {
     "text": "creas",
     "size": 1
   },
@@ -860,7 +756,7 @@
     "size": 1
   },
   {
-    "text": "m.c",
+    "text": "rotselaar",
     "size": 1
   },
   {
@@ -872,19 +768,7 @@
     "size": 1
   },
   {
-    "text": "renting",
-    "size": 1
-  },
-  {
     "text": "iw",
-    "size": 1
-  },
-  {
-    "text": "cars",
-    "size": 1
-  },
-  {
-    "text": "2712",
     "size": 1
   },
   {
@@ -904,10 +788,6 @@
     "size": 1
   },
   {
-    "text": "vbi",
-    "size": 1
-  },
-  {
     "text": "coach",
     "size": 1
   },
@@ -924,19 +804,11 @@
     "size": 1
   },
   {
-    "text": "bertrand",
-    "size": 1
-  },
-  {
     "text": "famenne",
     "size": 1
   },
   {
     "text": "jn",
-    "size": 1
-  },
-  {
-    "text": "caprice",
     "size": 1
   },
   {
@@ -948,19 +820,15 @@
     "size": 1
   },
   {
-    "text": "enterprise",
+    "text": "investments@moorsel",
     "size": 1
   },
   {
-    "text": "north",
+    "text": "blarimont",
     "size": 1
   },
   {
     "text": "meersman",
-    "size": 1
-  },
-  {
-    "text": "protection",
     "size": 1
   },
   {
@@ -972,11 +840,11 @@
     "size": 1
   },
   {
-    "text": "smart",
+    "text": "kortrijk",
     "size": 1
   },
   {
-    "text": "diest",
+    "text": "dirk",
     "size": 1
   },
   {
@@ -992,11 +860,143 @@
     "size": 1
   },
   {
-    "text": "telecom",
+    "text": "stroo",
     "size": 1
   },
   {
-    "text": "deb-y-com",
+    "text": "cnh",
+    "size": 1
+  },
+  {
+    "text": "schoonvliet",
+    "size": 1
+  },
+  {
+    "text": "walle",
+    "size": 1
+  },
+  {
+    "text": "e.b.a",
+    "size": 1
+  },
+  {
+    "text": "lahaye",
+    "size": 1
+  },
+  {
+    "text": "creance",
+    "size": 1
+  },
+  {
+    "text": "v.e.k.o",
+    "size": 1
+  },
+  {
+    "text": "groep",
+    "size": 1
+  },
+  {
+    "text": "decloedt",
+    "size": 1
+  },
+  {
+    "text": "rudaso",
+    "size": 1
+  },
+  {
+    "text": "belux",
+    "size": 1
+  },
+  {
+    "text": "lebleu",
+    "size": 1
+  },
+  {
+    "text": "afgekort",
+    "size": 1
+  },
+  {
+    "text": "delgobel",
+    "size": 1
+  },
+  {
+    "text": "almi-expert-bedrijfsadvies",
+    "size": 1
+  },
+  {
+    "text": "ofinco",
+    "size": 1
+  },
+  {
+    "text": "mc",
+    "size": 1
+  },
+  {
+    "text": "goeye",
+    "size": 1
+  },
+  {
+    "text": "merca",
+    "size": 1
+  },
+  {
+    "text": "ordi",
+    "size": 1
+  },
+  {
+    "text": "international",
+    "size": 1
+  },
+  {
+    "text": "all",
+    "size": 1
+  },
+  {
+    "text": "auchan",
+    "size": 1
+  },
+  {
+    "text": "g.p.i",
+    "size": 1
+  },
+  {
+    "text": "cps",
+    "size": 1
+  },
+  {
+    "text": "estate",
+    "size": 1
+  },
+  {
+    "text": "lbc",
+    "size": 1
+  },
+  {
+    "text": "easybuy",
+    "size": 1
+  },
+  {
+    "text": "belpa",
+    "size": 1
+  },
+  {
+    "text": "plus",
+    "size": 1
+  },
+  {
+    "text": "jabetry",
+    "size": 1
+  },
+  {
+    "text": "nv/sa",
+    "size": 1
+  },
+  {
+    "text": "agenda\u0027s",
+    "size": 1
+  },
+  {
+    "text": "bilquin",
     "size": 1
   }
 ]

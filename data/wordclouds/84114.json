@@ -1,11 +1,11 @@
 [
   {
     "text": "dienst",
-    "size": 143
+    "size": 145
   },
   {
     "text": "communale",
-    "size": 134
+    "size": 143
   },
   {
     "text": "gemeentehuis",
@@ -13,7 +13,7 @@
   },
   {
     "text": "service",
-    "size": 101
+    "size": 102
   },
   {
     "text": "administration",
@@ -21,7 +21,7 @@
   },
   {
     "text": "technische",
-    "size": 51
+    "size": 52
   },
   {
     "text": "maison",
@@ -29,11 +29,11 @@
   },
   {
     "text": "centrum",
-    "size": 43
+    "size": 46
   },
   {
     "text": "centre",
-    "size": 40
+    "size": 44
   },
   {
     "text": "travaux",
@@ -45,15 +45,19 @@
   },
   {
     "text": "gemeentelijke",
-    "size": 35
+    "size": 37
+  },
+  {
+    "text": "ecole",
+    "size": 36
+  },
+  {
+    "text": "administratief",
+    "size": 34
   },
   {
     "text": "dépôt",
     "size": 33
-  },
-  {
-    "text": "administratief",
-    "size": 32
   },
   {
     "text": "groendienst",
@@ -72,8 +76,12 @@
     "size": 25
   },
   {
+    "text": "complexe",
+    "size": 25
+  },
+  {
     "text": "antenne",
-    "size": 24
+    "size": 25
   },
   {
     "text": "diensten",
@@ -88,12 +96,12 @@
     "size": 22
   },
   {
-    "text": "administratie",
-    "size": 21
+    "text": "huis",
+    "size": 22
   },
   {
-    "text": "ecole",
-    "size": 18
+    "text": "administratie",
+    "size": 21
   },
   {
     "text": "services",
@@ -104,7 +112,7 @@
     "size": 18
   },
   {
-    "text": "complexe",
+    "text": "gemeente",
     "size": 17
   },
   {
@@ -112,15 +120,15 @@
     "size": 16
   },
   {
-    "text": "gemeente",
-    "size": 16
+    "text": "hall",
+    "size": 15
   },
   {
     "text": "werkplaats",
     "size": 15
   },
   {
-    "text": "huis",
+    "text": "preventie",
     "size": 15
   },
   {
@@ -128,15 +136,23 @@
     "size": 15
   },
   {
-    "text": "hall",
-    "size": 14
-  },
-  {
     "text": "stadhuis",
     "size": 14
   },
   {
-    "text": "preventie",
+    "text": "quartier",
+    "size": 14
+  },
+  {
+    "text": "parc",
+    "size": 14
+  },
+  {
+    "text": "atelier",
+    "size": 14
+  },
+  {
+    "text": "autonoom",
     "size": 14
   },
   {
@@ -148,23 +164,11 @@
     "size": 13
   },
   {
-    "text": "quartier",
-    "size": 13
-  },
-  {
-    "text": "parc",
+    "text": "gemeentebedrijf",
     "size": 13
   },
   {
     "text": "espace",
-    "size": 13
-  },
-  {
-    "text": "atelier",
-    "size": 13
-  },
-  {
-    "text": "autonoom",
     "size": 13
   },
   {
@@ -184,7 +188,7 @@
     "size": 12
   },
   {
-    "text": "gemeentebedrijf",
+    "text": "containerpark",
     "size": 12
   },
   {
@@ -196,15 +200,15 @@
     "size": 12
   },
   {
+    "text": "bibliothèque",
+    "size": 12
+  },
+  {
     "text": "autonome",
     "size": 12
   },
   {
     "text": "sociale",
-    "size": 11
-  },
-  {
-    "text": "containerpark",
     "size": 11
   },
   {
@@ -224,7 +228,15 @@
     "size": 11
   },
   {
+    "text": "technisch",
+    "size": 11
+  },
+  {
     "text": "centrale",
+    "size": 11
+  },
+  {
+    "text": "sports",
     "size": 11
   },
   {
@@ -252,10 +264,6 @@
     "size": 10
   },
   {
-    "text": "bibliothèque",
-    "size": 10
-  },
-  {
     "text": "local",
     "size": 10
   },
@@ -276,11 +284,11 @@
     "size": 10
   },
   {
-    "text": "ac",
+    "text": "administrative",
     "size": 10
   },
   {
-    "text": "technisch",
+    "text": "ac",
     "size": 10
   },
   {
@@ -289,6 +297,10 @@
   },
   {
     "text": "château",
+    "size": 10
+  },
+  {
+    "text": "werkplaatsen",
     "size": 10
   },
   {
@@ -308,19 +320,7 @@
     "size": 9
   },
   {
-    "text": "administrative",
-    "size": 9
-  },
-  {
     "text": "bâtiments",
-    "size": 9
-  },
-  {
-    "text": "sports",
-    "size": 9
-  },
-  {
-    "text": "werkplaatsen",
     "size": 9
   },
   {
@@ -341,6 +341,10 @@
   },
   {
     "text": "commune",
+    "size": 8
+  },
+  {
+    "text": "bibliotheek",
     "size": 8
   },
   {
@@ -369,6 +373,10 @@
   },
   {
     "text": "bureau",
+    "size": 8
+  },
+  {
+    "text": "fondamentale",
     "size": 8
   },
   {
@@ -408,7 +416,15 @@
     "size": 7
   },
   {
+    "text": "open",
+    "size": 7
+  },
+  {
     "text": "administratieve",
+    "size": 7
+  },
+  {
+    "text": "scolaire",
     "size": 7
   },
   {
@@ -432,10 +448,6 @@
     "size": 6
   },
   {
-    "text": "bibliotheek",
-    "size": 6
-  },
-  {
     "text": "gemeenschapscentrum",
     "size": 6
   },
@@ -444,7 +456,19 @@
     "size": 6
   },
   {
+    "text": "departement",
+    "size": 6
+  },
+  {
     "text": "développement",
+    "size": 6
+  },
+  {
+    "text": "ibo",
+    "size": 6
+  },
+  {
+    "text": "d\u0027enfants",
     "size": 6
   },
   {
@@ -468,6 +492,10 @@
     "size": 6
   },
   {
+    "text": "agb",
+    "size": 6
+  },
+  {
     "text": "ouvriers",
     "size": 6
   },
@@ -485,6 +513,10 @@
   },
   {
     "text": "fm",
+    "size": 6
+  },
+  {
+    "text": "veiligheid",
     "size": 6
   },
   {
@@ -512,7 +544,15 @@
     "size": 5
   },
   {
+    "text": "algemene",
+    "size": 5
+  },
+  {
     "text": "parking",
+    "size": 5
+  },
+  {
+    "text": "enseignement",
     "size": 5
   },
   {
@@ -528,7 +568,7 @@
     "size": 5
   },
   {
-    "text": "departement",
+    "text": "santé",
     "size": 5
   },
   {
@@ -548,11 +588,7 @@
     "size": 5
   },
   {
-    "text": "ibo",
-    "size": 5
-  },
-  {
-    "text": "d\u0027enfants",
+    "text": "cimetière",
     "size": 5
   },
   {
@@ -568,11 +604,11 @@
     "size": 5
   },
   {
-    "text": "agb",
+    "text": "tourisme",
     "size": 5
   },
   {
-    "text": "tourisme",
+    "text": "vrije",
     "size": 5
   },
   {
@@ -592,15 +628,15 @@
     "size": 5
   },
   {
+    "text": "xhovemont",
+    "size": 5
+  },
+  {
     "text": "stelplaats",
     "size": 5
   },
   {
     "text": "oc",
-    "size": 5
-  },
-  {
-    "text": "veiligheid",
     "size": 5
   },
   {
@@ -660,7 +696,7 @@
     "size": 4
   },
   {
-    "text": "algemene",
+    "text": "tijd",
     "size": 4
   },
   {
@@ -688,10 +724,6 @@
     "size": 4
   },
   {
-    "text": "santé",
-    "size": 4
-  },
-  {
     "text": "sporthal",
     "size": 4
   },
@@ -716,10 +748,6 @@
     "size": 4
   },
   {
-    "text": "cimetière",
-    "size": 4
-  },
-  {
     "text": "24",
     "size": 4
   },
@@ -741,14 +769,6 @@
   },
   {
     "text": "gemeenteloods",
-    "size": 4
-  },
-  {
-    "text": "scolaire",
-    "size": 4
-  },
-  {
-    "text": "vrije",
     "size": 4
   },
   {
@@ -780,7 +800,19 @@
     "size": 4
   },
   {
+    "text": "jardin",
+    "size": 4
+  },
+  {
     "text": "plan",
+    "size": 4
+  },
+  {
+    "text": "economie",
+    "size": 4
+  },
+  {
+    "text": "musée",
     "size": 4
   },
   {
@@ -797,6 +829,14 @@
   },
   {
     "text": "fort",
+    "size": 4
+  },
+  {
+    "text": "ii",
+    "size": 4
+  },
+  {
+    "text": "bko",
     "size": 4
   },
   {
@@ -836,7 +876,19 @@
     "size": 3
   },
   {
+    "text": "infrastructuur",
+    "size": 3
+  },
+  {
+    "text": "temps",
+    "size": 3
+  },
+  {
     "text": "pastorij",
+    "size": 3
+  },
+  {
+    "text": "zutendaal",
     "size": 3
   },
   {
@@ -845,10 +897,6 @@
   },
   {
     "text": "vorst",
-    "size": 3
-  },
-  {
-    "text": "tijd",
     "size": 3
   },
   {
@@ -869,10 +917,6 @@
   },
   {
     "text": "stadsdiensten",
-    "size": 3
-  },
-  {
-    "text": "enseignement",
     "size": 3
   },
   {
@@ -953,50 +997,6 @@
   },
   {
     "text": "werkhal",
-    "size": 3
-  },
-  {
-    "text": "gemeentemagazijn",
-    "size": 3
-  },
-  {
-    "text": "admin",
-    "size": 3
-  },
-  {
-    "text": "bevolking",
-    "size": 3
-  },
-  {
-    "text": "imprimerie",
-    "size": 3
-  },
-  {
-    "text": "uitleendienst",
-    "size": 3
-  },
-  {
-    "text": "transports",
-    "size": 3
-  },
-  {
-    "text": "financiën",
-    "size": 3
-  },
-  {
-    "text": "forest",
-    "size": 3
-  },
-  {
-    "text": "généraux",
-    "size": 3
-  },
-  {
-    "text": "socio-culturel",
-    "size": 3
-  },
-  {
-    "text": "beersel",
     "size": 3
   }
 ]

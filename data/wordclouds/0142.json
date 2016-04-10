@@ -1,170 +1,470 @@
 [
   {
     "text": "ferme",
-    "size": 50
+    "size": 65
   },
   {
     "text": "lv",
+    "size": 57
+  },
+  {
+    "text": "hondenkapsalon",
     "size": 47
   },
   {
+    "text": "bvba",
+    "size": 42
+  },
+  {
+    "text": "dog",
+    "size": 37
+  },
+  {
     "text": "luc",
-    "size": 19
+    "size": 32
+  },
+  {
+    "text": "toilettage",
+    "size": 30
+  },
+  {
+    "text": "trimsalon",
+    "size": 28
   },
   {
     "text": "johan",
-    "size": 19
-  },
-  {
-    "text": "nicolas",
-    "size": 15
-  },
-  {
-    "text": "philippe",
-    "size": 13
-  },
-  {
-    "text": "jan",
-    "size": 12
-  },
-  {
-    "text": "tom",
-    "size": 11
-  },
-  {
-    "text": "eric",
-    "size": 11
+    "size": 23
   },
   {
     "text": "marc",
-    "size": 11
+    "size": 21
   },
   {
-    "text": "agri",
-    "size": 11
+    "text": "philippe",
+    "size": 21
   },
   {
-    "text": "christophe",
-    "size": 11
+    "text": "hondensalon",
+    "size": 20
   },
   {
-    "text": "bvba",
-    "size": 10
+    "text": "jan",
+    "size": 20
   },
   {
-    "text": "bart",
-    "size": 10
+    "text": "canin",
+    "size": 20
+  },
+  {
+    "text": "nicolas",
+    "size": 19
   },
   {
     "text": "patrick",
-    "size": 9
+    "size": 18
   },
   {
-    "text": "jean",
-    "size": 9
-  },
-  {
-    "text": "vincent",
-    "size": 9
-  },
-  {
-    "text": "stijn",
-    "size": 9
-  },
-  {
-    "text": "sagr",
-    "size": 9
-  },
-  {
-    "text": "koen",
-    "size": 8
-  },
-  {
-    "text": "bernard",
-    "size": 8
-  },
-  {
-    "text": "alain",
-    "size": 8
-  },
-  {
-    "text": "den",
-    "size": 7
-  },
-  {
-    "text": "maria",
-    "size": 7
-  },
-  {
-    "text": "veehandel",
-    "size": 7
-  },
-  {
-    "text": "pascal",
-    "size": 7
-  },
-  {
-    "text": "jacques",
-    "size": 7
-  },
-  {
-    "text": "joseph",
-    "size": 7
-  },
-  {
-    "text": "wim",
-    "size": 7
-  },
-  {
-    "text": "agricole",
-    "size": 7
-  },
-  {
-    "text": "frank",
-    "size": 7
-  },
-  {
-    "text": "olivier",
-    "size": 7
-  },
-  {
-    "text": "dirk",
-    "size": 7
-  },
-  {
-    "text": "laurent",
-    "size": 6
-  },
-  {
-    "text": "kristof",
-    "size": 6
+    "text": "tom",
+    "size": 18
   },
   {
     "text": "hof",
-    "size": 6
+    "size": 18
   },
   {
-    "text": "peter",
-    "size": 6
+    "text": "den",
+    "size": 17
+  },
+  {
+    "text": "bart",
+    "size": 17
+  },
+  {
+    "text": "agri",
+    "size": 17
+  },
+  {
+    "text": "eric",
+    "size": 16
+  },
+  {
+    "text": "stal",
+    "size": 15
+  },
+  {
+    "text": "dogs",
+    "size": 14
+  },
+  {
+    "text": "christophe",
+    "size": 14
+  },
+  {
+    "text": "koen",
+    "size": 14
+  },
+  {
+    "text": "jean",
+    "size": 14
+  },
+  {
+    "text": "elevage",
+    "size": 14
+  },
+  {
+    "text": "salon",
+    "size": 13
+  },
+  {
+    "text": "sprl",
+    "size": 13
   },
   {
     "text": "paul",
-    "size": 6
+    "size": 12
+  },
+  {
+    "text": "toutou",
+    "size": 12
+  },
+  {
+    "text": "nv",
+    "size": 12
+  },
+  {
+    "text": "poil",
+    "size": 12
+  },
+  {
+    "text": "hondentrimsalon",
+    "size": 12
+  },
+  {
+    "text": "kristof",
+    "size": 11
+  },
+  {
+    "text": "jacques",
+    "size": 11
+  },
+  {
+    "text": "stijn",
+    "size": 11
+  },
+  {
+    "text": "bernard",
+    "size": 11
+  },
+  {
+    "text": "dirk",
+    "size": 11
+  },
+  {
+    "text": "alain",
+    "size": 11
+  },
+  {
+    "text": "sagr",
+    "size": 11
+  },
+  {
+    "text": "geert",
+    "size": 10
+  },
+  {
+    "text": "veehandel",
+    "size": 10
+  },
+  {
+    "text": "hondentoilettage",
+    "size": 10
+  },
+  {
+    "text": "wim",
+    "size": 10
+  },
+  {
+    "text": "frank",
+    "size": 10
+  },
+  {
+    "text": "hondenverzorging",
+    "size": 10
+  },
+  {
+    "text": "chien",
+    "size": 10
+  },
+  {
+    "text": "poils",
+    "size": 10
+  },
+  {
+    "text": "peter",
+    "size": 10
+  },
+  {
+    "text": "maria",
+    "size": 10
+  },
+  {
+    "text": "pascal",
+    "size": 10
+  },
+  {
+    "text": "vincent",
+    "size": 10
+  },
+  {
+    "text": "haras",
+    "size": 10
+  },
+  {
+    "text": "ecurie",
+    "size": 9
   },
   {
     "text": "thomas",
-    "size": 6
-  },
-  {
-    "text": "julien",
-    "size": 6
+    "size": 9
   },
   {
     "text": "pierre",
-    "size": 6
+    "size": 9
+  },
+  {
+    "text": "joseph",
+    "size": 9
+  },
+  {
+    "text": "co",
+    "size": 9
+  },
+  {
+    "text": "michel",
+    "size": 9
+  },
+  {
+    "text": "stoeterij",
+    "size": 9
+  },
+  {
+    "text": "dog\u0027s",
+    "size": 9
+  },
+  {
+    "text": "guy",
+    "size": 9
+  },
+  {
+    "text": "laurent",
+    "size": 9
+  },
+  {
+    "text": "entreprise",
+    "size": 9
+  },
+  {
+    "text": "moulin",
+    "size": 9
+  },
+  {
+    "text": "filip",
+    "size": 9
+  },
+  {
+    "text": "ter",
+    "size": 8
+  },
+  {
+    "text": "mathieu",
+    "size": 8
+  },
+  {
+    "text": "ecuries",
+    "size": 8
+  },
+  {
+    "text": "david",
+    "size": 8
+  },
+  {
+    "text": "agricole",
+    "size": 8
+  },
+  {
+    "text": "chez",
+    "size": 8
+  },
+  {
+    "text": "marie",
+    "size": 8
+  },
+  {
+    "text": "horses",
+    "size": 8
+  },
+  {
+    "text": "and",
+    "size": 8
+  },
+  {
+    "text": "chiens",
+    "size": 8
+  },
+  {
+    "text": "dierenspeciaalzaak",
+    "size": 8
+  },
+  {
+    "text": "olivier",
+    "size": 8
+  },
+  {
+    "text": "kris",
+    "size": 8
+  },
+  {
+    "text": "the",
+    "size": 7
+  },
+  {
+    "text": "freddy",
+    "size": 7
+  },
+  {
+    "text": "top",
+    "size": 7
+  },
+  {
+    "text": "center",
+    "size": 7
+  },
+  {
+    "text": "studio",
+    "size": 7
+  },
+  {
+    "text": "julien",
+    "size": 7
+  },
+  {
+    "text": "cuma",
+    "size": 7
+  },
+  {
+    "text": "animal",
+    "size": 7
+  },
+  {
+    "text": "canine",
+    "size": 7
   },
   {
     "text": "yves",
+    "size": 7
+  },
+  {
+    "text": "steven",
+    "size": 7
+  },
+  {
+    "text": "fv",
+    "size": 7
+  },
+  {
+    "text": "benoit",
+    "size": 7
+  },
+  {
+    "text": "daniel",
+    "size": 7
+  },
+  {
+    "text": "hoeve",
+    "size": 7
+  },
+  {
+    "text": "joris",
+    "size": 7
+  },
+  {
+    "text": "danny",
+    "size": 7
+  },
+  {
+    "text": "pieter",
+    "size": 7
+  },
+  {
+    "text": "doggy",
+    "size": 7
+  },
+  {
+    "text": "didier",
+    "size": 7
+  },
+  {
+    "text": "jozef",
+    "size": 6
+  },
+  {
+    "text": "mieke",
+    "size": 6
+  },
+  {
+    "text": "centre",
+    "size": 6
+  },
+  {
+    "text": "denis",
+    "size": 6
+  },
+  {
+    "text": "dominique",
+    "size": 6
+  },
+  {
+    "text": "agro",
+    "size": 6
+  },
+  {
+    "text": "l\u0027eau",
+    "size": 6
+  },
+  {
+    "text": "rita",
+    "size": 6
+  },
+  {
+    "text": "frans",
+    "size": 6
+  },
+  {
+    "text": "stefaan",
+    "size": 6
+  },
+  {
+    "text": "stables",
+    "size": 6
+  },
+  {
+    "text": "happy",
+    "size": 6
+  },
+  {
+    "text": "nathalie",
+    "size": 6
+  },
+  {
+    "text": "christine",
+    "size": 6
+  },
+  {
+    "text": "rudy",
+    "size": 6
+  },
+  {
+    "text": "simon",
     "size": 6
   },
   {
@@ -172,15 +472,27 @@
     "size": 6
   },
   {
-    "text": "elevage",
+    "text": "pascale",
     "size": 6
   },
   {
-    "text": "david",
+    "text": "hoeveslagerij",
     "size": 6
   },
   {
-    "text": "fv",
+    "text": "monique",
+    "size": 6
+  },
+  {
+    "text": "projects",
+    "size": 6
+  },
+  {
+    "text": "beauty",
+    "size": 6
+  },
+  {
+    "text": "bio",
     "size": 6
   },
   {
@@ -188,43 +500,55 @@
     "size": 6
   },
   {
-    "text": "daniel",
+    "text": "ranch",
     "size": 6
   },
   {
-    "text": "moulin",
+    "text": "guido",
     "size": 6
   },
   {
-    "text": "geert",
+    "text": "françois",
+    "size": 6
+  },
+  {
+    "text": "willems",
+    "size": 6
+  },
+  {
+    "text": "hans",
     "size": 5
   },
   {
-    "text": "gilles",
+    "text": "societe",
     "size": 5
   },
   {
-    "text": "christine",
+    "text": "services",
     "size": 5
   },
   {
-    "text": "denis",
+    "text": "club",
     "size": 5
   },
   {
-    "text": "marie",
+    "text": "karel",
     "size": 5
   },
   {
-    "text": "pieter",
+    "text": "loon",
     "size": 5
   },
   {
-    "text": "hoeveslagerij",
+    "text": "snoopy",
     "size": 5
   },
   {
-    "text": "sprl",
+    "text": "lieve",
+    "size": 5
+  },
+  {
+    "text": "belgium",
     "size": 5
   },
   {
@@ -232,11 +556,83 @@
     "size": 5
   },
   {
-    "text": "rita",
+    "text": "martine",
     "size": 5
   },
   {
-    "text": "monique",
+    "text": "tuinaanleg",
+    "size": 5
+  },
+  {
+    "text": "eddy",
+    "size": 5
+  },
+  {
+    "text": "cédric",
+    "size": 5
+  },
+  {
+    "text": "belle",
+    "size": 5
+  },
+  {
+    "text": "frederik",
+    "size": 5
+  },
+  {
+    "text": "witte",
+    "size": 5
+  },
+  {
+    "text": "vande",
+    "size": 5
+  },
+  {
+    "text": "service",
+    "size": 5
+  },
+  {
+    "text": "guillaume",
+    "size": 5
+  },
+  {
+    "text": "jean-françois",
+    "size": 5
+  },
+  {
+    "text": "bruno",
+    "size": 5
+  },
+  {
+    "text": "gilles",
+    "size": 5
+  },
+  {
+    "text": "bert",
+    "size": 5
+  },
+  {
+    "text": "antoine",
+    "size": 5
+  },
+  {
+    "text": "k.i",
+    "size": 5
+  },
+  {
+    "text": "farm",
+    "size": 5
+  },
+  {
+    "text": "carine",
+    "size": 5
+  },
+  {
+    "text": "bois",
+    "size": 5
+  },
+  {
+    "text": "peeters",
     "size": 5
   },
   {
@@ -248,59 +644,23 @@
     "size": 5
   },
   {
-    "text": "steven",
+    "text": "snuffel",
     "size": 5
   },
   {
-    "text": "frans",
+    "text": "nancy",
     "size": 5
   },
   {
-    "text": "michel",
+    "text": "benoît",
     "size": 5
   },
   {
-    "text": "kris",
+    "text": "horse",
     "size": 5
   },
   {
-    "text": "bio",
-    "size": 5
-  },
-  {
-    "text": "benoit",
-    "size": 5
-  },
-  {
-    "text": "françois",
-    "size": 5
-  },
-  {
-    "text": "joris",
-    "size": 5
-  },
-  {
-    "text": "vande",
-    "size": 4
-  },
-  {
-    "text": "freddy",
-    "size": 4
-  },
-  {
-    "text": "mathieu",
-    "size": 4
-  },
-  {
-    "text": "guillaume",
-    "size": 4
-  },
-  {
-    "text": "ronny",
-    "size": 4
-  },
-  {
-    "text": "jean-françois",
+    "text": "piet",
     "size": 4
   },
   {
@@ -308,39 +668,107 @@
     "size": 4
   },
   {
-    "text": "dries",
+    "text": "honden",
     "size": 4
   },
   {
-    "text": "danny",
+    "text": "algemene",
     "size": 4
   },
   {
-    "text": "dominique",
+    "text": "kevin",
     "size": 4
   },
   {
-    "text": "karel",
+    "text": "colpaert",
     "size": 4
   },
   {
-    "text": "rudy",
+    "text": "wauters",
     "size": 4
   },
   {
-    "text": "simon",
+    "text": "wouter",
     "size": 4
   },
   {
-    "text": "lambert",
+    "text": "patte",
     "size": 4
   },
   {
-    "text": "peeters",
+    "text": "casier",
     "size": 4
   },
   {
-    "text": "danneels",
+    "text": "looveren",
+    "size": 4
+  },
+  {
+    "text": "stéphane",
+    "size": 4
+  },
+  {
+    "text": "caroline",
+    "size": 4
+  },
+  {
+    "text": "gregory",
+    "size": 4
+  },
+  {
+    "text": "val",
+    "size": 4
+  },
+  {
+    "text": "jaak",
+    "size": 4
+  },
+  {
+    "text": "cattery",
+    "size": 4
+  },
+  {
+    "text": "els",
+    "size": 4
+  },
+  {
+    "text": "herman",
+    "size": 4
+  },
+  {
+    "text": "kurt",
+    "size": 4
+  },
+  {
+    "text": "new",
+    "size": 4
+  },
+  {
+    "text": "martin",
+    "size": 4
+  },
+  {
+    "text": "poncelet",
+    "size": 4
+  },
+  {
+    "text": "janssens",
+    "size": 4
+  },
+  {
+    "text": "janssen",
+    "size": 4
+  },
+  {
+    "text": "green",
+    "size": 4
+  },
+  {
+    "text": "andré",
+    "size": 4
+  },
+  {
+    "text": "andre",
     "size": 4
   },
   {
@@ -348,7 +776,15 @@
     "size": 4
   },
   {
-    "text": "tuinaanleg",
+    "text": "pattes",
+    "size": 4
+  },
+  {
+    "text": "hubert",
+    "size": 4
+  },
+  {
+    "text": "isabelle",
     "size": 4
   },
   {
@@ -356,11 +792,19 @@
     "size": 4
   },
   {
-    "text": "stefaan",
+    "text": "cv",
     "size": 4
   },
   {
-    "text": "didier",
+    "text": "veerle",
+    "size": 4
+  },
+  {
+    "text": "jeroen",
+    "size": 4
+  },
+  {
+    "text": "carton",
     "size": 4
   },
   {
@@ -368,15 +812,127 @@
     "size": 4
   },
   {
-    "text": "frederik",
+    "text": "lady",
     "size": 4
   },
   {
-    "text": "filip",
+    "text": "ronny",
     "size": 4
   },
   {
-    "text": "willems",
+    "text": "institut",
+    "size": 4
+  },
+  {
+    "text": "dries",
+    "size": 4
+  },
+  {
+    "text": "pol",
+    "size": 4
+  },
+  {
+    "text": "d\u0027heure",
+    "size": 4
+  },
+  {
+    "text": "jean-marc",
+    "size": 4
+  },
+  {
+    "text": "garden",
+    "size": 4
+  },
+  {
+    "text": "sandra",
+    "size": 4
+  },
+  {
+    "text": "petit",
+    "size": 4
+  },
+  {
+    "text": "michael",
+    "size": 4
+  },
+  {
+    "text": "d\u0027or",
+    "size": 4
+  },
+  {
+    "text": "rudi",
+    "size": 4
+  },
+  {
+    "text": "christian",
+    "size": 4
+  },
+  {
+    "text": "sofie",
+    "size": 4
+  },
+  {
+    "text": "lambert",
+    "size": 4
+  },
+  {
+    "text": "sebastien",
+    "size": 4
+  },
+  {
+    "text": "trimshop",
+    "size": 4
+  },
+  {
+    "text": "nijs",
+    "size": 4
+  },
+  {
+    "text": "damien",
+    "size": 4
+  },
+  {
+    "text": "ann",
+    "size": 4
+  },
+  {
+    "text": "palace",
+    "size": 4
+  },
+  {
+    "text": "shop",
+    "size": 4
+  },
+  {
+    "text": "dieter",
+    "size": 4
+  },
+  {
+    "text": "style",
+    "size": 4
+  },
+  {
+    "text": "care",
+    "size": 4
+  },
+  {
+    "text": "danneels",
+    "size": 4
+  },
+  {
+    "text": "adam",
+    "size": 4
+  },
+  {
+    "text": "antoon",
+    "size": 4
+  },
+  {
+    "text": "francois",
+    "size": 4
+  },
+  {
+    "text": "clercq",
     "size": 4
   },
   {
@@ -384,7 +940,7 @@
     "size": 3
   },
   {
-    "text": "hans",
+    "text": "equi",
     "size": 3
   },
   {
@@ -396,15 +952,31 @@
     "size": 3
   },
   {
-    "text": "société",
+    "text": "stefan",
     "size": 3
   },
   {
-    "text": "jozef",
+    "text": "verstraete",
     "size": 3
   },
   {
-    "text": "gilbert",
+    "text": "hendrik",
+    "size": 3
+  },
+  {
+    "text": "landbouwvennootschap",
+    "size": 3
+  },
+  {
+    "text": "dierenpension",
+    "size": 3
+  },
+  {
+    "text": "leenaerts",
+    "size": 3
+  },
+  {
+    "text": "stable",
     "size": 3
   },
   {
@@ -416,587 +988,15 @@
     "size": 3
   },
   {
-    "text": "kevin",
+    "text": "fashion",
     "size": 3
-  },
-  {
-    "text": "wouter",
-    "size": 3
-  },
-  {
-    "text": "bruno",
-    "size": 3
-  },
-  {
-    "text": "cornette",
-    "size": 3
-  },
-  {
-    "text": "nathalie",
-    "size": 3
-  },
-  {
-    "text": "ecurie",
-    "size": 3
-  },
-  {
-    "text": "buysse",
-    "size": 3
-  },
-  {
-    "text": "michael",
-    "size": 3
-  },
-  {
-    "text": "looveren",
-    "size": 3
-  },
-  {
-    "text": "raphaël",
-    "size": 3
-  },
-  {
-    "text": "gregory",
-    "size": 3
-  },
-  {
-    "text": "bert",
-    "size": 3
-  },
-  {
-    "text": "rudi",
-    "size": 3
-  },
-  {
-    "text": "association",
-    "size": 3
-  },
-  {
-    "text": "verhelst",
-    "size": 3
-  },
-  {
-    "text": "mark",
-    "size": 3
-  },
-  {
-    "text": "annie",
-    "size": 3
-  },
-  {
-    "text": "sebastien",
-    "size": 3
-  },
-  {
-    "text": "yvan",
-    "size": 3
-  },
-  {
-    "text": "nijs",
-    "size": 3
-  },
-  {
-    "text": "els",
-    "size": 3
-  },
-  {
-    "text": "agro",
-    "size": 3
-  },
-  {
-    "text": "herman",
-    "size": 3
-  },
-  {
-    "text": "kurt",
-    "size": 3
-  },
-  {
-    "text": "fayt",
-    "size": 3
-  },
-  {
-    "text": "damien",
-    "size": 3
-  },
-  {
-    "text": "saveurs",
-    "size": 3
-  },
-  {
-    "text": "exploitation",
-    "size": 3
-  },
-  {
-    "text": "dhondt",
-    "size": 3
-  },
-  {
-    "text": "alex",
-    "size": 3
-  },
-  {
-    "text": "hugo",
-    "size": 3
-  },
-  {
-    "text": "janssen",
-    "size": 3
-  },
-  {
-    "text": "arnaud",
-    "size": 3
-  },
-  {
-    "text": "martine",
-    "size": 3
-  },
-  {
-    "text": "bertrand",
-    "size": 3
-  },
-  {
-    "text": "adam",
-    "size": 3
-  },
-  {
-    "text": "lemaire",
-    "size": 3
-  },
-  {
-    "text": "jos",
-    "size": 3
-  },
-  {
-    "text": "sba",
-    "size": 3
-  },
-  {
-    "text": "brugmans",
-    "size": 3
-  },
-  {
-    "text": "entreprise",
-    "size": 3
-  },
-  {
-    "text": "hubert",
-    "size": 3
-  },
-  {
-    "text": "pensez",
-    "size": 3
-  },
-  {
-    "text": "hanlet",
-    "size": 3
-  },
-  {
-    "text": "pauwelyn",
-    "size": 3
-  },
-  {
-    "text": "veerle",
-    "size": 3
-  },
-  {
-    "text": "eddy",
-    "size": 3
-  },
-  {
-    "text": "benoît",
-    "size": 3
-  },
-  {
-    "text": "joly",
-    "size": 3
-  },
-  {
-    "text": "geerinck",
-    "size": 3
-  },
-  {
-    "text": "cédric",
-    "size": 3
-  },
-  {
-    "text": "francois",
-    "size": 3
-  },
-  {
-    "text": "guido",
-    "size": 3
-  },
-  {
-    "text": "hazegras",
-    "size": 3
-  },
-  {
-    "text": "frederic",
-    "size": 3
-  },
-  {
-    "text": "witte",
-    "size": 3
-  },
-  {
-    "text": "vilatca",
-    "size": 2
-  },
-  {
-    "text": "jean-marie",
-    "size": 2
-  },
-  {
-    "text": "steyaert",
-    "size": 2
-  },
-  {
-    "text": "victor",
-    "size": 2
-  },
-  {
-    "text": "ter",
-    "size": 2
-  },
-  {
-    "text": "glenn",
-    "size": 2
-  },
-  {
-    "text": "philippaars",
-    "size": 2
-  },
-  {
-    "text": "marnix",
-    "size": 2
-  },
-  {
-    "text": "brunin",
-    "size": 2
-  },
-  {
-    "text": "germain",
-    "size": 2
-  },
-  {
-    "text": "matton",
-    "size": 2
-  },
-  {
-    "text": "renaud",
-    "size": 2
-  },
-  {
-    "text": "brigitte",
-    "size": 2
-  },
-  {
-    "text": "myriam",
-    "size": 2
-  },
-  {
-    "text": "houbeau",
-    "size": 2
-  },
-  {
-    "text": "leclercq",
-    "size": 2
-  },
-  {
-    "text": "karine",
-    "size": 2
-  },
-  {
-    "text": "verstraete",
-    "size": 2
-  },
-  {
-    "text": "santfoort",
-    "size": 2
-  },
-  {
-    "text": "sylvain",
-    "size": 2
-  },
-  {
-    "text": "lardinois",
-    "size": 2
-  },
-  {
-    "text": "hendrik",
-    "size": 2
-  },
-  {
-    "text": "landbouwvennootschap",
-    "size": 2
-  },
-  {
-    "text": "groupement",
-    "size": 2
-  },
-  {
-    "text": "societe",
-    "size": 2
-  },
-  {
-    "text": "aveve",
-    "size": 2
-  },
-  {
-    "text": "beernaert",
-    "size": 2
-  },
-  {
-    "text": "guy",
-    "size": 2
-  },
-  {
-    "text": "coens",
-    "size": 2
-  },
-  {
-    "text": "rosa",
-    "size": 2
-  },
-  {
-    "text": "vercruysse",
-    "size": 2
-  },
-  {
-    "text": "abbeloos",
-    "size": 2
-  },
-  {
-    "text": "costermans",
-    "size": 2
-  },
-  {
-    "text": "laura",
-    "size": 2
-  },
-  {
-    "text": "jean-francois",
-    "size": 2
-  },
-  {
-    "text": "depoorter",
-    "size": 2
-  },
-  {
-    "text": "ivan",
-    "size": 2
-  },
-  {
-    "text": "marina",
-    "size": 2
-  },
-  {
-    "text": "pol",
-    "size": 2
-  },
-  {
-    "text": "vandendriessche",
-    "size": 2
-  },
-  {
-    "text": "inghelbrecht",
-    "size": 2
-  },
-  {
-    "text": "d\u0027heure",
-    "size": 2
   },
   {
     "text": "erik",
-    "size": 2
-  },
-  {
-    "text": "craene",
-    "size": 2
-  },
-  {
-    "text": "johny",
-    "size": 2
-  },
-  {
-    "text": "colpaert",
-    "size": 2
-  },
-  {
-    "text": "wauters",
-    "size": 2
-  },
-  {
-    "text": "jean-marc",
-    "size": 2
-  },
-  {
-    "text": "verhaeren",
-    "size": 2
-  },
-  {
-    "text": "nieuwenhuyse",
-    "size": 2
-  },
-  {
-    "text": "libberecht",
-    "size": 2
+    "size": 3
   },
   {
     "text": "colson",
-    "size": 2
-  },
-  {
-    "text": "lenaers",
-    "size": 2
-  },
-  {
-    "text": "mieke",
-    "size": 2
-  },
-  {
-    "text": "werner",
-    "size": 2
-  },
-  {
-    "text": "lammerant",
-    "size": 2
-  },
-  {
-    "text": "fagnoulle",
-    "size": 2
-  },
-  {
-    "text": "thiry",
-    "size": 2
-  },
-  {
-    "text": "meat",
-    "size": 2
-  },
-  {
-    "text": "vanheeswyck",
-    "size": 2
-  },
-  {
-    "text": "voeders",
-    "size": 2
-  },
-  {
-    "text": "delhaye",
-    "size": 2
-  },
-  {
-    "text": "scholzen",
-    "size": 2
-  },
-  {
-    "text": "claude",
-    "size": 2
-  },
-  {
-    "text": "galant",
-    "size": 2
-  },
-  {
-    "text": "casier",
-    "size": 2
-  },
-  {
-    "text": "richard",
-    "size": 2
-  },
-  {
-    "text": "michaël",
-    "size": 2
-  },
-  {
-    "text": "henri",
-    "size": 2
-  },
-  {
-    "text": "grawez",
-    "size": 2
-  },
-  {
-    "text": "grand",
-    "size": 2
-  },
-  {
-    "text": "inge",
-    "size": 2
-  },
-  {
-    "text": "maraite",
-    "size": 2
-  },
-  {
-    "text": "alexandre",
-    "size": 2
-  },
-  {
-    "text": "genevieve",
-    "size": 2
-  },
-  {
-    "text": "greta",
-    "size": 2
-  },
-  {
-    "text": "mario",
-    "size": 2
-  },
-  {
-    "text": "jean-yves",
-    "size": 2
-  },
-  {
-    "text": "stéphane",
-    "size": 2
-  },
-  {
-    "text": "stroo",
-    "size": 2
-  },
-  {
-    "text": "dupont",
-    "size": 2
-  },
-  {
-    "text": "serré",
-    "size": 2
-  },
-  {
-    "text": "enfants",
-    "size": 2
-  },
-  {
-    "text": "vallee",
-    "size": 2
-  },
-  {
-    "text": "schoonbroodt",
-    "size": 2
-  },
-  {
-    "text": "martial",
-    "size": 2
-  },
-  {
-    "text": "toussaint",
-    "size": 2
-  },
-  {
-    "text": "weber",
-    "size": 2
-  },
-  {
-    "text": "simonne",
-    "size": 2
-  },
-  {
-    "text": "eecke",
-    "size": 2
+    "size": 3
   }
 ]

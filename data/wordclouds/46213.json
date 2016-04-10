@@ -1,38 +1,62 @@
 [
   {
     "text": "actief",
-    "size": 43
+    "size": 42
   },
   {
     "text": "bvba",
-    "size": 11
+    "size": 12
   },
   {
     "text": "international",
     "size": 8
   },
   {
+    "text": "agri",
+    "size": 6
+  },
+  {
+    "text": "trading",
+    "size": 6
+  },
+  {
     "text": "belgium",
     "size": 6
   },
   {
-    "text": "agri",
-    "size": 5
+    "text": "nv",
+    "size": 6
   },
   {
-    "text": "nv",
-    "size": 5
+    "text": "benelux",
+    "size": 6
   },
   {
     "text": "interim",
     "size": 5
   },
   {
-    "text": "trading",
+    "text": "agricole",
     "size": 4
   },
   {
-    "text": "agricole",
+    "text": "agro",
+    "size": 4
+  },
+  {
+    "text": "lv",
+    "size": 4
+  },
+  {
+    "text": "oil",
+    "size": 4
+  },
+  {
+    "text": "services",
+    "size": 4
+  },
+  {
+    "text": "den",
     "size": 3
   },
   {
@@ -40,11 +64,19 @@
     "size": 3
   },
   {
-    "text": "agro",
+    "text": "company",
     "size": 3
   },
   {
     "text": "fresh",
+    "size": 3
+  },
+  {
+    "text": "bio",
+    "size": 3
+  },
+  {
+    "text": "fils",
     "size": 3
   },
   {
@@ -56,24 +88,8 @@
     "size": 3
   },
   {
-    "text": "oil",
-    "size": 3
-  },
-  {
     "text": "vleeswaren",
     "size": 3
-  },
-  {
-    "text": "services",
-    "size": 3
-  },
-  {
-    "text": "trade",
-    "size": 3
-  },
-  {
-    "text": "den",
-    "size": 2
   },
   {
     "text": "farm",
@@ -88,15 +104,23 @@
     "size": 2
   },
   {
+    "text": "oleum",
+    "size": 2
+  },
+  {
+    "text": "export",
+    "size": 2
+  },
+  {
     "text": "production",
     "size": 2
   },
   {
-    "text": "company",
+    "text": "societe",
     "size": 2
   },
   {
-    "text": "societe",
+    "text": "aveve",
     "size": 2
   },
   {
@@ -112,15 +136,15 @@
     "size": 2
   },
   {
-    "text": "bio",
-    "size": 2
-  },
-  {
     "text": "products",
     "size": 2
   },
   {
     "text": "world",
+    "size": 2
+  },
+  {
+    "text": "eddy",
     "size": 2
   },
   {
@@ -132,15 +156,15 @@
     "size": 2
   },
   {
-    "text": "fils",
-    "size": 2
-  },
-  {
     "text": "decaigny",
     "size": 2
   },
   {
     "text": "storage",
+    "size": 2
+  },
+  {
+    "text": "bert",
     "size": 2
   },
   {
@@ -152,15 +176,19 @@
     "size": 2
   },
   {
-    "text": "benelux",
-    "size": 2
-  },
-  {
     "text": "blancke",
     "size": 2
   },
   {
+    "text": "lauwers",
+    "size": 2
+  },
+  {
     "text": "vandeputte",
+    "size": 2
+  },
+  {
+    "text": "anouk",
     "size": 2
   },
   {
@@ -176,8 +204,20 @@
     "size": 2
   },
   {
+    "text": "trade",
+    "size": 2
+  },
+  {
     "text": "olio",
     "size": 2
+  },
+  {
+    "text": "luc",
+    "size": 2
+  },
+  {
+    "text": "tuinaanleg",
+    "size": 1
   },
   {
     "text": "fiemacon",
@@ -192,7 +232,15 @@
     "size": 1
   },
   {
+    "text": "kollebloem",
+    "size": 1
+  },
+  {
     "text": "ferrieres",
+    "size": 1
+  },
+  {
+    "text": "ksm",
     "size": 1
   },
   {
@@ -212,11 +260,19 @@
     "size": 1
   },
   {
+    "text": "berckmoes",
+    "size": 1
+  },
+  {
     "text": "grosfils",
     "size": 1
   },
   {
     "text": "beauté",
+    "size": 1
+  },
+  {
+    "text": "raf",
     "size": 1
   },
   {
@@ -252,6 +308,10 @@
     "size": 1
   },
   {
+    "text": "verhuring",
+    "size": 1
+  },
+  {
     "text": "impact",
     "size": 1
   },
@@ -280,6 +340,10 @@
     "size": 1
   },
   {
+    "text": "lucria",
+    "size": 1
+  },
+  {
     "text": "electrion",
     "size": 1
   },
@@ -304,7 +368,15 @@
     "size": 1
   },
   {
+    "text": "centrum",
+    "size": 1
+  },
+  {
     "text": "passie",
+    "size": 1
+  },
+  {
+    "text": "calotrade",
     "size": 1
   },
   {
@@ -313,6 +385,10 @@
   },
   {
     "text": "metals-mines-machinery",
+    "size": 1
+  },
+  {
+    "text": "matthyssen",
     "size": 1
   },
   {
@@ -325,6 +401,10 @@
   },
   {
     "text": "barthélémy",
+    "size": 1
+  },
+  {
+    "text": "biosolv",
     "size": 1
   },
   {
@@ -345,6 +425,10 @@
   },
   {
     "text": "farming",
+    "size": 1
+  },
+  {
+    "text": "willy",
     "size": 1
   },
   {
@@ -372,6 +456,10 @@
     "size": 1
   },
   {
+    "text": "business",
+    "size": 1
+  },
+  {
     "text": "ch",
     "size": 1
   },
@@ -380,11 +468,23 @@
     "size": 1
   },
   {
+    "text": "co",
+    "size": 1
+  },
+  {
     "text": "gestion",
     "size": 1
   },
   {
+    "text": "peltzer",
+    "size": 1
+  },
+  {
     "text": "decru",
+    "size": 1
+  },
+  {
+    "text": "henry-gillet",
     "size": 1
   },
   {
@@ -401,6 +501,10 @@
   },
   {
     "text": "pierre-arnaud",
+    "size": 1
+  },
+  {
+    "text": "bee",
     "size": 1
   },
   {
@@ -424,10 +528,6 @@
     "size": 1
   },
   {
-    "text": "oleum",
-    "size": 1
-  },
-  {
     "text": "gewas",
     "size": 1
   },
@@ -448,7 +548,7 @@
     "size": 1
   },
   {
-    "text": "export",
+    "text": "olmen",
     "size": 1
   },
   {
@@ -457,6 +557,10 @@
   },
   {
     "text": "houart",
+    "size": 1
+  },
+  {
+    "text": "stefan",
     "size": 1
   },
   {
@@ -473,6 +577,10 @@
   },
   {
     "text": "lelièvre",
+    "size": 1
+  },
+  {
+    "text": "kreators-karma",
     "size": 1
   },
   {
@@ -516,11 +624,19 @@
     "size": 1
   },
   {
+    "text": "kollektiv",
+    "size": 1
+  },
+  {
     "text": "dvdb",
     "size": 1
   },
   {
     "text": "texaco",
+    "size": 1
+  },
+  {
+    "text": "biosurf",
     "size": 1
   },
   {
@@ -540,6 +656,14 @@
     "size": 1
   },
   {
+    "text": "biosmose",
+    "size": 1
+  },
+  {
+    "text": "linea",
+    "size": 1
+  },
+  {
     "text": "boucherie",
     "size": 1
   },
@@ -556,6 +680,10 @@
     "size": 1
   },
   {
+    "text": "f.a",
+    "size": 1
+  },
+  {
     "text": "williamshof",
     "size": 1
   },
@@ -565,10 +693,6 @@
   },
   {
     "text": "sofran",
-    "size": 1
-  },
-  {
-    "text": "bree",
     "size": 1
   },
   {
@@ -600,7 +724,7 @@
     "size": 1
   },
   {
-    "text": "aveve",
+    "text": "afs",
     "size": 1
   },
   {
@@ -628,6 +752,10 @@
     "size": 1
   },
   {
+    "text": "quilove",
+    "size": 1
+  },
+  {
     "text": "all-vet",
     "size": 1
   },
@@ -648,7 +776,15 @@
     "size": 1
   },
   {
+    "text": "goossens",
+    "size": 1
+  },
+  {
     "text": "expert",
+    "size": 1
+  },
+  {
+    "text": "misschaert-jalimati",
     "size": 1
   },
   {
@@ -684,6 +820,10 @@
     "size": 1
   },
   {
+    "text": "kurt",
+    "size": 1
+  },
+  {
     "text": "distripoint",
     "size": 1
   },
@@ -700,6 +840,10 @@
     "size": 1
   },
   {
+    "text": "tree\u0027s",
+    "size": 1
+  },
+  {
     "text": "futuragri",
     "size": 1
   },
@@ -712,11 +856,27 @@
     "size": 1
   },
   {
+    "text": "bentoil",
+    "size": 1
+  },
+  {
+    "text": "cream",
+    "size": 1
+  },
+  {
     "text": "meurice",
     "size": 1
   },
   {
     "text": "bruycker",
+    "size": 1
+  },
+  {
+    "text": "kerkhofs",
+    "size": 1
+  },
+  {
+    "text": "bka",
     "size": 1
   },
   {
@@ -741,6 +901,10 @@
   },
   {
     "text": "belub",
+    "size": 1
+  },
+  {
+    "text": "vermote",
     "size": 1
   },
   {
@@ -800,15 +964,27 @@
     "size": 1
   },
   {
-    "text": "eddy",
-    "size": 1
-  },
-  {
     "text": "agrimathur",
     "size": 1
   },
   {
     "text": "raphaël",
+    "size": 1
+  },
+  {
+    "text": "jape",
+    "size": 1
+  },
+  {
+    "text": "ki",
+    "size": 1
+  },
+  {
+    "text": "kristoph",
+    "size": 1
+  },
+  {
+    "text": "grondwerken",
     "size": 1
   },
   {
@@ -821,182 +997,6 @@
   },
   {
     "text": "dobbelaere",
-    "size": 1
-  },
-  {
-    "text": "v.d.s",
-    "size": 1
-  },
-  {
-    "text": "d.r",
-    "size": 1
-  },
-  {
-    "text": "elektriciteits",
-    "size": 1
-  },
-  {
-    "text": "marmite",
-    "size": 1
-  },
-  {
-    "text": "grains",
-    "size": 1
-  },
-  {
-    "text": "kretashop",
-    "size": 1
-  },
-  {
-    "text": "venetex",
-    "size": 1
-  },
-  {
-    "text": "fontaine",
-    "size": 1
-  },
-  {
-    "text": "aton",
-    "size": 1
-  },
-  {
-    "text": "francisco",
-    "size": 1
-  },
-  {
-    "text": "radex-belgium",
-    "size": 1
-  },
-  {
-    "text": "mechelen",
-    "size": 1
-  },
-  {
-    "text": "mana-loa",
-    "size": 1
-  },
-  {
-    "text": "pype",
-    "size": 1
-  },
-  {
-    "text": "lv",
-    "size": 1
-  },
-  {
-    "text": "smart-trade",
-    "size": 1
-  },
-  {
-    "text": "rijn",
-    "size": 1
-  },
-  {
-    "text": "scoot-phil",
-    "size": 1
-  },
-  {
-    "text": "jessie",
-    "size": 1
-  },
-  {
-    "text": "mamee",
-    "size": 1
-  },
-  {
-    "text": "fine",
-    "size": 1
-  },
-  {
-    "text": "warnier",
-    "size": 1
-  },
-  {
-    "text": "berg",
-    "size": 1
-  },
-  {
-    "text": "mister",
-    "size": 1
-  },
-  {
-    "text": "arno",
-    "size": 1
-  },
-  {
-    "text": "marcel",
-    "size": 1
-  },
-  {
-    "text": "spa",
-    "size": 1
-  },
-  {
-    "text": "cvoa",
-    "size": 1
-  },
-  {
-    "text": "nomad",
-    "size": 1
-  },
-  {
-    "text": "daniel",
-    "size": 1
-  },
-  {
-    "text": "cafe",
-    "size": 1
-  },
-  {
-    "text": "natuurbalans",
-    "size": 1
-  },
-  {
-    "text": "transit",
-    "size": 1
-  },
-  {
-    "text": "try",
-    "size": 1
-  },
-  {
-    "text": "ami",
-    "size": 1
-  },
-  {
-    "text": "collect",
-    "size": 1
-  },
-  {
-    "text": "gennen",
-    "size": 1
-  },
-  {
-    "text": "boo",
-    "size": 1
-  },
-  {
-    "text": "diadeem",
-    "size": 1
-  },
-  {
-    "text": "verdi",
-    "size": 1
-  },
-  {
-    "text": "verviers",
-    "size": 1
-  },
-  {
-    "text": "renos",
-    "size": 1
-  },
-  {
-    "text": "vandermeeren",
-    "size": 1
-  },
-  {
-    "text": "econoparts",
     "size": 1
   }
 ]

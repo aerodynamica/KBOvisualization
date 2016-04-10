@@ -1,7 +1,11 @@
 [
   {
     "text": "hotel",
-    "size": 81
+    "size": 87
+  },
+  {
+    "text": "bvba",
+    "size": 39
   },
   {
     "text": "residence",
@@ -9,74 +13,74 @@
   },
   {
     "text": "ferme",
-    "size": 37
+    "size": 38
   },
   {
     "text": "bed",
     "size": 33
   },
   {
-    "text": "breakfast",
-    "size": 29
-  },
-  {
-    "text": "bvba",
+    "text": "the",
     "size": 28
   },
   {
+    "text": "breakfast",
+    "size": 28
+  },
+  {
+    "text": "camping",
+    "size": 24
+  },
+  {
     "text": "ter",
+    "size": 22
+  },
+  {
+    "text": "services",
     "size": 21
   },
   {
-    "text": "the",
-    "size": 20
+    "text": "villa",
+    "size": 21
   },
   {
     "text": "hof",
     "size": 20
   },
   {
-    "text": "villa",
-    "size": 19
-  },
-  {
     "text": "moulin",
-    "size": 19
+    "size": 20
   },
   {
     "text": "maison",
     "size": 18
   },
   {
-    "text": "camping",
-    "size": 17
-  },
-  {
-    "text": "services",
-    "size": 17
-  },
-  {
-    "text": "chateau",
-    "size": 14
-  },
-  {
     "text": "and",
-    "size": 14
-  },
-  {
-    "text": "restaurant",
-    "size": 14
+    "size": 17
   },
   {
     "text": "den",
-    "size": 13
-  },
-  {
-    "text": "hoeve",
-    "size": 13
+    "size": 15
   },
   {
     "text": "home",
+    "size": 15
+  },
+  {
+    "text": "huis",
+    "size": 14
+  },
+  {
+    "text": "hoeve",
+    "size": 14
+  },
+  {
+    "text": "sprl",
+    "size": 14
+  },
+  {
+    "text": "chateau",
     "size": 13
   },
   {
@@ -84,27 +88,51 @@
     "size": 13
   },
   {
-    "text": "huis",
-    "size": 12
+    "text": "restaurant",
+    "size": 13
   },
   {
     "text": "nv",
-    "size": 11
+    "size": 12
+  },
+  {
+    "text": "consulting",
+    "size": 12
   },
   {
     "text": "consult",
-    "size": 10
+    "size": 11
   },
   {
-    "text": "sprl",
-    "size": 10
+    "text": "domaine",
+    "size": 11
   },
   {
-    "text": "auberge",
-    "size": 9
+    "text": "management",
+    "size": 10
   },
   {
     "text": "philippe",
+    "size": 10
+  },
+  {
+    "text": "patrick",
+    "size": 9
+  },
+  {
+    "text": "house",
+    "size": 9
+  },
+  {
+    "text": "grand",
+    "size": 9
+  },
+  {
+    "text": "relais",
+    "size": 9
+  },
+  {
+    "text": "auberge",
     "size": 9
   },
   {
@@ -112,19 +140,11 @@
     "size": 9
   },
   {
-    "text": "grand",
-    "size": 8
-  },
-  {
-    "text": "relais",
-    "size": 8
-  },
-  {
-    "text": "domaine",
-    "size": 8
-  },
-  {
     "text": "michel",
+    "size": 8
+  },
+  {
+    "text": "chez",
     "size": 8
   },
   {
@@ -132,11 +152,11 @@
     "size": 8
   },
   {
-    "text": "concept",
-    "size": 7
+    "text": "klein",
+    "size": 8
   },
   {
-    "text": "house",
+    "text": "concept",
     "size": 7
   },
   {
@@ -144,15 +164,27 @@
     "size": 7
   },
   {
+    "text": "invest",
+    "size": 7
+  },
+  {
+    "text": "marc",
+    "size": 7
+  },
+  {
     "text": "cottage",
     "size": 7
   },
   {
-    "text": "klein",
+    "text": "jardin",
     "size": 7
   },
   {
-    "text": "hostellerie",
+    "text": "gite",
+    "size": 7
+  },
+  {
+    "text": "guesthouse",
     "size": 7
   },
   {
@@ -160,11 +192,7 @@
     "size": 6
   },
   {
-    "text": "invest",
-    "size": 6
-  },
-  {
-    "text": "marc",
+    "text": "business",
     "size": 6
   },
   {
@@ -172,7 +200,15 @@
     "size": 6
   },
   {
-    "text": "gite",
+    "text": "co",
+    "size": 6
+  },
+  {
+    "text": "ii",
+    "size": 6
+  },
+  {
+    "text": "proficient",
     "size": 6
   },
   {
@@ -180,15 +216,11 @@
     "size": 6
   },
   {
+    "text": "guy",
+    "size": 6
+  },
+  {
     "text": "events",
-    "size": 6
-  },
-  {
-    "text": "consulting",
-    "size": 6
-  },
-  {
-    "text": "chez",
     "size": 6
   },
   {
@@ -196,11 +228,11 @@
     "size": 6
   },
   {
-    "text": "guesthouse",
+    "text": "saint",
     "size": 6
   },
   {
-    "text": "saint",
+    "text": "oude",
     "size": 6
   },
   {
@@ -208,12 +240,16 @@
     "size": 6
   },
   {
-    "text": "gasthof",
+    "text": "jan",
     "size": 6
   },
   {
-    "text": "patrick",
-    "size": 5
+    "text": "hostellerie",
+    "size": 6
+  },
+  {
+    "text": "gasthof",
+    "size": 6
   },
   {
     "text": "taverne",
@@ -224,15 +260,11 @@
     "size": 5
   },
   {
+    "text": "caroline",
+    "size": 5
+  },
+  {
     "text": "val",
-    "size": 5
-  },
-  {
-    "text": "vzw",
-    "size": 5
-  },
-  {
-    "text": "co",
     "size": 5
   },
   {
@@ -240,7 +272,15 @@
     "size": 5
   },
   {
-    "text": "management",
+    "text": "hilde",
+    "size": 5
+  },
+  {
+    "text": "dirk",
+    "size": 5
+  },
+  {
+    "text": "bleu",
     "size": 5
   },
   {
@@ -252,7 +292,11 @@
     "size": 5
   },
   {
-    "text": "group",
+    "text": "grote",
+    "size": 5
+  },
+  {
+    "text": "brasserie",
     "size": 5
   },
   {
@@ -268,7 +312,23 @@
     "size": 5
   },
   {
-    "text": "oude",
+    "text": "cafe",
+    "size": 5
+  },
+  {
+    "text": "ann",
+    "size": 5
+  },
+  {
+    "text": "art",
+    "size": 5
+  },
+  {
+    "text": "casa",
+    "size": 5
+  },
+  {
+    "text": "projects",
     "size": 5
   },
   {
@@ -281,6 +341,10 @@
   },
   {
     "text": "immo",
+    "size": 4
+  },
+  {
+    "text": "geert",
     "size": 4
   },
   {
@@ -304,7 +368,11 @@
     "size": 4
   },
   {
-    "text": "business",
+    "text": "park",
+    "size": 4
+  },
+  {
+    "text": "paul",
     "size": 4
   },
   {
@@ -312,7 +380,11 @@
     "size": 4
   },
   {
-    "text": "caroline",
+    "text": "maan",
+    "size": 4
+  },
+  {
+    "text": "outdoor",
     "size": 4
   },
   {
@@ -320,11 +392,27 @@
     "size": 4
   },
   {
+    "text": "bart",
+    "size": 4
+  },
+  {
     "text": "damme",
     "size": 4
   },
   {
-    "text": "jardin",
+    "text": "linde",
+    "size": 4
+  },
+  {
+    "text": "belgium",
+    "size": 4
+  },
+  {
+    "text": "new",
+    "size": 4
+  },
+  {
+    "text": "vzw",
     "size": 4
   },
   {
@@ -332,7 +420,7 @@
     "size": 4
   },
   {
-    "text": "ii",
+    "text": "flanders",
     "size": 4
   },
   {
@@ -340,15 +428,23 @@
     "size": 4
   },
   {
-    "text": "bleu",
-    "size": 4
-  },
-  {
     "text": "st",
     "size": 4
   },
   {
+    "text": "nicolas",
+    "size": 4
+  },
+  {
+    "text": "oud",
+    "size": 4
+  },
+  {
     "text": "witte",
+    "size": 4
+  },
+  {
+    "text": "roses",
     "size": 4
   },
   {
@@ -360,7 +456,7 @@
     "size": 4
   },
   {
-    "text": "guy",
+    "text": "service",
     "size": 4
   },
   {
@@ -380,15 +476,11 @@
     "size": 4
   },
   {
-    "text": "grote",
+    "text": "beau",
     "size": 4
   },
   {
-    "text": "brasserie",
-    "size": 4
-  },
-  {
-    "text": "d\u0027hotes",
+    "text": "group",
     "size": 4
   },
   {
@@ -396,15 +488,31 @@
     "size": 4
   },
   {
+    "text": "zon",
+    "size": 4
+  },
+  {
+    "text": "farm",
+    "size": 4
+  },
+  {
     "text": "pont",
     "size": 4
   },
   {
-    "text": "cafe",
+    "text": "haras",
     "size": 4
   },
   {
-    "text": "ann",
+    "text": "resto",
+    "size": 4
+  },
+  {
+    "text": "royal",
+    "size": 4
+  },
+  {
+    "text": "taste",
     "size": 4
   },
   {
@@ -412,15 +520,7 @@
     "size": 4
   },
   {
-    "text": "art",
-    "size": 4
-  },
-  {
     "text": "partners",
-    "size": 4
-  },
-  {
-    "text": "casa",
     "size": 4
   },
   {
@@ -452,11 +552,19 @@
     "size": 4
   },
   {
+    "text": "freddy",
+    "size": 3
+  },
+  {
     "text": "mathieu",
     "size": 3
   },
   {
     "text": "atlas",
+    "size": 3
+  },
+  {
+    "text": "marketing",
     "size": 3
   },
   {
@@ -472,7 +580,7 @@
     "size": 3
   },
   {
-    "text": "park",
+    "text": "ecurie",
     "size": 3
   },
   {
@@ -508,15 +616,19 @@
     "size": 3
   },
   {
-    "text": "outdoor",
-    "size": 3
-  },
-  {
     "text": "lodge",
     "size": 3
   },
   {
-    "text": "bart",
+    "text": "herberg",
+    "size": 3
+  },
+  {
+    "text": "project",
+    "size": 3
+  },
+  {
+    "text": "solutions",
     "size": 3
   },
   {
@@ -528,7 +640,7 @@
     "size": 3
   },
   {
-    "text": "linde",
+    "text": "agro",
     "size": 3
   },
   {
@@ -536,11 +648,7 @@
     "size": 3
   },
   {
-    "text": "belgium",
-    "size": 3
-  },
-  {
-    "text": "new",
+    "text": "joseph",
     "size": 3
   },
   {
@@ -548,27 +656,35 @@
     "size": 3
   },
   {
+    "text": "bernard",
+    "size": 3
+  },
+  {
     "text": "poort",
     "size": 3
   },
   {
-    "text": "be",
+    "text": "frituur",
     "size": 3
   },
   {
-    "text": "hilde",
+    "text": "isabelle",
     "size": 3
   },
   {
-    "text": "for",
+    "text": "consultancy",
     "size": 3
   },
   {
-    "text": "flanders",
+    "text": "terroir",
     "size": 3
   },
   {
-    "text": "dirk",
+    "text": "sauna",
+    "size": 3
+  },
+  {
+    "text": "zwarte",
     "size": 3
   },
   {
@@ -584,15 +700,27 @@
     "size": 3
   },
   {
+    "text": "bruges",
+    "size": 3
+  },
+  {
     "text": "domus",
     "size": 3
   },
   {
-    "text": "oud",
+    "text": "nord",
     "size": 3
   },
   {
-    "text": "roses",
+    "text": "hostel",
+    "size": 3
+  },
+  {
+    "text": "costa",
+    "size": 3
+  },
+  {
+    "text": "joris",
     "size": 3
   },
   {
@@ -604,11 +732,11 @@
     "size": 3
   },
   {
-    "text": "service",
+    "text": "chambre",
     "size": 3
   },
   {
-    "text": "chambre",
+    "text": "koen",
     "size": 3
   },
   {
@@ -616,11 +744,31 @@
     "size": 3
   },
   {
+    "text": "design",
+    "size": 3
+  },
+  {
+    "text": "sabine",
+    "size": 3
+  },
+  {
     "text": "jardins",
     "size": 3
   },
   {
-    "text": "beau",
+    "text": "time",
+    "size": 3
+  },
+  {
+    "text": "bistro",
+    "size": 3
+  },
+  {
+    "text": "marleen",
+    "size": 3
+  },
+  {
+    "text": "peter",
     "size": 3
   },
   {
@@ -632,6 +780,14 @@
     "size": 3
   },
   {
+    "text": "boucherie",
+    "size": 3
+  },
+  {
+    "text": "d\u0027hotes",
+    "size": 3
+  },
+  {
     "text": "d\u0027or",
     "size": 3
   },
@@ -640,23 +796,27 @@
     "size": 3
   },
   {
+    "text": "gourmet",
+    "size": 3
+  },
+  {
+    "text": "zee",
+    "size": 3
+  },
+  {
+    "text": "grange",
+    "size": 3
+  },
+  {
     "text": "agency",
     "size": 3
   },
   {
-    "text": "zon",
+    "text": "guzo",
     "size": 3
   },
   {
-    "text": "farm",
-    "size": 3
-  },
-  {
-    "text": "haras",
-    "size": 3
-  },
-  {
-    "text": "resto",
+    "text": "saveurs",
     "size": 3
   },
   {
@@ -664,7 +824,11 @@
     "size": 3
   },
   {
-    "text": "jan",
+    "text": "café",
+    "size": 3
+  },
+  {
+    "text": "patricia",
     "size": 3
   },
   {
@@ -672,7 +836,15 @@
     "size": 3
   },
   {
-    "text": "projects",
+    "text": "vayamundo",
+    "size": 3
+  },
+  {
+    "text": "petite",
+    "size": 3
+  },
+  {
+    "text": "scs",
     "size": 3
   },
   {
@@ -681,6 +853,10 @@
   },
   {
     "text": "tilleuls",
+    "size": 3
+  },
+  {
+    "text": "kasteelhoeve",
     "size": 3
   },
   {
@@ -696,11 +872,35 @@
     "size": 3
   },
   {
+    "text": "spa",
+    "size": 3
+  },
+  {
     "text": "ontbijt",
     "size": 3
   },
   {
+    "text": "nature",
+    "size": 3
+  },
+  {
+    "text": "hill",
+    "size": 3
+  },
+  {
+    "text": "rivage",
+    "size": 3
+  },
+  {
     "text": "ardenne",
+    "size": 3
+  },
+  {
+    "text": "albert",
+    "size": 3
+  },
+  {
+    "text": "village",
     "size": 3
   },
   {
@@ -732,7 +932,7 @@
     "size": 2
   },
   {
-    "text": "freddy",
+    "text": "room",
     "size": 2
   },
   {
@@ -748,7 +948,15 @@
     "size": 2
   },
   {
+    "text": "tom",
+    "size": 2
+  },
+  {
     "text": "adagio",
+    "size": 2
+  },
+  {
+    "text": "rose",
     "size": 2
   },
   {
@@ -760,11 +968,15 @@
     "size": 2
   },
   {
+    "text": "adventure",
+    "size": 2
+  },
+  {
     "text": "minne",
     "size": 2
   },
   {
-    "text": "geert",
+    "text": "landschoot",
     "size": 2
   },
   {
@@ -780,223 +992,11 @@
     "size": 2
   },
   {
-    "text": "marketing",
+    "text": "insurance",
     "size": 2
   },
   {
-    "text": "pain",
-    "size": 2
-  },
-  {
-    "text": "l\u0027arche",
-    "size": 2
-  },
-  {
-    "text": "part",
-    "size": 2
-  },
-  {
-    "text": "desmedt",
-    "size": 2
-  },
-  {
-    "text": "ecurie",
-    "size": 2
-  },
-  {
-    "text": "comptoir",
-    "size": 2
-  },
-  {
-    "text": "paul",
-    "size": 2
-  },
-  {
-    "text": "pasteur",
-    "size": 2
-  },
-  {
-    "text": "presbytère",
-    "size": 2
-  },
-  {
-    "text": "thomas",
-    "size": 2
-  },
-  {
-    "text": "maan",
-    "size": 2
-  },
-  {
-    "text": "baert",
-    "size": 2
-  },
-  {
-    "text": "louise",
-    "size": 2
-  },
-  {
-    "text": "loft",
-    "size": 2
-  },
-  {
-    "text": "p\u0027tit",
-    "size": 2
-  },
-  {
-    "text": "seniorie",
-    "size": 2
-  },
-  {
-    "text": "bron",
-    "size": 2
-  },
-  {
-    "text": "nieuwe",
-    "size": 2
-  },
-  {
-    "text": "cvba-vso",
-    "size": 2
-  },
-  {
-    "text": "wenceslas",
-    "size": 2
-  },
-  {
-    "text": "project",
-    "size": 2
-  },
-  {
-    "text": "solutions",
-    "size": 2
-  },
-  {
-    "text": "l\u0027aisne",
-    "size": 2
-  },
-  {
-    "text": "coventis",
-    "size": 2
-  },
-  {
-    "text": "tempelhof",
-    "size": 2
-  },
-  {
-    "text": "eco",
-    "size": 2
-  },
-  {
-    "text": "ailleurs",
-    "size": 2
-  },
-  {
-    "text": "anders",
-    "size": 2
-  },
-  {
-    "text": "vie",
-    "size": 2
-  },
-  {
-    "text": "equestre",
-    "size": 2
-  },
-  {
-    "text": "sweet",
-    "size": 2
-  },
-  {
-    "text": "els",
-    "size": 2
-  },
-  {
-    "text": "agro",
-    "size": 2
-  },
-  {
-    "text": "kurt",
-    "size": 2
-  },
-  {
-    "text": "logis",
-    "size": 2
-  },
-  {
-    "text": "bureau",
-    "size": 2
-  },
-  {
-    "text": "arnould",
-    "size": 2
-  },
-  {
-    "text": "joseph",
-    "size": 2
-  },
-  {
-    "text": "véronique",
-    "size": 2
-  },
-  {
-    "text": "martin",
-    "size": 2
-  },
-  {
-    "text": "etienne",
-    "size": 2
-  },
-  {
-    "text": "yannick",
-    "size": 2
-  },
-  {
-    "text": "nest",
-    "size": 2
-  },
-  {
-    "text": "janssens",
-    "size": 2
-  },
-  {
-    "text": "cocoon",
-    "size": 2
-  },
-  {
-    "text": "fields",
-    "size": 2
-  },
-  {
-    "text": "bernard",
-    "size": 2
-  },
-  {
-    "text": "ardennes",
-    "size": 2
-  },
-  {
-    "text": "greet",
-    "size": 2
-  },
-  {
-    "text": "tornaco",
-    "size": 2
-  },
-  {
-    "text": "charles",
-    "size": 2
-  },
-  {
-    "text": "plan",
-    "size": 2
-  },
-  {
-    "text": "frituur",
-    "size": 2
-  },
-  {
-    "text": "ylang",
+    "text": "anne",
     "size": 2
   }
 ]

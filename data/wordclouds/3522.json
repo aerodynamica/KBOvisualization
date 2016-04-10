@@ -1,11 +1,27 @@
 [
   {
-    "text": "secteur",
+    "text": "bvba",
+    "size": 10
+  },
+  {
+    "text": "energy",
     "size": 8
   },
   {
     "text": "belgium",
-    "size": 7
+    "size": 8
+  },
+  {
+    "text": "secteur",
+    "size": 8
+  },
+  {
+    "text": "exploitation",
+    "size": 6
+  },
+  {
+    "text": "npg",
+    "size": 6
   },
   {
     "text": "power",
@@ -16,11 +32,11 @@
     "size": 6
   },
   {
-    "text": "exploitation",
-    "size": 6
+    "text": "sprl",
+    "size": 5
   },
   {
-    "text": "energy",
+    "text": "energie",
     "size": 4
   },
   {
@@ -28,31 +44,27 @@
     "size": 4
   },
   {
-    "text": "sprl",
-    "size": 4
+    "text": "entreprise",
+    "size": 3
   },
   {
-    "text": "bvba",
-    "size": 4
+    "text": "scrl",
+    "size": 3
+  },
+  {
+    "text": "nv",
+    "size": 3
+  },
+  {
+    "text": "biogas",
+    "size": 3
   },
   {
     "text": "compressiestation",
     "size": 3
   },
   {
-    "text": "entreprise",
-    "size": 3
-  },
-  {
-    "text": "energie",
-    "size": 3
-  },
-  {
-    "text": "solutions",
-    "size": 3
-  },
-  {
-    "text": "scrl",
+    "text": "invest",
     "size": 3
   },
   {
@@ -64,8 +76,52 @@
     "size": 3
   },
   {
-    "text": "nv",
-    "size": 3
+    "text": "merksem",
+    "size": 2
+  },
+  {
+    "text": "operateur",
+    "size": 2
+  },
+  {
+    "text": "construct",
+    "size": 2
+  },
+  {
+    "text": "guillaume",
+    "size": 2
+  },
+  {
+    "text": "fuel",
+    "size": 2
+  },
+  {
+    "text": "tri",
+    "size": 2
+  },
+  {
+    "text": "reseaux",
+    "size": 2
+  },
+  {
+    "text": "total",
+    "size": 2
+  },
+  {
+    "text": "and",
+    "size": 2
+  },
+  {
+    "text": "construction",
+    "size": 2
+  },
+  {
+    "text": "ores",
+    "size": 2
+  },
+  {
+    "text": "antwerpen",
+    "size": 2
   },
   {
     "text": "eandis",
@@ -84,14 +140,6 @@
     "size": 2
   },
   {
-    "text": "merksem",
-    "size": 2
-  },
-  {
-    "text": "operateur",
-    "size": 2
-  },
-  {
     "text": "devis",
     "size": 2
   },
@@ -100,7 +148,7 @@
     "size": 2
   },
   {
-    "text": "electrabel",
+    "text": "solutions",
     "size": 2
   },
   {
@@ -108,7 +156,7 @@
     "size": 2
   },
   {
-    "text": "npg",
+    "text": "wauters",
     "size": 2
   },
   {
@@ -116,11 +164,7 @@
     "size": 2
   },
   {
-    "text": "construct",
-    "size": 2
-  },
-  {
-    "text": "guillaume",
+    "text": "terrassements",
     "size": 2
   },
   {
@@ -128,11 +172,11 @@
     "size": 2
   },
   {
-    "text": "zeebrugge",
+    "text": "vandezande",
     "size": 2
   },
   {
-    "text": "fuel",
+    "text": "zeebrugge",
     "size": 2
   },
   {
@@ -140,35 +184,11 @@
     "size": 2
   },
   {
-    "text": "reseaux",
-    "size": 2
-  },
-  {
-    "text": "and",
-    "size": 2
-  },
-  {
-    "text": "ores",
-    "size": 2
-  },
-  {
     "text": "clean",
     "size": 2
   },
   {
-    "text": "a-gas",
-    "size": 1
-  },
-  {
     "text": "wego",
-    "size": 1
-  },
-  {
-    "text": "devamat",
-    "size": 1
-  },
-  {
-    "text": "easy-life",
     "size": 1
   },
   {
@@ -180,14 +200,6 @@
     "size": 1
   },
   {
-    "text": "euphony",
-    "size": 1
-  },
-  {
-    "text": "belgian",
-    "size": 1
-  },
-  {
     "text": "sandro",
     "size": 1
   },
@@ -196,23 +208,11 @@
     "size": 1
   },
   {
-    "text": "alltech",
-    "size": 1
-  },
-  {
     "text": "syngas",
     "size": 1
   },
   {
-    "text": "antwerpen",
-    "size": 1
-  },
-  {
     "text": "egl",
-    "size": 1
-  },
-  {
-    "text": "fobelets",
     "size": 1
   },
   {
@@ -224,6 +224,10 @@
     "size": 1
   },
   {
+    "text": "parmentier",
+    "size": 1
+  },
+  {
     "text": "trefpunt",
     "size": 1
   },
@@ -232,19 +236,7 @@
     "size": 1
   },
   {
-    "text": "f.e.t",
-    "size": 1
-  },
-  {
-    "text": "houthoofdt",
-    "size": 1
-  },
-  {
     "text": "claus",
-    "size": 1
-  },
-  {
-    "text": "w.o.m",
     "size": 1
   },
   {
@@ -253,10 +245,6 @@
   },
   {
     "text": "c.c.f",
-    "size": 1
-  },
-  {
-    "text": "pmu",
     "size": 1
   },
   {
@@ -280,10 +268,6 @@
     "size": 1
   },
   {
-    "text": "vcenergy",
-    "size": 1
-  },
-  {
     "text": "wins",
     "size": 1
   },
@@ -292,7 +276,15 @@
     "size": 1
   },
   {
+    "text": "nrgfin",
+    "size": 1
+  },
+  {
     "text": "prima",
+    "size": 1
+  },
+  {
+    "text": "upgrade",
     "size": 1
   },
   {
@@ -301,26 +293,6 @@
   },
   {
     "text": "voghel",
-    "size": 1
-  },
-  {
-    "text": "rudy",
-    "size": 1
-  },
-  {
-    "text": "extergy",
-    "size": 1
-  },
-  {
-    "text": "oli",
-    "size": 1
-  },
-  {
-    "text": "winksele",
-    "size": 1
-  },
-  {
-    "text": "constructions",
     "size": 1
   },
   {
@@ -336,11 +308,7 @@
     "size": 1
   },
   {
-    "text": "motor",
-    "size": 1
-  },
-  {
-    "text": "français",
+    "text": "pirson",
     "size": 1
   },
   {
@@ -348,11 +316,11 @@
     "size": 1
   },
   {
-    "text": "investments",
+    "text": "biofors",
     "size": 1
   },
   {
-    "text": "elexys",
+    "text": "investments",
     "size": 1
   },
   {
@@ -360,15 +328,11 @@
     "size": 1
   },
   {
-    "text": "m-plus",
-    "size": 1
-  },
-  {
     "text": "c.r.c",
     "size": 1
   },
   {
-    "text": "porte",
+    "text": "farming",
     "size": 1
   },
   {
@@ -376,19 +340,11 @@
     "size": 1
   },
   {
-    "text": "biomass",
+    "text": "mind",
     "size": 1
   },
   {
-    "text": "star",
-    "size": 1
-  },
-  {
-    "text": "belgie",
-    "size": 1
-  },
-  {
-    "text": "consulting",
+    "text": "business",
     "size": 1
   },
   {
@@ -404,19 +360,7 @@
     "size": 1
   },
   {
-    "text": "gheorghe",
-    "size": 1
-  },
-  {
     "text": "franz",
-    "size": 1
-  },
-  {
-    "text": "gasopslagstation",
-    "size": 1
-  },
-  {
-    "text": "blue",
     "size": 1
   },
   {
@@ -432,43 +376,11 @@
     "size": 1
   },
   {
-    "text": "jdp",
-    "size": 1
-  },
-  {
-    "text": "ask",
-    "size": 1
-  },
-  {
-    "text": "tunning",
-    "size": 1
-  },
-  {
     "text": "meublier",
     "size": 1
   },
   {
-    "text": "seraing",
-    "size": 1
-  },
-  {
-    "text": "polish",
-    "size": 1
-  },
-  {
     "text": "da",
-    "size": 1
-  },
-  {
-    "text": "luminus",
-    "size": 1
-  },
-  {
-    "text": "d\u0027exploitation",
-    "size": 1
-  },
-  {
-    "text": "medical",
     "size": 1
   },
   {
@@ -496,31 +408,23 @@
     "size": 1
   },
   {
-    "text": "groeven",
-    "size": 1
-  },
-  {
     "text": "brigitte",
     "size": 1
   },
   {
-    "text": "yansenne",
+    "text": "flawal",
+    "size": 1
+  },
+  {
+    "text": "baba",
+    "size": 1
+  },
+  {
+    "text": "dt",
     "size": 1
   },
   {
     "text": "claude",
-    "size": 1
-  },
-  {
-    "text": "icm",
-    "size": 1
-  },
-  {
-    "text": "dumar",
-    "size": 1
-  },
-  {
-    "text": "illimited",
     "size": 1
   },
   {
@@ -532,43 +436,11 @@
     "size": 1
   },
   {
-    "text": "jemappes",
-    "size": 1
-  },
-  {
-    "text": "c.m.t",
-    "size": 1
-  },
-  {
-    "text": "fawaylec",
-    "size": 1
-  },
-  {
     "text": "gorriquer",
     "size": 1
   },
   {
     "text": "lelièvre",
-    "size": 1
-  },
-  {
-    "text": "planet",
-    "size": 1
-  },
-  {
-    "text": "batiskel",
-    "size": 1
-  },
-  {
-    "text": "energieen",
-    "size": 1
-  },
-  {
-    "text": "vc",
-    "size": 1
-  },
-  {
-    "text": "verhuurcenter",
     "size": 1
   },
   {
@@ -584,15 +456,11 @@
     "size": 1
   },
   {
-    "text": "jupille",
-    "size": 1
-  },
-  {
-    "text": "vl",
-    "size": 1
-  },
-  {
     "text": "c-link",
+    "size": 1
+  },
+  {
+    "text": "energio",
     "size": 1
   },
   {
@@ -600,23 +468,7 @@
     "size": 1
   },
   {
-    "text": "jumet",
-    "size": 1
-  },
-  {
     "text": "biofer",
-    "size": 1
-  },
-  {
-    "text": "bemij",
-    "size": 1
-  },
-  {
-    "text": "herstal",
-    "size": 1
-  },
-  {
-    "text": "sébastien",
     "size": 1
   },
   {
@@ -624,31 +476,15 @@
     "size": 1
   },
   {
-    "text": "draux",
+    "text": "fortum",
     "size": 1
   },
   {
-    "text": "unitank-g",
-    "size": 1
-  },
-  {
-    "text": "c.gen",
-    "size": 1
-  },
-  {
-    "text": "deloyer",
-    "size": 1
-  },
-  {
-    "text": "house",
+    "text": "compostering",
     "size": 1
   },
   {
     "text": "dominique",
-    "size": 1
-  },
-  {
-    "text": "kestens",
     "size": 1
   },
   {
@@ -660,23 +496,11 @@
     "size": 1
   },
   {
-    "text": "central",
+    "text": "electrabel",
     "size": 1
   },
   {
-    "text": "fakkel",
-    "size": 1
-  },
-  {
-    "text": "sogegaz",
-    "size": 1
-  },
-  {
-    "text": "elugie",
-    "size": 1
-  },
-  {
-    "text": "dervaux",
+    "text": "associés",
     "size": 1
   },
   {
@@ -688,11 +512,11 @@
     "size": 1
   },
   {
-    "text": "ardennaises",
+    "text": "thomas",
     "size": 1
   },
   {
-    "text": "gaz",
+    "text": "bree",
     "size": 1
   },
   {
@@ -700,27 +524,27 @@
     "size": 1
   },
   {
-    "text": "anderlecht",
-    "size": 1
-  },
-  {
-    "text": "eifel-energie",
-    "size": 1
-  },
-  {
     "text": "pilot",
     "size": 1
   },
   {
-    "text": "center",
+    "text": "mobile",
     "size": 1
   },
   {
-    "text": "jean-luc",
+    "text": "metrans",
     "size": 1
   },
   {
-    "text": "milmort",
+    "text": "duruisseau",
+    "size": 1
+  },
+  {
+    "text": "vanden",
+    "size": 1
+  },
+  {
+    "text": "dornob",
     "size": 1
   },
   {
@@ -728,27 +552,7 @@
     "size": 1
   },
   {
-    "text": "jurgen",
-    "size": 1
-  },
-  {
-    "text": "we-power",
-    "size": 1
-  },
-  {
-    "text": "pgnig",
-    "size": 1
-  },
-  {
-    "text": "jardins",
-    "size": 1
-  },
-  {
     "text": "service",
-    "size": 1
-  },
-  {
-    "text": "brugge",
     "size": 1
   },
   {
@@ -764,19 +568,11 @@
     "size": 1
   },
   {
-    "text": "scholt",
-    "size": 1
-  },
-  {
-    "text": "pirard",
+    "text": "adrien",
     "size": 1
   },
   {
     "text": "retelet/group",
-    "size": 1
-  },
-  {
-    "text": "sveltec",
     "size": 1
   },
   {
@@ -788,35 +584,7 @@
     "size": 1
   },
   {
-    "text": "terrassements",
-    "size": 1
-  },
-  {
-    "text": "lutimmo",
-    "size": 1
-  },
-  {
-    "text": "rasetta",
-    "size": 1
-  },
-  {
-    "text": "gent",
-    "size": 1
-  },
-  {
-    "text": "nicolas",
-    "size": 1
-  },
-  {
-    "text": "frigo",
-    "size": 1
-  },
-  {
-    "text": "administratif",
-    "size": 1
-  },
-  {
-    "text": "administratie",
+    "text": "bio-gas",
     "size": 1
   },
   {
@@ -824,43 +592,11 @@
     "size": 1
   },
   {
-    "text": "m.d",
-    "size": 1
-  },
-  {
-    "text": "westgas",
-    "size": 1
-  },
-  {
-    "text": "elbeek",
-    "size": 1
-  },
-  {
-    "text": "genk",
-    "size": 1
-  },
-  {
-    "text": "iscs",
-    "size": 1
-  },
-  {
-    "text": "sportoase",
-    "size": 1
-  },
-  {
-    "text": "zuun",
-    "size": 1
-  },
-  {
-    "text": "enerad",
+    "text": "riel",
     "size": 1
   },
   {
     "text": "bade",
-    "size": 1
-  },
-  {
-    "text": "pogc",
     "size": 1
   },
   {
@@ -880,7 +616,7 @@
     "size": 1
   },
   {
-    "text": "hydratech",
+    "text": "frisolar",
     "size": 1
   },
   {
@@ -892,27 +628,11 @@
     "size": 1
   },
   {
-    "text": "sainte-marie",
-    "size": 1
-  },
-  {
-    "text": "tecoma",
-    "size": 1
-  },
-  {
     "text": "entreprises",
     "size": 1
   },
   {
-    "text": "groene",
-    "size": 1
-  },
-  {
-    "text": "noppe",
-    "size": 1
-  },
-  {
-    "text": "t.s.g",
+    "text": "grepobel",
     "size": 1
   },
   {
@@ -920,11 +640,7 @@
     "size": 1
   },
   {
-    "text": "iztc",
-    "size": 1
-  },
-  {
-    "text": "bouwwerken",
+    "text": "flotille",
     "size": 1
   },
   {
@@ -940,11 +656,7 @@
     "size": 1
   },
   {
-    "text": "safalec",
-    "size": 1
-  },
-  {
-    "text": "lpa",
+    "text": "freson",
     "size": 1
   },
   {
@@ -956,19 +668,15 @@
     "size": 1
   },
   {
-    "text": "dison",
-    "size": 1
-  },
-  {
-    "text": "aqualec",
-    "size": 1
-  },
-  {
     "text": "mat",
     "size": 1
   },
   {
-    "text": "la-centrale",
+    "text": "motokaiser",
+    "size": 1
+  },
+  {
+    "text": "pumps",
     "size": 1
   },
   {
@@ -976,27 +684,319 @@
     "size": 1
   },
   {
-    "text": "westwind",
-    "size": 1
-  },
-  {
-    "text": "zephyrus",
-    "size": 1
-  },
-  {
-    "text": "site",
-    "size": 1
-  },
-  {
-    "text": "jaraver",
-    "size": 1
-  },
-  {
-    "text": "ieper",
-    "size": 1
-  },
-  {
     "text": "cassochrome",
+    "size": 1
+  },
+  {
+    "text": "industries",
+    "size": 1
+  },
+  {
+    "text": "dungen",
+    "size": 1
+  },
+  {
+    "text": "s-a",
+    "size": 1
+  },
+  {
+    "text": "sibiom",
+    "size": 1
+  },
+  {
+    "text": "maritiem",
+    "size": 1
+  },
+  {
+    "text": "body",
+    "size": 1
+  },
+  {
+    "text": "tuinderij",
+    "size": 1
+  },
+  {
+    "text": "roger",
+    "size": 1
+  },
+  {
+    "text": "scoot-phil",
+    "size": 1
+  },
+  {
+    "text": "jvdh-system",
+    "size": 1
+  },
+  {
+    "text": "mg",
+    "size": 1
+  },
+  {
+    "text": "picard",
+    "size": 1
+  },
+  {
+    "text": "agro-energiek",
+    "size": 1
+  },
+  {
+    "text": "fomes",
+    "size": 1
+  },
+  {
+    "text": "builaert",
+    "size": 1
+  },
+  {
+    "text": "loonwerk",
+    "size": 1
+  },
+  {
+    "text": "philippe",
+    "size": 1
+  },
+  {
+    "text": "plus",
+    "size": 1
+  },
+  {
+    "text": "merlin",
+    "size": 1
+  },
+  {
+    "text": "beeckman",
+    "size": 1
+  },
+  {
+    "text": "noble",
+    "size": 1
+  },
+  {
+    "text": "r.d.h.i",
+    "size": 1
+  },
+  {
+    "text": "eenmanszaak",
+    "size": 1
+  },
+  {
+    "text": "infrax",
+    "size": 1
+  },
+  {
+    "text": "zelzate",
+    "size": 1
+  },
+  {
+    "text": "fruit",
+    "size": 1
+  },
+  {
+    "text": "mest",
+    "size": 1
+  },
+  {
+    "text": "erwin",
+    "size": 1
+  },
+  {
+    "text": "magasin",
+    "size": 1
+  },
+  {
+    "text": "toitures-sanit-chauffage",
+    "size": 1
+  },
+  {
+    "text": "verda",
+    "size": 1
+  },
+  {
+    "text": "oil",
+    "size": 1
+  },
+  {
+    "text": "a.i.e.g",
+    "size": 1
+  },
+  {
+    "text": "biezen",
+    "size": 1
+  },
+  {
+    "text": "elinun",
+    "size": 1
+  },
+  {
+    "text": "algemene",
+    "size": 1
+  },
+  {
+    "text": "wetteren",
+    "size": 1
+  },
+  {
+    "text": "terrassement/m-l-z",
+    "size": 1
+  },
+  {
+    "text": "cse-tech",
+    "size": 1
+  },
+  {
+    "text": "control",
+    "size": 1
+  },
+  {
+    "text": "bert",
+    "size": 1
+  },
+  {
+    "text": "b.v",
+    "size": 1
+  },
+  {
+    "text": "r.m.j",
+    "size": 1
+  },
+  {
+    "text": "perspectives",
+    "size": 1
+  },
+  {
+    "text": "activities",
+    "size": 1
+  },
+  {
+    "text": "jjdl",
+    "size": 1
+  },
+  {
+    "text": "tankstorage",
+    "size": 1
+  },
+  {
+    "text": "eynde",
+    "size": 1
+  },
+  {
+    "text": "geronimo",
+    "size": 1
+  },
+  {
+    "text": "collignon",
+    "size": 1
+  },
+  {
+    "text": "a-gas",
+    "size": 1
+  },
+  {
+    "text": "devamat",
+    "size": 1
+  },
+  {
+    "text": "easy-life",
+    "size": 1
+  },
+  {
+    "text": "etienne",
+    "size": 1
+  },
+  {
+    "text": "euphony",
+    "size": 1
+  },
+  {
+    "text": "belgian",
+    "size": 1
+  },
+  {
+    "text": "alltech",
+    "size": 1
+  },
+  {
+    "text": "fobelets",
+    "size": 1
+  },
+  {
+    "text": "f.e.t",
+    "size": 1
+  },
+  {
+    "text": "houthoofdt",
+    "size": 1
+  },
+  {
+    "text": "w.o.m",
+    "size": 1
+  },
+  {
+    "text": "jan",
+    "size": 1
+  },
+  {
+    "text": "bois",
+    "size": 1
+  },
+  {
+    "text": "pmu",
+    "size": 1
+  },
+  {
+    "text": "vcenergy",
+    "size": 1
+  },
+  {
+    "text": "compostage",
+    "size": 1
+  },
+  {
+    "text": "rudy",
+    "size": 1
+  },
+  {
+    "text": "duferco",
+    "size": 1
+  },
+  {
+    "text": "extergy",
+    "size": 1
+  },
+  {
+    "text": "oli",
+    "size": 1
+  },
+  {
+    "text": "winksele",
+    "size": 1
+  },
+  {
+    "text": "jean-pierre",
+    "size": 1
+  },
+  {
+    "text": "constructions",
+    "size": 1
+  },
+  {
+    "text": "dries",
+    "size": 1
+  },
+  {
+    "text": "motor",
+    "size": 1
+  },
+  {
+    "text": "français",
+    "size": 1
+  },
+  {
+    "text": "marine",
+    "size": 1
+  },
+  {
+    "text": "elexys",
     "size": 1
   }
 ]

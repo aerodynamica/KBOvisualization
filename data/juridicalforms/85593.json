@@ -1,15 +1,23 @@
 [
   {
     "form": "Natuurlijk Persoon",
-    "count": 107
+    "count": 400
   },
   {
     "form": "Besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 9
+    "count": 64
   },
   {
     "form": "Burgerlijke vennootschap onder vorm van besloten vennootschap met beperkte aansprakelijkheid",
     "count": 1
+  },
+  {
+    "form": "Burgerlijke vennootschap onder vorm van vennootschap onder firma",
+    "count": 1
+  },
+  {
+    "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid",
+    "count": 6
   },
   {
     "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid met een sociaal oogmerk",
@@ -21,7 +29,7 @@
   },
   {
     "form": "Gewone commanditaire vennootschap",
-    "count": 8
+    "count": 25
   },
   {
     "form": "Instelling van openbaar nut",
@@ -29,14 +37,26 @@
   },
   {
     "form": "Internationale vereniging zonder winstoogmerk",
-    "count": 2
-  },
-  {
-    "form": "Vennootschap onder firma",
     "count": 4
   },
   {
+    "form": "Naamloze vennootschap",
+    "count": 2
+  },
+  {
+    "form": "Private stichting",
+    "count": 1
+  },
+  {
+    "form": "Vennootschap of vereniging zonder rechtspersoonlijkheid",
+    "count": 1
+  },
+  {
+    "form": "Vennootschap onder firma",
+    "count": 6
+  },
+  {
     "form": "Vereniging zonder winstoogmerk",
-    "count": 186
+    "count": 252
   }
 ]

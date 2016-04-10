@@ -1,35 +1,35 @@
 [
   {
     "text": "bakkerij",
-    "size": 694
+    "size": 701
   },
   {
     "text": "boulangerie",
-    "size": 353
-  },
-  {
-    "text": "patisserie",
-    "size": 315
+    "size": 352
   },
   {
     "text": "brood",
-    "size": 307
+    "size": 314
+  },
+  {
+    "text": "patisserie",
+    "size": 312
   },
   {
     "text": "banket",
-    "size": 191
+    "size": 196
   },
   {
     "text": "banketbakkerij",
-    "size": 110
+    "size": 112
   },
   {
     "text": "bvba",
-    "size": 105
+    "size": 108
   },
   {
     "text": "pain",
-    "size": 48
+    "size": 49
   },
   {
     "text": "nv",
@@ -37,10 +37,14 @@
   },
   {
     "text": "bakk",
-    "size": 37
+    "size": 35
   },
   {
     "text": "sprl",
+    "size": 30
+  },
+  {
+    "text": "bakker",
     "size": 30
   },
   {
@@ -52,59 +56,55 @@
     "size": 29
   },
   {
-    "text": "bakker",
+    "text": "den",
     "size": 29
   },
   {
-    "text": "den",
-    "size": 27
+    "text": "chez",
+    "size": 28
   },
   {
     "text": "pâtisserie",
-    "size": 27
-  },
-  {
-    "text": "chez",
-    "size": 27
+    "size": 26
   },
   {
     "text": "co",
-    "size": 23
+    "size": 24
   },
   {
     "text": "st",
     "size": 23
   },
   {
-    "text": "boulangerie-patisserie",
+    "text": "saveurs",
     "size": 21
   },
   {
-    "text": "saveurs",
+    "text": "boulangerie-patisserie",
     "size": 20
   },
   {
+    "text": "bakery",
+    "size": 18
+  },
+  {
+    "text": "chocolaterie",
+    "size": 18
+  },
+  {
     "text": "luc",
-    "size": 19
+    "size": 17
+  },
+  {
+    "text": "cake",
+    "size": 17
   },
   {
     "text": "biscuiterie",
     "size": 17
   },
   {
-    "text": "bakery",
-    "size": 16
-  },
-  {
-    "text": "chocolaterie",
-    "size": 16
-  },
-  {
     "text": "délices",
-    "size": 15
-  },
-  {
-    "text": "pat",
     "size": 15
   },
   {
@@ -116,8 +116,8 @@
     "size": 15
   },
   {
-    "text": "cake",
-    "size": 15
+    "text": "bart",
+    "size": 14
   },
   {
     "text": "pierre",
@@ -128,11 +128,19 @@
     "size": 14
   },
   {
+    "text": "pat",
+    "size": 14
+  },
+  {
     "text": "fils",
     "size": 14
   },
   {
     "text": "paul",
+    "size": 13
+  },
+  {
+    "text": "food",
     "size": 13
   },
   {
@@ -152,15 +160,15 @@
     "size": 12
   },
   {
-    "text": "bart",
-    "size": 12
-  },
-  {
-    "text": "huis",
-    "size": 12
-  },
-  {
     "text": "dirk",
+    "size": 12
+  },
+  {
+    "text": "petit",
+    "size": 12
+  },
+  {
+    "text": "d\u0027or",
     "size": 12
   },
   {
@@ -168,19 +176,27 @@
     "size": 12
   },
   {
-    "text": "food",
+    "text": "didier",
+    "size": 12
+  },
+  {
+    "text": "the",
+    "size": 11
+  },
+  {
+    "text": "ferme",
+    "size": 11
+  },
+  {
+    "text": "huis",
+    "size": 11
+  },
+  {
+    "text": "chocolat",
     "size": 11
   },
   {
     "text": "michel",
-    "size": 11
-  },
-  {
-    "text": "petit",
-    "size": 11
-  },
-  {
-    "text": "d\u0027or",
     "size": 11
   },
   {
@@ -192,12 +208,8 @@
     "size": 11
   },
   {
-    "text": "didier",
+    "text": "olivier",
     "size": 11
-  },
-  {
-    "text": "the",
-    "size": 10
   },
   {
     "text": "croissant",
@@ -216,7 +228,15 @@
     "size": 10
   },
   {
-    "text": "olivier",
+    "text": "guy",
+    "size": 10
+  },
+  {
+    "text": "pascal",
+    "size": 10
+  },
+  {
+    "text": "kris",
     "size": 10
   },
   {
@@ -228,10 +248,6 @@
     "size": 9
   },
   {
-    "text": "ferme",
-    "size": 9
-  },
-  {
     "text": "marc",
     "size": 9
   },
@@ -240,11 +256,15 @@
     "size": 9
   },
   {
+    "text": "chocolatier",
+    "size": 9
+  },
+  {
     "text": "wim",
     "size": 9
   },
   {
-    "text": "chocolat",
+    "text": "el",
     "size": 9
   },
   {
@@ -252,15 +272,15 @@
     "size": 9
   },
   {
+    "text": "christophe",
+    "size": 9
+  },
+  {
     "text": "douceurs",
     "size": 9
   },
   {
-    "text": "guy",
-    "size": 9
-  },
-  {
-    "text": "pascal",
+    "text": "peter",
     "size": 9
   },
   {
@@ -268,7 +288,15 @@
     "size": 9
   },
   {
+    "text": "traiteur",
+    "size": 9
+  },
+  {
     "text": "royal",
+    "size": 9
+  },
+  {
+    "text": "foods",
     "size": 9
   },
   {
@@ -280,15 +308,19 @@
     "size": 9
   },
   {
-    "text": "kris",
-    "size": 9
-  },
-  {
     "text": "pains",
     "size": 9
   },
   {
+    "text": "sweets",
+    "size": 8
+  },
+  {
     "text": "lieven",
+    "size": 8
+  },
+  {
+    "text": "sweet",
     "size": 8
   },
   {
@@ -304,7 +336,7 @@
     "size": 8
   },
   {
-    "text": "chocolatier",
+    "text": "david",
     "size": 8
   },
   {
@@ -328,19 +360,19 @@
     "size": 8
   },
   {
+    "text": "boulanger",
+    "size": 8
+  },
+  {
     "text": "saint",
     "size": 8
   },
   {
-    "text": "traiteur",
-    "size": 8
-  },
-  {
-    "text": "foods",
-    "size": 8
-  },
-  {
     "text": "boerenbrood",
+    "size": 8
+  },
+  {
+    "text": "sint",
     "size": 8
   },
   {
@@ -352,19 +384,11 @@
     "size": 7
   },
   {
-    "text": "sweets",
+    "text": "company",
     "size": 7
   },
   {
-    "text": "sweet",
-    "size": 7
-  },
-  {
-    "text": "cakes",
-    "size": 7
-  },
-  {
-    "text": "herman",
+    "text": "atelier",
     "size": 7
   },
   {
@@ -372,15 +396,7 @@
     "size": 7
   },
   {
-    "text": "david",
-    "size": 7
-  },
-  {
     "text": "frank",
-    "size": 7
-  },
-  {
-    "text": "el",
     "size": 7
   },
   {
@@ -388,11 +404,11 @@
     "size": 7
   },
   {
-    "text": "oud",
+    "text": "daniel",
     "size": 7
   },
   {
-    "text": "christophe",
+    "text": "cuisine",
     "size": 7
   },
   {
@@ -400,15 +416,11 @@
     "size": 7
   },
   {
-    "text": "peter",
+    "text": "chocolates",
     "size": 7
   },
   {
     "text": "danny",
-    "size": 7
-  },
-  {
-    "text": "boulanger",
     "size": 7
   },
   {
@@ -432,15 +444,7 @@
     "size": 7
   },
   {
-    "text": "jacobs",
-    "size": 7
-  },
-  {
     "text": "ignace",
-    "size": 7
-  },
-  {
-    "text": "sint",
     "size": 7
   },
   {
@@ -464,11 +468,15 @@
     "size": 6
   },
   {
+    "text": "house",
+    "size": 6
+  },
+  {
     "text": "brood-banketbakkerij",
     "size": 6
   },
   {
-    "text": "company",
+    "text": "smets",
     "size": 6
   },
   {
@@ -480,6 +488,10 @@
     "size": 6
   },
   {
+    "text": "bake",
+    "size": 6
+  },
+  {
     "text": "merveilleux",
     "size": 6
   },
@@ -488,7 +500,7 @@
     "size": 6
   },
   {
-    "text": "atelier",
+    "text": "gateau",
     "size": 6
   },
   {
@@ -496,15 +508,23 @@
     "size": 6
   },
   {
+    "text": "cakes",
+    "size": 6
+  },
+  {
+    "text": "herman",
+    "size": 6
+  },
+  {
     "text": "kurt",
     "size": 6
   },
   {
-    "text": "chocolate",
+    "text": "new",
     "size": 6
   },
   {
-    "text": "andre",
+    "text": "chocolate",
     "size": 6
   },
   {
@@ -520,7 +540,19 @@
     "size": 6
   },
   {
-    "text": "daniel",
+    "text": "oud",
+    "size": 6
+  },
+  {
+    "text": "laurent",
+    "size": 6
+  },
+  {
+    "text": "mertens",
+    "size": 6
+  },
+  {
+    "text": "zoete",
     "size": 6
   },
   {
@@ -533,6 +565,10 @@
   },
   {
     "text": "baguette",
+    "size": 6
+  },
+  {
+    "text": "warme",
     "size": 6
   },
   {
@@ -556,6 +592,14 @@
     "size": 6
   },
   {
+    "text": "jacobs",
+    "size": 6
+  },
+  {
+    "text": "claeys",
+    "size": 6
+  },
+  {
     "text": "deli",
     "size": 6
   },
@@ -564,15 +608,11 @@
     "size": 6
   },
   {
-    "text": "house",
+    "text": "good",
     "size": 5
   },
   {
-    "text": "smets",
-    "size": 5
-  },
-  {
-    "text": "grand",
+    "text": "alexandre",
     "size": 5
   },
   {
@@ -584,15 +624,11 @@
     "size": 5
   },
   {
-    "text": "bake",
+    "text": "délice",
     "size": 5
   },
   {
     "text": "pates",
-    "size": 5
-  },
-  {
-    "text": "gateau",
     "size": 5
   },
   {
@@ -608,7 +644,19 @@
     "size": 5
   },
   {
+    "text": "voeding",
+    "size": 5
+  },
+  {
     "text": "martine",
+    "size": 5
+  },
+  {
+    "text": "andre",
+    "size": 5
+  },
+  {
+    "text": "charlotte",
     "size": 5
   },
   {
@@ -616,15 +664,7 @@
     "size": 5
   },
   {
-    "text": "cuisine",
-    "size": 5
-  },
-  {
-    "text": "laurent",
-    "size": 5
-  },
-  {
-    "text": "chocolates",
+    "text": "keyser",
     "size": 5
   },
   {
@@ -632,7 +672,15 @@
     "size": 5
   },
   {
+    "text": "group",
+    "size": 5
+  },
+  {
     "text": "gilles",
+    "size": 5
+  },
+  {
+    "text": "nathalie",
     "size": 5
   },
   {
@@ -640,15 +688,15 @@
     "size": 5
   },
   {
-    "text": "mertens",
-    "size": 5
-  },
-  {
-    "text": "zoete",
-    "size": 5
-  },
-  {
     "text": "kockartz",
+    "size": 5
+  },
+  {
+    "text": "marie",
+    "size": 5
+  },
+  {
+    "text": "products",
     "size": 5
   },
   {
@@ -664,7 +712,7 @@
     "size": 5
   },
   {
-    "text": "warme",
+    "text": "rik",
     "size": 5
   },
   {
@@ -708,7 +756,7 @@
     "size": 5
   },
   {
-    "text": "good",
+    "text": "tim",
     "size": 4
   },
   {
@@ -740,6 +788,10 @@
     "size": 4
   },
   {
+    "text": "consult",
+    "size": 4
+  },
+  {
     "text": "zoon",
     "size": 4
   },
@@ -760,15 +812,19 @@
     "size": 4
   },
   {
+    "text": "grand",
+    "size": 4
+  },
+  {
     "text": "gourmande",
     "size": 4
   },
   {
-    "text": "alexandre",
+    "text": "backerei",
     "size": 4
   },
   {
-    "text": "backerei",
+    "text": "max",
     "size": 4
   },
   {
@@ -784,10 +840,6 @@
     "size": 4
   },
   {
-    "text": "délice",
-    "size": 4
-  },
-  {
     "text": "monde",
     "size": 4
   },
@@ -800,7 +852,7 @@
     "size": 4
   },
   {
-    "text": "new",
+    "text": "aernoudt",
     "size": 4
   },
   {
@@ -820,10 +872,6 @@
     "size": 4
   },
   {
-    "text": "voeding",
-    "size": 4
-  },
-  {
     "text": "verboven",
     "size": 4
   },
@@ -837,6 +885,10 @@
   },
   {
     "text": "royale",
+    "size": 4
+  },
+  {
+    "text": "gaufres",
     "size": 4
   },
   {
@@ -856,7 +908,19 @@
     "size": 4
   },
   {
+    "text": "hilde",
+    "size": 4
+  },
+  {
+    "text": "four",
+    "size": 4
+  },
+  {
     "text": "jo",
+    "size": 4
+  },
+  {
+    "text": "my",
     "size": 4
   },
   {
@@ -865,10 +929,6 @@
   },
   {
     "text": "oz",
-    "size": 4
-  },
-  {
-    "text": "charlotte",
     "size": 4
   },
   {
@@ -900,19 +960,11 @@
     "size": 4
   },
   {
-    "text": "keyser",
-    "size": 4
-  },
-  {
     "text": "arts",
     "size": 4
   },
   {
     "text": "chant",
-    "size": 4
-  },
-  {
-    "text": "nathalie",
     "size": 4
   },
   {
@@ -924,15 +976,11 @@
     "size": 4
   },
   {
-    "text": "marie",
+    "text": "brasserie",
     "size": 4
   },
   {
     "text": "goossens",
-    "size": 4
-  },
-  {
-    "text": "products",
     "size": 4
   },
   {
@@ -948,55 +996,7 @@
     "size": 4
   },
   {
-    "text": "govaert",
-    "size": 4
-  },
-  {
-    "text": "fred",
-    "size": 4
-  },
-  {
-    "text": "ice",
-    "size": 4
-  },
-  {
-    "text": "serge",
-    "size": 4
-  },
-  {
-    "text": "rik",
-    "size": 4
-  },
-  {
-    "text": "saive",
-    "size": 4
-  },
-  {
-    "text": "cloet",
-    "size": 4
-  },
-  {
-    "text": "palais",
-    "size": 4
-  },
-  {
-    "text": "shop",
-    "size": 4
-  },
-  {
-    "text": "schutter",
-    "size": 4
-  },
-  {
-    "text": "petrin",
-    "size": 4
-  },
-  {
-    "text": "boul",
-    "size": 4
-  },
-  {
-    "text": "ludo",
+    "text": "rudy",
     "size": 4
   }
 ]

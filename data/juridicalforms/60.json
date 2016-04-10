@@ -1,7 +1,19 @@
 [
   {
     "form": "Natuurlijk Persoon",
-    "count": 68
+    "count": 2636
+  },
+  {
+    "form": "Andere privaatrechtelijke vorm met rechtspersoonlijkheid",
+    "count": 1
+  },
+  {
+    "form": "Andere rechtsvorm",
+    "count": 8
+  },
+  {
+    "form": "Andere vorm met een sociaal oogmerk van publiek recht",
+    "count": 2
   },
   {
     "form": "Autonoom gemeentebedrijf",
@@ -9,35 +21,75 @@
   },
   {
     "form": "Besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 75
+    "count": 7072
   },
   {
-    "form": "BTW-eenheid",
+    "form": "Besloten vennootschap met beperkte aansprakelijkheid met een sociaal oogmerk",
     "count": 1
   },
   {
+    "form": "BTW-eenheid",
+    "count": 9
+  },
+  {
     "form": "Buitenlandse onderneming",
-    "count": 13
+    "count": 55
   },
   {
     "form": "Buitenlandse onderneming zonder Belgische vestiging met vertegenwoordiger voor BTW",
-    "count": 3
+    "count": 21
+  },
+  {
+    "form": "Burgerlijke vennootschap onder vorm van besloten vennootschap met beperkte aansprakelijkheid",
+    "count": 12
   },
   {
     "form": "Burgerlijke vennootschap onder vorm van coöperatieve vennootschap met beperkte aansprakelijkheid",
     "count": 1
   },
   {
-    "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid",
-    "count": 3
-  },
-  {
-    "form": "Economisch samenwerkingsverband",
+    "form": "Burgerlijke vennootschap onder vorm van coöperatieve vennootschap met onbeperkte aansprakelijkheid",
     "count": 1
   },
   {
+    "form": "Burgerlijke vennootschap onder vorm van gewone commanditaire vennootschap",
+    "count": 1
+  },
+  {
+    "form": "Burgerlijke vennootschap onder vorm van vennootschap onder firma",
+    "count": 1
+  },
+  {
+    "form": "Commanditaire vennootschap op aandelen",
+    "count": 20
+  },
+  {
+    "form": "Coöperatieve vennootschap (oud statuut)",
+    "count": 28
+  },
+  {
+    "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid",
+    "count": 251
+  },
+  {
+    "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid met een sociaal oogmerk",
+    "count": 3
+  },
+  {
+    "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid, bij wijze van deelneming",
+    "count": 2
+  },
+  {
+    "form": "Coöperatieve vennootschap met onbeperkte aansprakelijkheid",
+    "count": 105
+  },
+  {
+    "form": "Economisch samenwerkingsverband",
+    "count": 2
+  },
+  {
     "form": "Eenpersoons besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 10
+    "count": 846
   },
   {
     "form": "Europees economisch samenwerkingsverband",
@@ -45,7 +97,7 @@
   },
   {
     "form": "Gewone commanditaire vennootschap",
-    "count": 17
+    "count": 239
   },
   {
     "form": "Intercommunale",
@@ -53,26 +105,38 @@
   },
   {
     "form": "Internationale vereniging zonder winstoogmerk",
-    "count": 2
-  },
-  {
-    "form": "Naamloze vennootschap",
-    "count": 46
-  },
-  {
-    "form": "Naamloze vennootschap van publiek recht",
-    "count": 2
-  },
-  {
-    "form": "Openbare instelling",
     "count": 3
   },
   {
+    "form": "Naamloze vennootschap",
+    "count": 3417
+  },
+  {
+    "form": "Naamloze vennootschap van publiek recht",
+    "count": 3
+  },
+  {
+    "form": "Openbare instelling",
+    "count": 5
+  },
+  {
+    "form": "Overheid van het Vlaamse Gewest en van de Vlaamse Gemeenschap",
+    "count": 2
+  },
+  {
+    "form": "Stad / gemeente",
+    "count": 12
+  },
+  {
+    "form": "Vennootschap of vereniging zonder rechtspersoonlijkheid",
+    "count": 22
+  },
+  {
     "form": "Vennootschap onder firma",
-    "count": 8
+    "count": 81
   },
   {
     "form": "Vereniging zonder winstoogmerk",
-    "count": 195
+    "count": 264
   }
 ]

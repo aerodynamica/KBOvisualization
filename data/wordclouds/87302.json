@@ -1,7 +1,11 @@
 [
   {
     "text": "residentie",
-    "size": 15
+    "size": 18
+  },
+  {
+    "text": "ter",
+    "size": 14
   },
   {
     "text": "résidence",
@@ -12,10 +16,6 @@
     "size": 12
   },
   {
-    "text": "ter",
-    "size": 11
-  },
-  {
     "text": "serviceflats",
     "size": 10
   },
@@ -24,8 +24,8 @@
     "size": 9
   },
   {
-    "text": "rusthuis",
-    "size": 7
+    "text": "zorgcentrum",
+    "size": 9
   },
   {
     "text": "res",
@@ -36,27 +36,27 @@
     "size": 7
   },
   {
-    "text": "home",
-    "size": 5
+    "text": "woon",
+    "size": 7
   },
   {
-    "text": "zorgcentrum",
-    "size": 5
+    "text": "rusthuis",
+    "size": 7
+  },
+  {
+    "text": "home",
+    "size": 6
+  },
+  {
+    "text": "invest",
+    "size": 6
   },
   {
     "text": "residence",
     "size": 5
   },
   {
-    "text": "invest",
-    "size": 4
-  },
-  {
     "text": "paola",
-    "size": 4
-  },
-  {
-    "text": "bvba",
     "size": 4
   },
   {
@@ -64,23 +64,11 @@
     "size": 4
   },
   {
+    "text": "bvba",
+    "size": 4
+  },
+  {
     "text": "hof",
-    "size": 3
-  },
-  {
-    "text": "sf",
-    "size": 3
-  },
-  {
-    "text": "services",
-    "size": 3
-  },
-  {
-    "text": "woon",
-    "size": 3
-  },
-  {
-    "text": "résidence-services",
     "size": 3
   },
   {
@@ -96,6 +84,18 @@
     "size": 3
   },
   {
+    "text": "sf",
+    "size": 3
+  },
+  {
+    "text": "services",
+    "size": 3
+  },
+  {
+    "text": "résidence-services",
+    "size": 3
+  },
+  {
     "text": "princesse",
     "size": 3
   },
@@ -108,23 +108,7 @@
     "size": 2
   },
   {
-    "text": "nieuwe",
-    "size": 2
-  },
-  {
-    "text": "rc",
-    "size": 2
-  },
-  {
     "text": "care-ion",
-    "size": 2
-  },
-  {
-    "text": "gaerveld",
-    "size": 2
-  },
-  {
-    "text": "hermione",
     "size": 2
   },
   {
@@ -136,27 +120,11 @@
     "size": 2
   },
   {
-    "text": "serviceflat",
-    "size": 2
-  },
-  {
     "text": "seigneurie",
     "size": 2
   },
   {
-    "text": "green",
-    "size": 2
-  },
-  {
     "text": "lakendal",
-    "size": 2
-  },
-  {
-    "text": "residenties",
-    "size": 2
-  },
-  {
-    "text": "jardins",
     "size": 2
   },
   {
@@ -168,7 +136,55 @@
     "size": 2
   },
   {
+    "text": "serviceresidentie",
+    "size": 2
+  },
+  {
+    "text": "a.l.p.a",
+    "size": 2
+  },
+  {
+    "text": "nieuwe",
+    "size": 2
+  },
+  {
+    "text": "rc",
+    "size": 2
+  },
+  {
+    "text": "gaerveld",
+    "size": 2
+  },
+  {
+    "text": "hermione",
+    "size": 2
+  },
+  {
+    "text": "serviceflat",
+    "size": 2
+  },
+  {
+    "text": "green",
+    "size": 2
+  },
+  {
+    "text": "jardin",
+    "size": 2
+  },
+  {
+    "text": "residenties",
+    "size": 2
+  },
+  {
+    "text": "jardins",
+    "size": 2
+  },
+  {
     "text": "care",
+    "size": 2
+  },
+  {
+    "text": "consult",
     "size": 2
   },
   {
@@ -184,19 +200,15 @@
     "size": 2
   },
   {
-    "text": "serviceresidentie",
-    "size": 2
-  },
-  {
     "text": "kaai",
     "size": 2
   },
   {
-    "text": "asbl",
+    "text": "rust",
     "size": 2
   },
   {
-    "text": "a.l.p.a",
+    "text": "asbl",
     "size": 2
   },
   {
@@ -205,6 +217,10 @@
   },
   {
     "text": "trois",
+    "size": 1
+  },
+  {
+    "text": "wittouck",
     "size": 1
   },
   {
@@ -220,15 +236,7 @@
     "size": 1
   },
   {
-    "text": "amaryllis",
-    "size": 1
-  },
-  {
     "text": "picardie",
-    "size": 1
-  },
-  {
-    "text": "a.s.r.s",
     "size": 1
   },
   {
@@ -244,43 +252,19 @@
     "size": 1
   },
   {
+    "text": "bruisbeke",
+    "size": 1
+  },
+  {
     "text": "domuscura",
     "size": 1
   },
   {
-    "text": "leuven",
-    "size": 1
-  },
-  {
-    "text": "mathilde",
-    "size": 1
-  },
-  {
-    "text": "molenberg",
-    "size": 1
-  },
-  {
-    "text": "bois",
-    "size": 1
-  },
-  {
-    "text": "westerhauwe",
-    "size": 1
-  },
-  {
-    "text": "kesterberg",
+    "text": "meeren",
     "size": 1
   },
   {
     "text": "ten",
-    "size": 1
-  },
-  {
-    "text": "seviga",
-    "size": 1
-  },
-  {
-    "text": "franchimontoise",
     "size": 1
   },
   {
@@ -293,26 +277,6 @@
   },
   {
     "text": "schryvershof",
-    "size": 1
-  },
-  {
-    "text": "chartreuse",
-    "size": 1
-  },
-  {
-    "text": "dorpsmolen",
-    "size": 1
-  },
-  {
-    "text": "château",
-    "size": 1
-  },
-  {
-    "text": "trianon",
-    "size": 1
-  },
-  {
-    "text": "hemelrijck",
     "size": 1
   },
   {
@@ -332,27 +296,7 @@
     "size": 1
   },
   {
-    "text": "d\u0027un",
-    "size": 1
-  },
-  {
     "text": "peckius",
-    "size": 1
-  },
-  {
-    "text": "smeedsehof",
-    "size": 1
-  },
-  {
-    "text": "mogro",
-    "size": 1
-  },
-  {
-    "text": "wand",
-    "size": 1
-  },
-  {
-    "text": "mechelse",
     "size": 1
   },
   {
@@ -372,23 +316,7 @@
     "size": 1
   },
   {
-    "text": "meeuwen",
-    "size": 1
-  },
-  {
     "text": "doux",
-    "size": 1
-  },
-  {
-    "text": "cocagne",
-    "size": 1
-  },
-  {
-    "text": "elisabeth",
-    "size": 1
-  },
-  {
-    "text": "association",
     "size": 1
   },
   {
@@ -400,15 +328,11 @@
     "size": 1
   },
   {
-    "text": "plantijn",
-    "size": 1
-  },
-  {
-    "text": "messidor",
-    "size": 1
-  },
-  {
     "text": "lelie",
+    "size": 1
+  },
+  {
+    "text": "gregoor",
     "size": 1
   },
   {
@@ -416,7 +340,7 @@
     "size": 1
   },
   {
-    "text": "berkenhof",
+    "text": "iii-co",
     "size": 1
   },
   {
@@ -428,7 +352,7 @@
     "size": 1
   },
   {
-    "text": "d\u0027astrid",
+    "text": "tgm",
     "size": 1
   },
   {
@@ -440,23 +364,7 @@
     "size": 1
   },
   {
-    "text": "michelange",
-    "size": 1
-  },
-  {
     "text": "ruyswyck",
-    "size": 1
-  },
-  {
-    "text": "bejaardenzorg",
-    "size": 1
-  },
-  {
-    "text": "consulting",
-    "size": 1
-  },
-  {
-    "text": "amig",
     "size": 1
   },
   {
@@ -484,47 +392,11 @@
     "size": 1
   },
   {
-    "text": "seniorsactivity",
-    "size": 1
-  },
-  {
     "text": "providentia",
     "size": 1
   },
   {
-    "text": "aarschot",
-    "size": 1
-  },
-  {
-    "text": "roeselare",
-    "size": 1
-  },
-  {
-    "text": "vivisenior",
-    "size": 1
-  },
-  {
-    "text": "partners",
-    "size": 1
-  },
-  {
     "text": "wivina",
-    "size": 1
-  },
-  {
-    "text": "tralans",
-    "size": 1
-  },
-  {
-    "text": "mayflower",
-    "size": 1
-  },
-  {
-    "text": "pauline",
-    "size": 1
-  },
-  {
-    "text": "amis",
     "size": 1
   },
   {
@@ -540,15 +412,7 @@
     "size": 1
   },
   {
-    "text": "aldea",
-    "size": 1
-  },
-  {
     "text": "facet",
-    "size": 1
-  },
-  {
-    "text": "tichelhof",
     "size": 1
   },
   {
@@ -572,7 +436,7 @@
     "size": 1
   },
   {
-    "text": "garnet",
+    "text": "reinelde",
     "size": 1
   },
   {
@@ -584,31 +448,7 @@
     "size": 1
   },
   {
-    "text": "marygo",
-    "size": 1
-  },
-  {
-    "text": "atc",
-    "size": 1
-  },
-  {
-    "text": "berkven",
-    "size": 1
-  },
-  {
     "text": "phenix",
-    "size": 1
-  },
-  {
-    "text": "vier",
-    "size": 1
-  },
-  {
-    "text": "@artevelde",
-    "size": 1
-  },
-  {
-    "text": "gezondheids-en",
     "size": 1
   },
   {
@@ -620,27 +460,11 @@
     "size": 1
   },
   {
-    "text": "broel",
-    "size": 1
-  },
-  {
-    "text": "palace",
-    "size": 1
-  },
-  {
     "text": "brba",
     "size": 1
   },
   {
     "text": "ines",
-    "size": 1
-  },
-  {
-    "text": "zeegalm",
-    "size": 1
-  },
-  {
-    "text": "suites",
     "size": 1
   },
   {
@@ -652,27 +476,15 @@
     "size": 1
   },
   {
-    "text": "wommelgheem",
+    "text": "fleuris",
     "size": 1
   },
   {
-    "text": "seniorplaza",
-    "size": 1
-  },
-  {
-    "text": "mozaïek",
-    "size": 1
-  },
-  {
-    "text": "joséphine",
+    "text": "shc",
     "size": 1
   },
   {
     "text": "militza",
-    "size": 1
-  },
-  {
-    "text": "rooierheide",
     "size": 1
   },
   {
@@ -684,31 +496,11 @@
     "size": 1
   },
   {
-    "text": "putkapelle",
-    "size": 1
-  },
-  {
     "text": "raoul",
     "size": 1
   },
   {
-    "text": "huis",
-    "size": 1
-  },
-  {
-    "text": "knocke",
-    "size": 1
-  },
-  {
     "text": "dorpe",
-    "size": 1
-  },
-  {
-    "text": "brug",
-    "size": 1
-  },
-  {
-    "text": "poort",
     "size": 1
   },
   {
@@ -729,10 +521,6 @@
   },
   {
     "text": "iuvo",
-    "size": 1
-  },
-  {
-    "text": "paracur",
     "size": 1
   },
   {
@@ -764,27 +552,11 @@
     "size": 1
   },
   {
-    "text": "populierenhof",
-    "size": 1
-  },
-  {
-    "text": "noordduin",
-    "size": 1
-  },
-  {
     "text": "henri",
     "size": 1
   },
   {
     "text": "saint-georges",
-    "size": 1
-  },
-  {
-    "text": "jardin",
-    "size": 1
-  },
-  {
-    "text": "europ",
     "size": 1
   },
   {
@@ -800,7 +572,7 @@
     "size": 1
   },
   {
-    "text": "arcade",
+    "text": "vuurse",
     "size": 1
   },
   {
@@ -832,10 +604,6 @@
     "size": 1
   },
   {
-    "text": "curaedis",
-    "size": 1
-  },
-  {
     "text": "gezondheid",
     "size": 1
   },
@@ -852,19 +620,11 @@
     "size": 1
   },
   {
-    "text": "brugge",
-    "size": 1
-  },
-  {
-    "text": "vlierbeke",
-    "size": 1
-  },
-  {
-    "text": "binnenhof",
-    "size": 1
-  },
-  {
     "text": "pays",
+    "size": 1
+  },
+  {
+    "text": "vlamme",
     "size": 1
   },
   {
@@ -876,27 +636,11 @@
     "size": 1
   },
   {
-    "text": "larivière",
-    "size": 1
-  },
-  {
     "text": "hope",
     "size": 1
   },
   {
     "text": "drion",
-    "size": 1
-  },
-  {
-    "text": "put",
-    "size": 1
-  },
-  {
-    "text": "senior-services",
-    "size": 1
-  },
-  {
-    "text": "vrucht",
     "size": 1
   },
   {
@@ -912,10 +656,6 @@
     "size": 1
   },
   {
-    "text": "jouvence",
-    "size": 1
-  },
-  {
     "text": "dicava",
     "size": 1
   },
@@ -928,7 +668,15 @@
     "size": 1
   },
   {
+    "text": "wyckhuyse",
+    "size": 1
+  },
+  {
     "text": "frère",
+    "size": 1
+  },
+  {
+    "text": "wingerd",
     "size": 1
   },
   {
@@ -936,19 +684,11 @@
     "size": 1
   },
   {
-    "text": "westpoort",
-    "size": 1
-  },
-  {
     "text": "ii",
     "size": 1
   },
   {
-    "text": "zilverhof",
-    "size": 1
-  },
-  {
-    "text": "tempelhof",
+    "text": "lage",
     "size": 1
   },
   {
@@ -956,7 +696,7 @@
     "size": 1
   },
   {
-    "text": "abri-klavertje",
+    "text": "ir",
     "size": 1
   },
   {
@@ -968,23 +708,7 @@
     "size": 1
   },
   {
-    "text": "nederlands",
-    "size": 1
-  },
-  {
     "text": "amideus",
-    "size": 1
-  },
-  {
-    "text": "rema",
-    "size": 1
-  },
-  {
-    "text": "laarsveld",
-    "size": 1
-  },
-  {
-    "text": "venne",
     "size": 1
   },
   {
@@ -992,11 +716,287 @@
     "size": 1
   },
   {
-    "text": "d\u0027amour",
+    "text": "cantecroy",
     "size": 1
   },
   {
-    "text": "cantecroy",
+    "text": "copropriétaires",
+    "size": 1
+  },
+  {
+    "text": "zonnesteen",
+    "size": 1
+  },
+  {
+    "text": "résidences",
+    "size": 1
+  },
+  {
+    "text": "alfons",
+    "size": 1
+  },
+  {
+    "text": "interseniors",
+    "size": 1
+  },
+  {
+    "text": "elsdonck",
+    "size": 1
+  },
+  {
+    "text": "ka",
+    "size": 1
+  },
+  {
+    "text": "aethrae",
+    "size": 1
+  },
+  {
+    "text": "beauprez",
+    "size": 1
+  },
+  {
+    "text": "adagio",
+    "size": 1
+  },
+  {
+    "text": "houtland",
+    "size": 1
+  },
+  {
+    "text": "millegem",
+    "size": 1
+  },
+  {
+    "text": "maeckelbergh",
+    "size": 1
+  },
+  {
+    "text": "walle",
+    "size": 1
+  },
+  {
+    "text": "prinses",
+    "size": 1
+  },
+  {
+    "text": "verzorgingstehuis",
+    "size": 1
+  },
+  {
+    "text": "floralies",
+    "size": 1
+  },
+  {
+    "text": "lindenhof",
+    "size": 1
+  },
+  {
+    "text": "seaflower",
+    "size": 1
+  },
+  {
+    "text": "groote",
+    "size": 1
+  },
+  {
+    "text": "clairière",
+    "size": 1
+  },
+  {
+    "text": "salve",
+    "size": 1
+  },
+  {
+    "text": "d\u0027animation",
+    "size": 1
+  },
+  {
+    "text": "franki",
+    "size": 1
+  },
+  {
+    "text": "wmbm",
+    "size": 1
+  },
+  {
+    "text": "host",
+    "size": 1
+  },
+  {
+    "text": "zorgwonen",
+    "size": 1
+  },
+  {
+    "text": "belgium",
+    "size": 1
+  },
+  {
+    "text": "always",
+    "size": 1
+  },
+  {
+    "text": "new",
+    "size": 1
+  },
+  {
+    "text": "l\u0027autre",
+    "size": 1
+  },
+  {
+    "text": "isamo",
+    "size": 1
+  },
+  {
+    "text": "acacias",
+    "size": 1
+  },
+  {
+    "text": "eden",
+    "size": 1
+  },
+  {
+    "text": "aquamarijn",
+    "size": 1
+  },
+  {
+    "text": "shcs",
+    "size": 1
+  },
+  {
+    "text": "séniorie",
+    "size": 1
+  },
+  {
+    "text": "groepspraktijk",
+    "size": 1
+  },
+  {
+    "text": "woon-en",
+    "size": 1
+  },
+  {
+    "text": "cos.care",
+    "size": 1
+  },
+  {
+    "text": "hamoir",
+    "size": 1
+  },
+  {
+    "text": "service-residentie",
+    "size": 1
+  },
+  {
+    "text": "nv",
+    "size": 1
+  },
+  {
+    "text": "verde",
+    "size": 1
+  },
+  {
+    "text": "d\u0027accueil",
+    "size": 1
+  },
+  {
+    "text": "volk",
+    "size": 1
+  },
+  {
+    "text": "consulting//fabrilis",
+    "size": 1
+  },
+  {
+    "text": "and",
+    "size": 1
+  },
+  {
+    "text": "construction",
+    "size": 1
+  },
+  {
+    "text": "alternatief",
+    "size": 1
+  },
+  {
+    "text": "keyhof",
+    "size": 1
+  },
+  {
+    "text": "seniorie",
+    "size": 1
+  },
+  {
+    "text": "ewa",
+    "size": 1
+  },
+  {
+    "text": "berghuys",
+    "size": 1
+  },
+  {
+    "text": "verzorgingscentrum",
+    "size": 1
+  },
+  {
+    "text": "petronela",
+    "size": 1
+  },
+  {
+    "text": "h.o.p",
+    "size": 1
+  },
+  {
+    "text": "aines",
+    "size": 1
+  },
+  {
+    "text": "prekerijhof",
+    "size": 1
+  },
+  {
+    "text": "boonaert",
+    "size": 1
+  },
+  {
+    "text": "pres",
+    "size": 1
+  },
+  {
+    "text": "amaryllis",
+    "size": 1
+  },
+  {
+    "text": "a.s.r.s",
+    "size": 1
+  },
+  {
+    "text": "leuven",
+    "size": 1
+  },
+  {
+    "text": "mathilde",
+    "size": 1
+  },
+  {
+    "text": "molenberg",
+    "size": 1
+  },
+  {
+    "text": "bois",
+    "size": 1
+  },
+  {
+    "text": "westerhauwe",
+    "size": 1
+  },
+  {
+    "text": "kesterberg",
+    "size": 1
+  },
+  {
+    "text": "seviga",
     "size": 1
   }
 ]

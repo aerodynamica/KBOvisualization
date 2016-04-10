@@ -1,70 +1,86 @@
 [
   {
     "text": "medical",
-    "size": 126
+    "size": 132
   },
   {
     "text": "belgium",
-    "size": 120
+    "size": 130
   },
   {
     "text": "bvba",
-    "size": 104
+    "size": 110
   },
   {
     "text": "nv",
-    "size": 89
+    "size": 91
   },
   {
     "text": "pharma",
-    "size": 78
+    "size": 87
   },
   {
     "text": "benelux",
-    "size": 64
+    "size": 67
   },
   {
     "text": "europe",
-    "size": 53
+    "size": 54
   },
   {
     "text": "international",
-    "size": 52
+    "size": 53
   },
   {
     "text": "apotheek",
-    "size": 47
+    "size": 51
   },
   {
     "text": "dental",
-    "size": 42
+    "size": 49
   },
   {
     "text": "pharmacie",
-    "size": 42
+    "size": 46
   },
   {
     "text": "sprl",
-    "size": 38
-  },
-  {
-    "text": "care",
-    "size": 24
+    "size": 42
   },
   {
     "text": "orthopedie",
-    "size": 23
+    "size": 27
+  },
+  {
+    "text": "care",
+    "size": 26
   },
   {
     "text": "services",
-    "size": 20
+    "size": 21
+  },
+  {
+    "text": "ortho",
+    "size": 18
+  },
+  {
+    "text": "consulting",
+    "size": 17
   },
   {
     "text": "healthcare",
-    "size": 16
+    "size": 17
   },
   {
     "text": "systems",
+    "size": 16
+  },
+  {
+    "text": "health",
+    "size": 16
+  },
+  {
+    "text": "service",
     "size": 15
   },
   {
@@ -72,51 +88,51 @@
     "size": 15
   },
   {
-    "text": "ortho",
+    "text": "solutions",
     "size": 14
   },
   {
-    "text": "health",
+    "text": "distribution",
     "size": 14
+  },
+  {
+    "text": "group",
+    "size": 14
+  },
+  {
+    "text": "beauty",
+    "size": 13
+  },
+  {
+    "text": "co",
+    "size": 12
   },
   {
     "text": "management",
     "size": 12
   },
   {
-    "text": "service",
-    "size": 12
-  },
-  {
-    "text": "consulting",
-    "size": 12
-  },
-  {
-    "text": "campus",
-    "size": 11
-  },
-  {
-    "text": "technologies",
-    "size": 11
-  },
-  {
-    "text": "co",
-    "size": 11
-  },
-  {
-    "text": "distribution",
-    "size": 11
-  },
-  {
     "text": "labo",
-    "size": 11
+    "size": 12
   },
   {
     "text": "center",
+    "size": 11
+  },
+  {
+    "text": "campus",
     "size": 10
   },
   {
-    "text": "solutions",
+    "text": "technologies",
+    "size": 10
+  },
+  {
+    "text": "trading",
+    "size": 10
+  },
+  {
+    "text": "global",
     "size": 10
   },
   {
@@ -128,23 +144,19 @@
     "size": 9
   },
   {
-    "text": "group",
-    "size": 9
-  },
-  {
     "text": "and",
     "size": 9
   },
   {
-    "text": "beauty",
-    "size": 9
+    "text": "consult",
+    "size": 8
   },
   {
     "text": "centre",
     "size": 8
   },
   {
-    "text": "trading",
+    "text": "optiek",
     "size": 8
   },
   {
@@ -152,15 +164,43 @@
     "size": 8
   },
   {
+    "text": "consultancy",
+    "size": 8
+  },
+  {
+    "text": "cosmetics",
+    "size": 8
+  },
+  {
     "text": "apoteek",
     "size": 8
+  },
+  {
+    "text": "the",
+    "size": 7
   },
   {
     "text": "laboratoire",
     "size": 7
   },
   {
+    "text": "invest",
+    "size": 7
+  },
+  {
+    "text": "scientific",
+    "size": 7
+  },
+  {
+    "text": "pharmaceuticals",
+    "size": 7
+  },
+  {
     "text": "devices",
+    "size": 7
+  },
+  {
+    "text": "thuisverpleging",
     "size": 7
   },
   {
@@ -172,19 +212,11 @@
     "size": 7
   },
   {
-    "text": "the",
+    "text": "business",
     "size": 6
   },
   {
-    "text": "consult",
-    "size": 6
-  },
-  {
-    "text": "optiek",
-    "size": 6
-  },
-  {
-    "text": "scientific",
+    "text": "company",
     "size": 6
   },
   {
@@ -192,19 +224,23 @@
     "size": 6
   },
   {
-    "text": "consultancy",
+    "text": "engineering",
     "size": 6
   },
   {
-    "text": "go",
+    "text": "instruments",
     "size": 6
   },
   {
-    "text": "thuisverpleging",
+    "text": "sc",
     "size": 6
   },
   {
-    "text": "global",
+    "text": "design",
+    "size": 6
+  },
+  {
+    "text": "medica",
     "size": 6
   },
   {
@@ -212,11 +248,11 @@
     "size": 6
   },
   {
-    "text": "cosmetics",
+    "text": "shop",
     "size": 6
   },
   {
-    "text": "belgië",
+    "text": "olivier",
     "size": 6
   },
   {
@@ -225,6 +261,10 @@
   },
   {
     "text": "industries",
+    "size": 5
+  },
+  {
+    "text": "lab",
     "size": 5
   },
   {
@@ -244,15 +284,11 @@
     "size": 5
   },
   {
-    "text": "business",
-    "size": 5
-  },
-  {
     "text": "supplies",
     "size": 5
   },
   {
-    "text": "invest",
+    "text": "med",
     "size": 5
   },
   {
@@ -264,15 +300,23 @@
     "size": 5
   },
   {
-    "text": "engineering",
+    "text": "tandtechnisch",
     "size": 5
   },
   {
-    "text": "pharmaceuticals",
+    "text": "bv",
     "size": 5
   },
   {
-    "text": "sc",
+    "text": "food",
+    "size": 5
+  },
+  {
+    "text": "go",
+    "size": 5
+  },
+  {
+    "text": "support",
     "size": 5
   },
   {
@@ -280,11 +324,7 @@
     "size": 5
   },
   {
-    "text": "design",
-    "size": 5
-  },
-  {
-    "text": "hospital",
+    "text": "pfizer",
     "size": 5
   },
   {
@@ -296,11 +336,23 @@
     "size": 5
   },
   {
+    "text": "trade",
+    "size": 5
+  },
+  {
+    "text": "partners",
+    "size": 5
+  },
+  {
+    "text": "laboratoires",
+    "size": 5
+  },
+  {
     "text": "optique",
     "size": 5
   },
   {
-    "text": "olivier",
+    "text": "clinic",
     "size": 5
   },
   {
@@ -308,15 +360,15 @@
     "size": 4
   },
   {
-    "text": "lab",
-    "size": 4
-  },
-  {
-    "text": "michiels",
+    "text": "technics",
     "size": 4
   },
   {
     "text": "tech",
+    "size": 4
+  },
+  {
+    "text": "consultants",
     "size": 4
   },
   {
@@ -328,7 +380,7 @@
     "size": 4
   },
   {
-    "text": "company",
+    "text": "teva",
     "size": 4
   },
   {
@@ -341,10 +393,6 @@
   },
   {
     "text": "equipment",
-    "size": 4
-  },
-  {
-    "text": "med",
     "size": 4
   },
   {
@@ -364,19 +412,23 @@
     "size": 4
   },
   {
+    "text": "aesthetics",
+    "size": 4
+  },
+  {
+    "text": "new",
+    "size": 4
+  },
+  {
     "text": "cerp",
     "size": 4
   },
   {
-    "text": "tandtechnisch",
+    "text": "chemicals",
     "size": 4
   },
   {
     "text": "import",
-    "size": 4
-  },
-  {
-    "text": "instruments",
     "size": 4
   },
   {
@@ -388,7 +440,7 @@
     "size": 4
   },
   {
-    "text": "bv",
+    "text": "by",
     "size": 4
   },
   {
@@ -404,11 +456,11 @@
     "size": 4
   },
   {
-    "text": "sales",
+    "text": "gcv",
     "size": 4
   },
   {
-    "text": "pfizer",
+    "text": "sales",
     "size": 4
   },
   {
@@ -424,7 +476,11 @@
     "size": 4
   },
   {
-    "text": "medica",
+    "text": "pro",
+    "size": 4
+  },
+  {
+    "text": "hospital",
     "size": 4
   },
   {
@@ -444,19 +500,19 @@
     "size": 4
   },
   {
-    "text": "partners",
+    "text": "first",
     "size": 4
   },
   {
-    "text": "shop",
+    "text": "belgië",
     "size": 4
   },
   {
-    "text": "laboratoires",
+    "text": "art",
     "size": 4
   },
   {
-    "text": "clinic",
+    "text": "projects",
     "size": 4
   },
   {
@@ -472,11 +528,19 @@
     "size": 3
   },
   {
-    "text": "technics",
+    "text": "top",
+    "size": 3
+  },
+  {
+    "text": "improve",
     "size": 3
   },
   {
     "text": "immo",
+    "size": 3
+  },
+  {
+    "text": "michiels",
     "size": 3
   },
   {
@@ -492,11 +556,19 @@
     "size": 3
   },
   {
+    "text": "logistics",
+    "size": 3
+  },
+  {
     "text": "therapy",
     "size": 3
   },
   {
     "text": "luc",
+    "size": 3
+  },
+  {
+    "text": "den",
     "size": 3
   },
   {
@@ -508,7 +580,7 @@
     "size": 3
   },
   {
-    "text": "teva",
+    "text": "sense",
     "size": 3
   },
   {
@@ -520,7 +592,15 @@
     "size": 3
   },
   {
+    "text": "atelier",
+    "size": 3
+  },
+  {
     "text": "look",
+    "size": 3
+  },
+  {
+    "text": "marc",
     "size": 3
   },
   {
@@ -544,10 +624,6 @@
     "size": 3
   },
   {
-    "text": "new",
-    "size": 3
-  },
-  {
     "text": "medic",
     "size": 3
   },
@@ -557,10 +633,6 @@
   },
   {
     "text": "strategy",
-    "size": 3
-  },
-  {
-    "text": "chemicals",
     "size": 3
   },
   {
@@ -580,15 +652,7 @@
     "size": 3
   },
   {
-    "text": "cebelor",
-    "size": 3
-  },
-  {
     "text": "steven",
-    "size": 3
-  },
-  {
-    "text": "by",
     "size": 3
   },
   {
@@ -597,10 +661,6 @@
   },
   {
     "text": "novartis",
-    "size": 3
-  },
-  {
-    "text": "food",
     "size": 3
   },
   {
@@ -624,11 +684,19 @@
     "size": 3
   },
   {
+    "text": "it",
+    "size": 3
+  },
+  {
     "text": "stefaan",
     "size": 3
   },
   {
     "text": "mc",
+    "size": 3
+  },
+  {
+    "text": "sports",
     "size": 3
   },
   {
@@ -640,15 +708,7 @@
     "size": 3
   },
   {
-    "text": "support",
-    "size": 3
-  },
-  {
     "text": "nicolas",
-    "size": 3
-  },
-  {
-    "text": "gcv",
     "size": 3
   },
   {
@@ -664,6 +724,10 @@
     "size": 3
   },
   {
+    "text": "corporation",
+    "size": 3
+  },
+  {
     "text": "coiffure",
     "size": 3
   },
@@ -673,6 +737,14 @@
   },
   {
     "text": "orthodontics",
+    "size": 3
+  },
+  {
+    "text": "clean",
+    "size": 3
+  },
+  {
+    "text": "medi",
     "size": 3
   },
   {
@@ -692,10 +764,6 @@
     "size": 3
   },
   {
-    "text": "first",
-    "size": 3
-  },
-  {
     "text": "ontex",
     "size": 3
   },
@@ -704,15 +772,15 @@
     "size": 3
   },
   {
-    "text": "trade",
+    "text": "afgekort",
+    "size": 3
+  },
+  {
+    "text": "body",
     "size": 3
   },
   {
     "text": "ann",
-    "size": 3
-  },
-  {
-    "text": "art",
     "size": 3
   },
   {
@@ -724,11 +792,15 @@
     "size": 3
   },
   {
-    "text": "sorin",
+    "text": "kine",
     "size": 3
   },
   {
     "text": "vita",
+    "size": 3
+  },
+  {
+    "text": "bio",
     "size": 3
   },
   {
@@ -737,6 +809,10 @@
   },
   {
     "text": "office",
+    "size": 3
+  },
+  {
+    "text": "level",
     "size": 3
   },
   {
@@ -760,6 +836,10 @@
     "size": 3
   },
   {
+    "text": "boiron",
+    "size": 3
+  },
+  {
     "text": "kapsalon",
     "size": 3
   },
@@ -780,11 +860,11 @@
     "size": 2
   },
   {
-    "text": "filorga",
+    "text": "surgery",
     "size": 2
   },
   {
-    "text": "karine",
+    "text": "filorga",
     "size": 2
   },
   {
@@ -812,7 +892,7 @@
     "size": 2
   },
   {
-    "text": "top",
+    "text": "tom",
     "size": 2
   },
   {
@@ -840,7 +920,11 @@
     "size": 2
   },
   {
-    "text": "consultants",
+    "text": "antwerp",
+    "size": 2
+  },
+  {
+    "text": "supplements",
     "size": 2
   },
   {
@@ -856,15 +940,7 @@
     "size": 2
   },
   {
-    "text": "logistics",
-    "size": 2
-  },
-  {
     "text": "build",
-    "size": 2
-  },
-  {
-    "text": "den",
     "size": 2
   },
   {
@@ -881,6 +957,10 @@
   },
   {
     "text": "shoes",
+    "size": 2
+  },
+  {
+    "text": "henri",
     "size": 2
   },
   {
@@ -916,87 +996,7 @@
     "size": 2
   },
   {
-    "text": "merck",
-    "size": 2
-  },
-  {
-    "text": "limburg",
-    "size": 2
-  },
-  {
-    "text": "gentaur",
-    "size": 2
-  },
-  {
-    "text": "animal",
-    "size": 2
-  },
-  {
-    "text": "moens",
-    "size": 2
-  },
-  {
-    "text": "associates",
-    "size": 2
-  },
-  {
-    "text": "atelier",
-    "size": 2
-  },
-  {
-    "text": "vista-life",
-    "size": 2
-  },
-  {
-    "text": "duo-med",
-    "size": 2
-  },
-  {
-    "text": "mp3",
-    "size": 2
-  },
-  {
-    "text": "marc",
-    "size": 2
-  },
-  {
-    "text": "dubois",
-    "size": 2
-  },
-  {
-    "text": "michele",
-    "size": 2
-  },
-  {
-    "text": "foundation",
-    "size": 2
-  },
-  {
-    "text": "zumbashop",
-    "size": 2
-  },
-  {
-    "text": "edc",
-    "size": 2
-  },
-  {
-    "text": "maya",
-    "size": 2
-  },
-  {
-    "text": "talma",
-    "size": 2
-  },
-  {
-    "text": "marimpex",
-    "size": 2
-  },
-  {
-    "text": "cardinal",
-    "size": 2
-  },
-  {
-    "text": "linde",
+    "text": "dtb",
     "size": 2
   }
 ]

@@ -1,19 +1,23 @@
 [
   {
     "form": "Natuurlijk Persoon",
-    "count": 1833
+    "count": 3686
   },
   {
     "form": "Besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 3218
+    "count": 4776
+  },
+  {
+    "form": "Besloten vennootschap met beperkte aansprakelijkheid met een sociaal oogmerk",
+    "count": 1
   },
   {
     "form": "BTW-eenheid",
-    "count": 24
+    "count": 28
   },
   {
     "form": "Buitenlandse onderneming",
-    "count": 90
+    "count": 98
   },
   {
     "form": "Buitenlandse onderneming zonder Belgische vestiging met vertegenwoordiger voor BTW",
@@ -21,39 +25,47 @@
   },
   {
     "form": "Burgerlijke vennootschap onder vorm van besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 3
+    "count": 4
   },
   {
-    "form": "Commanditaire vennootschap op aandelen",
-    "count": 3
-  },
-  {
-    "form": "Coöperatieve vennootschap (oud statuut)",
-    "count": 20
-  },
-  {
-    "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid",
-    "count": 53
-  },
-  {
-    "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid met een sociaal oogmerk",
+    "form": "Burgerlijke vennootschap onder vorm van gewone commanditaire vennootschap",
     "count": 1
   },
   {
+    "form": "Commanditaire vennootschap op aandelen",
+    "count": 5
+  },
+  {
+    "form": "Coöperatieve vennootschap (oud statuut)",
+    "count": 27
+  },
+  {
+    "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid",
+    "count": 82
+  },
+  {
+    "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid met een sociaal oogmerk",
+    "count": 2
+  },
+  {
     "form": "Coöperatieve vennootschap met onbeperkte aansprakelijkheid",
-    "count": 58
+    "count": 74
   },
   {
     "form": "Eenpersoons besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 191
+    "count": 280
   },
   {
     "form": "Gewone commanditaire vennootschap",
-    "count": 95
+    "count": 189
   },
   {
     "form": "Naamloze vennootschap",
-    "count": 633
+    "count": 898
+  },
+  {
+    "form": "Openbaar centrum voor maatschappelijk welzijn",
+    "count": 1
   },
   {
     "form": "Tijdelijke vereniging",
@@ -61,14 +73,14 @@
   },
   {
     "form": "Vennootschap of vereniging zonder rechtspersoonlijkheid",
-    "count": 23
+    "count": 36
   },
   {
     "form": "Vennootschap onder firma",
-    "count": 115
+    "count": 206
   },
   {
     "form": "Vereniging zonder winstoogmerk",
-    "count": 20
+    "count": 48
   }
 ]

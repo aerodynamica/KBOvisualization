@@ -1,7 +1,7 @@
 [
   {
     "text": "express",
-    "size": 70
+    "size": 71
   },
   {
     "text": "okay",
@@ -9,7 +9,7 @@
   },
   {
     "text": "market",
-    "size": 52
+    "size": 58
   },
   {
     "text": "servauto",
@@ -17,50 +17,58 @@
   },
   {
     "text": "shop",
-    "size": 49
+    "size": 50
   },
   {
     "text": "food",
-    "size": 36
+    "size": 39
   },
   {
     "text": "delhaize",
-    "size": 33
+    "size": 35
+  },
+  {
+    "text": "bvba",
+    "size": 31
   },
   {
     "text": "chez",
     "size": 31
   },
   {
-    "text": "bvba",
-    "size": 28
+    "text": "sprl",
+    "size": 26
   },
   {
     "text": "superette",
-    "size": 27
+    "size": 26
   },
   {
     "text": "spar",
-    "size": 22
-  },
-  {
-    "text": "sprl",
-    "size": 22
+    "size": 24
   },
   {
     "text": "go",
-    "size": 21
+    "size": 22
   },
   {
     "text": "supermarkt",
     "size": 16
   },
   {
-    "text": "supermarket",
-    "size": 15
+    "text": "picard",
+    "size": 14
   },
   {
-    "text": "picard",
+    "text": "supermarket",
+    "size": 14
+  },
+  {
+    "text": "proxy",
+    "size": 14
+  },
+  {
+    "text": "nachtwinkel",
     "size": 14
   },
   {
@@ -68,11 +76,11 @@
     "size": 13
   },
   {
-    "text": "carrefour",
+    "text": "services",
     "size": 13
   },
   {
-    "text": "co",
+    "text": "carrefour",
     "size": 13
   },
   {
@@ -80,7 +88,11 @@
     "size": 13
   },
   {
-    "text": "services",
+    "text": "the",
+    "size": 12
+  },
+  {
+    "text": "night",
     "size": 12
   },
   {
@@ -88,19 +100,11 @@
     "size": 12
   },
   {
-    "text": "proxy",
+    "text": "co",
     "size": 12
   },
   {
-    "text": "the",
-    "size": 11
-  },
-  {
-    "text": "night",
-    "size": 11
-  },
-  {
-    "text": "gb",
+    "text": "euro",
     "size": 11
   },
   {
@@ -108,11 +112,39 @@
     "size": 11
   },
   {
+    "text": "mini",
+    "size": 10
+  },
+  {
+    "text": "markt",
+    "size": 10
+  },
+  {
     "text": "international",
     "size": 10
   },
   {
+    "text": "alimentation",
+    "size": 10
+  },
+  {
+    "text": "super",
+    "size": 10
+  },
+  {
+    "text": "gb",
+    "size": 10
+  },
+  {
+    "text": "bio",
+    "size": 10
+  },
+  {
     "text": "camping",
+    "size": 9
+  },
+  {
+    "text": "antwerpen",
     "size": 9
   },
   {
@@ -124,18 +156,6 @@
     "size": 9
   },
   {
-    "text": "mini",
-    "size": 9
-  },
-  {
-    "text": "markt",
-    "size": 9
-  },
-  {
-    "text": "alimentation",
-    "size": 9
-  },
-  {
     "text": "new",
     "size": 9
   },
@@ -144,7 +164,7 @@
     "size": 9
   },
   {
-    "text": "super",
+    "text": "voeding",
     "size": 9
   },
   {
@@ -152,15 +172,7 @@
     "size": 9
   },
   {
-    "text": "bio",
-    "size": 9
-  },
-  {
-    "text": "euro",
-    "size": 9
-  },
-  {
-    "text": "nachtwinkel",
+    "text": "total",
     "size": 9
   },
   {
@@ -168,7 +180,7 @@
     "size": 9
   },
   {
-    "text": "antwerpen",
+    "text": "boucherie",
     "size": 8
   },
   {
@@ -180,6 +192,10 @@
     "size": 8
   },
   {
+    "text": "star",
+    "size": 8
+  },
+  {
     "text": "and",
     "size": 8
   },
@@ -188,11 +204,11 @@
     "size": 8
   },
   {
-    "text": "boucherie",
+    "text": "fruit",
     "size": 7
   },
   {
-    "text": "star",
+    "text": "company",
     "size": 7
   },
   {
@@ -212,15 +228,11 @@
     "size": 7
   },
   {
-    "text": "voeding",
+    "text": "ad",
     "size": 7
   },
   {
-    "text": "nv",
-    "size": 7
-  },
-  {
-    "text": "total",
+    "text": "bakkerij",
     "size": 7
   },
   {
@@ -228,7 +240,15 @@
     "size": 7
   },
   {
-    "text": "fruit",
+    "text": "maison",
+    "size": 6
+  },
+  {
+    "text": "day",
+    "size": 6
+  },
+  {
+    "text": "brasserie",
     "size": 6
   },
   {
@@ -236,15 +256,19 @@
     "size": 6
   },
   {
+    "text": "versmarkt",
+    "size": 6
+  },
+  {
     "text": "traiteur",
     "size": 6
   },
   {
-    "text": "ad",
+    "text": "librairie",
     "size": 6
   },
   {
-    "text": "librairie",
+    "text": "nv",
     "size": 6
   },
   {
@@ -264,7 +288,11 @@
     "size": 5
   },
   {
-    "text": "buurtwinkel",
+    "text": "consulting",
+    "size": 5
+  },
+  {
+    "text": "nightshop",
     "size": 5
   },
   {
@@ -272,11 +300,11 @@
     "size": 5
   },
   {
-    "text": "maison",
+    "text": "center",
     "size": 5
   },
   {
-    "text": "day",
+    "text": "group",
     "size": 5
   },
   {
@@ -284,7 +312,15 @@
     "size": 5
   },
   {
+    "text": "fils",
+    "size": 5
+  },
+  {
     "text": "best",
+    "size": 5
+  },
+  {
+    "text": "texaco",
     "size": 5
   },
   {
@@ -300,15 +336,23 @@
     "size": 5
   },
   {
+    "text": "belgium",
+    "size": 5
+  },
+  {
+    "text": "foods",
+    "size": 5
+  },
+  {
+    "text": "partners",
+    "size": 5
+  },
+  {
     "text": "nivelles",
     "size": 5
   },
   {
     "text": "el",
-    "size": 5
-  },
-  {
-    "text": "voedingswinkel",
     "size": 5
   },
   {
@@ -320,11 +364,7 @@
     "size": 4
   },
   {
-    "text": "consulting",
-    "size": 4
-  },
-  {
-    "text": "center",
+    "text": "buurtwinkel",
     "size": 4
   },
   {
@@ -332,23 +372,15 @@
     "size": 4
   },
   {
-    "text": "group",
-    "size": 4
-  },
-  {
     "text": "exotic",
     "size": 4
   },
   {
-    "text": "brasserie",
+    "text": "marie",
     "size": 4
   },
   {
-    "text": "company",
-    "size": 4
-  },
-  {
-    "text": "fils",
+    "text": "singh",
     "size": 4
   },
   {
@@ -364,15 +396,11 @@
     "size": 4
   },
   {
-    "text": "versmarkt",
+    "text": "trade",
     "size": 4
   },
   {
     "text": "centrum",
-    "size": 4
-  },
-  {
-    "text": "texaco",
     "size": 4
   },
   {
@@ -384,11 +412,11 @@
     "size": 4
   },
   {
-    "text": "foods",
+    "text": "loberge",
     "size": 4
   },
   {
-    "text": "partners",
+    "text": "kleine",
     "size": 4
   },
   {
@@ -408,11 +436,15 @@
     "size": 4
   },
   {
-    "text": "bakkerij",
+    "text": "essenza",
     "size": 4
   },
   {
     "text": "vert",
+    "size": 4
+  },
+  {
+    "text": "voedingswinkel",
     "size": 4
   },
   {
@@ -432,6 +464,14 @@
     "size": 4
   },
   {
+    "text": "place",
+    "size": 4
+  },
+  {
+    "text": "brussel",
+    "size": 4
+  },
+  {
     "text": "halal",
     "size": 3
   },
@@ -440,11 +480,27 @@
     "size": 3
   },
   {
+    "text": "presse",
+    "size": 3
+  },
+  {
     "text": "tessenderlo",
     "size": 3
   },
   {
+    "text": "africa",
+    "size": 3
+  },
+  {
     "text": "rattan",
+    "size": 3
+  },
+  {
+    "text": "mechelen",
+    "size": 3
+  },
+  {
+    "text": "panier",
     "size": 3
   },
   {
@@ -456,7 +512,7 @@
     "size": 3
   },
   {
-    "text": "nightshop",
+    "text": "roeselare",
     "size": 3
   },
   {
@@ -468,6 +524,10 @@
     "size": 3
   },
   {
+    "text": "stars",
+    "size": 3
+  },
+  {
     "text": "time",
     "size": 3
   },
@@ -476,15 +536,19 @@
     "size": 3
   },
   {
+    "text": "you",
+    "size": 3
+  },
+  {
+    "text": "bassin",
+    "size": 3
+  },
+  {
     "text": "dis",
     "size": 3
   },
   {
     "text": "baba",
-    "size": 3
-  },
-  {
-    "text": "marie",
     "size": 3
   },
   {
@@ -500,7 +564,15 @@
     "size": 3
   },
   {
+    "text": "construct",
+    "size": 3
+  },
+  {
     "text": "oriental",
+    "size": 3
+  },
+  {
+    "text": "entreprises",
     "size": 3
   },
   {
@@ -520,11 +592,11 @@
     "size": 3
   },
   {
-    "text": "belgië",
+    "text": "dogan",
     "size": 3
   },
   {
-    "text": "trade",
+    "text": "belgië",
     "size": 3
   },
   {
@@ -540,6 +612,10 @@
     "size": 3
   },
   {
+    "text": "shell",
+    "size": 3
+  },
+  {
     "text": "vanden",
     "size": 3
   },
@@ -552,15 +628,7 @@
     "size": 3
   },
   {
-    "text": "belgium",
-    "size": 3
-  },
-  {
     "text": "aldi",
-    "size": 3
-  },
-  {
-    "text": "kleine",
     "size": 3
   },
   {
@@ -573,6 +641,10 @@
   },
   {
     "text": "liege",
+    "size": 3
+  },
+  {
+    "text": "culinaire",
     "size": 3
   },
   {
@@ -592,10 +664,6 @@
     "size": 3
   },
   {
-    "text": "contact",
-    "size": 3
-  },
-  {
     "text": "tabac",
     "size": 3
   },
@@ -612,11 +680,23 @@
     "size": 3
   },
   {
+    "text": "plus",
+    "size": 3
+  },
+  {
     "text": "brico",
     "size": 3
   },
   {
     "text": "nature",
+    "size": 3
+  },
+  {
+    "text": "benelux",
+    "size": 3
+  },
+  {
+    "text": "sint",
     "size": 3
   },
   {
@@ -632,10 +712,6 @@
     "size": 3
   },
   {
-    "text": "place",
-    "size": 3
-  },
-  {
     "text": "panda",
     "size": 3
   },
@@ -645,10 +721,6 @@
   },
   {
     "text": "village",
-    "size": 3
-  },
-  {
-    "text": "brussel",
     "size": 3
   },
   {
@@ -672,6 +744,10 @@
     "size": 2
   },
   {
+    "text": "boetiek",
+    "size": 2
+  },
+  {
     "text": "ruisbroek",
     "size": 2
   },
@@ -684,7 +760,7 @@
     "size": 2
   },
   {
-    "text": "africa",
+    "text": "atlas",
     "size": 2
   },
   {
@@ -692,7 +768,15 @@
     "size": 2
   },
   {
+    "text": "renovation",
+    "size": 2
+  },
+  {
     "text": "waarloos",
+    "size": 2
+  },
+  {
+    "text": "tom",
     "size": 2
   },
   {
@@ -708,19 +792,15 @@
     "size": 2
   },
   {
-    "text": "mechelen",
-    "size": 2
-  },
-  {
     "text": "laurent",
     "size": 2
   },
   {
-    "text": "panier",
+    "text": "gül",
     "size": 2
   },
   {
-    "text": "mevlana",
+    "text": "cihan",
     "size": 2
   },
   {
@@ -729,10 +809,6 @@
   },
   {
     "text": "algemene",
-    "size": 2
-  },
-  {
-    "text": "keurslagerij",
     "size": 2
   },
   {
@@ -776,15 +852,7 @@
     "size": 2
   },
   {
-    "text": "pitta",
-    "size": 2
-  },
-  {
     "text": "bruno",
-    "size": 2
-  },
-  {
-    "text": "ulus",
     "size": 2
   },
   {
@@ -793,6 +861,10 @@
   },
   {
     "text": "consult",
+    "size": 2
+  },
+  {
+    "text": "krokantje",
     "size": 2
   },
   {
@@ -820,6 +892,10 @@
     "size": 2
   },
   {
+    "text": "gastro-services",
+    "size": 2
+  },
+  {
     "text": "tournai",
     "size": 2
   },
@@ -828,11 +904,11 @@
     "size": 2
   },
   {
-    "text": "luc",
+    "text": "meat",
     "size": 2
   },
   {
-    "text": "you",
+    "text": "luc",
     "size": 2
   },
   {
@@ -841,10 +917,6 @@
   },
   {
     "text": "easy",
-    "size": 2
-  },
-  {
-    "text": "route",
     "size": 2
   },
   {
@@ -864,6 +936,10 @@
     "size": 2
   },
   {
+    "text": "peter",
+    "size": 2
+  },
+  {
     "text": "business",
     "size": 2
   },
@@ -872,11 +948,19 @@
     "size": 2
   },
   {
-    "text": "bassin",
+    "text": "kalken",
     "size": 2
   },
   {
-    "text": "kalken",
+    "text": "planet",
+    "size": 2
+  },
+  {
+    "text": "knokke",
+    "size": 2
+  },
+  {
+    "text": "dominique",
     "size": 2
   },
   {
@@ -888,19 +972,15 @@
     "size": 2
   },
   {
-    "text": "construct",
+    "text": "home",
+    "size": 2
+  },
+  {
+    "text": "huy",
     "size": 2
   },
   {
     "text": "smaak",
-    "size": 2
-  },
-  {
-    "text": "singh",
-    "size": 2
-  },
-  {
-    "text": "entreprises",
     "size": 2
   },
   {
@@ -917,86 +997,6 @@
   },
   {
     "text": "klein",
-    "size": 2
-  },
-  {
-    "text": "mar",
-    "size": 2
-  },
-  {
-    "text": "louise",
-    "size": 2
-  },
-  {
-    "text": "fine",
-    "size": 2
-  },
-  {
-    "text": "ferme",
-    "size": 2
-  },
-  {
-    "text": "halles",
-    "size": 2
-  },
-  {
-    "text": "souk",
-    "size": 2
-  },
-  {
-    "text": "med",
-    "size": 2
-  },
-  {
-    "text": "benny",
-    "size": 2
-  },
-  {
-    "text": "dvd",
-    "size": 2
-  },
-  {
-    "text": "grimbergen",
-    "size": 2
-  },
-  {
-    "text": "quality",
-    "size": 2
-  },
-  {
-    "text": "jumbo",
-    "size": 2
-  },
-  {
-    "text": "global",
-    "size": 2
-  },
-  {
-    "text": "eurospar",
-    "size": 2
-  },
-  {
-    "text": "mix",
-    "size": 2
-  },
-  {
-    "text": "jafra",
-    "size": 2
-  },
-  {
-    "text": "kardesler",
-    "size": 2
-  },
-  {
-    "text": "dente",
-    "size": 2
-  },
-  {
-    "text": "linkeroever",
-    "size": 2
-  },
-  {
-    "text": "strombeek",
     "size": 2
   }
 ]

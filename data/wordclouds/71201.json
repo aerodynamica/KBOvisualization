@@ -1,6 +1,10 @@
 [
   {
     "text": "cars",
+    "size": 18
+  },
+  {
+    "text": "auto",
     "size": 15
   },
   {
@@ -8,7 +12,7 @@
     "size": 15
   },
   {
-    "text": "auto",
+    "text": "car",
     "size": 14
   },
   {
@@ -20,8 +24,8 @@
     "size": 12
   },
   {
-    "text": "car",
-    "size": 12
+    "text": "garage",
+    "size": 10
   },
   {
     "text": "services",
@@ -32,16 +36,28 @@
     "size": 10
   },
   {
-    "text": "garage",
-    "size": 9
+    "text": "belgium",
+    "size": 6
   },
   {
     "text": "engineering",
+    "size": 6
+  },
+  {
+    "text": "consulting",
     "size": 4
   },
   {
     "text": "bvba",
     "size": 4
+  },
+  {
+    "text": "company",
+    "size": 3
+  },
+  {
+    "text": "service",
+    "size": 3
   },
   {
     "text": "unicar",
@@ -53,10 +69,6 @@
   },
   {
     "text": "examencentrum",
-    "size": 3
-  },
-  {
-    "text": "belgium",
     "size": 3
   },
   {
@@ -72,11 +84,15 @@
     "size": 3
   },
   {
-    "text": "solutions",
+    "text": "automotive",
     "size": 3
   },
   {
     "text": "projects",
+    "size": 2
+  },
+  {
+    "text": "am",
     "size": 2
   },
   {
@@ -104,15 +120,11 @@
     "size": 2
   },
   {
-    "text": "company",
-    "size": 2
-  },
-  {
     "text": "tienen",
     "size": 2
   },
   {
-    "text": "service",
+    "text": "inspection",
     "size": 2
   },
   {
@@ -132,7 +144,15 @@
     "size": 2
   },
   {
-    "text": "new",
+    "text": "lavichy",
+    "size": 2
+  },
+  {
+    "text": "international",
+    "size": 2
+  },
+  {
+    "text": "dream",
     "size": 2
   },
   {
@@ -160,11 +180,19 @@
     "size": 2
   },
   {
-    "text": "consulting",
+    "text": "motor",
     "size": 2
   },
   {
     "text": "atelier",
+    "size": 2
+  },
+  {
+    "text": "solutions",
+    "size": 2
+  },
+  {
+    "text": "support",
     "size": 2
   },
   {
@@ -180,16 +208,32 @@
     "size": 2
   },
   {
+    "text": "competition",
+    "size": 2
+  },
+  {
+    "text": "auto\u0027s",
+    "size": 2
+  },
+  {
     "text": "depannage",
     "size": 2
   },
   {
-    "text": "automotive",
+    "text": "group",
+    "size": 2
+  },
+  {
+    "text": "motorsport",
     "size": 2
   },
   {
     "text": "said",
     "size": 2
+  },
+  {
+    "text": "somja",
+    "size": 1
   },
   {
     "text": "kammar",
@@ -236,7 +280,19 @@
     "size": 1
   },
   {
+    "text": "maurel",
+    "size": 1
+  },
+  {
     "text": "véhicule",
+    "size": 1
+  },
+  {
+    "text": "scm",
+    "size": 1
+  },
+  {
+    "text": "iris",
     "size": 1
   },
   {
@@ -260,7 +316,7 @@
     "size": 1
   },
   {
-    "text": "am",
+    "text": "christine",
     "size": 1
   },
   {
@@ -356,10 +412,6 @@
     "size": 1
   },
   {
-    "text": "abc",
-    "size": 1
-  },
-  {
     "text": "technofleet",
     "size": 1
   },
@@ -369,6 +421,10 @@
   },
   {
     "text": "marco",
+    "size": 1
+  },
+  {
+    "text": "dépannage",
     "size": 1
   },
   {
@@ -400,11 +456,11 @@
     "size": 1
   },
   {
-    "text": "opleidingen",
+    "text": "snel",
     "size": 1
   },
   {
-    "text": "mehdi",
+    "text": "opleidingen",
     "size": 1
   },
   {
@@ -424,11 +480,19 @@
     "size": 1
   },
   {
+    "text": "finotto",
+    "size": 1
+  },
+  {
     "text": "ryan",
     "size": 1
   },
   {
     "text": "nine",
+    "size": 1
+  },
+  {
+    "text": "joes",
     "size": 1
   },
   {
@@ -440,7 +504,15 @@
     "size": 1
   },
   {
+    "text": "sprint",
+    "size": 1
+  },
+  {
     "text": "dm",
+    "size": 1
+  },
+  {
+    "text": "voertuigtechnologie",
     "size": 1
   },
   {
@@ -468,10 +540,6 @@
     "size": 1
   },
   {
-    "text": "al-amin",
-    "size": 1
-  },
-  {
     "text": "controle",
     "size": 1
   },
@@ -480,7 +548,15 @@
     "size": 1
   },
   {
+    "text": "stefan",
+    "size": 1
+  },
+  {
     "text": "khalifa",
+    "size": 1
+  },
+  {
+    "text": "b.m.s.c",
     "size": 1
   },
   {
@@ -544,6 +620,10 @@
     "size": 1
   },
   {
+    "text": "electro",
+    "size": 1
+  },
+  {
     "text": "cgme",
     "size": 1
   },
@@ -564,6 +644,14 @@
     "size": 1
   },
   {
+    "text": "ryck",
+    "size": 1
+  },
+  {
+    "text": "lacasse",
+    "size": 1
+  },
+  {
     "text": "thomas",
     "size": 1
   },
@@ -576,6 +664,10 @@
     "size": 1
   },
   {
+    "text": "verrue",
+    "size": 1
+  },
+  {
     "text": "digital",
     "size": 1
   },
@@ -585,6 +677,10 @@
   },
   {
     "text": "eventalist",
+    "size": 1
+  },
+  {
+    "text": "henri",
     "size": 1
   },
   {
@@ -636,11 +732,19 @@
     "size": 1
   },
   {
+    "text": "gomme",
+    "size": 1
+  },
+  {
     "text": "hm",
     "size": 1
   },
   {
     "text": "marche-en-famenne-pc",
+    "size": 1
+  },
+  {
+    "text": "mechanical",
     "size": 1
   },
   {
@@ -660,11 +764,7 @@
     "size": 1
   },
   {
-    "text": "inspection",
-    "size": 1
-  },
-  {
-    "text": "sky",
+    "text": "besaf",
     "size": 1
   },
   {
@@ -676,7 +776,15 @@
     "size": 1
   },
   {
+    "text": "vrc",
+    "size": 1
+  },
+  {
     "text": "zinxani",
+    "size": 1
+  },
+  {
+    "text": "propulsion",
     "size": 1
   },
   {
@@ -688,6 +796,10 @@
     "size": 1
   },
   {
+    "text": "sark",
+    "size": 1
+  },
+  {
     "text": "triff",
     "size": 1
   },
@@ -696,11 +808,23 @@
     "size": 1
   },
   {
+    "text": "e.c.f",
+    "size": 1
+  },
+  {
     "text": "asoficai",
     "size": 1
   },
   {
+    "text": "machinery",
+    "size": 1
+  },
+  {
     "text": "koen",
+    "size": 1
+  },
+  {
+    "text": "jo",
     "size": 1
   },
   {
@@ -741,6 +865,10 @@
   },
   {
     "text": "tcvl",
+    "size": 1
+  },
+  {
+    "text": "rkm",
     "size": 1
   },
   {
@@ -788,15 +916,19 @@
     "size": 1
   },
   {
+    "text": "mbm",
+    "size": 1
+  },
+  {
     "text": "lg",
     "size": 1
   },
   {
-    "text": "autoparts",
+    "text": "afgekort",
     "size": 1
   },
   {
-    "text": "carwash",
+    "text": "autoparts",
     "size": 1
   },
   {
@@ -820,6 +952,10 @@
     "size": 1
   },
   {
+    "text": "ghic",
+    "size": 1
+  },
+  {
     "text": "kervan",
     "size": 1
   },
@@ -832,10 +968,6 @@
     "size": 1
   },
   {
-    "text": "legsaï",
-    "size": 1
-  },
-  {
     "text": "alf",
     "size": 1
   },
@@ -844,11 +976,15 @@
     "size": 1
   },
   {
-    "text": "international",
+    "text": "romain",
     "size": 1
   },
   {
-    "text": "romain",
+    "text": "new",
+    "size": 1
+  },
+  {
+    "text": "biagio",
     "size": 1
   },
   {
@@ -861,142 +997,6 @@
   },
   {
     "text": "cael",
-    "size": 1
-  },
-  {
-    "text": "mx",
-    "size": 1
-  },
-  {
-    "text": "mdc",
-    "size": 1
-  },
-  {
-    "text": "kdreams",
-    "size": 1
-  },
-  {
-    "text": "driving",
-    "size": 1
-  },
-  {
-    "text": "dream",
-    "size": 1
-  },
-  {
-    "text": "pasteels",
-    "size": 1
-  },
-  {
-    "text": "contre-expertises",
-    "size": 1
-  },
-  {
-    "text": "lmbk",
-    "size": 1
-  },
-  {
-    "text": "amg",
-    "size": 1
-  },
-  {
-    "text": "ahmed",
-    "size": 1
-  },
-  {
-    "text": "np",
-    "size": 1
-  },
-  {
-    "text": "tsb",
-    "size": 1
-  },
-  {
-    "text": "technique",
-    "size": 1
-  },
-  {
-    "text": "best",
-    "size": 1
-  },
-  {
-    "text": "erwin",
-    "size": 1
-  },
-  {
-    "text": "gza",
-    "size": 1
-  },
-  {
-    "text": "amz",
-    "size": 1
-  },
-  {
-    "text": "expertisekantoor",
-    "size": 1
-  },
-  {
-    "text": "tss",
-    "size": 1
-  },
-  {
-    "text": "cristina-elena",
-    "size": 1
-  },
-  {
-    "text": "universal",
-    "size": 1
-  },
-  {
-    "text": "wandre-pc",
-    "size": 1
-  },
-  {
-    "text": "plameco",
-    "size": 1
-  },
-  {
-    "text": "recycling",
-    "size": 1
-  },
-  {
-    "text": "bastogne-pc",
-    "size": 1
-  },
-  {
-    "text": "b.v",
-    "size": 1
-  },
-  {
-    "text": "malmedy-ct",
-    "size": 1
-  },
-  {
-    "text": "586",
-    "size": 1
-  },
-  {
-    "text": "painting",
-    "size": 1
-  },
-  {
-    "text": "petry",
-    "size": 1
-  },
-  {
-    "text": "hylja",
-    "size": 1
-  },
-  {
-    "text": "chiapparo",
-    "size": 1
-  },
-  {
-    "text": "autoservice",
-    "size": 1
-  },
-  {
-    "text": "dekra",
     "size": 1
   }
 ]

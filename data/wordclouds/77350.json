@@ -1,38 +1,90 @@
 [
   {
     "text": "services",
-    "size": 15
+    "size": 18
   },
   {
     "text": "aviation",
-    "size": 11
+    "size": 14
   },
   {
     "text": "air",
-    "size": 10
+    "size": 12
+  },
+  {
+    "text": "bvba",
+    "size": 11
+  },
+  {
+    "text": "nv",
+    "size": 11
   },
   {
     "text": "belgium",
     "size": 10
   },
   {
-    "text": "nv",
+    "text": "consulting",
     "size": 10
+  },
+  {
+    "text": "management",
+    "size": 9
   },
   {
     "text": "lease",
     "size": 7
   },
   {
-    "text": "bvba",
+    "text": "aero",
     "size": 7
   },
   {
-    "text": "management",
+    "text": "trans",
+    "size": 7
+  },
+  {
+    "text": "invest",
+    "size": 7
+  },
+  {
+    "text": "express",
+    "size": 7
+  },
+  {
+    "text": "solutions",
+    "size": 7
+  },
+  {
+    "text": "flight",
     "size": 6
   },
   {
-    "text": "trans",
+    "text": "sprl",
+    "size": 6
+  },
+  {
+    "text": "consult",
+    "size": 6
+  },
+  {
+    "text": "company",
+    "size": 6
+  },
+  {
+    "text": "heli",
+    "size": 6
+  },
+  {
+    "text": "transport",
+    "size": 5
+  },
+  {
+    "text": "events",
+    "size": 5
+  },
+  {
+    "text": "group",
     "size": 5
   },
   {
@@ -40,39 +92,11 @@
     "size": 5
   },
   {
-    "text": "consulting",
-    "size": 5
-  },
-  {
-    "text": "express",
-    "size": 5
-  },
-  {
-    "text": "solutions",
-    "size": 5
-  },
-  {
-    "text": "heli",
-    "size": 5
-  },
-  {
-    "text": "flight",
+    "text": "european",
     "size": 4
   },
   {
-    "text": "company",
-    "size": 4
-  },
-  {
-    "text": "aero",
-    "size": 4
-  },
-  {
-    "text": "sprl",
-    "size": 4
-  },
-  {
-    "text": "transport",
+    "text": "service",
     "size": 4
   },
   {
@@ -80,39 +104,35 @@
     "size": 4
   },
   {
+    "text": "drone",
+    "size": 4
+  },
+  {
+    "text": "light",
+    "size": 4
+  },
+  {
+    "text": "logistics",
+    "size": 4
+  },
+  {
     "text": "projects",
-    "size": 3
+    "size": 4
+  },
+  {
+    "text": "trading",
+    "size": 4
+  },
+  {
+    "text": "auto\u0027s",
+    "size": 4
   },
   {
     "text": "the",
     "size": 3
   },
   {
-    "text": "airlines",
-    "size": 3
-  },
-  {
-    "text": "european",
-    "size": 3
-  },
-  {
-    "text": "service",
-    "size": 3
-  },
-  {
-    "text": "sky",
-    "size": 3
-  },
-  {
-    "text": "trading",
-    "size": 3
-  },
-  {
-    "text": "auto",
-    "size": 3
-  },
-  {
-    "text": "kbc",
+    "text": "and",
     "size": 3
   },
   {
@@ -124,23 +144,7 @@
     "size": 3
   },
   {
-    "text": "garage",
-    "size": 3
-  },
-  {
     "text": "cars",
-    "size": 3
-  },
-  {
-    "text": "light",
-    "size": 3
-  },
-  {
-    "text": "europe",
-    "size": 3
-  },
-  {
-    "text": "verschueren",
     "size": 3
   },
   {
@@ -148,19 +152,47 @@
     "size": 3
   },
   {
-    "text": "cbc",
-    "size": 3
-  },
-  {
     "text": "jasper",
     "size": 3
   },
   {
-    "text": "fly-out",
+    "text": "airlines",
+    "size": 3
+  },
+  {
+    "text": "sky",
+    "size": 3
+  },
+  {
+    "text": "nextgen",
+    "size": 3
+  },
+  {
+    "text": "auto",
+    "size": 3
+  },
+  {
+    "text": "kbc",
+    "size": 3
+  },
+  {
+    "text": "garage",
+    "size": 3
+  },
+  {
+    "text": "verschueren",
+    "size": 3
+  },
+  {
+    "text": "cbc",
+    "size": 3
+  },
+  {
+    "text": "building",
     "size": 2
   },
   {
-    "text": "business",
+    "text": "martens",
     "size": 2
   },
   {
@@ -168,23 +200,7 @@
     "size": 2
   },
   {
-    "text": "whoop",
-    "size": 2
-  },
-  {
-    "text": "consultancy",
-    "size": 2
-  },
-  {
-    "text": "vision",
-    "size": 2
-  },
-  {
     "text": "technics",
-    "size": 2
-  },
-  {
-    "text": "immolease",
     "size": 2
   },
   {
@@ -196,15 +212,11 @@
     "size": 2
   },
   {
+    "text": "corporation",
+    "size": 2
+  },
+  {
     "text": "skydiving",
-    "size": 2
-  },
-  {
-    "text": "nextgen",
-    "size": 2
-  },
-  {
-    "text": "international",
     "size": 2
   },
   {
@@ -212,11 +224,7 @@
     "size": 2
   },
   {
-    "text": "loft",
-    "size": 2
-  },
-  {
-    "text": "and",
+    "text": "aircraft",
     "size": 2
   },
   {
@@ -228,10 +236,6 @@
     "size": 2
   },
   {
-    "text": "events",
-    "size": 2
-  },
-  {
     "text": "black",
     "size": 2
   },
@@ -240,11 +244,7 @@
     "size": 2
   },
   {
-    "text": "invest",
-    "size": 2
-  },
-  {
-    "text": "drone",
+    "text": "technologies",
     "size": 2
   },
   {
@@ -264,7 +264,83 @@
     "size": 2
   },
   {
+    "text": "center",
+    "size": 2
+  },
+  {
     "text": "centea",
+    "size": 2
+  },
+  {
+    "text": "minsel",
+    "size": 2
+  },
+  {
+    "text": "nd-sign",
+    "size": 2
+  },
+  {
+    "text": "more",
+    "size": 2
+  },
+  {
+    "text": "sam",
+    "size": 2
+  },
+  {
+    "text": "fly-out",
+    "size": 2
+  },
+  {
+    "text": "systems",
+    "size": 2
+  },
+  {
+    "text": "cb",
+    "size": 2
+  },
+  {
+    "text": "business",
+    "size": 2
+  },
+  {
+    "text": "whoop",
+    "size": 2
+  },
+  {
+    "text": "consultancy",
+    "size": 2
+  },
+  {
+    "text": "vision",
+    "size": 2
+  },
+  {
+    "text": "immolease",
+    "size": 2
+  },
+  {
+    "text": "bma",
+    "size": 2
+  },
+  {
+    "text": "international",
+    "size": 2
+  },
+  {
+    "text": "loft",
+    "size": 2
+  },
+  {
+    "text": "plus",
+    "size": 2
+  },
+  {
+    "text": "taxi",
+    "size": 2
+  },
+  {
+    "text": "support",
     "size": 2
   },
   {
@@ -276,48 +352,32 @@
     "size": 2
   },
   {
-    "text": "minsel",
-    "size": 2
-  },
-  {
-    "text": "auto\u0027s",
-    "size": 2
-  },
-  {
-    "text": "nd-sign",
-    "size": 2
-  },
-  {
     "text": "foundation",
     "size": 2
   },
   {
-    "text": "consult",
+    "text": "europe",
     "size": 2
   },
   {
-    "text": "group",
+    "text": "academy",
     "size": 2
   },
   {
-    "text": "mires",
+    "text": "cleaning",
     "size": 2
   },
   {
-    "text": "logistics",
+    "text": "stijn",
     "size": 2
   },
   {
-    "text": "sam",
+    "text": "cools",
     "size": 2
   },
   {
-    "text": "plane",
-    "size": 1
-  },
-  {
-    "text": "beel",
-    "size": 1
+    "text": "simulators",
+    "size": 2
   },
   {
     "text": "leading",
@@ -325,10 +385,6 @@
   },
   {
     "text": "ciglos",
-    "size": 1
-  },
-  {
-    "text": "purus",
     "size": 1
   },
   {
@@ -340,10 +396,6 @@
     "size": 1
   },
   {
-    "text": "emirates",
-    "size": 1
-  },
-  {
     "text": "branch",
     "size": 1
   },
@@ -352,23 +404,11 @@
     "size": 1
   },
   {
-    "text": "building",
-    "size": 1
-  },
-  {
-    "text": "jfpr",
-    "size": 1
-  },
-  {
     "text": "emma",
     "size": 1
   },
   {
     "text": "envict",
-    "size": 1
-  },
-  {
-    "text": "bas",
     "size": 1
   },
   {
@@ -384,7 +424,11 @@
     "size": 1
   },
   {
-    "text": "you",
+    "text": "neirynck",
+    "size": 1
+  },
+  {
+    "text": "avans",
     "size": 1
   },
   {
@@ -392,7 +436,7 @@
     "size": 1
   },
   {
-    "text": "baluga",
+    "text": "mayor",
     "size": 1
   },
   {
@@ -404,19 +448,11 @@
     "size": 1
   },
   {
-    "text": "solstice",
-    "size": 1
-  },
-  {
     "text": "lighting",
     "size": 1
   },
   {
     "text": "maxibay",
-    "size": 1
-  },
-  {
-    "text": "blueskies",
     "size": 1
   },
   {
@@ -428,27 +464,11 @@
     "size": 1
   },
   {
-    "text": "steven",
-    "size": 1
-  },
-  {
-    "text": "av",
-    "size": 1
-  },
-  {
-    "text": "gmacs",
+    "text": "bjorn",
     "size": 1
   },
   {
     "text": "citation-one",
-    "size": 1
-  },
-  {
-    "text": "comptoir",
-    "size": 1
-  },
-  {
-    "text": "delhaye",
     "size": 1
   },
   {
@@ -460,14 +480,6 @@
     "size": 1
   },
   {
-    "text": "bd",
-    "size": 1
-  },
-  {
-    "text": "be",
-    "size": 1
-  },
-  {
     "text": "air-fides",
     "size": 1
   },
@@ -476,27 +488,7 @@
     "size": 1
   },
   {
-    "text": "mobil-x",
-    "size": 1
-  },
-  {
-    "text": "investments",
-    "size": 1
-  },
-  {
     "text": "vanda",
-    "size": 1
-  },
-  {
-    "text": "cartouche",
-    "size": 1
-  },
-  {
-    "text": "ardora",
-    "size": 1
-  },
-  {
-    "text": "br",
     "size": 1
   },
   {
@@ -508,19 +500,7 @@
     "size": 1
   },
   {
-    "text": "communications",
-    "size": 1
-  },
-  {
     "text": "maxime",
-    "size": 1
-  },
-  {
-    "text": "c.r.c",
-    "size": 1
-  },
-  {
-    "text": "systems",
     "size": 1
   },
   {
@@ -536,27 +516,11 @@
     "size": 1
   },
   {
-    "text": "bativa",
-    "size": 1
-  },
-  {
-    "text": "vita",
-    "size": 1
-  },
-  {
-    "text": "antieke",
-    "size": 1
-  },
-  {
     "text": "naessens",
     "size": 1
   },
   {
     "text": "scott",
-    "size": 1
-  },
-  {
-    "text": "martens",
     "size": 1
   },
   {
@@ -568,23 +532,15 @@
     "size": 1
   },
   {
-    "text": "hps",
-    "size": 1
-  },
-  {
     "text": "jojanda",
     "size": 1
   },
   {
+    "text": "jens",
+    "size": 1
+  },
+  {
     "text": "blue",
-    "size": 1
-  },
-  {
-    "text": "mees",
-    "size": 1
-  },
-  {
-    "text": "flaico",
     "size": 1
   },
   {
@@ -604,18 +560,6 @@
     "size": 1
   },
   {
-    "text": "paul",
-    "size": 1
-  },
-  {
-    "text": "sogal",
-    "size": 1
-  },
-  {
-    "text": "noorden",
-    "size": 1
-  },
-  {
     "text": "fleet",
     "size": 1
   },
@@ -624,19 +568,11 @@
     "size": 1
   },
   {
-    "text": "helixense",
-    "size": 1
-  },
-  {
     "text": "sprint",
     "size": 1
   },
   {
     "text": "pegasus",
-    "size": 1
-  },
-  {
-    "text": "ds",
     "size": 1
   },
   {
@@ -660,23 +596,7 @@
     "size": 1
   },
   {
-    "text": "yss",
-    "size": 1
-  },
-  {
-    "text": "reginald",
-    "size": 1
-  },
-  {
-    "text": "verkoop",
-    "size": 1
-  },
-  {
     "text": "vmo",
-    "size": 1
-  },
-  {
-    "text": "flyinsite",
     "size": 1
   },
   {
@@ -688,19 +608,7 @@
     "size": 1
   },
   {
-    "text": "e.a.c",
-    "size": 1
-  },
-  {
-    "text": "dijk",
-    "size": 1
-  },
-  {
     "text": "oriondesign",
-    "size": 1
-  },
-  {
-    "text": "orionworks",
     "size": 1
   },
   {
@@ -708,19 +616,7 @@
     "size": 1
   },
   {
-    "text": "vaes",
-    "size": 1
-  },
-  {
     "text": "vyvey",
-    "size": 1
-  },
-  {
-    "text": "hugues",
-    "size": 1
-  },
-  {
-    "text": "take",
     "size": 1
   },
   {
@@ -728,11 +624,11 @@
     "size": 1
   },
   {
-    "text": "perneel",
+    "text": "ballooning",
     "size": 1
   },
   {
-    "text": "ballooning",
+    "text": "aitc",
     "size": 1
   },
   {
@@ -744,23 +640,11 @@
     "size": 1
   },
   {
-    "text": "schoemans",
-    "size": 1
-  },
-  {
-    "text": "pingala",
-    "size": 1
-  },
-  {
-    "text": "knokke",
-    "size": 1
-  },
-  {
-    "text": "ebvba",
-    "size": 1
-  },
-  {
     "text": "ecorental",
+    "size": 1
+  },
+  {
+    "text": "pragmata",
     "size": 1
   },
   {
@@ -768,19 +652,15 @@
     "size": 1
   },
   {
-    "text": "for",
-    "size": 1
-  },
-  {
-    "text": "nessie",
-    "size": 1
-  },
-  {
-    "text": "fp",
+    "text": "dorpe",
     "size": 1
   },
   {
     "text": "sodemundo",
+    "size": 1
+  },
+  {
+    "text": "vof",
     "size": 1
   },
   {
@@ -796,31 +676,7 @@
     "size": 1
   },
   {
-    "text": "bati-vero",
-    "size": 1
-  },
-  {
-    "text": "olivier",
-    "size": 1
-  },
-  {
     "text": "i-fly",
-    "size": 1
-  },
-  {
-    "text": "sil",
-    "size": 1
-  },
-  {
-    "text": "steichel",
-    "size": 1
-  },
-  {
-    "text": "thomas",
-    "size": 1
-  },
-  {
-    "text": "relcan",
     "size": 1
   },
   {
@@ -828,35 +684,11 @@
     "size": 1
   },
   {
-    "text": "kris",
-    "size": 1
-  },
-  {
     "text": "desmet",
     "size": 1
   },
   {
-    "text": "associes",
-    "size": 1
-  },
-  {
-    "text": "holz",
-    "size": 1
-  },
-  {
-    "text": "ethiopian",
-    "size": 1
-  },
-  {
-    "text": "flanders",
-    "size": 1
-  },
-  {
-    "text": "infra-rent",
-    "size": 1
-  },
-  {
-    "text": "kwadraat",
+    "text": "victory",
     "size": 1
   },
   {
@@ -864,27 +696,15 @@
     "size": 1
   },
   {
+    "text": "vpm",
+    "size": 1
+  },
+  {
     "text": "micro",
     "size": 1
   },
   {
-    "text": "hover-cam",
-    "size": 1
-  },
-  {
-    "text": "beerens",
-    "size": 1
-  },
-  {
-    "text": "ferwerda",
-    "size": 1
-  },
-  {
-    "text": "alexandre",
-    "size": 1
-  },
-  {
-    "text": "promotion",
+    "text": "emra",
     "size": 1
   },
   {
@@ -896,7 +716,7 @@
     "size": 1
   },
   {
-    "text": "bosmans",
+    "text": "piteco",
     "size": 1
   },
   {
@@ -909,10 +729,6 @@
   },
   {
     "text": "adoxa",
-    "size": 1
-  },
-  {
-    "text": "bafa",
     "size": 1
   },
   {
@@ -940,27 +756,7 @@
     "size": 1
   },
   {
-    "text": "corporation",
-    "size": 1
-  },
-  {
-    "text": "abim",
-    "size": 1
-  },
-  {
-    "text": "hertog",
-    "size": 1
-  },
-  {
-    "text": "carcenter",
-    "size": 1
-  },
-  {
-    "text": "kizz",
-    "size": 1
-  },
-  {
-    "text": "heli-foto",
+    "text": "inter",
     "size": 1
   },
   {
@@ -972,11 +768,7 @@
     "size": 1
   },
   {
-    "text": "verkeers",
-    "size": 1
-  },
-  {
-    "text": "e.c.d",
+    "text": "winner",
     "size": 1
   },
   {
@@ -984,19 +776,227 @@
     "size": 1
   },
   {
-    "text": "johan",
+    "text": "silver",
     "size": 1
   },
   {
-    "text": "mermoz",
+    "text": "debbaut",
     "size": 1
   },
   {
-    "text": "lorentias",
+    "text": "guy",
     "size": 1
   },
   {
-    "text": "belventura",
+    "text": "rijschool",
+    "size": 1
+  },
+  {
+    "text": "tom",
+    "size": 1
+  },
+  {
+    "text": "product",
+    "size": 1
+  },
+  {
+    "text": "dumon",
+    "size": 1
+  },
+  {
+    "text": "ilpam",
+    "size": 1
+  },
+  {
+    "text": "helimo",
+    "size": 1
+  },
+  {
+    "text": "groep",
+    "size": 1
+  },
+  {
+    "text": "debaecke",
+    "size": 1
+  },
+  {
+    "text": "saveurs",
+    "size": 1
+  },
+  {
+    "text": "schoonheidsinstitut",
+    "size": 1
+  },
+  {
+    "text": "promoglide",
+    "size": 1
+  },
+  {
+    "text": "afgekort",
+    "size": 1
+  },
+  {
+    "text": "aera",
+    "size": 1
+  },
+  {
+    "text": "modularte",
+    "size": 1
+  },
+  {
+    "text": "i-electrics",
+    "size": 1
+  },
+  {
+    "text": "rma",
+    "size": 1
+  },
+  {
+    "text": "helicopters",
+    "size": 1
+  },
+  {
+    "text": "lantman",
+    "size": 1
+  },
+  {
+    "text": "laurent",
+    "size": 1
+  },
+  {
+    "text": "etablissements",
+    "size": 1
+  },
+  {
+    "text": "robimex",
+    "size": 1
+  },
+  {
+    "text": "neo@",
+    "size": 1
+  },
+  {
+    "text": "impecco",
+    "size": 1
+  },
+  {
+    "text": "marcel",
+    "size": 1
+  },
+  {
+    "text": "veral",
+    "size": 1
+  },
+  {
+    "text": "profides",
+    "size": 1
+  },
+  {
+    "text": "fresit",
+    "size": 1
+  },
+  {
+    "text": "estate",
+    "size": 1
+  },
+  {
+    "text": "real",
+    "size": 1
+  },
+  {
+    "text": "hatomec",
+    "size": 1
+  },
+  {
+    "text": "greenlaneadventure",
+    "size": 1
+  },
+  {
+    "text": "try",
+    "size": 1
+  },
+  {
+    "text": "v-fund",
+    "size": 1
+  },
+  {
+    "text": "elitav",
+    "size": 1
+  },
+  {
+    "text": "bodi",
+    "size": 1
+  },
+  {
+    "text": "xperience",
+    "size": 1
+  },
+  {
+    "text": "financial",
+    "size": 1
+  },
+  {
+    "text": "technique",
+    "size": 1
+  },
+  {
+    "text": "dreams",
+    "size": 1
+  },
+  {
+    "text": "media",
+    "size": 1
+  },
+  {
+    "text": "leipzig",
+    "size": 1
+  },
+  {
+    "text": "lengele",
+    "size": 1
+  },
+  {
+    "text": "executiv",
+    "size": 1
+  },
+  {
+    "text": "jacquemin",
+    "size": 1
+  },
+  {
+    "text": "zunbee",
+    "size": 1
+  },
+  {
+    "text": "helipad.be",
+    "size": 1
+  },
+  {
+    "text": "prowrap",
+    "size": 1
+  },
+  {
+    "text": "b.b.a.c",
+    "size": 1
+  },
+  {
+    "text": "academics",
+    "size": 1
+  },
+  {
+    "text": "ingeo",
+    "size": 1
+  },
+  {
+    "text": "conseils",
+    "size": 1
+  },
+  {
+    "text": "maintenance",
+    "size": 1
+  },
+  {
+    "text": "vlaams",
     "size": 1
   }
 ]

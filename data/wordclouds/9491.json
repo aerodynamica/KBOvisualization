@@ -1,15 +1,15 @@
 [
   {
     "text": "fabrique",
-    "size": 163
+    "size": 164
   },
   {
     "text": "d\u0027eglise",
-    "size": 137
+    "size": 138
   },
   {
     "text": "vzw",
-    "size": 82
+    "size": 83
   },
   {
     "text": "zusters",
@@ -25,15 +25,15 @@
   },
   {
     "text": "kerkfabriek",
-    "size": 43
-  },
-  {
-    "text": "werken",
     "size": 42
   },
   {
     "text": "wl",
     "size": 42
+  },
+  {
+    "text": "werken",
+    "size": 41
   },
   {
     "text": "dekenaat",
@@ -49,7 +49,7 @@
   },
   {
     "text": "centre",
-    "size": 34
+    "size": 35
   },
   {
     "text": "zoutleeuw",
@@ -73,7 +73,7 @@
   },
   {
     "text": "parochiale",
-    "size": 29
+    "size": 28
   },
   {
     "text": "maison",
@@ -81,7 +81,7 @@
   },
   {
     "text": "sint",
-    "size": 24
+    "size": 23
   },
   {
     "text": "oeuvres",
@@ -108,15 +108,19 @@
     "size": 17
   },
   {
-    "text": "vincentius",
-    "size": 16
-  },
-  {
     "text": "soeurs",
     "size": 15
   },
   {
+    "text": "vincentius",
+    "size": 15
+  },
+  {
     "text": "paroisse",
+    "size": 14
+  },
+  {
+    "text": "sainte",
     "size": 14
   },
   {
@@ -125,6 +129,10 @@
   },
   {
     "text": "evangelische",
+    "size": 14
+  },
+  {
+    "text": "evangelique",
     "size": 14
   },
   {
@@ -141,14 +149,6 @@
   },
   {
     "text": "asbl",
-    "size": 13
-  },
-  {
-    "text": "sainte",
-    "size": 13
-  },
-  {
-    "text": "evangelique",
     "size": 13
   },
   {
@@ -172,6 +172,10 @@
     "size": 12
   },
   {
+    "text": "centraal",
+    "size": 12
+  },
+  {
     "text": "onze-lieve-vrouw",
     "size": 12
   },
@@ -188,7 +192,11 @@
     "size": 11
   },
   {
-    "text": "centraal",
+    "text": "el",
+    "size": 11
+  },
+  {
+    "text": "mission",
     "size": 11
   },
   {
@@ -208,11 +216,11 @@
     "size": 10
   },
   {
-    "text": "el",
+    "text": "abdij",
     "size": 10
   },
   {
-    "text": "mission",
+    "text": "kerkbestuur",
     "size": 10
   },
   {
@@ -226,6 +234,10 @@
   {
     "text": "dame",
     "size": 10
+  },
+  {
+    "text": "vierge",
+    "size": 9
   },
   {
     "text": "institut",
@@ -254,18 +266,6 @@
   {
     "text": "laïcité",
     "size": 9
-  },
-  {
-    "text": "abdij",
-    "size": 9
-  },
-  {
-    "text": "kerkbestuur",
-    "size": 9
-  },
-  {
-    "text": "vierge",
-    "size": 8
   },
   {
     "text": "the",
@@ -304,7 +304,19 @@
     "size": 8
   },
   {
+    "text": "communaute",
+    "size": 8
+  },
+  {
+    "text": "kerk",
+    "size": 8
+  },
+  {
     "text": "province",
+    "size": 8
+  },
+  {
+    "text": "vl",
     "size": 8
   },
   {
@@ -313,10 +325,6 @@
   },
   {
     "text": "european",
-    "size": 7
-  },
-  {
-    "text": "onze",
     "size": 7
   },
   {
@@ -348,35 +356,15 @@
     "size": 7
   },
   {
-    "text": "lieve",
-    "size": 7
-  },
-  {
-    "text": "gewest",
-    "size": 7
-  },
-  {
     "text": "fv",
     "size": 7
   },
   {
-    "text": "communaute",
-    "size": 7
-  },
-  {
-    "text": "kerk",
-    "size": 7
-  },
-  {
-    "text": "leuven",
-    "size": 7
-  },
-  {
-    "text": "vl",
-    "size": 7
-  },
-  {
     "text": "gemeente",
+    "size": 7
+  },
+  {
+    "text": "namur",
     "size": 7
   },
   {
@@ -392,7 +380,7 @@
     "size": 6
   },
   {
-    "text": "vrouw",
+    "text": "onze",
     "size": 6
   },
   {
@@ -404,11 +392,27 @@
     "size": 6
   },
   {
-    "text": "kruisherenklooster",
+    "text": "monastère",
     "size": 6
   },
   {
-    "text": "monastère",
+    "text": "paul",
+    "size": 6
+  },
+  {
+    "text": "internationale",
+    "size": 6
+  },
+  {
+    "text": "jean",
+    "size": 6
+  },
+  {
+    "text": "lieve",
+    "size": 6
+  },
+  {
+    "text": "gewest",
     "size": 6
   },
   {
@@ -432,7 +436,7 @@
     "size": 6
   },
   {
-    "text": "namur",
+    "text": "leuven",
     "size": 6
   },
   {
@@ -441,6 +445,10 @@
   },
   {
     "text": "cercle",
+    "size": 5
+  },
+  {
+    "text": "vrouw",
     "size": 5
   },
   {
@@ -456,14 +464,6 @@
     "size": 5
   },
   {
-    "text": "paul",
-    "size": 5
-  },
-  {
-    "text": "internationale",
-    "size": 5
-  },
-  {
     "text": "ontmoetingscentrum",
     "size": 5
   },
@@ -472,7 +472,7 @@
     "size": 5
   },
   {
-    "text": "jean",
+    "text": "belgie",
     "size": 5
   },
   {
@@ -520,6 +520,10 @@
     "size": 5
   },
   {
+    "text": "pastorale",
+    "size": 5
+  },
+  {
     "text": "ste",
     "size": 5
   },
@@ -533,10 +537,6 @@
   },
   {
     "text": "belge",
-    "size": 5
-  },
-  {
-    "text": "decanale",
     "size": 5
   },
   {
@@ -561,6 +561,10 @@
   },
   {
     "text": "union",
+    "size": 4
+  },
+  {
+    "text": "orthodoxe",
     "size": 4
   },
   {
@@ -604,10 +608,6 @@
     "size": 4
   },
   {
-    "text": "goede",
-    "size": 4
-  },
-  {
     "text": "saints",
     "size": 4
   },
@@ -629,10 +629,6 @@
   },
   {
     "text": "immaculée",
-    "size": 4
-  },
-  {
-    "text": "belgie",
     "size": 4
   },
   {
@@ -712,19 +708,15 @@
     "size": 4
   },
   {
-    "text": "pastorale",
-    "size": 4
-  },
-  {
-    "text": "sint-jozef",
-    "size": 4
-  },
-  {
     "text": "saint-joseph",
     "size": 4
   },
   {
     "text": "dekenij",
+    "size": 4
+  },
+  {
+    "text": "decanale",
     "size": 4
   },
   {
@@ -736,15 +728,15 @@
     "size": 3
   },
   {
-    "text": "orthodoxe",
-    "size": 3
-  },
-  {
     "text": "god",
     "size": 3
   },
   {
     "text": "foyer",
+    "size": 3
+  },
+  {
+    "text": "cultureel",
     "size": 3
   },
   {
@@ -785,6 +777,10 @@
   },
   {
     "text": "mosquee",
+    "size": 3
+  },
+  {
+    "text": "culturele",
     "size": 3
   },
   {
@@ -833,6 +829,10 @@
   },
   {
     "text": "philadelphia",
+    "size": 3
+  },
+  {
+    "text": "goede",
     "size": 3
   },
   {
@@ -892,11 +892,11 @@
     "size": 3
   },
   {
-    "text": "v.z.w",
+    "text": "vie",
     "size": 3
   },
   {
-    "text": "priorij",
+    "text": "v.z.w",
     "size": 3
   },
   {
@@ -917,6 +917,10 @@
   },
   {
     "text": "joseph",
+    "size": 3
+  },
+  {
+    "text": "jan",
     "size": 3
   },
   {
@@ -944,10 +948,6 @@
     "size": 3
   },
   {
-    "text": "herder",
-    "size": 3
-  },
-  {
     "text": "brabant",
     "size": 3
   },
@@ -968,15 +968,15 @@
     "size": 3
   },
   {
+    "text": "peres",
+    "size": 3
+  },
+  {
     "text": "beoefening",
     "size": 3
   },
   {
     "text": "nations",
-    "size": 3
-  },
-  {
-    "text": "hasselt",
     "size": 3
   },
   {
@@ -988,15 +988,15 @@
     "size": 3
   },
   {
+    "text": "sint-jozef",
+    "size": 3
+  },
+  {
     "text": "communauteit",
     "size": 3
   },
   {
     "text": "apostolique",
-    "size": 3
-  },
-  {
-    "text": "kindsheid",
     "size": 3
   }
 ]

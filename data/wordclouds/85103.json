@@ -1,15 +1,19 @@
 [
   {
     "text": "ecole",
-    "size": 231
+    "size": 294
   },
   {
     "text": "communale",
-    "size": 175
+    "size": 234
   },
   {
     "text": "gemeentelijke",
     "size": 92
+  },
+  {
+    "text": "fondamentale",
+    "size": 85
   },
   {
     "text": "basisschool",
@@ -20,16 +24,12 @@
     "size": 64
   },
   {
-    "text": "fondamentale",
-    "size": 50
-  },
-  {
     "text": "maternelle",
     "size": 48
   },
   {
     "text": "implantation",
-    "size": 36
+    "size": 40
   },
   {
     "text": "hoofdzetel",
@@ -40,24 +40,24 @@
     "size": 24
   },
   {
+    "text": "scolaire",
+    "size": 19
+  },
+  {
     "text": "maternel",
     "size": 17
   },
   {
-    "text": "scolaire",
-    "size": 14
+    "text": "groupe",
+    "size": 13
+  },
+  {
+    "text": "centre",
+    "size": 10
   },
   {
     "text": "section",
     "size": 10
-  },
-  {
-    "text": "groupe",
-    "size": 10
-  },
-  {
-    "text": "centre",
-    "size": 8
   },
   {
     "text": "stedelijke",
@@ -88,6 +88,10 @@
     "size": 3
   },
   {
+    "text": "emile",
+    "size": 3
+  },
+  {
     "text": "melissa",
     "size": 3
   },
@@ -97,6 +101,10 @@
   },
   {
     "text": "klavertje",
+    "size": 3
+  },
+  {
+    "text": "primaire",
     "size": 3
   },
   {
@@ -128,11 +136,15 @@
     "size": 2
   },
   {
+    "text": "d\u0027avette",
+    "size": 2
+  },
+  {
     "text": "bierbeek",
     "size": 2
   },
   {
-    "text": "emile",
+    "text": "musique",
     "size": 2
   },
   {
@@ -148,7 +160,15 @@
     "size": 2
   },
   {
+    "text": "ferrières",
+    "size": 2
+  },
+  {
     "text": "em",
+    "size": 2
+  },
+  {
+    "text": "hayettes/solvay",
     "size": 2
   },
   {
@@ -172,7 +192,23 @@
     "size": 2
   },
   {
+    "text": "bruyère",
+    "size": 2
+  },
+  {
+    "text": "ii",
+    "size": 2
+  },
+  {
+    "text": "sart",
+    "size": 2
+  },
+  {
     "text": "simenon",
+    "size": 2
+  },
+  {
+    "text": "achille",
     "size": 2
   },
   {
@@ -185,6 +221,10 @@
   },
   {
     "text": "bierset",
+    "size": 2
+  },
+  {
+    "text": "ensemble",
     "size": 2
   },
   {
@@ -213,10 +253,6 @@
   },
   {
     "text": "klaproosje",
-    "size": 2
-  },
-  {
-    "text": "primaire",
     "size": 2
   },
   {
@@ -292,11 +328,19 @@
     "size": 2
   },
   {
+    "text": "parc",
+    "size": 2
+  },
+  {
     "text": "vandevelde",
     "size": 2
   },
   {
     "text": "germinal",
+    "size": 1
+  },
+  {
+    "text": "sélange",
     "size": 1
   },
   {
@@ -336,6 +380,10 @@
     "size": 1
   },
   {
+    "text": "tea",
+    "size": 1
+  },
+  {
     "text": "rad",
     "size": 1
   },
@@ -344,11 +392,23 @@
     "size": 1
   },
   {
+    "text": "beez",
+    "size": 1
+  },
+  {
+    "text": "moulin-à-vent",
+    "size": 1
+  },
+  {
     "text": "laplaigne",
     "size": 1
   },
   {
     "text": "chaussée",
+    "size": 1
+  },
+  {
+    "text": "taillis-pré",
     "size": 1
   },
   {
@@ -376,6 +436,14 @@
     "size": 1
   },
   {
+    "text": "pommeroeul",
+    "size": 1
+  },
+  {
+    "text": "rotheux",
+    "size": 1
+  },
+  {
     "text": "abbaye",
     "size": 1
   },
@@ -388,11 +456,15 @@
     "size": 1
   },
   {
-    "text": "musique",
+    "text": "saint-denis",
     "size": 1
   },
   {
-    "text": "saint-denis",
+    "text": "laneuville",
+    "size": 1
+  },
+  {
+    "text": "gros",
     "size": 1
   },
   {
@@ -441,6 +513,14 @@
   },
   {
     "text": "trieux",
+    "size": 1
+  },
+  {
+    "text": "genval",
+    "size": 1
+  },
+  {
+    "text": "rachamps",
     "size": 1
   },
   {
@@ -504,7 +584,19 @@
     "size": 1
   },
   {
+    "text": "cariotte",
+    "size": 1
+  },
+  {
     "text": "lesdain",
+    "size": 1
+  },
+  {
+    "text": "court\u0027echelle",
+    "size": 1
+  },
+  {
+    "text": "hondelange",
     "size": 1
   },
   {
@@ -521,6 +613,18 @@
   },
   {
     "text": "moortebeek",
+    "size": 1
+  },
+  {
+    "text": "flohimont",
+    "size": 1
+  },
+  {
+    "text": "d\u0027harchies",
+    "size": 1
+  },
+  {
+    "text": "xhendremael",
     "size": 1
   },
   {
@@ -568,6 +672,10 @@
     "size": 1
   },
   {
+    "text": "freux",
+    "size": 1
+  },
+  {
     "text": "richelle",
     "size": 1
   },
@@ -588,6 +696,10 @@
     "size": 1
   },
   {
+    "text": "sart-allet",
+    "size": 1
+  },
+  {
     "text": "lens",
     "size": 1
   },
@@ -596,7 +708,15 @@
     "size": 1
   },
   {
+    "text": "foy",
+    "size": 1
+  },
+  {
     "text": "anvaing",
+    "size": 1
+  },
+  {
+    "text": "boubier",
     "size": 1
   },
   {
@@ -609,6 +729,10 @@
   },
   {
     "text": "ballon",
+    "size": 1
+  },
+  {
+    "text": "cheratte",
     "size": 1
   },
   {
@@ -628,6 +752,10 @@
     "size": 1
   },
   {
+    "text": "loyers",
+    "size": 1
+  },
+  {
     "text": "perenpit",
     "size": 1
   },
@@ -636,7 +764,7 @@
     "size": 1
   },
   {
-    "text": "bruyère",
+    "text": "genaux",
     "size": 1
   },
   {
@@ -680,6 +808,14 @@
     "size": 1
   },
   {
+    "text": "boninne",
+    "size": 1
+  },
+  {
+    "text": "solvay",
+    "size": 1
+  },
+  {
     "text": "bever",
     "size": 1
   },
@@ -692,11 +828,11 @@
     "size": 1
   },
   {
-    "text": "salzinnes",
+    "text": "mortier",
     "size": 1
   },
   {
-    "text": "ii",
+    "text": "salzinnes",
     "size": 1
   },
   {
@@ -732,6 +868,10 @@
     "size": 1
   },
   {
+    "text": "housse",
+    "size": 1
+  },
+  {
     "text": "thy-le-bauduin",
     "size": 1
   },
@@ -748,11 +888,23 @@
     "size": 1
   },
   {
+    "text": "saive",
+    "size": 1
+  },
+  {
     "text": "js",
     "size": 1
   },
   {
     "text": "cerfontaine",
+    "size": 1
+  },
+  {
+    "text": "uccle",
+    "size": 1
+  },
+  {
+    "text": "bonniers",
     "size": 1
   },
   {
@@ -768,7 +920,15 @@
     "size": 1
   },
   {
+    "text": "bras-haut",
+    "size": 1
+  },
+  {
     "text": "max",
+    "size": 1
+  },
+  {
+    "text": "ramioul",
     "size": 1
   },
   {
@@ -776,7 +936,15 @@
     "size": 1
   },
   {
+    "text": "haut",
+    "size": 1
+  },
+  {
     "text": "noiseux",
+    "size": 1
+  },
+  {
+    "text": "tekst",
     "size": 1
   },
   {
@@ -828,175 +996,7 @@
     "size": 1
   },
   {
-    "text": "huizingen",
-    "size": 1
-  },
-  {
-    "text": "ruau",
-    "size": 1
-  },
-  {
-    "text": "coq",
-    "size": 1
-  },
-  {
-    "text": "fosses-la-ville",
-    "size": 1
-  },
-  {
-    "text": "cent",
-    "size": 1
-  },
-  {
-    "text": "sars-la-buissiere",
-    "size": 1
-  },
-  {
-    "text": "d\u0027houraing",
-    "size": 1
-  },
-  {
-    "text": "buanderie",
-    "size": 1
-  },
-  {
-    "text": "defuisseaux",
-    "size": 1
-  },
-  {
-    "text": "loën",
-    "size": 1
-  },
-  {
-    "text": "l\u0027autreppe",
-    "size": 1
-  },
-  {
-    "text": "namotte",
-    "size": 1
-  },
-  {
-    "text": "polderstadschool",
-    "size": 1
-  },
-  {
-    "text": "academie",
-    "size": 1
-  },
-  {
-    "text": "l\u0027homme",
-    "size": 1
-  },
-  {
-    "text": "kameleon",
-    "size": 1
-  },
-  {
-    "text": "pont-de-loup",
-    "size": 1
-  },
-  {
-    "text": "biercée",
-    "size": 1
-  },
-  {
-    "text": "saintes",
-    "size": 1
-  },
-  {
-    "text": "heppenbach",
-    "size": 1
-  },
-  {
-    "text": "saint-lazare",
-    "size": 1
-  },
-  {
-    "text": "etoiles",
-    "size": 1
-  },
-  {
-    "text": "spa",
-    "size": 1
-  },
-  {
-    "text": "dertien",
-    "size": 1
-  },
-  {
-    "text": "tarcienne",
-    "size": 1
-  },
-  {
-    "text": "trésors",
-    "size": 1
-  },
-  {
-    "text": "beyaert",
-    "size": 1
-  },
-  {
-    "text": "morville",
-    "size": 1
-  },
-  {
-    "text": "forges",
-    "size": 1
-  },
-  {
-    "text": "nourrissons",
-    "size": 1
-  },
-  {
-    "text": "lycée",
-    "size": 1
-  },
-  {
-    "text": "p1",
-    "size": 1
-  },
-  {
-    "text": "p2",
-    "size": 1
-  },
-  {
-    "text": "p3",
-    "size": 1
-  },
-  {
-    "text": "léopold",
-    "size": 1
-  },
-  {
-    "text": "p6",
-    "size": 1
-  },
-  {
-    "text": "arbre",
-    "size": 1
-  },
-  {
-    "text": "fontaines",
-    "size": 1
-  },
-  {
-    "text": "perwez",
-    "size": 1
-  },
-  {
-    "text": "d\u0027accueil",
-    "size": 1
-  },
-  {
-    "text": "blandain",
-    "size": 1
-  },
-  {
-    "text": "corroy-le-grand",
-    "size": 1
-  },
-  {
-    "text": "thumaide",
+    "text": "fontaine",
     "size": 1
   }
 ]

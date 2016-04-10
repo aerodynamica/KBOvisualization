@@ -1,11 +1,11 @@
 [
   {
     "form": "Natuurlijk Persoon",
-    "count": 371
+    "count": 4658
   },
   {
     "form": "Rechtspersoon",
-    "count": 1822
+    "count": 3785
   },
   {
     "count": 0
@@ -19,48 +19,60 @@
     "count": 1
   },
   {
+    "form": "Autonoom gemeentebedrijf",
+    "count": 2
+  },
+  {
     "form": "Besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 764
+    "count": 4186
   },
   {
-    "form": "BTW-eenheid",
-    "count": 18
-  },
-  {
-    "form": "Buitenlandse onderneming",
-    "count": 32
-  },
-  {
-    "form": "Buitenlandse onderneming zonder Belgische vestiging met vertegenwoordiger voor BTW",
-    "count": 3
-  },
-  {
-    "form": "Burgerlijke vennootschap onder vorm van coöperatieve vennootschap met beperkte aansprakelijkheid",
-    "count": 5
-  },
-  {
-    "form": "Commanditaire vennootschap op aandelen",
+    "form": "Besloten vennootschap met beperkte aansprakelijkheid met een sociaal oogmerk",
     "count": 1
   },
   {
+    "form": "BTW-eenheid",
+    "count": 55
+  },
+  {
+    "form": "Buitenlandse onderneming",
+    "count": 64
+  },
+  {
+    "form": "Buitenlandse onderneming zonder Belgische vestiging met vertegenwoordiger voor BTW",
+    "count": 14
+  },
+  {
+    "form": "Burgerlijke vennootschap onder vorm van besloten vennootschap met beperkte aansprakelijkheid",
+    "count": 5
+  },
+  {
+    "form": "Burgerlijke vennootschap onder vorm van coöperatieve vennootschap met beperkte aansprakelijkheid",
+    "count": 7
+  },
+  {
+    "form": "Commanditaire vennootschap op aandelen",
+    "count": 6
+  },
+  {
     "form": "Coöperatieve vennootschap (oud statuut)",
-    "count": 3
+    "count": 34
   },
   {
     "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid",
-    "count": 44
+    "count": 151
   },
   {
     "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid met een sociaal oogmerk",
-    "count": 33
+    "count": 76
   },
   {
     "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid van publiek recht",
-    "count": 25
+    "count": 28
   },
   {
     "form": "Coöperatieve vennootschap met onbeperkte aansprakelijkheid",
-    "count": 2
+    "count": 14
   },
   {
     "form": "Coöperatieve vennootschap van publiek recht (oud statuut)",
@@ -68,7 +80,7 @@
   },
   {
     "form": "Dienstverlenende vereniging (Vlaams Gewest)",
-    "count": 2
+    "count": 4
   },
   {
     "form": "Economisch samenwerkingsverband",
@@ -76,15 +88,19 @@
   },
   {
     "form": "Eenpersoons besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 45
+    "count": 356
   },
   {
     "form": "Gewone commanditaire vennootschap",
-    "count": 26
+    "count": 121
+  },
+  {
+    "form": "Hulpverleningszone",
+    "count": 1
   },
   {
     "form": "Intercommunale",
-    "count": 5
+    "count": 6
   },
   {
     "form": "Internationale vereniging zonder winstoogmerk",
@@ -95,12 +111,16 @@
     "count": 2
   },
   {
+    "form": "Ministerie van Financiën",
+    "count": 2
+  },
+  {
     "form": "Naamloze vennootschap",
-    "count": 664
+    "count": 2463
   },
   {
     "form": "Naamloze vennootschap met een sociaal oogmerk",
-    "count": 3
+    "count": 7
   },
   {
     "form": "Naamloze vennootschap van publiek recht",
@@ -108,7 +128,7 @@
   },
   {
     "form": "Opdrachthoudende vereniging (Vlaams Gewest)",
-    "count": 52
+    "count": 66
   },
   {
     "form": "Openbare instelling",
@@ -119,8 +139,12 @@
     "count": 1
   },
   {
+    "form": "Rijk, Provincie, Gewest, Gemeenschap",
+    "count": 1
+  },
+  {
     "form": "Stad / gemeente",
-    "count": 99
+    "count": 171
   },
   {
     "form": "Stichting van openbaar nut",
@@ -128,15 +152,15 @@
   },
   {
     "form": "Tijdelijke vereniging",
-    "count": 2
+    "count": 7
   },
   {
     "form": "Vennootschap of vereniging zonder rechtspersoonlijkheid",
-    "count": 73
+    "count": 121
   },
   {
     "form": "Vennootschap onder firma",
-    "count": 9
+    "count": 60
   },
   {
     "form": "Vereniging van OCMW\u0027s",
@@ -144,6 +168,6 @@
   },
   {
     "form": "Vereniging zonder winstoogmerk",
-    "count": 33
+    "count": 110
   }
 ]

@@ -1,62 +1,70 @@
 [
   {
     "text": "restaurant",
-    "size": 306
+    "size": 312
   },
   {
     "text": "traiteur",
-    "size": 267
+    "size": 291
   },
   {
     "text": "bvba",
-    "size": 198
-  },
-  {
-    "text": "bakkerij",
-    "size": 168
+    "size": 226
   },
   {
     "text": "slagerij",
-    "size": 146
+    "size": 201
+  },
+  {
+    "text": "bakkerij",
+    "size": 190
   },
   {
     "text": "nv",
+    "size": 124
+  },
+  {
+    "text": "apotheek",
     "size": 119
   },
   {
     "text": "boucherie",
-    "size": 102
-  },
-  {
-    "text": "chez",
-    "size": 100
+    "size": 113
   },
   {
     "text": "patisserie",
-    "size": 98
+    "size": 103
+  },
+  {
+    "text": "chez",
+    "size": 102
   },
   {
     "text": "den",
-    "size": 87
+    "size": 100
   },
   {
     "text": "boulangerie",
-    "size": 84
+    "size": 91
   },
   {
-    "text": "chocolaterie",
-    "size": 73
+    "text": "brood",
+    "size": 78
   },
   {
     "text": "the",
-    "size": 71
+    "size": 75
   },
   {
     "text": "taverne",
-    "size": 71
+    "size": 72
   },
   {
-    "text": "cafe",
+    "text": "chocolaterie",
+    "size": 72
+  },
+  {
+    "text": "sprl",
     "size": 70
   },
   {
@@ -64,79 +72,79 @@
     "size": 67
   },
   {
-    "text": "brood",
+    "text": "cafe",
     "size": 67
   },
   {
-    "text": "sprl",
-    "size": 63
-  },
-  {
-    "text": "maison",
-    "size": 57
+    "text": "food",
+    "size": 65
   },
   {
     "text": "brasserie",
-    "size": 56
+    "size": 60
   },
   {
-    "text": "food",
-    "size": 51
+    "text": "maison",
+    "size": 58
+  },
+  {
+    "text": "banket",
+    "size": 54
   },
   {
     "text": "snack",
-    "size": 48
+    "size": 50
+  },
+  {
+    "text": "frituur",
+    "size": 50
   },
   {
     "text": "pizza",
     "size": 48
   },
   {
-    "text": "frituur",
-    "size": 48
-  },
-  {
-    "text": "banket",
-    "size": 45
-  },
-  {
     "text": "bistro",
+    "size": 46
+  },
+  {
+    "text": "service",
+    "size": 44
+  },
+  {
+    "text": "beenhouwerij",
     "size": 43
   },
   {
     "text": "ter",
-    "size": 40
-  },
-  {
-    "text": "service",
-    "size": 40
+    "size": 42
   },
   {
     "text": "ferme",
-    "size": 39
-  },
-  {
-    "text": "beenhouwerij",
-    "size": 39
+    "size": 42
   },
   {
     "text": "saveurs",
-    "size": 38
-  },
-  {
-    "text": "rest",
-    "size": 38
-  },
-  {
-    "text": "hof",
-    "size": 37
+    "size": 40
   },
   {
     "text": "belgium",
+    "size": 39
+  },
+  {
+    "text": "hof",
+    "size": 39
+  },
+  {
+    "text": "rest",
+    "size": 37
+  },
+  {
+    "text": "d\u0027or",
     "size": 36
   },
   {
-    "text": "petit",
+    "text": "koffie",
     "size": 35
   },
   {
@@ -144,23 +152,31 @@
     "size": 35
   },
   {
-    "text": "d\u0027or",
+    "text": "co",
     "size": 34
   },
   {
-    "text": "koffie",
-    "size": 33
+    "text": "chocolat",
+    "size": 34
+  },
+  {
+    "text": "petit",
+    "size": 34
   },
   {
     "text": "catering",
-    "size": 32
-  },
-  {
-    "text": "garden",
-    "size": 31
+    "size": 33
   },
   {
     "text": "vishandel",
+    "size": 33
+  },
+  {
+    "text": "garden",
+    "size": 32
+  },
+  {
+    "text": "new",
     "size": 31
   },
   {
@@ -168,31 +184,27 @@
     "size": 31
   },
   {
-    "text": "co",
+    "text": "foods",
     "size": 30
   },
   {
-    "text": "chocolat",
-    "size": 29
+    "text": "friterie",
+    "size": 28
   },
   {
     "text": "grill",
     "size": 28
   },
   {
-    "text": "new",
-    "size": 28
-  },
-  {
-    "text": "friterie",
-    "size": 27
-  },
-  {
     "text": "chocolatier",
     "size": 27
   },
   {
-    "text": "apotheek",
+    "text": "pain",
+    "size": 26
+  },
+  {
+    "text": "pharmacie",
     "size": 25
   },
   {
@@ -200,23 +212,39 @@
     "size": 25
   },
   {
+    "text": "patrick",
+    "size": 24
+  },
+  {
+    "text": "services",
+    "size": 24
+  },
+  {
     "text": "chocolate",
     "size": 24
   },
   {
-    "text": "foods",
+    "text": "huis",
     "size": 23
   },
   {
-    "text": "patrick",
-    "size": 22
-  },
-  {
-    "text": "huis",
-    "size": 22
-  },
-  {
     "text": "philippe",
+    "size": 23
+  },
+  {
+    "text": "cuisine",
+    "size": 23
+  },
+  {
+    "text": "salons",
+    "size": 23
+  },
+  {
+    "text": "house",
+    "size": 22
+  },
+  {
+    "text": "petite",
     "size": 22
   },
   {
@@ -224,7 +252,11 @@
     "size": 22
   },
   {
-    "text": "salons",
+    "text": "delices",
+    "size": 22
+  },
+  {
+    "text": "coffee",
     "size": 22
   },
   {
@@ -232,35 +264,23 @@
     "size": 21
   },
   {
-    "text": "pain",
-    "size": 21
-  },
-  {
     "text": "oud",
     "size": 21
   },
   {
-    "text": "cuisine",
-    "size": 21
-  },
-  {
-    "text": "house",
+    "text": "banketbakkerij",
     "size": 20
   },
   {
-    "text": "petite",
-    "size": 20
+    "text": "pierre",
+    "size": 19
   },
   {
-    "text": "delices",
-    "size": 20
+    "text": "michel",
+    "size": 19
   },
   {
-    "text": "coffee",
-    "size": 20
-  },
-  {
-    "text": "services",
+    "text": "kwaliteitsslagerij",
     "size": 19
   },
   {
@@ -268,11 +288,27 @@
     "size": 19
   },
   {
-    "text": "pharmacie",
+    "text": "club",
     "size": 19
   },
   {
-    "text": "pierre",
+    "text": "pharma",
+    "size": 19
+  },
+  {
+    "text": "sushi",
+    "size": 19
+  },
+  {
+    "text": "bon",
+    "size": 19
+  },
+  {
+    "text": "express",
+    "size": 19
+  },
+  {
+    "text": "johan",
     "size": 18
   },
   {
@@ -280,15 +316,7 @@
     "size": 18
   },
   {
-    "text": "michel",
-    "size": 18
-  },
-  {
     "text": "dirk",
-    "size": 18
-  },
-  {
-    "text": "club",
     "size": 18
   },
   {
@@ -296,19 +324,43 @@
     "size": 18
   },
   {
-    "text": "sushi",
+    "text": "group",
     "size": 18
   },
   {
-    "text": "bon",
+    "text": "gouden",
     "size": 18
   },
   {
-    "text": "express",
+    "text": "delicatessen",
     "size": 18
   },
   {
-    "text": "kwaliteitsslagerij",
+    "text": "grand",
+    "size": 17
+  },
+  {
+    "text": "el",
+    "size": 17
+  },
+  {
+    "text": "st",
+    "size": 17
+  },
+  {
+    "text": "jan",
+    "size": 17
+  },
+  {
+    "text": "invest",
+    "size": 17
+  },
+  {
+    "text": "keurslager",
+    "size": 17
+  },
+  {
+    "text": "gourmet",
     "size": 17
   },
   {
@@ -316,23 +368,19 @@
     "size": 17
   },
   {
-    "text": "saint",
+    "text": "casa",
     "size": 17
   },
   {
-    "text": "gouden",
-    "size": 17
-  },
-  {
-    "text": "moulin",
-    "size": 17
-  },
-  {
-    "text": "grand",
+    "text": "bart",
     "size": 16
   },
   {
-    "text": "banketbakkerij",
+    "text": "ii",
+    "size": 16
+  },
+  {
+    "text": "peter",
     "size": 16
   },
   {
@@ -340,11 +388,7 @@
     "size": 16
   },
   {
-    "text": "gourmet",
-    "size": 16
-  },
-  {
-    "text": "chateau",
+    "text": "saint",
     "size": 16
   },
   {
@@ -352,35 +396,79 @@
     "size": 16
   },
   {
+    "text": "and",
+    "size": 16
+  },
+  {
+    "text": "table",
+    "size": 16
+  },
+  {
+    "text": "moulin",
+    "size": 16
+  },
+  {
     "text": "relais",
     "size": 15
   },
   {
-    "text": "ii",
-    "size": 15
-  },
-  {
-    "text": "st",
-    "size": 15
-  },
-  {
-    "text": "delicatessen",
-    "size": 15
-  },
-  {
-    "text": "johan",
-    "size": 14
-  },
-  {
     "text": "atelier",
-    "size": 14
+    "size": 15
   },
   {
-    "text": "chocolade",
-    "size": 14
+    "text": "marc",
+    "size": 15
   },
   {
     "text": "délices",
+    "size": 15
+  },
+  {
+    "text": "marie",
+    "size": 15
+  },
+  {
+    "text": "olivier",
+    "size": 15
+  },
+  {
+    "text": "geert",
+    "size": 15
+  },
+  {
+    "text": "chateau",
+    "size": 15
+  },
+  {
+    "text": "café",
+    "size": 15
+  },
+  {
+    "text": "cake",
+    "size": 15
+  },
+  {
+    "text": "palace",
+    "size": 15
+  },
+  {
+    "text": "bar",
+    "size": 15
+  },
+  {
+    "text": "ten",
+    "size": 14
+  },
+  {
+    "text": "concept",
+    "size": 14
+  },
+  {
+    "text": "company",
+    "size": 14
+  },
+  {
+    "text": "hoeve",
     "size": 14
   },
   {
@@ -388,39 +476,11 @@
     "size": 14
   },
   {
-    "text": "jan",
-    "size": 14
-  },
-  {
-    "text": "geert",
-    "size": 14
-  },
-  {
     "text": "delice",
     "size": 14
   },
   {
-    "text": "peter",
-    "size": 14
-  },
-  {
-    "text": "and",
-    "size": 14
-  },
-  {
-    "text": "café",
-    "size": 14
-  },
-  {
-    "text": "palace",
-    "size": 14
-  },
-  {
-    "text": "casa",
-    "size": 14
-  },
-  {
-    "text": "bar",
+    "text": "slagerij-traiteur",
     "size": 14
   },
   {
@@ -428,23 +488,15 @@
     "size": 14
   },
   {
-    "text": "table",
-    "size": 14
-  },
-  {
-    "text": "ten",
-    "size": 13
-  },
-  {
-    "text": "concept",
-    "size": 13
-  },
-  {
     "text": "golden",
     "size": 13
   },
   {
-    "text": "marc",
+    "text": "p\u0027tit",
+    "size": 13
+  },
+  {
+    "text": "chocolade",
     "size": 13
   },
   {
@@ -452,11 +504,27 @@
     "size": 13
   },
   {
-    "text": "el",
+    "text": "wim",
     "size": 13
   },
   {
-    "text": "marie",
+    "text": "david",
+    "size": 13
+  },
+  {
+    "text": "dragon",
+    "size": 13
+  },
+  {
+    "text": "guy",
+    "size": 13
+  },
+  {
+    "text": "products",
+    "size": 13
+  },
+  {
+    "text": "international",
     "size": 13
   },
   {
@@ -468,15 +536,11 @@
     "size": 13
   },
   {
-    "text": "slagerij-traiteur",
+    "text": "resto",
     "size": 13
   },
   {
-    "text": "pharma",
-    "size": 13
-  },
-  {
-    "text": "invest",
+    "text": "tea-room",
     "size": 13
   },
   {
@@ -484,15 +548,11 @@
     "size": 13
   },
   {
+    "text": "cooking",
+    "size": 13
+  },
+  {
     "text": "don",
-    "size": 12
-  },
-  {
-    "text": "p\u0027tit",
-    "size": 12
-  },
-  {
-    "text": "bart",
     "size": 12
   },
   {
@@ -500,19 +560,19 @@
     "size": 12
   },
   {
-    "text": "hoeve",
+    "text": "thai",
     "size": 12
   },
   {
-    "text": "dragon",
+    "text": "factory",
     "size": 12
   },
   {
-    "text": "resto",
+    "text": "chris",
     "size": 12
   },
   {
-    "text": "olivier",
+    "text": "luc",
     "size": 12
   },
   {
@@ -520,15 +580,23 @@
     "size": 12
   },
   {
+    "text": "sweet",
+    "size": 12
+  },
+  {
+    "text": "kurt",
+    "size": 12
+  },
+  {
+    "text": "frank",
+    "size": 12
+  },
+  {
+    "text": "consulting",
+    "size": 12
+  },
+  {
     "text": "pâtisserie",
-    "size": 12
-  },
-  {
-    "text": "keurslager",
-    "size": 12
-  },
-  {
-    "text": "tea-room",
     "size": 12
   },
   {
@@ -540,7 +608,7 @@
     "size": 12
   },
   {
-    "text": "cake",
+    "text": "comme",
     "size": 12
   },
   {
@@ -552,11 +620,15 @@
     "size": 12
   },
   {
+    "text": "tom",
+    "size": 11
+  },
+  {
     "text": "italia",
     "size": 11
   },
   {
-    "text": "company",
+    "text": "trading",
     "size": 11
   },
   {
@@ -564,11 +636,7 @@
     "size": 11
   },
   {
-    "text": "wim",
-    "size": 11
-  },
-  {
-    "text": "thai",
+    "text": "jo",
     "size": 11
   },
   {
@@ -576,15 +644,19 @@
     "size": 11
   },
   {
+    "text": "belle",
+    "size": 11
+  },
+  {
     "text": "koffiebranderij",
     "size": 11
   },
   {
-    "text": "products",
+    "text": "meat",
     "size": 11
   },
   {
-    "text": "international",
+    "text": "vleeswaren",
     "size": 11
   },
   {
@@ -596,11 +668,23 @@
     "size": 11
   },
   {
+    "text": "eric",
+    "size": 11
+  },
+  {
+    "text": "center",
+    "size": 11
+  },
+  {
+    "text": "comptoir",
+    "size": 11
+  },
+  {
     "text": "chalet",
     "size": 11
   },
   {
-    "text": "kurt",
+    "text": "quality",
     "size": 11
   },
   {
@@ -616,11 +700,11 @@
     "size": 11
   },
   {
-    "text": "comme",
+    "text": "l\u0027auberge",
     "size": 11
   },
   {
-    "text": "cooking",
+    "text": "peeters",
     "size": 11
   },
   {
@@ -628,7 +712,7 @@
     "size": 11
   },
   {
-    "text": "tom",
+    "text": "pita",
     "size": 10
   },
   {
@@ -640,11 +724,11 @@
     "size": 10
   },
   {
-    "text": "jardin",
+    "text": "feestzaal",
     "size": 10
   },
   {
-    "text": "david",
+    "text": "jardin",
     "size": 10
   },
   {
@@ -652,7 +736,7 @@
     "size": 10
   },
   {
-    "text": "jo",
+    "text": "my",
     "size": 10
   },
   {
@@ -660,27 +744,15 @@
     "size": 10
   },
   {
-    "text": "factory",
+    "text": "events",
     "size": 10
   },
   {
-    "text": "guy",
+    "text": "nathalie",
     "size": 10
   },
   {
-    "text": "chris",
-    "size": 10
-  },
-  {
-    "text": "point",
-    "size": 10
-  },
-  {
-    "text": "nico",
-    "size": 10
-  },
-  {
-    "text": "center",
+    "text": "frit",
     "size": 10
   },
   {
@@ -688,7 +760,11 @@
     "size": 10
   },
   {
-    "text": "frank",
+    "text": "quick",
+    "size": 10
+  },
+  {
+    "text": "culinair",
     "size": 10
   },
   {
@@ -696,7 +772,7 @@
     "size": 10
   },
   {
-    "text": "l\u0027auberge",
+    "text": "fils",
     "size": 10
   },
   {
@@ -704,11 +780,15 @@
     "size": 10
   },
   {
-    "text": "tea",
-    "size": 9
+    "text": "didier",
+    "size": 10
   },
   {
-    "text": "pita",
+    "text": "cafes",
+    "size": 10
+  },
+  {
+    "text": "tea",
     "size": 9
   },
   {
@@ -716,15 +796,11 @@
     "size": 9
   },
   {
-    "text": "trading",
-    "size": 9
-  },
-  {
     "text": "blanche",
     "size": 9
   },
   {
-    "text": "feestzaal",
+    "text": "yves",
     "size": 9
   },
   {
@@ -732,7 +808,7 @@
     "size": 9
   },
   {
-    "text": "belle",
+    "text": "christophe",
     "size": 9
   },
   {
@@ -740,7 +816,7 @@
     "size": 9
   },
   {
-    "text": "events",
+    "text": "goût",
     "size": 9
   },
   {
@@ -748,23 +824,23 @@
     "size": 9
   },
   {
+    "text": "artisan",
+    "size": 9
+  },
+  {
     "text": "chef",
     "size": 9
   },
   {
-    "text": "meat",
-    "size": 9
-  },
-  {
-    "text": "vleeswaren",
-    "size": 9
-  },
-  {
-    "text": "frit",
+    "text": "nico",
     "size": 9
   },
   {
     "text": "shop",
+    "size": 9
+  },
+  {
+    "text": "georges",
     "size": 9
   },
   {
@@ -776,7 +852,7 @@
     "size": 9
   },
   {
-    "text": "quick",
+    "text": "alexandre",
     "size": 9
   },
   {
@@ -784,7 +860,7 @@
     "size": 9
   },
   {
-    "text": "quality",
+    "text": "solutions",
     "size": 9
   },
   {
@@ -792,19 +868,43 @@
     "size": 9
   },
   {
-    "text": "fils",
+    "text": "katrien",
     "size": 9
   },
   {
-    "text": "didier",
+    "text": "robert",
     "size": 9
   },
   {
-    "text": "cafes",
+    "text": "bakker",
     "size": 9
+  },
+  {
+    "text": "finesse",
+    "size": 9
+  },
+  {
+    "text": "bio",
+    "size": 9
+  },
+  {
+    "text": "filip",
+    "size": 9
+  },
+  {
+    "text": "willems",
+    "size": 9
+  },
+  {
+    "text": "glace",
+    "size": 8
   },
   {
     "text": "lunch",
+    "size": 8
+  },
+  {
+    "text": "lieven",
     "size": 8
   },
   {
@@ -812,11 +912,7 @@
     "size": 8
   },
   {
-    "text": "christophe",
-    "size": 8
-  },
-  {
-    "text": "goût",
+    "text": "for",
     "size": 8
   },
   {
@@ -824,11 +920,7 @@
     "size": 8
   },
   {
-    "text": "nathalie",
-    "size": 8
-  },
-  {
-    "text": "artisan",
+    "text": "point",
     "size": 8
   },
   {
@@ -852,6 +944,10 @@
     "size": 8
   },
   {
+    "text": "hoeveslagerij",
+    "size": 8
+  },
+  {
     "text": "mille",
     "size": 8
   },
@@ -860,7 +956,15 @@
     "size": 8
   },
   {
-    "text": "georges",
+    "text": "bertrand",
+    "size": 8
+  },
+  {
+    "text": "lucy",
+    "size": 8
+  },
+  {
+    "text": "kris",
     "size": 8
   },
   {
@@ -868,11 +972,7 @@
     "size": 8
   },
   {
-    "text": "eric",
-    "size": 8
-  },
-  {
-    "text": "luc",
+    "text": "place",
     "size": 8
   },
   {
@@ -880,7 +980,7 @@
     "size": 8
   },
   {
-    "text": "alexandre",
+    "text": "claude",
     "size": 8
   },
   {
@@ -888,115 +988,15 @@
     "size": 8
   },
   {
-    "text": "culinair",
+    "text": "sweets",
+    "size": 8
+  },
+  {
+    "text": "louis",
     "size": 8
   },
   {
     "text": "jade",
     "size": 8
-  },
-  {
-    "text": "sweet",
-    "size": 8
-  },
-  {
-    "text": "soleil",
-    "size": 8
-  },
-  {
-    "text": "d\u0027asie",
-    "size": 8
-  },
-  {
-    "text": "coin",
-    "size": 8
-  },
-  {
-    "text": "chine",
-    "size": 8
-  },
-  {
-    "text": "consulting",
-    "size": 8
-  },
-  {
-    "text": "pub",
-    "size": 8
-  },
-  {
-    "text": "group",
-    "size": 8
-  },
-  {
-    "text": "hong",
-    "size": 8
-  },
-  {
-    "text": "robert",
-    "size": 8
-  },
-  {
-    "text": "bakker",
-    "size": 8
-  },
-  {
-    "text": "valentino",
-    "size": 8
-  },
-  {
-    "text": "finesse",
-    "size": 8
-  },
-  {
-    "text": "chinees",
-    "size": 8
-  },
-  {
-    "text": "peeters",
-    "size": 8
-  },
-  {
-    "text": "passion",
-    "size": 8
-  },
-  {
-    "text": "glace",
-    "size": 7
-  },
-  {
-    "text": "room",
-    "size": 7
-  },
-  {
-    "text": "top",
-    "size": 7
-  },
-  {
-    "text": "pitta",
-    "size": 7
-  },
-  {
-    "text": "gourmands",
-    "size": 7
-  },
-  {
-    "text": "bakk",
-    "size": 7
-  },
-  {
-    "text": "lieven",
-    "size": 7
-  },
-  {
-    "text": "val",
-    "size": 7
-  },
-  {
-    "text": "vie",
-    "size": 7
-  },
-  {
-    "text": "centrum",
-    "size": 7
   }
 ]

@@ -1,11 +1,15 @@
 [
   {
     "form": "Natuurlijk Persoon",
-    "count": 149
+    "count": 231
   },
   {
     "form": "Besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 45
+    "count": 89
+  },
+  {
+    "form": "BTW-eenheid",
+    "count": 1
   },
   {
     "form": "Buitenlandse onderneming",
@@ -13,19 +17,23 @@
   },
   {
     "form": "Buitenlandse onderneming zonder Belgische vestiging met vertegenwoordiger voor BTW",
+    "count": 2
+  },
+  {
+    "form": "Coöperatieve vennootschap (oud statuut)",
     "count": 1
   },
   {
     "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid",
-    "count": 5
+    "count": 6
   },
   {
     "form": "Eenpersoons besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 5
+    "count": 9
   },
   {
     "form": "Gewone commanditaire vennootschap",
-    "count": 3
+    "count": 6
   },
   {
     "form": "Instelling van openbaar nut",
@@ -33,7 +41,11 @@
   },
   {
     "form": "Naamloze vennootschap",
-    "count": 6
+    "count": 49
+  },
+  {
+    "form": "Naamloze vennootschap van publiek recht",
+    "count": 1
   },
   {
     "form": "Vennootschap of vereniging zonder rechtspersoonlijkheid",
@@ -41,10 +53,10 @@
   },
   {
     "form": "Vennootschap onder firma",
-    "count": 3
+    "count": 5
   },
   {
     "form": "Vereniging zonder winstoogmerk",
-    "count": 1
+    "count": 5
   }
 ]

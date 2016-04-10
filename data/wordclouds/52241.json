@@ -1,79 +1,75 @@
 [
   {
     "text": "nv",
-    "size": 80
+    "size": 83
   },
   {
     "text": "transport",
-    "size": 70
+    "size": 81
   },
   {
     "text": "logistics",
-    "size": 61
+    "size": 73
   },
   {
     "text": "belgium",
-    "size": 54
+    "size": 63
   },
   {
     "text": "bvba",
-    "size": 53
+    "size": 56
   },
   {
     "text": "services",
-    "size": 41
+    "size": 52
   },
   {
     "text": "antwerp",
-    "size": 33
+    "size": 37
   },
   {
     "text": "shipping",
-    "size": 28
+    "size": 31
+  },
+  {
+    "text": "trans",
+    "size": 25
   },
   {
     "text": "terminal",
-    "size": 20
+    "size": 22
   },
   {
     "text": "natie",
     "size": 20
   },
   {
-    "text": "agencies",
-    "size": 15
-  },
-  {
-    "text": "europe",
-    "size": 15
-  },
-  {
     "text": "cargo",
-    "size": 14
+    "size": 18
   },
   {
     "text": "international",
-    "size": 14
+    "size": 18
   },
   {
-    "text": "trans",
-    "size": 13
+    "text": "europe",
+    "size": 16
   },
   {
-    "text": "trading",
-    "size": 13
-  },
-  {
-    "text": "service",
-    "size": 12
+    "text": "agencies",
+    "size": 16
   },
   {
     "text": "express",
-    "size": 12
+    "size": 16
+  },
+  {
+    "text": "trading",
+    "size": 15
   },
   {
     "text": "and",
-    "size": 11
+    "size": 13
   },
   {
     "text": "terminals",
@@ -81,10 +77,18 @@
   },
   {
     "text": "chartering",
+    "size": 11
+  },
+  {
+    "text": "container",
+    "size": 11
+  },
+  {
+    "text": "service",
     "size": 10
   },
   {
-    "text": "co",
+    "text": "global",
     "size": 10
   },
   {
@@ -92,7 +96,27 @@
     "size": 10
   },
   {
+    "text": "forwarding",
+    "size": 10
+  },
+  {
+    "text": "co",
+    "size": 10
+  },
+  {
     "text": "magazijn",
+    "size": 9
+  },
+  {
+    "text": "handling",
+    "size": 9
+  },
+  {
+    "text": "antwerpen",
+    "size": 9
+  },
+  {
+    "text": "maritime",
     "size": 9
   },
   {
@@ -104,7 +128,27 @@
     "size": 9
   },
   {
+    "text": "benelux",
+    "size": 9
+  },
+  {
     "text": "european",
+    "size": 8
+  },
+  {
+    "text": "group",
+    "size": 8
+  },
+  {
+    "text": "company",
+    "size": 8
+  },
+  {
+    "text": "solutions",
+    "size": 8
+  },
+  {
+    "text": "agency",
     "size": 8
   },
   {
@@ -112,27 +156,11 @@
     "size": 8
   },
   {
-    "text": "handling",
+    "text": "vervoer",
     "size": 8
   },
   {
-    "text": "container",
-    "size": 8
-  },
-  {
-    "text": "benelux",
-    "size": 8
-  },
-  {
-    "text": "forwarding",
-    "size": 8
-  },
-  {
-    "text": "antwerpen",
-    "size": 7
-  },
-  {
-    "text": "maritime",
+    "text": "bulk",
     "size": 7
   },
   {
@@ -140,43 +168,15 @@
     "size": 7
   },
   {
-    "text": "group",
-    "size": 7
-  },
-  {
     "text": "transp",
     "size": 7
   },
   {
-    "text": "agency",
+    "text": "distribution",
     "size": 7
   },
   {
-    "text": "line",
-    "size": 7
-  },
-  {
-    "text": "bulk",
-    "size": 6
-  },
-  {
-    "text": "haven",
-    "size": 6
-  },
-  {
-    "text": "vervoer",
-    "size": 6
-  },
-  {
-    "text": "company",
-    "size": 6
-  },
-  {
-    "text": "storage",
-    "size": 6
-  },
-  {
-    "text": "global",
+    "text": "marine",
     "size": 6
   },
   {
@@ -184,11 +184,23 @@
     "size": 6
   },
   {
-    "text": "solutions",
+    "text": "haven",
     "size": 6
   },
   {
     "text": "logistic",
+    "size": 6
+  },
+  {
+    "text": "storage",
+    "size": 6
+  },
+  {
+    "text": "line",
+    "size": 6
+  },
+  {
+    "text": "consulting",
     "size": 5
   },
   {
@@ -204,6 +216,10 @@
     "size": 5
   },
   {
+    "text": "dirk",
+    "size": 5
+  },
+  {
     "text": "euroports",
     "size": 5
   },
@@ -212,31 +228,19 @@
     "size": 5
   },
   {
-    "text": "distribution",
-    "size": 5
-  },
-  {
     "text": "export",
     "size": 4
   },
   {
-    "text": "liner",
+    "text": "sallaum",
     "size": 4
   },
   {
-    "text": "sprl",
+    "text": "warehouse",
     "size": 4
   },
   {
-    "text": "marine",
-    "size": 4
-  },
-  {
-    "text": "kaai",
-    "size": 4
-  },
-  {
-    "text": "sea",
+    "text": "general",
     "size": 4
   },
   {
@@ -248,15 +252,11 @@
     "size": 4
   },
   {
-    "text": "safmarine",
+    "text": "invest",
     "size": 4
   },
   {
-    "text": "beheer",
-    "size": 4
-  },
-  {
-    "text": "zeebrugge",
+    "text": "gmbh",
     "size": 4
   },
   {
@@ -264,19 +264,59 @@
     "size": 4
   },
   {
+    "text": "liner",
+    "size": 4
+  },
+  {
+    "text": "sprl",
+    "size": 4
+  },
+  {
+    "text": "rederij",
+    "size": 4
+  },
+  {
+    "text": "kaai",
+    "size": 4
+  },
+  {
+    "text": "wim",
+    "size": 4
+  },
+  {
+    "text": "sea",
+    "size": 4
+  },
+  {
+    "text": "food",
+    "size": 4
+  },
+  {
+    "text": "beheer",
+    "size": 4
+  },
+  {
+    "text": "sibelco",
+    "size": 4
+  },
+  {
+    "text": "zeebrugge",
+    "size": 4
+  },
+  {
+    "text": "customs",
+    "size": 3
+  },
+  {
+    "text": "union",
+    "size": 3
+  },
+  {
     "text": "the",
     "size": 3
   },
   {
     "text": "scheepvaart",
-    "size": 3
-  },
-  {
-    "text": "air",
-    "size": 3
-  },
-  {
-    "text": "afgekort",
     "size": 3
   },
   {
@@ -288,18 +328,6 @@
     "size": 3
   },
   {
-    "text": "universal",
-    "size": 3
-  },
-  {
-    "text": "rederij",
-    "size": 3
-  },
-  {
-    "text": "engineering",
-    "size": 3
-  },
-  {
     "text": "psa",
     "size": 3
   },
@@ -308,23 +336,7 @@
     "size": 3
   },
   {
-    "text": "genk",
-    "size": 3
-  },
-  {
-    "text": "king",
-    "size": 3
-  },
-  {
-    "text": "general",
-    "size": 3
-  },
-  {
-    "text": "wim",
-    "size": 3
-  },
-  {
-    "text": "bv",
+    "text": "n.v",
     "size": 3
   },
   {
@@ -332,35 +344,11 @@
     "size": 3
   },
   {
-    "text": "food",
-    "size": 3
-  },
-  {
-    "text": "cy",
-    "size": 3
-  },
-  {
-    "text": "containers",
-    "size": 3
-  },
-  {
-    "text": "ib",
-    "size": 3
-  },
-  {
-    "text": "icts",
-    "size": 3
-  },
-  {
-    "text": "dirk",
+    "text": "internationaal",
     "size": 3
   },
   {
     "text": "ferries",
-    "size": 3
-  },
-  {
-    "text": "sibelco",
     "size": 3
   },
   {
@@ -372,7 +360,75 @@
     "size": 3
   },
   {
-    "text": "invest",
+    "text": "manutention",
+    "size": 3
+  },
+  {
+    "text": "trucking",
+    "size": 3
+  },
+  {
+    "text": "trade",
+    "size": 3
+  },
+  {
+    "text": "stsi",
+    "size": 3
+  },
+  {
+    "text": "allround",
+    "size": 3
+  },
+  {
+    "text": "air",
+    "size": 3
+  },
+  {
+    "text": "afgekort",
+    "size": 3
+  },
+  {
+    "text": "new",
+    "size": 3
+  },
+  {
+    "text": "universal",
+    "size": 3
+  },
+  {
+    "text": "engineering",
+    "size": 3
+  },
+  {
+    "text": "genk",
+    "size": 3
+  },
+  {
+    "text": "king",
+    "size": 3
+  },
+  {
+    "text": "cy",
+    "size": 3
+  },
+  {
+    "text": "containers",
+    "size": 3
+  },
+  {
+    "text": "kris",
+    "size": 3
+  },
+  {
+    "text": "peterson",
+    "size": 3
+  },
+  {
+    "text": "ib",
+    "size": 3
+  },
+  {
+    "text": "icts",
     "size": 3
   },
   {
@@ -384,10 +440,6 @@
     "size": 3
   },
   {
-    "text": "trucking",
-    "size": 3
-  },
-  {
     "text": "gosselin",
     "size": 3
   },
@@ -396,15 +448,7 @@
     "size": 3
   },
   {
-    "text": "gmbh",
-    "size": 3
-  },
-  {
     "text": "car",
-    "size": 3
-  },
-  {
-    "text": "trade",
     "size": 3
   },
   {
@@ -413,18 +457,6 @@
   },
   {
     "text": "ccb",
-    "size": 2
-  },
-  {
-    "text": "branch",
-    "size": 2
-  },
-  {
-    "text": "customs",
-    "size": 2
-  },
-  {
-    "text": "fari",
     "size": 2
   },
   {
@@ -440,10 +472,6 @@
     "size": 2
   },
   {
-    "text": "forest",
-    "size": 2
-  },
-  {
     "text": "independent",
     "size": 2
   },
@@ -456,7 +484,271 @@
     "size": 2
   },
   {
-    "text": "union",
+    "text": "blue",
+    "size": 2
+  },
+  {
+    "text": "cgm",
+    "size": 2
+  },
+  {
+    "text": "agence",
+    "size": 2
+  },
+  {
+    "text": "pvba",
+    "size": 2
+  },
+  {
+    "text": "atlas",
+    "size": 2
+  },
+  {
+    "text": "colfridis",
+    "size": 2
+  },
+  {
+    "text": "cma",
+    "size": 2
+  },
+  {
+    "text": "pfp",
+    "size": 2
+  },
+  {
+    "text": "guy",
+    "size": 2
+  },
+  {
+    "text": "industriel",
+    "size": 2
+  },
+  {
+    "text": "burger",
+    "size": 2
+  },
+  {
+    "text": "silver/cims",
+    "size": 2
+  },
+  {
+    "text": "maintenance",
+    "size": 2
+  },
+  {
+    "text": "carga",
+    "size": 2
+  },
+  {
+    "text": "kennedy",
+    "size": 2
+  },
+  {
+    "text": "sumitomo",
+    "size": 2
+  },
+  {
+    "text": "sea-tank",
+    "size": 2
+  },
+  {
+    "text": "watson",
+    "size": 2
+  },
+  {
+    "text": "gateway",
+    "size": 2
+  },
+  {
+    "text": "finance",
+    "size": 2
+  },
+  {
+    "text": "zoning",
+    "size": 2
+  },
+  {
+    "text": "shuttle",
+    "size": 2
+  },
+  {
+    "text": "bruno",
+    "size": 2
+  },
+  {
+    "text": "alliance",
+    "size": 2
+  },
+  {
+    "text": "logistiek",
+    "size": 2
+  },
+  {
+    "text": "dba",
+    "size": 2
+  },
+  {
+    "text": "ltd",
+    "size": 2
+  },
+  {
+    "text": "herfurth",
+    "size": 2
+  },
+  {
+    "text": "luc",
+    "size": 2
+  },
+  {
+    "text": "den",
+    "size": 2
+  },
+  {
+    "text": "bornem",
+    "size": 2
+  },
+  {
+    "text": "mega",
+    "size": 2
+  },
+  {
+    "text": "investments",
+    "size": 2
+  },
+  {
+    "text": "peter",
+    "size": 2
+  },
+  {
+    "text": "business",
+    "size": 2
+  },
+  {
+    "text": "devooght",
+    "size": 2
+  },
+  {
+    "text": "ups",
+    "size": 2
+  },
+  {
+    "text": "entreprises",
+    "size": 2
+  },
+  {
+    "text": "d\u0027or",
+    "size": 2
+  },
+  {
+    "text": "products",
+    "size": 2
+  },
+  {
+    "text": "cargotrans",
+    "size": 2
+  },
+  {
+    "text": "grondwerken",
+    "size": 2
+  },
+  {
+    "text": "fils",
+    "size": 2
+  },
+  {
+    "text": "equipment",
+    "size": 2
+  },
+  {
+    "text": "bierset",
+    "size": 2
+  },
+  {
+    "text": "med",
+    "size": 2
+  },
+  {
+    "text": "peethultra",
+    "size": 2
+  },
+  {
+    "text": "bert",
+    "size": 2
+  },
+  {
+    "text": "panalpina",
+    "size": 2
+  },
+  {
+    "text": "star",
+    "size": 2
+  },
+  {
+    "text": "offshore",
+    "size": 2
+  },
+  {
+    "text": "assistance",
+    "size": 2
+  },
+  {
+    "text": "cooltrans",
+    "size": 2
+  },
+  {
+    "text": "iii",
+    "size": 2
+  },
+  {
+    "text": "ilomar",
+    "size": 2
+  },
+  {
+    "text": "vda",
+    "size": 2
+  },
+  {
+    "text": "msc",
+    "size": 2
+  },
+  {
+    "text": "vdr",
+    "size": 2
+  },
+  {
+    "text": "hunter",
+    "size": 2
+  },
+  {
+    "text": "vincent",
+    "size": 2
+  },
+  {
+    "text": "network",
+    "size": 2
+  },
+  {
+    "text": "holding",
+    "size": 2
+  },
+  {
+    "text": "cvba",
+    "size": 2
+  },
+  {
+    "text": "crynen",
+    "size": 2
+  },
+  {
+    "text": "branch",
+    "size": 2
+  },
+  {
+    "text": "fari",
+    "size": 2
+  },
+  {
+    "text": "forest",
     "size": 2
   },
   {
@@ -476,19 +768,7 @@
     "size": 2
   },
   {
-    "text": "cgm",
-    "size": 2
-  },
-  {
-    "text": "agence",
-    "size": 2
-  },
-  {
     "text": "controle",
-    "size": 2
-  },
-  {
-    "text": "sallaum",
     "size": 2
   },
   {
@@ -500,19 +780,15 @@
     "size": 2
   },
   {
+    "text": "warehousing",
+    "size": 2
+  },
+  {
     "text": "vof",
     "size": 2
   },
   {
-    "text": "maersk",
-    "size": 2
-  },
-  {
-    "text": "pvba",
-    "size": 2
-  },
-  {
-    "text": "atlas",
+    "text": "oellibrandt",
     "size": 2
   },
   {
@@ -520,15 +796,7 @@
     "size": 2
   },
   {
-    "text": "cma",
-    "size": 2
-  },
-  {
-    "text": "pfp",
-    "size": 2
-  },
-  {
-    "text": "guy",
+    "text": "ahlers",
     "size": 2
   },
   {
@@ -540,19 +808,15 @@
     "size": 2
   },
   {
-    "text": "industriel",
+    "text": "vtg",
     "size": 2
   },
   {
-    "text": "new",
+    "text": "all",
     "size": 2
   },
   {
     "text": "broekman",
-    "size": 2
-  },
-  {
-    "text": "maintenance",
     "size": 2
   },
   {
@@ -564,27 +828,7 @@
     "size": 2
   },
   {
-    "text": "carga",
-    "size": 2
-  },
-  {
-    "text": "warehouse",
-    "size": 2
-  },
-  {
-    "text": "kennedy",
-    "size": 2
-  },
-  {
-    "text": "consulting",
-    "size": 2
-  },
-  {
     "text": "kluizendok",
-    "size": 2
-  },
-  {
-    "text": "sumitomo",
     "size": 2
   },
   {
@@ -592,27 +836,7 @@
     "size": 2
   },
   {
-    "text": "sea-tank",
-    "size": 2
-  },
-  {
-    "text": "watson",
-    "size": 2
-  },
-  {
-    "text": "n.v",
-    "size": 2
-  },
-  {
-    "text": "gateway",
-    "size": 2
-  },
-  {
-    "text": "finance",
-    "size": 2
-  },
-  {
-    "text": "zoning",
+    "text": "gent",
     "size": 2
   },
   {
@@ -624,27 +848,7 @@
     "size": 2
   },
   {
-    "text": "shuttle",
-    "size": 2
-  },
-  {
-    "text": "bruno",
-    "size": 2
-  },
-  {
-    "text": "alliance",
-    "size": 2
-  },
-  {
     "text": "c.ro",
-    "size": 2
-  },
-  {
-    "text": "logistiek",
-    "size": 2
-  },
-  {
-    "text": "dba",
     "size": 2
   },
   {
@@ -653,22 +857,6 @@
   },
   {
     "text": "andre",
-    "size": 2
-  },
-  {
-    "text": "ltd",
-    "size": 2
-  },
-  {
-    "text": "hessenatie",
-    "size": 2
-  },
-  {
-    "text": "herfurth",
-    "size": 2
-  },
-  {
-    "text": "luc",
     "size": 2
   },
   {
@@ -684,19 +872,15 @@
     "size": 2
   },
   {
-    "text": "bornem",
-    "size": 2
-  },
-  {
     "text": "ostend",
     "size": 2
   },
   {
-    "text": "mega",
+    "text": "commodities",
     "size": 2
   },
   {
-    "text": "commodities",
+    "text": "bv",
     "size": 2
   },
   {
@@ -708,15 +892,15 @@
     "size": 2
   },
   {
-    "text": "business",
-    "size": 2
-  },
-  {
     "text": "sfi",
     "size": 2
   },
   {
     "text": "dc",
+    "size": 2
+  },
+  {
+    "text": "michel",
     "size": 2
   },
   {
@@ -736,10 +920,6 @@
     "size": 2
   },
   {
-    "text": "kris",
-    "size": 2
-  },
-  {
     "text": "flanders",
     "size": 2
   },
@@ -748,7 +928,7 @@
     "size": 2
   },
   {
-    "text": "peterson",
+    "text": "crown",
     "size": 2
   },
   {
@@ -756,35 +936,11 @@
     "size": 2
   },
   {
-    "text": "ups",
-    "size": 2
-  },
-  {
     "text": "lalemant",
     "size": 2
   },
   {
-    "text": "entreprises",
-    "size": 2
-  },
-  {
-    "text": "d\u0027or",
-    "size": 2
-  },
-  {
-    "text": "products",
-    "size": 2
-  },
-  {
     "text": "adpo",
-    "size": 2
-  },
-  {
-    "text": "cargotrans",
-    "size": 2
-  },
-  {
-    "text": "grondwerken",
     "size": 2
   },
   {
@@ -796,27 +952,7 @@
     "size": 2
   },
   {
-    "text": "internationaal",
-    "size": 2
-  },
-  {
     "text": "petroleum",
-    "size": 2
-  },
-  {
-    "text": "fils",
-    "size": 2
-  },
-  {
-    "text": "bierset",
-    "size": 2
-  },
-  {
-    "text": "med",
-    "size": 2
-  },
-  {
-    "text": "peethultra",
     "size": 2
   },
   {
@@ -840,15 +976,7 @@
     "size": 2
   },
   {
-    "text": "panalpina",
-    "size": 2
-  },
-  {
     "text": "sc",
-    "size": 2
-  },
-  {
-    "text": "star",
     "size": 2
   },
   {
@@ -856,15 +984,11 @@
     "size": 2
   },
   {
-    "text": "manutention",
-    "size": 2
-  },
-  {
     "text": "coil",
     "size": 2
   },
   {
-    "text": "offshore",
+    "text": "vg",
     "size": 2
   },
   {
@@ -872,131 +996,7 @@
     "size": 2
   },
   {
-    "text": "assistance",
-    "size": 2
-  },
-  {
     "text": "nicolas",
     "size": 2
-  },
-  {
-    "text": "apollo",
-    "size": 2
-  },
-  {
-    "text": "cooltrans",
-    "size": 2
-  },
-  {
-    "text": "north",
-    "size": 2
-  },
-  {
-    "text": "iii",
-    "size": 2
-  },
-  {
-    "text": "ilomar",
-    "size": 2
-  },
-  {
-    "text": "vda",
-    "size": 2
-  },
-  {
-    "text": "msc",
-    "size": 2
-  },
-  {
-    "text": "imbrecht",
-    "size": 2
-  },
-  {
-    "text": "hunter",
-    "size": 2
-  },
-  {
-    "text": "brussels",
-    "size": 2
-  },
-  {
-    "text": "network",
-    "size": 2
-  },
-  {
-    "text": "holding",
-    "size": 2
-  },
-  {
-    "text": "cvba",
-    "size": 2
-  },
-  {
-    "text": "inc",
-    "size": 2
-  },
-  {
-    "text": "limited",
-    "size": 2
-  },
-  {
-    "text": "westerlund",
-    "size": 2
-  },
-  {
-    "text": "nilco",
-    "size": 1
-  },
-  {
-    "text": "toren-la",
-    "size": 1
-  },
-  {
-    "text": "intersee",
-    "size": 1
-  },
-  {
-    "text": "plovis",
-    "size": 1
-  },
-  {
-    "text": "ates",
-    "size": 1
-  },
-  {
-    "text": "vestiging",
-    "size": 1
-  },
-  {
-    "text": "melford",
-    "size": 1
-  },
-  {
-    "text": "decoratie",
-    "size": 1
-  },
-  {
-    "text": "pierre",
-    "size": 1
-  },
-  {
-    "text": "wiveba",
-    "size": 1
-  },
-  {
-    "text": "financiere",
-    "size": 1
-  },
-  {
-    "text": "maasdal",
-    "size": 1
-  },
-  {
-    "text": "victor",
-    "size": 1
-  },
-  {
-    "text": "speedtrans",
-    "size": 1
   }
 ]

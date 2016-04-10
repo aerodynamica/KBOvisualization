@@ -1,11 +1,11 @@
 [
   {
     "form": "Natuurlijk Persoon",
-    "count": 781
+    "count": 1355
   },
   {
     "form": "Autonoom gemeentebedrijf",
-    "count": 1
+    "count": 2
   },
   {
     "form": "Autonoom provinciebedrijf",
@@ -13,11 +13,15 @@
   },
   {
     "form": "Besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 88
+    "count": 308
+  },
+  {
+    "form": "Besloten vennootschap met beperkte aansprakelijkheid met een sociaal oogmerk",
+    "count": 1
   },
   {
     "form": "BTW-eenheid",
-    "count": 1
+    "count": 2
   },
   {
     "form": "Buitenlandse of internationale publieke organisatie",
@@ -25,7 +29,7 @@
   },
   {
     "form": "Buitenlandse onderneming",
-    "count": 23
+    "count": 26
   },
   {
     "form": "Buitenlandse onderneming zonder Belgische vestiging met vertegenwoordiger voor BTW",
@@ -36,12 +40,24 @@
     "count": 1
   },
   {
+    "form": "Burgerlijke vennootschap onder vorm van besloten vennootschap met beperkte aansprakelijkheid",
+    "count": 1
+  },
+  {
     "form": "Burgerlijke vennootschap onder vorm van coöperatieve vennootschap met beperkte aansprakelijkheid",
     "count": 1
   },
   {
     "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid",
-    "count": 6
+    "count": 12
+  },
+  {
+    "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid met een sociaal oogmerk",
+    "count": 2
+  },
+  {
+    "form": "Coöperatieve vennootschap met onbeperkte aansprakelijkheid",
+    "count": 2
   },
   {
     "form": "Diversen zonder rechtspersoonlijkheid",
@@ -49,7 +65,7 @@
   },
   {
     "form": "Eenpersoons besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 5
+    "count": 12
   },
   {
     "form": "Europees economisch samenwerkingsverband zonder zetel met vestiging in België (EESV)",
@@ -61,7 +77,7 @@
   },
   {
     "form": "Gewone commanditaire vennootschap",
-    "count": 8
+    "count": 35
   },
   {
     "form": "Internationale vereniging zonder winstoogmerk",
@@ -69,26 +85,30 @@
   },
   {
     "form": "Naamloze vennootschap",
-    "count": 19
+    "count": 39
   },
   {
     "form": "Private stichting",
     "count": 1
   },
   {
-    "form": "Stichting van openbaar nut",
+    "form": "Stad / gemeente",
     "count": 1
   },
   {
+    "form": "Stichting van openbaar nut",
+    "count": 2
+  },
+  {
     "form": "Vennootschap of vereniging zonder rechtspersoonlijkheid",
-    "count": 6
+    "count": 8
   },
   {
     "form": "Vennootschap onder firma",
-    "count": 12
+    "count": 39
   },
   {
     "form": "Vereniging zonder winstoogmerk",
-    "count": 334
+    "count": 407
   }
 ]

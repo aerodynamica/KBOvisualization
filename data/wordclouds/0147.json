@@ -1,30 +1,42 @@
 [
   {
     "text": "ferme",
-    "size": 45
+    "size": 50
   },
   {
     "text": "bvba",
-    "size": 30
+    "size": 33
   },
   {
     "text": "lv",
-    "size": 21
-  },
-  {
-    "text": "agri",
-    "size": 11
+    "size": 23
   },
   {
     "text": "nv",
+    "size": 18
+  },
+  {
+    "text": "agri",
+    "size": 13
+  },
+  {
+    "text": "sprl",
     "size": 10
   },
   {
-    "text": "elevage",
+    "text": "marc",
+    "size": 9
+  },
+  {
+    "text": "koen",
     "size": 8
   },
   {
-    "text": "marc",
+    "text": "eric",
+    "size": 8
+  },
+  {
+    "text": "elevage",
     "size": 8
   },
   {
@@ -32,19 +44,31 @@
     "size": 7
   },
   {
-    "text": "sprl",
+    "text": "sagr",
     "size": 7
-  },
-  {
-    "text": "eric",
-    "size": 7
-  },
-  {
-    "text": "koen",
-    "size": 6
   },
   {
     "text": "laurent",
+    "size": 6
+  },
+  {
+    "text": "geert",
+    "size": 6
+  },
+  {
+    "text": "luc",
+    "size": 6
+  },
+  {
+    "text": "johan",
+    "size": 6
+  },
+  {
+    "text": "vincent",
+    "size": 6
+  },
+  {
+    "text": "saveurs",
     "size": 6
   },
   {
@@ -64,27 +88,31 @@
     "size": 6
   },
   {
-    "text": "johan",
-    "size": 6
-  },
-  {
     "text": "nicolas",
     "size": 6
   },
   {
-    "text": "sagr",
-    "size": 6
-  },
-  {
-    "text": "saveurs",
+    "text": "patrick",
     "size": 5
   },
   {
-    "text": "geert",
+    "text": "mathieu",
     "size": 5
   },
   {
-    "text": "luc",
+    "text": "jozef",
+    "size": 5
+  },
+  {
+    "text": "services",
+    "size": 5
+  },
+  {
+    "text": "wouter",
+    "size": 5
+  },
+  {
+    "text": "hof",
     "size": 5
   },
   {
@@ -92,11 +120,19 @@
     "size": 5
   },
   {
-    "text": "benoit",
+    "text": "jean",
     "size": 5
   },
   {
-    "text": "jean",
+    "text": "agro",
+    "size": 5
+  },
+  {
+    "text": "management",
+    "size": 5
+  },
+  {
+    "text": "françois",
     "size": 5
   },
   {
@@ -104,19 +140,7 @@
     "size": 5
   },
   {
-    "text": "vincent",
-    "size": 5
-  },
-  {
-    "text": "yves",
-    "size": 4
-  },
-  {
-    "text": "agro",
-    "size": 4
-  },
-  {
-    "text": "mathieu",
+    "text": "service",
     "size": 4
   },
   {
@@ -124,39 +148,15 @@
     "size": 4
   },
   {
-    "text": "jozef",
-    "size": 4
-  },
-  {
-    "text": "ann",
-    "size": 4
-  },
-  {
-    "text": "bernard",
-    "size": 4
-  },
-  {
-    "text": "jardin",
-    "size": 4
-  },
-  {
-    "text": "wouter",
-    "size": 4
-  },
-  {
-    "text": "arnaud",
-    "size": 4
-  },
-  {
-    "text": "david",
-    "size": 4
-  },
-  {
-    "text": "hof",
+    "text": "den",
     "size": 4
   },
   {
     "text": "legrand",
+    "size": 4
+  },
+  {
+    "text": "paul",
     "size": 4
   },
   {
@@ -168,15 +168,7 @@
     "size": 4
   },
   {
-    "text": "dirk",
-    "size": 4
-  },
-  {
-    "text": "moulin",
-    "size": 4
-  },
-  {
-    "text": "françois",
+    "text": "antoine",
     "size": 4
   },
   {
@@ -184,19 +176,67 @@
     "size": 4
   },
   {
-    "text": "martens",
-    "size": 3
-  },
-  {
-    "text": "benjamin",
-    "size": 3
-  },
-  {
-    "text": "patrick",
-    "size": 3
+    "text": "yves",
+    "size": 4
   },
   {
     "text": "pluimvee",
+    "size": 4
+  },
+  {
+    "text": "ann",
+    "size": 4
+  },
+  {
+    "text": "sébastien",
+    "size": 4
+  },
+  {
+    "text": "bernard",
+    "size": 4
+  },
+  {
+    "text": "jardin",
+    "size": 4
+  },
+  {
+    "text": "arnaud",
+    "size": 4
+  },
+  {
+    "text": "wim",
+    "size": 4
+  },
+  {
+    "text": "david",
+    "size": 4
+  },
+  {
+    "text": "entreprise",
+    "size": 4
+  },
+  {
+    "text": "steven",
+    "size": 4
+  },
+  {
+    "text": "dirk",
+    "size": 4
+  },
+  {
+    "text": "benoit",
+    "size": 4
+  },
+  {
+    "text": "philippe",
+    "size": 4
+  },
+  {
+    "text": "moulin",
+    "size": 4
+  },
+  {
+    "text": "guy",
     "size": 3
   },
   {
@@ -204,19 +244,71 @@
     "size": 3
   },
   {
-    "text": "gils",
-    "size": 3
-  },
-  {
-    "text": "services",
-    "size": 3
-  },
-  {
-    "text": "sébastien",
+    "text": "consulting",
     "size": 3
   },
   {
     "text": "ecuries",
+    "size": 3
+  },
+  {
+    "text": "denis",
+    "size": 3
+  },
+  {
+    "text": "kippenhof",
+    "size": 3
+  },
+  {
+    "text": "danny",
+    "size": 3
+  },
+  {
+    "text": "boucherie",
+    "size": 3
+  },
+  {
+    "text": "alexandre",
+    "size": 3
+  },
+  {
+    "text": "mario",
+    "size": 3
+  },
+  {
+    "text": "nijst",
+    "size": 3
+  },
+  {
+    "text": "bart",
+    "size": 3
+  },
+  {
+    "text": "bergerie",
+    "size": 3
+  },
+  {
+    "text": "martens",
+    "size": 3
+  },
+  {
+    "text": "nijs",
+    "size": 3
+  },
+  {
+    "text": "benjamin",
+    "size": 3
+  },
+  {
+    "text": "vanderostyne",
+    "size": 3
+  },
+  {
+    "text": "gils",
+    "size": 3
+  },
+  {
+    "text": "poultry",
     "size": 3
   },
   {
@@ -232,27 +324,7 @@
     "size": 3
   },
   {
-    "text": "wim",
-    "size": 3
-  },
-  {
     "text": "projects",
-    "size": 3
-  },
-  {
-    "text": "den",
-    "size": 3
-  },
-  {
-    "text": "entreprise",
-    "size": 3
-  },
-  {
-    "text": "steven",
-    "size": 3
-  },
-  {
-    "text": "denis",
     "size": 3
   },
   {
@@ -260,7 +332,7 @@
     "size": 3
   },
   {
-    "text": "paul",
+    "text": "lejeune",
     "size": 3
   },
   {
@@ -268,27 +340,15 @@
     "size": 3
   },
   {
-    "text": "boucherie",
-    "size": 3
-  },
-  {
     "text": "kris",
     "size": 3
   },
   {
-    "text": "management",
+    "text": "vert",
     "size": 3
   },
   {
-    "text": "alexandre",
-    "size": 3
-  },
-  {
-    "text": "mario",
-    "size": 3
-  },
-  {
-    "text": "philippe",
+    "text": "ska",
     "size": 3
   },
   {
@@ -300,10 +360,6 @@
     "size": 3
   },
   {
-    "text": "nijst",
-    "size": 3
-  },
-  {
     "text": "bonhomme",
     "size": 3
   },
@@ -312,19 +368,11 @@
     "size": 3
   },
   {
-    "text": "bart",
-    "size": 3
-  },
-  {
-    "text": "antoine",
-    "size": 3
-  },
-  {
-    "text": "bergerie",
-    "size": 3
-  },
-  {
     "text": "sens",
+    "size": 3
+  },
+  {
+    "text": "katrien",
     "size": 3
   },
   {
@@ -332,23 +380,11 @@
     "size": 2
   },
   {
+    "text": "hans",
+    "size": 2
+  },
+  {
     "text": "piet",
-    "size": 2
-  },
-  {
-    "text": "saint",
-    "size": 2
-  },
-  {
-    "text": "nijs",
-    "size": 2
-  },
-  {
-    "text": "kerstens",
-    "size": 2
-  },
-  {
-    "text": "quentin",
     "size": 2
   },
   {
@@ -360,7 +396,7 @@
     "size": 2
   },
   {
-    "text": "service",
+    "text": "landbouwvennootschap",
     "size": 2
   },
   {
@@ -373,22 +409,6 @@
   },
   {
     "text": "jean-françois",
-    "size": 2
-  },
-  {
-    "text": "vanderostyne",
-    "size": 2
-  },
-  {
-    "text": "guy",
-    "size": 2
-  },
-  {
-    "text": "klaasen",
-    "size": 2
-  },
-  {
-    "text": "heidi",
     "size": 2
   },
   {
@@ -408,31 +428,7 @@
     "size": 2
   },
   {
-    "text": "joseph",
-    "size": 2
-  },
-  {
-    "text": "and",
-    "size": 2
-  },
-  {
-    "text": "poultry",
-    "size": 2
-  },
-  {
-    "text": "martin",
-    "size": 2
-  },
-  {
-    "text": "etienne",
-    "size": 2
-  },
-  {
     "text": "meulemeester",
-    "size": 2
-  },
-  {
-    "text": "swinnen",
     "size": 2
   },
   {
@@ -440,27 +436,19 @@
     "size": 2
   },
   {
-    "text": "verhaeghe",
-    "size": 2
-  },
-  {
-    "text": "l\u0027eau",
-    "size": 2
-  },
-  {
     "text": "garenne",
     "size": 2
   },
   {
-    "text": "jef",
-    "size": 2
-  },
-  {
-    "text": "franssen",
+    "text": "anne",
     "size": 2
   },
   {
     "text": "kevin",
+    "size": 2
+  },
+  {
+    "text": "geens",
     "size": 2
   },
   {
@@ -472,7 +460,7 @@
     "size": 2
   },
   {
-    "text": "jonathan",
+    "text": "bruno",
     "size": 2
   },
   {
@@ -480,19 +468,7 @@
     "size": 2
   },
   {
-    "text": "ghislain",
-    "size": 2
-  },
-  {
-    "text": "monique",
-    "size": 2
-  },
-  {
-    "text": "l.v",
-    "size": 2
-  },
-  {
-    "text": "becelaere",
+    "text": "consult",
     "size": 2
   },
   {
@@ -500,31 +476,11 @@
     "size": 2
   },
   {
-    "text": "adam",
-    "size": 2
-  },
-  {
-    "text": "both",
-    "size": 2
-  },
-  {
     "text": "nathalie",
     "size": 2
   },
   {
-    "text": "beckers",
-    "size": 2
-  },
-  {
     "text": "rombouts",
-    "size": 2
-  },
-  {
-    "text": "jos",
-    "size": 2
-  },
-  {
-    "text": "vandaele",
     "size": 2
   },
   {
@@ -544,23 +500,11 @@
     "size": 2
   },
   {
-    "text": "plasschaert",
-    "size": 2
-  },
-  {
     "text": "chez",
     "size": 2
   },
   {
-    "text": "jérôme",
-    "size": 2
-  },
-  {
     "text": "meat",
-    "size": 2
-  },
-  {
-    "text": "tuinaanleg",
     "size": 2
   },
   {
@@ -576,27 +520,11 @@
     "size": 2
   },
   {
-    "text": "bax",
-    "size": 2
-  },
-  {
     "text": "hunting",
     "size": 2
   },
   {
-    "text": "scs",
-    "size": 2
-  },
-  {
-    "text": "agricole",
-    "size": 2
-  },
-  {
-    "text": "isabelle",
-    "size": 2
-  },
-  {
-    "text": "kippenhof",
+    "text": "craywinckelhof",
     "size": 2
   },
   {
@@ -604,7 +532,7 @@
     "size": 2
   },
   {
-    "text": "uytdewilligen",
+    "text": "farming",
     "size": 2
   },
   {
@@ -616,18 +544,6 @@
     "size": 2
   },
   {
-    "text": "terre",
-    "size": 2
-  },
-  {
-    "text": "lejeune",
-    "size": 2
-  },
-  {
-    "text": "danny",
-    "size": 2
-  },
-  {
     "text": "goebels",
     "size": 2
   },
@@ -636,19 +552,11 @@
     "size": 2
   },
   {
-    "text": "joël",
-    "size": 2
-  },
-  {
     "text": "maria",
     "size": 2
   },
   {
-    "text": "vert",
-    "size": 2
-  },
-  {
-    "text": "ska",
+    "text": "hervé",
     "size": 2
   },
   {
@@ -660,19 +568,7 @@
     "size": 2
   },
   {
-    "text": "comm.v",
-    "size": 2
-  },
-  {
-    "text": "bughin",
-    "size": 2
-  },
-  {
     "text": "bocart",
-    "size": 2
-  },
-  {
-    "text": "didier",
     "size": 2
   },
   {
@@ -680,7 +576,11 @@
     "size": 2
   },
   {
-    "text": "daniel",
+    "text": "lode",
+    "size": 2
+  },
+  {
+    "text": "smedt",
     "size": 2
   },
   {
@@ -692,11 +592,7 @@
     "size": 2
   },
   {
-    "text": "joos",
-    "size": 2
-  },
-  {
-    "text": "groetelaers",
+    "text": "louis",
     "size": 2
   },
   {
@@ -708,19 +604,11 @@
     "size": 2
   },
   {
-    "text": "pigeolet",
-    "size": 2
-  },
-  {
     "text": "dijck",
     "size": 2
   },
   {
     "text": "rudy",
-    "size": 2
-  },
-  {
-    "text": "rc",
     "size": 2
   },
   {
@@ -732,7 +620,7 @@
     "size": 2
   },
   {
-    "text": "motmans",
+    "text": "simon",
     "size": 2
   },
   {
@@ -740,15 +628,7 @@
     "size": 2
   },
   {
-    "text": "francken",
-    "size": 2
-  },
-  {
-    "text": "broeierij",
-    "size": 2
-  },
-  {
-    "text": "segaert",
+    "text": "hermans",
     "size": 2
   },
   {
@@ -756,35 +636,11 @@
     "size": 2
   },
   {
-    "text": "crines",
-    "size": 2
-  },
-  {
     "text": "goris",
     "size": 2
   },
   {
-    "text": "roebben",
-    "size": 2
-  },
-  {
-    "text": "frederic",
-    "size": 2
-  },
-  {
-    "text": "filip",
-    "size": 2
-  },
-  {
-    "text": "racing",
-    "size": 2
-  },
-  {
     "text": "steen",
-    "size": 2
-  },
-  {
-    "text": "seutin",
     "size": 2
   },
   {
@@ -804,11 +660,275 @@
     "size": 2
   },
   {
-    "text": "anton",
+    "text": "ver",
     "size": 2
   },
   {
-    "text": "katrien",
+    "text": "henricot",
+    "size": 2
+  },
+  {
+    "text": "l\u0027espace",
+    "size": 2
+  },
+  {
+    "text": "saint",
+    "size": 2
+  },
+  {
+    "text": "kerstens",
+    "size": 2
+  },
+  {
+    "text": "quentin",
+    "size": 2
+  },
+  {
+    "text": "tuinwerken",
+    "size": 2
+  },
+  {
+    "text": "damien",
+    "size": 2
+  },
+  {
+    "text": "klaasen",
+    "size": 2
+  },
+  {
+    "text": "heidi",
+    "size": 2
+  },
+  {
+    "text": "all",
+    "size": 2
+  },
+  {
+    "text": "estate",
+    "size": 2
+  },
+  {
+    "text": "joseph",
+    "size": 2
+  },
+  {
+    "text": "and",
+    "size": 2
+  },
+  {
+    "text": "martin",
+    "size": 2
+  },
+  {
+    "text": "etienne",
+    "size": 2
+  },
+  {
+    "text": "swinnen",
+    "size": 2
+  },
+  {
+    "text": "verhaeghe",
+    "size": 2
+  },
+  {
+    "text": "l\u0027eau",
+    "size": 2
+  },
+  {
+    "text": "jef",
+    "size": 2
+  },
+  {
+    "text": "franssen",
+    "size": 2
+  },
+  {
+    "text": "jonathan",
+    "size": 2
+  },
+  {
+    "text": "echelpoel",
+    "size": 2
+  },
+  {
+    "text": "julie",
+    "size": 2
+  },
+  {
+    "text": "ghislain",
+    "size": 2
+  },
+  {
+    "text": "monique",
+    "size": 2
+  },
+  {
+    "text": "l.v",
+    "size": 2
+  },
+  {
+    "text": "becelaere",
+    "size": 2
+  },
+  {
+    "text": "adam",
+    "size": 2
+  },
+  {
+    "text": "both",
+    "size": 2
+  },
+  {
+    "text": "beckers",
+    "size": 2
+  },
+  {
+    "text": "jos",
+    "size": 2
+  },
+  {
+    "text": "vandaele",
+    "size": 2
+  },
+  {
+    "text": "ludo",
+    "size": 2
+  },
+  {
+    "text": "plasschaert",
+    "size": 2
+  },
+  {
+    "text": "jérôme",
+    "size": 2
+  },
+  {
+    "text": "tuinaanleg",
+    "size": 2
+  },
+  {
+    "text": "bax",
+    "size": 2
+  },
+  {
+    "text": "scs",
+    "size": 2
+  },
+  {
+    "text": "agricole",
+    "size": 2
+  },
+  {
+    "text": "isabelle",
+    "size": 2
+  },
+  {
+    "text": "wilma",
+    "size": 2
+  },
+  {
+    "text": "uytdewilligen",
+    "size": 2
+  },
+  {
+    "text": "terre",
+    "size": 2
+  },
+  {
+    "text": "michel",
+    "size": 2
+  },
+  {
+    "text": "joël",
+    "size": 2
+  },
+  {
+    "text": "comm.v",
+    "size": 2
+  },
+  {
+    "text": "bughin",
+    "size": 2
+  },
+  {
+    "text": "didier",
+    "size": 2
+  },
+  {
+    "text": "daniel",
+    "size": 2
+  },
+  {
+    "text": "joos",
+    "size": 2
+  },
+  {
+    "text": "groetelaers",
+    "size": 2
+  },
+  {
+    "text": "pigeolet",
+    "size": 2
+  },
+  {
+    "text": "rc",
+    "size": 2
+  },
+  {
+    "text": "garage",
+    "size": 2
+  },
+  {
+    "text": "motmans",
+    "size": 2
+  },
+  {
+    "text": "francken",
+    "size": 2
+  },
+  {
+    "text": "broeierij",
+    "size": 2
+  },
+  {
+    "text": "segaert",
+    "size": 2
+  },
+  {
+    "text": "crines",
+    "size": 2
+  },
+  {
+    "text": "gebroeders",
+    "size": 2
+  },
+  {
+    "text": "quirynen",
+    "size": 2
+  },
+  {
+    "text": "roebben",
+    "size": 2
+  },
+  {
+    "text": "frederic",
+    "size": 2
+  },
+  {
+    "text": "filip",
+    "size": 2
+  },
+  {
+    "text": "racing",
+    "size": 2
+  },
+  {
+    "text": "christophe",
+    "size": 2
+  },
+  {
+    "text": "anton",
     "size": 2
   },
   {
@@ -824,23 +944,11 @@
     "size": 2
   },
   {
-    "text": "francis",
+    "text": "joeri",
     "size": 2
   },
   {
-    "text": "thilbert",
-    "size": 1
-  },
-  {
-    "text": "haesen-roebben",
-    "size": 1
-  },
-  {
     "text": "renaux",
-    "size": 1
-  },
-  {
-    "text": "ferrieres",
     "size": 1
   },
   {
@@ -856,14 +964,6 @@
     "size": 1
   },
   {
-    "text": "arthisan",
-    "size": 1
-  },
-  {
-    "text": "faire",
-    "size": 1
-  },
-  {
     "text": "lapere",
     "size": 1
   },
@@ -872,27 +972,11 @@
     "size": 1
   },
   {
-    "text": "dewicke",
-    "size": 1
-  },
-  {
     "text": "coninx",
     "size": 1
   },
   {
-    "text": "isidoor",
-    "size": 1
-  },
-  {
-    "text": "hulei",
-    "size": 1
-  },
-  {
     "text": "dîme",
-    "size": 1
-  },
-  {
-    "text": "nadine",
     "size": 1
   },
   {
@@ -913,90 +997,6 @@
   },
   {
     "text": "staumont",
-    "size": 1
-  },
-  {
-    "text": "farm",
-    "size": 1
-  },
-  {
-    "text": "neirynck",
-    "size": 1
-  },
-  {
-    "text": "wins",
-    "size": 1
-  },
-  {
-    "text": "maarten",
-    "size": 1
-  },
-  {
-    "text": "bommers",
-    "size": 1
-  },
-  {
-    "text": "oeufs",
-    "size": 1
-  },
-  {
-    "text": "alphonse",
-    "size": 1
-  },
-  {
-    "text": "f.m.a",
-    "size": 1
-  },
-  {
-    "text": "davy",
-    "size": 1
-  },
-  {
-    "text": "vries",
-    "size": 1
-  },
-  {
-    "text": "leysen",
-    "size": 1
-  },
-  {
-    "text": "pont",
-    "size": 1
-  },
-  {
-    "text": "fazantenkwekerij",
-    "size": 1
-  },
-  {
-    "text": "sohan",
-    "size": 1
-  },
-  {
-    "text": "opifex",
-    "size": 1
-  },
-  {
-    "text": "geiko",
-    "size": 1
-  },
-  {
-    "text": "coudijzer",
-    "size": 1
-  },
-  {
-    "text": "isacker",
-    "size": 1
-  },
-  {
-    "text": "hayois",
-    "size": 1
-  },
-  {
-    "text": "kirby",
-    "size": 1
-  },
-  {
-    "text": "joertifa",
     "size": 1
   }
 ]

@@ -1,19 +1,19 @@
 [
   {
     "text": "campus",
-    "size": 132
+    "size": 128
   },
   {
     "text": "ecole",
-    "size": 123
+    "size": 124
   },
   {
     "text": "haute",
-    "size": 90
+    "size": 91
   },
   {
     "text": "catégorie",
-    "size": 59
+    "size": 60
   },
   {
     "text": "institut",
@@ -29,7 +29,7 @@
   },
   {
     "text": "université",
-    "size": 33
+    "size": 34
   },
   {
     "text": "leuven",
@@ -41,19 +41,19 @@
   },
   {
     "text": "bruxelles",
-    "size": 26
+    "size": 25
   },
   {
     "text": "ku",
     "size": 25
   },
   {
-    "text": "ville",
+    "text": "technique",
     "size": 22
   },
   {
-    "text": "technique",
-    "size": 21
+    "text": "ville",
+    "size": 22
   },
   {
     "text": "économique",
@@ -68,6 +68,10 @@
     "size": 18
   },
   {
+    "text": "centre",
+    "size": 18
+  },
+  {
     "text": "pédagogique",
     "size": 18
   },
@@ -76,7 +80,7 @@
     "size": 18
   },
   {
-    "text": "centre",
+    "text": "formation",
     "size": 16
   },
   {
@@ -88,12 +92,12 @@
     "size": 15
   },
   {
-    "text": "formation",
+    "text": "francaise",
     "size": 15
   },
   {
-    "text": "francaise",
-    "size": 15
+    "text": "française",
+    "size": 14
   },
   {
     "text": "site",
@@ -101,10 +105,6 @@
   },
   {
     "text": "uantwerpen",
-    "size": 13
-  },
-  {
-    "text": "française",
     "size": 13
   },
   {
@@ -136,16 +136,20 @@
     "size": 12
   },
   {
-    "text": "paramédicale",
-    "size": 11
+    "text": "communauté",
+    "size": 12
   },
   {
-    "text": "communauté",
+    "text": "paramédicale",
     "size": 11
   },
   {
     "text": "namur",
     "size": 11
+  },
+  {
+    "text": "consulting",
+    "size": 10
   },
   {
     "text": "superieur",
@@ -200,7 +204,7 @@
     "size": 8
   },
   {
-    "text": "consulting",
+    "text": "school",
     "size": 8
   },
   {
@@ -209,6 +213,10 @@
   },
   {
     "text": "jacquard",
+    "size": 8
+  },
+  {
+    "text": "gent",
     "size": 8
   },
   {
@@ -244,11 +252,11 @@
     "size": 7
   },
   {
-    "text": "gent",
+    "text": "ferrer",
     "size": 7
   },
   {
-    "text": "ferrer",
+    "text": "business",
     "size": 7
   },
   {
@@ -288,7 +296,7 @@
     "size": 6
   },
   {
-    "text": "school",
+    "text": "luxembourg",
     "size": 6
   },
   {
@@ -324,15 +332,15 @@
     "size": 6
   },
   {
+    "text": "the",
+    "size": 5
+  },
+  {
     "text": "education",
     "size": 5
   },
   {
     "text": "lerarenopleiding",
-    "size": 5
-  },
-  {
-    "text": "luxembourg",
     "size": 5
   },
   {
@@ -352,7 +360,15 @@
     "size": 5
   },
   {
+    "text": "consult",
+    "size": 5
+  },
+  {
     "text": "luca",
+    "size": 5
+  },
+  {
+    "text": "noord",
     "size": 5
   },
   {
@@ -360,11 +376,11 @@
     "size": 5
   },
   {
-    "text": "gebouw",
+    "text": "hogeschool",
     "size": 5
   },
   {
-    "text": "business",
+    "text": "gebouw",
     "size": 5
   },
   {
@@ -388,6 +404,14 @@
     "size": 5
   },
   {
+    "text": "schuman",
+    "size": 5
+  },
+  {
+    "text": "vestiging",
+    "size": 4
+  },
+  {
     "text": "r.schuman",
     "size": 4
   },
@@ -397,6 +421,14 @@
   },
   {
     "text": "adm",
+    "size": 4
+  },
+  {
+    "text": "zuid",
+    "size": 4
+  },
+  {
+    "text": "design",
     "size": 4
   },
   {
@@ -436,14 +468,6 @@
     "size": 4
   },
   {
-    "text": "noord",
-    "size": 4
-  },
-  {
-    "text": "hogeschool",
-    "size": 4
-  },
-  {
     "text": "sint-lucas",
     "size": 4
   },
@@ -465,10 +489,6 @@
   },
   {
     "text": "marie",
-    "size": 4
-  },
-  {
-    "text": "kortrijk",
     "size": 4
   },
   {
@@ -496,10 +516,6 @@
     "size": 4
   },
   {
-    "text": "schuman",
-    "size": 4
-  },
-  {
     "text": "regie",
     "size": 4
   },
@@ -521,10 +537,6 @@
   },
   {
     "text": "catégories",
-    "size": 3
-  },
-  {
-    "text": "the",
     "size": 3
   },
   {
@@ -564,15 +576,19 @@
     "size": 3
   },
   {
-    "text": "zuid",
-    "size": 3
-  },
-  {
     "text": "industriels",
     "size": 3
   },
   {
+    "text": "and",
+    "size": 3
+  },
+  {
     "text": "antwerpen",
+    "size": 3
+  },
+  {
+    "text": "katholieke",
     "size": 3
   },
   {
@@ -589,10 +605,6 @@
   },
   {
     "text": "gembloux",
-    "size": 3
-  },
-  {
-    "text": "consult",
     "size": 3
   },
   {
@@ -644,6 +656,10 @@
     "size": 3
   },
   {
+    "text": "kortrijk",
+    "size": 3
+  },
+  {
     "text": "travail",
     "size": 3
   },
@@ -669,6 +685,10 @@
   },
   {
     "text": "uz",
+    "size": 3
+  },
+  {
+    "text": "solutions",
     "size": 3
   },
   {
@@ -792,6 +812,10 @@
     "size": 2
   },
   {
+    "text": "wendy",
+    "size": 2
+  },
+  {
     "text": "ecam",
     "size": 2
   },
@@ -800,7 +824,15 @@
     "size": 2
   },
   {
+    "text": "cafetaria",
+    "size": 2
+  },
+  {
     "text": "hertogstraat",
+    "size": 2
+  },
+  {
+    "text": "q-rius",
     "size": 2
   },
   {
@@ -840,11 +872,7 @@
     "size": 2
   },
   {
-    "text": "and",
-    "size": 2
-  },
-  {
-    "text": "design",
+    "text": "theys",
     "size": 2
   },
   {
@@ -853,10 +881,6 @@
   },
   {
     "text": "martin",
-    "size": 2
-  },
-  {
-    "text": "katholieke",
     "size": 2
   },
   {
@@ -964,39 +988,15 @@
     "size": 2
   },
   {
+    "text": "heymans",
+    "size": 2
+  },
+  {
     "text": "visuels",
     "size": 2
   },
   {
     "text": "kahosl",
-    "size": 2
-  },
-  {
-    "text": "léon-eli",
-    "size": 2
-  },
-  {
-    "text": "commerciales",
-    "size": 2
-  },
-  {
-    "text": "sociales",
-    "size": 2
-  },
-  {
-    "text": "l\u0027institut",
-    "size": 2
-  },
-  {
-    "text": "handelswetenschappen",
-    "size": 2
-  },
-  {
-    "text": "ipes",
-    "size": 2
-  },
-  {
-    "text": "auditoires",
     "size": 2
   }
 ]

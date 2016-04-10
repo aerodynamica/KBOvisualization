@@ -1,11 +1,11 @@
 [
   {
     "form": "Natuurlijk Persoon",
-    "count": 300
+    "count": 823
   },
   {
     "form": "Besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 140
+    "count": 528
   },
   {
     "form": "Besloten vennootschap met beperkte aansprakelijkheid met een sociaal oogmerk",
@@ -13,7 +13,7 @@
   },
   {
     "form": "BTW-eenheid",
-    "count": 1
+    "count": 4
   },
   {
     "form": "Buitenlandse onderneming",
@@ -21,7 +21,15 @@
   },
   {
     "form": "Burgerlijke vennootschap onder vorm van besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 2
+    "count": 4
+  },
+  {
+    "form": "Burgerlijke vennootschap onder vorm van coöperatieve vennootschap met onbeperkte aansprakelijkheid",
+    "count": 1
+  },
+  {
+    "form": "Burgerlijke vennootschap onder vorm van gewone commanditaire vennootschap",
+    "count": 1
   },
   {
     "form": "Coöperatieve vennootschap (oud statuut)",
@@ -29,34 +37,38 @@
   },
   {
     "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid",
-    "count": 6
+    "count": 25
   },
   {
     "form": "Coöperatieve vennootschap met onbeperkte aansprakelijkheid",
-    "count": 1
+    "count": 3
   },
   {
     "form": "Eenpersoons besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 11
-  },
-  {
-    "form": "Gewone commanditaire vennootschap",
-    "count": 15
-  },
-  {
-    "form": "Naamloze vennootschap",
-    "count": 27
-  },
-  {
-    "form": "Vennootschap of vereniging zonder rechtspersoonlijkheid",
-    "count": 4
-  },
-  {
-    "form": "Vennootschap onder firma",
     "count": 24
   },
   {
+    "form": "Gewone commanditaire vennootschap",
+    "count": 51
+  },
+  {
+    "form": "Naamloze vennootschap",
+    "count": 85
+  },
+  {
+    "form": "Stad / gemeente",
+    "count": 4
+  },
+  {
+    "form": "Vennootschap of vereniging zonder rechtspersoonlijkheid",
+    "count": 12
+  },
+  {
+    "form": "Vennootschap onder firma",
+    "count": 75
+  },
+  {
     "form": "Vereniging zonder winstoogmerk",
-    "count": 20
+    "count": 73
   }
 ]

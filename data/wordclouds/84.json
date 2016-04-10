@@ -1,15 +1,15 @@
 [
   {
     "text": "police",
-    "size": 310
+    "size": 312
   },
   {
     "text": "service",
-    "size": 293
+    "size": 294
   },
   {
     "text": "ocmw",
-    "size": 262
+    "size": 265
   },
   {
     "text": "kantoor",
@@ -17,7 +17,7 @@
   },
   {
     "text": "dienst",
-    "size": 226
+    "size": 230
   },
   {
     "text": "justice",
@@ -29,6 +29,10 @@
   },
   {
     "text": "financiën",
+    "size": 168
+  },
+  {
+    "text": "centre",
     "size": 167
   },
   {
@@ -36,24 +40,24 @@
     "size": 164
   },
   {
-    "text": "centre",
-    "size": 162
-  },
-  {
     "text": "paix",
     "size": 160
   },
   {
     "text": "poste",
-    "size": 158
+    "size": 160
+  },
+  {
+    "text": "bureau",
+    "size": 155
   },
   {
     "text": "vredegerecht",
     "size": 154
   },
   {
-    "text": "bureau",
-    "size": 154
+    "text": "communale",
+    "size": 152
   },
   {
     "text": "federale",
@@ -61,35 +65,31 @@
   },
   {
     "text": "cpas",
-    "size": 147
-  },
-  {
-    "text": "communale",
-    "size": 142
+    "size": 148
   },
   {
     "text": "maison",
-    "size": 139
+    "size": 140
   },
   {
     "text": "fédérale",
     "size": 136
   },
   {
-    "text": "spf",
-    "size": 135
-  },
-  {
     "text": "gemeentehuis",
     "size": 132
   },
   {
-    "text": "cm",
-    "size": 130
+    "text": "spf",
+    "size": 132
   },
   {
     "text": "sociale",
-    "size": 128
+    "size": 131
+  },
+  {
+    "text": "cm",
+    "size": 130
   },
   {
     "text": "finances",
@@ -105,27 +105,27 @@
   },
   {
     "text": "site",
-    "size": 111
+    "size": 112
   },
   {
     "text": "centrum",
-    "size": 100
+    "size": 103
   },
   {
     "text": "antwerpen",
-    "size": 100
+    "size": 102
   },
   {
     "text": "antenne",
-    "size": 98
+    "size": 101
   },
   {
     "text": "zone",
-    "size": 92
+    "size": 93
   },
   {
     "text": "politiezone",
-    "size": 89
+    "size": 90
   },
   {
     "text": "local",
@@ -136,56 +136,60 @@
     "size": 84
   },
   {
-    "text": "mons",
+    "text": "services",
     "size": 79
   },
   {
-    "text": "namur",
+    "text": "charleroi",
+    "size": 79
+  },
+  {
+    "text": "mons",
     "size": 78
   },
   {
-    "text": "charleroi",
+    "text": "namur",
     "size": 77
   },
   {
-    "text": "services",
-    "size": 76
-  },
-  {
-    "text": "liège",
-    "size": 76
-  },
-  {
     "text": "libre",
-    "size": 76
+    "size": 77
   },
   {
     "text": "post",
     "size": 75
   },
   {
+    "text": "liège",
+    "size": 75
+  },
+  {
+    "text": "hoofdzetel",
+    "size": 73
+  },
+  {
     "text": "commissariat",
-    "size": 71
+    "size": 72
   },
   {
     "text": "partena-mutualité",
     "size": 70
   },
   {
-    "text": "bruxelles",
-    "size": 67
+    "text": "zetel",
+    "size": 66
   },
   {
     "text": "district",
     "size": 66
   },
   {
-    "text": "zetel",
+    "text": "bruxelles",
     "size": 65
   },
   {
     "text": "proximité",
-    "size": 63
+    "size": 64
   },
   {
     "text": "dgo3",
@@ -200,6 +204,10 @@
     "size": 61
   },
   {
+    "text": "technische",
+    "size": 60
+  },
+  {
     "text": "brussel",
     "size": 59
   },
@@ -208,15 +216,11 @@
     "size": 58
   },
   {
-    "text": "technische",
-    "size": 58
-  },
-  {
     "text": "brandweerpost",
     "size": 57
   },
   {
-    "text": "gent",
+    "text": "provinciale",
     "size": 55
   },
   {
@@ -224,11 +228,15 @@
     "size": 54
   },
   {
-    "text": "afdeling",
+    "text": "gent",
+    "size": 54
+  },
+  {
+    "text": "agentschap",
     "size": 52
   },
   {
-    "text": "provinciale",
+    "text": "afdeling",
     "size": 52
   },
   {
@@ -248,28 +256,24 @@
     "size": 49
   },
   {
-    "text": "brugge",
-    "size": 46
+    "text": "administratief",
+    "size": 48
   },
   {
-    "text": "administratief",
-    "size": 46
+    "text": "kw",
+    "size": 47
+  },
+  {
+    "text": "brugge",
+    "size": 44
   },
   {
     "text": "diensten",
-    "size": 45
+    "size": 44
   },
   {
     "text": "dépôt",
     "size": 44
-  },
-  {
-    "text": "hasselt",
-    "size": 44
-  },
-  {
-    "text": "agentschap",
-    "size": 43
   },
   {
     "text": "dgo2",
@@ -284,7 +288,15 @@
     "size": 43
   },
   {
+    "text": "administratie",
+    "size": 43
+  },
+  {
     "text": "turnhout",
+    "size": 43
+  },
+  {
+    "text": "hasselt",
     "size": 43
   },
   {
@@ -296,7 +308,7 @@
     "size": 42
   },
   {
-    "text": "administratie",
+    "text": "gemeentelijke",
     "size": 42
   },
   {
@@ -304,11 +316,15 @@
     "size": 41
   },
   {
+    "text": "ecole",
+    "size": 41
+  },
+  {
     "text": "cellule",
     "size": 40
   },
   {
-    "text": "gemeentelijke",
+    "text": "division",
     "size": 40
   },
   {
@@ -324,19 +340,11 @@
     "size": 39
   },
   {
+    "text": "huis",
+    "size": 39
+  },
+  {
     "text": "mutualité",
-    "size": 39
-  },
-  {
-    "text": "division",
-    "size": 39
-  },
-  {
-    "text": "dienstencentrum",
-    "size": 39
-  },
-  {
-    "text": "hainaut",
     "size": 39
   },
   {
@@ -352,11 +360,23 @@
     "size": 38
   },
   {
+    "text": "dienstencentrum",
+    "size": 38
+  },
+  {
     "text": "verviers",
     "size": 38
   },
   {
+    "text": "hainaut",
+    "size": 38
+  },
+  {
     "text": "quartier",
+    "size": 38
+  },
+  {
+    "text": "ii",
     "size": 37
   },
   {
@@ -376,15 +396,7 @@
     "size": 36
   },
   {
-    "text": "ii",
-    "size": 35
-  },
-  {
     "text": "wallonie",
-    "size": 35
-  },
-  {
-    "text": "hoofdzetel",
     "size": 35
   },
   {
@@ -397,10 +409,6 @@
   },
   {
     "text": "abvv",
-    "size": 34
-  },
-  {
-    "text": "leuven",
     "size": 34
   },
   {
@@ -428,10 +436,6 @@
     "size": 33
   },
   {
-    "text": "fonds",
-    "size": 33
-  },
-  {
     "text": "cabinet",
     "size": 32
   },
@@ -444,11 +448,19 @@
     "size": 32
   },
   {
+    "text": "vlaanderen",
+    "size": 32
+  },
+  {
+    "text": "leuven",
+    "size": 32
+  },
+  {
     "text": "eupen",
     "size": 32
   },
   {
-    "text": "huis",
+    "text": "section",
     "size": 31
   },
   {
@@ -464,11 +476,15 @@
     "size": 31
   },
   {
-    "text": "section",
-    "size": 30
+    "text": "fonds",
+    "size": 31
   },
   {
     "text": "groendienst",
+    "size": 30
+  },
+  {
+    "text": "bâtiment",
     "size": 30
   },
   {
@@ -476,19 +492,23 @@
     "size": 30
   },
   {
+    "text": "departement",
+    "size": 30
+  },
+  {
     "text": "ville",
     "size": 30
   },
   {
-    "text": "wallon",
+    "text": "loods",
     "size": 29
   },
   {
-    "text": "bâtiment",
+    "text": "provinciaal",
     "size": 29
   },
   {
-    "text": "vlaanderen",
+    "text": "complexe",
     "size": 29
   },
   {
@@ -496,15 +516,11 @@
     "size": 29
   },
   {
-    "text": "loods",
+    "text": "wallon",
     "size": 28
   },
   {
     "text": "dinant",
-    "size": 28
-  },
-  {
-    "text": "provinciaal",
     "size": 28
   },
   {
@@ -520,19 +536,11 @@
     "size": 27
   },
   {
-    "text": "santé",
-    "size": 27
-  },
-  {
     "text": "espace",
     "size": 27
   },
   {
     "text": "hypotheekbewaring",
-    "size": 27
-  },
-  {
-    "text": "technique",
     "size": 27
   },
   {
@@ -544,6 +552,22 @@
     "size": 27
   },
   {
+    "text": "vlaamse",
+    "size": 26
+  },
+  {
+    "text": "santé",
+    "size": 26
+  },
+  {
+    "text": "technique",
+    "size": 26
+  },
+  {
+    "text": "algemene",
+    "size": 26
+  },
+  {
     "text": "limburg",
     "size": 26
   },
@@ -552,7 +576,7 @@
     "size": 26
   },
   {
-    "text": "landsverdediging",
+    "text": "atelier",
     "size": 25
   },
   {
@@ -561,10 +585,6 @@
   },
   {
     "text": "secretariaat",
-    "size": 25
-  },
-  {
-    "text": "algemene",
     "size": 25
   },
   {
@@ -592,7 +612,7 @@
     "size": 24
   },
   {
-    "text": "atelier",
+    "text": "autonoom",
     "size": 24
   },
   {
@@ -609,10 +629,6 @@
   },
   {
     "text": "secteur",
-    "size": 23
-  },
-  {
-    "text": "autonoom",
     "size": 23
   },
   {
@@ -640,7 +656,19 @@
     "size": 23
   },
   {
-    "text": "ecole",
+    "text": "dendermonde",
+    "size": 23
+  },
+  {
+    "text": "sport",
+    "size": 23
+  },
+  {
+    "text": "jeugd",
+    "size": 23
+  },
+  {
+    "text": "containerpark",
     "size": 23
   },
   {
@@ -652,27 +680,7 @@
     "size": 23
   },
   {
-    "text": "vlaamse",
-    "size": 22
-  },
-  {
-    "text": "st",
-    "size": 22
-  },
-  {
-    "text": "dendermonde",
-    "size": 22
-  },
-  {
-    "text": "sport",
-    "size": 22
-  },
-  {
     "text": "wijkdienst",
-    "size": 22
-  },
-  {
-    "text": "containerpark",
     "size": 22
   },
   {
@@ -692,11 +700,11 @@
     "size": 21
   },
   {
-    "text": "complexe",
+    "text": "st",
     "size": 21
   },
   {
-    "text": "jeugd",
+    "text": "vlaams",
     "size": 21
   },
   {
@@ -720,14 +728,6 @@
     "size": 20
   },
   {
-    "text": "arlon",
-    "size": 20
-  },
-  {
-    "text": "vlaams",
-    "size": 20
-  },
-  {
     "text": "judiciaire",
     "size": 20
   },
@@ -737,6 +737,10 @@
   },
   {
     "text": "conservation",
+    "size": 20
+  },
+  {
+    "text": "gemeente",
     "size": 20
   },
   {
@@ -757,6 +761,10 @@
   },
   {
     "text": "d\u0027action",
+    "size": 19
+  },
+  {
+    "text": "preventie",
     "size": 19
   },
   {
@@ -792,6 +800,10 @@
     "size": 19
   },
   {
+    "text": "arlon",
+    "size": 19
+  },
+  {
     "text": "toezicht",
     "size": 19
   },
@@ -804,11 +816,19 @@
     "size": 19
   },
   {
+    "text": "parc",
+    "size": 19
+  },
+  {
     "text": "oost",
     "size": 19
   },
   {
-    "text": "preventie",
+    "text": "archives",
+    "size": 19
+  },
+  {
+    "text": "hall",
     "size": 18
   },
   {
@@ -816,11 +836,11 @@
     "size": 18
   },
   {
-    "text": "luik",
+    "text": "caserne",
     "size": 18
   },
   {
-    "text": "parc",
+    "text": "luik",
     "size": 18
   },
   {
@@ -828,11 +848,7 @@
     "size": 18
   },
   {
-    "text": "archives",
-    "size": 18
-  },
-  {
-    "text": "gemeente",
+    "text": "onderwijs",
     "size": 18
   },
   {
@@ -844,12 +860,12 @@
     "size": 18
   },
   {
-    "text": "west-vlaanderen",
+    "text": "tongeren",
     "size": 18
   },
   {
-    "text": "hall",
-    "size": 17
+    "text": "west-vlaanderen",
+    "size": 18
   },
   {
     "text": "com",
@@ -869,6 +885,10 @@
   },
   {
     "text": "gouverneur",
+    "size": 17
+  },
+  {
+    "text": "veiligheid",
     "size": 17
   },
   {
@@ -900,27 +920,15 @@
     "size": 17
   },
   {
-    "text": "oostende",
-    "size": 17
-  },
-  {
-    "text": "tongeren",
-    "size": 17
-  },
-  {
     "text": "comité",
     "size": 17
   },
   {
-    "text": "ieper",
-    "size": 17
-  },
-  {
-    "text": "défense",
-    "size": 17
-  },
-  {
     "text": "stadhuis",
+    "size": 16
+  },
+  {
+    "text": "den",
     "size": 16
   },
   {
@@ -929,10 +937,6 @@
   },
   {
     "text": "wvg",
-    "size": 16
-  },
-  {
-    "text": "veiligheid",
     "size": 16
   },
   {
@@ -956,6 +960,10 @@
     "size": 16
   },
   {
+    "text": "oostende",
+    "size": 16
+  },
+  {
     "text": "garage",
     "size": 16
   },
@@ -968,35 +976,27 @@
     "size": 16
   },
   {
-    "text": "publique",
-    "size": 16
-  },
-  {
-    "text": "marche-en-famenne",
-    "size": 16
-  },
-  {
     "text": "zuid",
     "size": 16
   },
   {
-    "text": "buurthuis",
+    "text": "ieper",
+    "size": 16
+  },
+  {
+    "text": "gemeentebedrijf",
     "size": 15
   },
   {
-    "text": "salle",
+    "text": "1er",
     "size": 15
   },
   {
-    "text": "regional",
+    "text": "recherche",
     "size": 15
   },
   {
-    "text": "unité",
-    "size": 15
-  },
-  {
-    "text": "namen",
+    "text": "economie",
     "size": 15
   }
 ]

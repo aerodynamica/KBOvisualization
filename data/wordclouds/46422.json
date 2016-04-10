@@ -1,66 +1,98 @@
 [
   {
     "text": "fashion",
-    "size": 33
-  },
-  {
-    "text": "belgium",
-    "size": 22
+    "size": 36
   },
   {
     "text": "inno",
-    "size": 21
+    "size": 26
   },
   {
-    "text": "bvba",
-    "size": 16
+    "text": "belgium",
+    "size": 26
   },
   {
     "text": "trading",
-    "size": 16
+    "size": 25
+  },
+  {
+    "text": "bvba",
+    "size": 24
   },
   {
     "text": "international",
-    "size": 15
+    "size": 19
   },
   {
     "text": "the",
-    "size": 12
+    "size": 17
+  },
+  {
+    "text": "consulting",
+    "size": 16
+  },
+  {
+    "text": "gant",
+    "size": 16
+  },
+  {
+    "text": "group",
+    "size": 13
   },
   {
     "text": "concept",
     "size": 12
   },
   {
-    "text": "consulting",
-    "size": 11
-  },
-  {
-    "text": "trade",
-    "size": 11
-  },
-  {
     "text": "company",
-    "size": 10
-  },
-  {
-    "text": "lingerie",
-    "size": 9
+    "size": 12
   },
   {
     "text": "solutions",
-    "size": 9
+    "size": 12
+  },
+  {
+    "text": "lingerie",
+    "size": 10
+  },
+  {
+    "text": "trade",
+    "size": 10
+  },
+  {
+    "text": "by",
+    "size": 10
   },
   {
     "text": "co",
-    "size": 9
+    "size": 10
+  },
+  {
+    "text": "benelux",
+    "size": 10
   },
   {
     "text": "sport",
-    "size": 7
+    "size": 9
   },
   {
     "text": "services",
+    "size": 9
+  },
+  {
+    "text": "store",
+    "size": 9
+  },
+  {
+    "text": "europe",
+    "size": 8
+  },
+  {
+    "text": "mode",
+    "size": 8
+  },
+  {
+    "text": "design",
     "size": 7
   },
   {
@@ -68,11 +100,11 @@
     "size": 7
   },
   {
-    "text": "city",
+    "text": "invest",
     "size": 7
   },
   {
-    "text": "by",
+    "text": "city",
     "size": 7
   },
   {
@@ -80,19 +112,15 @@
     "size": 7
   },
   {
-    "text": "benelux",
+    "text": "distribution",
     "size": 7
   },
   {
-    "text": "group",
+    "text": "mano",
     "size": 6
   },
   {
-    "text": "invest",
-    "size": 6
-  },
-  {
-    "text": "mode",
+    "text": "sprl",
     "size": 6
   },
   {
@@ -100,19 +128,7 @@
     "size": 6
   },
   {
-    "text": "store",
-    "size": 6
-  },
-  {
-    "text": "export",
-    "size": 5
-  },
-  {
-    "text": "lancel",
-    "size": 5
-  },
-  {
-    "text": "design",
+    "text": "blue",
     "size": 5
   },
   {
@@ -120,19 +136,39 @@
     "size": 5
   },
   {
+    "text": "avenue",
+    "size": 5
+  },
+  {
+    "text": "happy",
+    "size": 5
+  },
+  {
     "text": "maison",
     "size": 5
   },
   {
-    "text": "mano",
+    "text": "business",
     "size": 5
   },
   {
-    "text": "europe",
+    "text": "home",
     "size": 5
   },
   {
-    "text": "sprl",
+    "text": "diffusion",
+    "size": 5
+  },
+  {
+    "text": "agency",
+    "size": 5
+  },
+  {
+    "text": "retail",
+    "size": 5
+  },
+  {
+    "text": "new",
     "size": 5
   },
   {
@@ -140,7 +176,19 @@
     "size": 5
   },
   {
+    "text": "outlet",
+    "size": 5
+  },
+  {
     "text": "food",
+    "size": 5
+  },
+  {
+    "text": "life",
+    "size": 5
+  },
+  {
+    "text": "brussel",
     "size": 5
   },
   {
@@ -148,7 +196,11 @@
     "size": 4
   },
   {
-    "text": "blue",
+    "text": "export",
+    "size": 4
+  },
+  {
+    "text": "room",
     "size": 4
   },
   {
@@ -156,19 +208,11 @@
     "size": 4
   },
   {
-    "text": "happy",
+    "text": "events",
     "size": 4
   },
   {
     "text": "consult",
-    "size": 4
-  },
-  {
-    "text": "business",
-    "size": 4
-  },
-  {
-    "text": "diffusion",
     "size": 4
   },
   {
@@ -184,11 +228,19 @@
     "size": 4
   },
   {
+    "text": "art",
+    "size": 4
+  },
+  {
     "text": "tout",
     "size": 4
   },
   {
-    "text": "import",
+    "text": "huis",
+    "size": 4
+  },
+  {
+    "text": "care",
     "size": 4
   },
   {
@@ -196,11 +248,23 @@
     "size": 4
   },
   {
-    "text": "outlet",
+    "text": "be",
     "size": 4
   },
   {
-    "text": "distribution",
+    "text": "deco",
+    "size": 4
+  },
+  {
+    "text": "little",
+    "size": 4
+  },
+  {
+    "text": "pure",
+    "size": 4
+  },
+  {
+    "text": "cool",
     "size": 4
   },
   {
@@ -212,7 +276,7 @@
     "size": 3
   },
   {
-    "text": "room",
+    "text": "boetiek",
     "size": 3
   },
   {
@@ -224,7 +288,7 @@
     "size": 3
   },
   {
-    "text": "events",
+    "text": "bijoux",
     "size": 3
   },
   {
@@ -240,11 +304,19 @@
     "size": 3
   },
   {
-    "text": "elite",
+    "text": "wholesale",
     "size": 3
   },
   {
     "text": "lou",
+    "size": 3
+  },
+  {
+    "text": "point",
+    "size": 3
+  },
+  {
+    "text": "ltd",
     "size": 3
   },
   {
@@ -264,7 +336,15 @@
     "size": 3
   },
   {
+    "text": "products",
+    "size": 3
+  },
+  {
     "text": "caroline",
+    "size": 3
+  },
+  {
+    "text": "ville",
     "size": 3
   },
   {
@@ -276,23 +356,23 @@
     "size": 3
   },
   {
+    "text": "zen",
+    "size": 3
+  },
+  {
     "text": "love",
     "size": 3
   },
   {
-    "text": "agency",
+    "text": "belgië",
     "size": 3
   },
   {
-    "text": "retail",
+    "text": "royal",
     "size": 3
   },
   {
     "text": "robsom",
-    "size": 3
-  },
-  {
-    "text": "new",
     "size": 3
   },
   {
@@ -308,7 +388,19 @@
     "size": 3
   },
   {
+    "text": "import",
+    "size": 3
+  },
+  {
     "text": "street",
+    "size": 3
+  },
+  {
+    "text": "green",
+    "size": 3
+  },
+  {
+    "text": "bourgeoises",
     "size": 3
   },
   {
@@ -324,23 +416,19 @@
     "size": 3
   },
   {
-    "text": "gant",
-    "size": 3
-  },
-  {
     "text": "entreprise",
     "size": 3
   },
   {
-    "text": "be",
+    "text": "mibri",
     "size": 3
   },
   {
-    "text": "deco",
+    "text": "it",
     "size": 3
   },
   {
-    "text": "little",
+    "text": "world",
     "size": 3
   },
   {
@@ -348,7 +436,15 @@
     "size": 3
   },
   {
+    "text": "no",
+    "size": 3
+  },
+  {
     "text": "code",
+    "size": 3
+  },
+  {
+    "text": "charleroi",
     "size": 3
   },
   {
@@ -360,11 +456,19 @@
     "size": 3
   },
   {
+    "text": "textiel",
+    "size": 3
+  },
+  {
     "text": "brand",
     "size": 3
   },
   {
-    "text": "life",
+    "text": "belle",
+    "size": 3
+  },
+  {
+    "text": "euro",
     "size": 3
   },
   {
@@ -372,11 +476,11 @@
     "size": 3
   },
   {
-    "text": "cool",
+    "text": "line",
     "size": 3
   },
   {
-    "text": "line",
+    "text": "car",
     "size": 3
   },
   {
@@ -385,6 +489,10 @@
   },
   {
     "text": "belles",
+    "size": 2
+  },
+  {
+    "text": "energy",
     "size": 2
   },
   {
@@ -400,11 +508,19 @@
     "size": 2
   },
   {
-    "text": "boetiek",
+    "text": "societe",
     "size": 2
   },
   {
-    "text": "societe",
+    "text": "lady",
+    "size": 2
+  },
+  {
+    "text": "gsm",
+    "size": 2
+  },
+  {
+    "text": "anvers",
     "size": 2
   },
   {
@@ -416,7 +532,7 @@
     "size": 2
   },
   {
-    "text": "provocateur",
+    "text": "industries",
     "size": 2
   },
   {
@@ -428,11 +544,19 @@
     "size": 2
   },
   {
-    "text": "woluwe",
+    "text": "cri",
+    "size": 2
+  },
+  {
+    "text": "avenne",
     "size": 2
   },
   {
     "text": "productions",
+    "size": 2
+  },
+  {
+    "text": "sourcing",
     "size": 2
   },
   {
@@ -444,10 +568,6 @@
     "size": 2
   },
   {
-    "text": "bijoux",
-    "size": 2
-  },
-  {
     "text": "d\u0027oro",
     "size": 2
   },
@@ -456,11 +576,31 @@
     "size": 2
   },
   {
+    "text": "marketing",
+    "size": 2
+  },
+  {
     "text": "antwerp",
     "size": 2
   },
   {
+    "text": "geoffrey",
+    "size": 2
+  },
+  {
     "text": "pepe",
+    "size": 2
+  },
+  {
+    "text": "tech",
+    "size": 2
+  },
+  {
+    "text": "tine",
+    "size": 2
+  },
+  {
+    "text": "studio",
     "size": 2
   },
   {
@@ -472,7 +612,7 @@
     "size": 2
   },
   {
-    "text": "wholesale",
+    "text": "elite",
     "size": 2
   },
   {
@@ -480,19 +620,31 @@
     "size": 2
   },
   {
+    "text": "holdings",
+    "size": 2
+  },
+  {
+    "text": "choice",
+    "size": 2
+  },
+  {
     "text": "bijou",
     "size": 2
   },
   {
-    "text": "ltd",
+    "text": "clean",
+    "size": 2
+  },
+  {
+    "text": "denim",
+    "size": 2
+  },
+  {
+    "text": "investments",
     "size": 2
   },
   {
     "text": "interior",
-    "size": 2
-  },
-  {
-    "text": "dbapparel",
     "size": 2
   },
   {
@@ -508,19 +660,19 @@
     "size": 2
   },
   {
-    "text": "import-export",
-    "size": 2
-  },
-  {
     "text": "alpha",
     "size": 2
   },
   {
-    "text": "home",
+    "text": "tommy",
     "size": 2
   },
   {
     "text": "jessy",
+    "size": 2
+  },
+  {
+    "text": "brothers",
     "size": 2
   },
   {
@@ -536,7 +688,15 @@
     "size": 2
   },
   {
+    "text": "don",
+    "size": 2
+  },
+  {
     "text": "mac",
+    "size": 2
+  },
+  {
+    "text": "louise",
     "size": 2
   },
   {
@@ -544,15 +704,15 @@
     "size": 2
   },
   {
-    "text": "ellen",
-    "size": 2
-  },
-  {
-    "text": "ville",
-    "size": 2
-  },
-  {
     "text": "outdoor",
+    "size": 2
+  },
+  {
+    "text": "winkel",
+    "size": 2
+  },
+  {
+    "text": "12",
     "size": 2
   },
   {
@@ -560,15 +720,43 @@
     "size": 2
   },
   {
+    "text": "safari",
+    "size": 2
+  },
+  {
     "text": "2b",
     "size": 2
   },
   {
-    "text": "agent",
+    "text": "belgique",
     "size": 2
   },
   {
-    "text": "zen",
+    "text": "atelier",
+    "size": 2
+  },
+  {
+    "text": "hilfiger",
+    "size": 2
+  },
+  {
+    "text": "safety",
+    "size": 2
+  },
+  {
+    "text": "ihg",
+    "size": 2
+  },
+  {
+    "text": "schoten",
+    "size": 2
+  },
+  {
+    "text": "textiles",
+    "size": 2
+  },
+  {
+    "text": "msn",
     "size": 2
   },
   {
@@ -577,10 +765,6 @@
   },
   {
     "text": "bizou",
-    "size": 2
-  },
-  {
-    "text": "belgië",
     "size": 2
   },
   {
@@ -600,11 +784,19 @@
     "size": 2
   },
   {
+    "text": "wavre",
+    "size": 2
+  },
+  {
     "text": "united",
     "size": 2
   },
   {
-    "text": "royal",
+    "text": "wilrijk",
+    "size": 2
+  },
+  {
+    "text": "vanden",
     "size": 2
   },
   {
@@ -612,7 +804,15 @@
     "size": 2
   },
   {
-    "text": "super",
+    "text": "retouche",
+    "size": 2
+  },
+  {
+    "text": "transport",
+    "size": 2
+  },
+  {
+    "text": "europoint",
     "size": 2
   },
   {
@@ -620,7 +820,19 @@
     "size": 2
   },
   {
-    "text": "art",
+    "text": "café",
+    "size": 2
+  },
+  {
+    "text": "grace",
+    "size": 2
+  },
+  {
+    "text": "rue",
+    "size": 2
+  },
+  {
+    "text": "furniture",
     "size": 2
   },
   {
@@ -636,7 +848,7 @@
     "size": 2
   },
   {
-    "text": "huis",
+    "text": "rita",
     "size": 2
   },
   {
@@ -648,11 +860,19 @@
     "size": 2
   },
   {
+    "text": "sensation",
+    "size": 2
+  },
+  {
+    "text": "fleur",
+    "size": 2
+  },
+  {
     "text": "casa",
     "size": 2
   },
   {
-    "text": "bourgeoises",
+    "text": "gent",
     "size": 2
   },
   {
@@ -668,6 +888,10 @@
     "size": 2
   },
   {
+    "text": "julie",
+    "size": 2
+  },
+  {
     "text": "boum",
     "size": 2
   },
@@ -676,11 +900,11 @@
     "size": 2
   },
   {
-    "text": "petits",
+    "text": "jos",
     "size": 2
   },
   {
-    "text": "jos",
+    "text": "joy",
     "size": 2
   },
   {
@@ -697,6 +921,18 @@
   },
   {
     "text": "am",
+    "size": 2
+  },
+  {
+    "text": "icon",
+    "size": 2
+  },
+  {
+    "text": "cv",
+    "size": 2
+  },
+  {
+    "text": "centrale",
     "size": 2
   },
   {
@@ -720,15 +956,15 @@
     "size": 2
   },
   {
+    "text": "d\u0027argez",
+    "size": 2
+  },
+  {
     "text": "works",
     "size": 2
   },
   {
     "text": "js",
-    "size": 2
-  },
-  {
-    "text": "world",
     "size": 2
   },
   {
@@ -752,15 +988,7 @@
     "size": 2
   },
   {
-    "text": "charleroi",
-    "size": 2
-  },
-  {
     "text": "pretty",
-    "size": 2
-  },
-  {
-    "text": "textiel",
     "size": 2
   },
   {
@@ -770,233 +998,5 @@
   {
     "text": "concepts",
     "size": 2
-  },
-  {
-    "text": "so",
-    "size": 2
-  },
-  {
-    "text": "amie",
-    "size": 2
-  },
-  {
-    "text": "one",
-    "size": 2
-  },
-  {
-    "text": "to",
-    "size": 2
-  },
-  {
-    "text": "euro",
-    "size": 2
-  },
-  {
-    "text": "gab",
-    "size": 2
-  },
-  {
-    "text": "pure",
-    "size": 2
-  },
-  {
-    "text": "xl",
-    "size": 2
-  },
-  {
-    "text": "nails",
-    "size": 2
-  },
-  {
-    "text": "kapsalon",
-    "size": 2
-  },
-  {
-    "text": "brain",
-    "size": 2
-  },
-  {
-    "text": "elegance",
-    "size": 2
-  },
-  {
-    "text": "coquines",
-    "size": 2
-  },
-  {
-    "text": "dress",
-    "size": 2
-  },
-  {
-    "text": "hair",
-    "size": 2
-  },
-  {
-    "text": "car",
-    "size": 2
-  },
-  {
-    "text": "limited",
-    "size": 2
-  },
-  {
-    "text": "noovigo",
-    "size": 1
-  },
-  {
-    "text": "fcvd",
-    "size": 1
-  },
-  {
-    "text": "a-fashion",
-    "size": 1
-  },
-  {
-    "text": "schauvliege",
-    "size": 1
-  },
-  {
-    "text": "cck",
-    "size": 1
-  },
-  {
-    "text": "insieme",
-    "size": 1
-  },
-  {
-    "text": "vvsnv",
-    "size": 1
-  },
-  {
-    "text": "etterbeek",
-    "size": 1
-  },
-  {
-    "text": "cct",
-    "size": 1
-  },
-  {
-    "text": "victor",
-    "size": 1
-  },
-  {
-    "text": "schoenen",
-    "size": 1
-  },
-  {
-    "text": "cheia",
-    "size": 1
-  },
-  {
-    "text": "sister",
-    "size": 1
-  },
-  {
-    "text": "energy",
-    "size": 1
-  },
-  {
-    "text": "paulette",
-    "size": 1
-  },
-  {
-    "text": "tasniem",
-    "size": 1
-  },
-  {
-    "text": "promoco",
-    "size": 1
-  },
-  {
-    "text": "ultime",
-    "size": 1
-  },
-  {
-    "text": "adriaan",
-    "size": 1
-  },
-  {
-    "text": "woluwé",
-    "size": 1
-  },
-  {
-    "text": "cds",
-    "size": 1
-  },
-  {
-    "text": "triple",
-    "size": 1
-  },
-  {
-    "text": "cavalicious",
-    "size": 1
-  },
-  {
-    "text": "laveaux",
-    "size": 1
-  },
-  {
-    "text": "redôr",
-    "size": 1
-  },
-  {
-    "text": "laudi",
-    "size": 1
-  },
-  {
-    "text": "autohandel",
-    "size": 1
-  },
-  {
-    "text": "griffe",
-    "size": 1
-  },
-  {
-    "text": "imex.links",
-    "size": 1
-  },
-  {
-    "text": "jo-belle",
-    "size": 1
-  },
-  {
-    "text": "fringeuses",
-    "size": 1
-  },
-  {
-    "text": "genval",
-    "size": 1
-  },
-  {
-    "text": "tricomart",
-    "size": 1
-  },
-  {
-    "text": "john\u0027s",
-    "size": 1
-  },
-  {
-    "text": "bucephaluslaer",
-    "size": 1
-  },
-  {
-    "text": "jordens",
-    "size": 1
-  },
-  {
-    "text": "aminno",
-    "size": 1
-  },
-  {
-    "text": "jegotex",
-    "size": 1
-  },
-  {
-    "text": "sanderine",
-    "size": 1
-  },
-  {
-    "text": "union",
-    "size": 1
   }
 ]

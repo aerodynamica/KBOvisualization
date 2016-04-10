@@ -1,7 +1,7 @@
 [
   {
     "form": "Natuurlijk Persoon",
-    "count": 38
+    "count": 102
   },
   {
     "form": "Andere privaatrechtelijke vorm met rechtspersoonlijkheid",
@@ -9,23 +9,27 @@
   },
   {
     "form": "Andere rechtsvorm",
-    "count": 2
+    "count": 3
+  },
+  {
+    "form": "Autonoom gemeentebedrijf",
+    "count": 1
   },
   {
     "form": "Beroepsvereniging",
-    "count": 1
+    "count": 2
   },
   {
     "form": "Besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 40
+    "count": 88
   },
   {
     "form": "BTW-eenheid",
-    "count": 1
+    "count": 2
   },
   {
     "form": "Buitenlandse onderneming",
-    "count": 92
+    "count": 90
   },
   {
     "form": "Buitenlandse onderneming met onroerend goed in België (met rechtspersoonlijkheid)",
@@ -41,7 +45,7 @@
   },
   {
     "form": "Burgerlijke vennootschap onder vorm van besloten vennootschap met beperkte aansprakelijkheid",
-    "count": 2
+    "count": 4
   },
   {
     "form": "Burgerlijke vennootschap onder vorm van coöperatieve vennootschap met beperkte aansprakelijkheid",
@@ -53,7 +57,7 @@
   },
   {
     "form": "Coöperatieve vennootschap (oud statuut)",
-    "count": 1
+    "count": 2
   },
   {
     "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid",
@@ -61,7 +65,7 @@
   },
   {
     "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid met een sociaal oogmerk",
-    "count": 9
+    "count": 13
   },
   {
     "form": "Coöperatieve vennootschap met beperkte aansprakelijkheid van publiek recht",
@@ -77,11 +81,15 @@
   },
   {
     "form": "Economisch samenwerkingsverband",
-    "count": 4
+    "count": 5
+  },
+  {
+    "form": "Eenpersoons besloten vennootschap met beperkte aansprakelijkheid",
+    "count": 7
   },
   {
     "form": "Europees economisch samenwerkingsverband",
-    "count": 4
+    "count": 5
   },
   {
     "form": "Europees economisch samenwerkingsverband zonder zetel met vestiging in België (EESV)",
@@ -89,26 +97,30 @@
   },
   {
     "form": "Gewone commanditaire vennootschap",
-    "count": 4
+    "count": 11
   },
   {
     "form": "Instelling van openbaar nut",
-    "count": 21
+    "count": 20
   },
   {
     "form": "Internationale vereniging zonder winstoogmerk",
-    "count": 273
+    "count": 283
   },
   {
     "form": "Internationale wetenschappelijke organisatie van Belgisch recht",
-    "count": 39
+    "count": 37
   },
   {
     "form": "Naamloze vennootschap",
-    "count": 5
+    "count": 12
   },
   {
     "form": "Naamloze vennootschap met een sociaal oogmerk",
+    "count": 1
+  },
+  {
+    "form": "Onderlinge verzekeringsvereniging / Gemeenschappelijke verzekeringskas van privaat recht",
     "count": 1
   },
   {
@@ -117,7 +129,7 @@
   },
   {
     "form": "Openbare instelling",
-    "count": 1757
+    "count": 1748
   },
   {
     "form": "Organismen ingeschreven voorde R.V.P.",
@@ -125,7 +137,7 @@
   },
   {
     "form": "Private stichting",
-    "count": 43
+    "count": 44
   },
   {
     "form": "Projectvereniging",
@@ -133,15 +145,15 @@
   },
   {
     "form": "Stichting van openbaar nut",
-    "count": 38
+    "count": 39
   },
   {
     "form": "Vennootschap of vereniging zonder rechtspersoonlijkheid",
-    "count": 55
+    "count": 56
   },
   {
     "form": "Vennootschap onder firma",
-    "count": 4
+    "count": 7
   },
   {
     "form": "Vereniging van mede-eigenaars",
@@ -149,6 +161,6 @@
   },
   {
     "form": "Vereniging zonder winstoogmerk",
-    "count": 4142
+    "count": 4381
   }
 ]

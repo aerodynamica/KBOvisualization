@@ -1,7 +1,7 @@
 [
   {
     "text": "vzw",
-    "size": 228
+    "size": 229
   },
   {
     "text": "residence",
@@ -9,7 +9,7 @@
   },
   {
     "text": "résidence",
-    "size": 128
+    "size": 131
   },
   {
     "text": "maison",
@@ -17,15 +17,15 @@
   },
   {
     "text": "home",
-    "size": 116
+    "size": 117
   },
   {
     "text": "wzc",
-    "size": 114
+    "size": 115
   },
   {
     "text": "zorgcentrum",
-    "size": 101
+    "size": 103
   },
   {
     "text": "woon",
@@ -33,15 +33,15 @@
   },
   {
     "text": "centre",
-    "size": 92
+    "size": 93
   },
   {
     "text": "ter",
-    "size": 86
+    "size": 90
   },
   {
     "text": "residentie",
-    "size": 76
+    "size": 78
   },
   {
     "text": "rusthuis",
@@ -49,7 +49,7 @@
   },
   {
     "text": "acis",
-    "size": 66
+    "size": 67
   },
   {
     "text": "repos",
@@ -60,12 +60,12 @@
     "size": 50
   },
   {
-    "text": "campus",
-    "size": 46
+    "text": "huize",
+    "size": 47
   },
   {
-    "text": "huize",
-    "size": 45
+    "text": "campus",
+    "size": 46
   },
   {
     "text": "foyer",
@@ -73,7 +73,7 @@
   },
   {
     "text": "asbl",
-    "size": 42
+    "size": 43
   },
   {
     "text": "institut",
@@ -81,15 +81,15 @@
   },
   {
     "text": "service",
-    "size": 38
+    "size": 39
   },
   {
     "text": "rustoord",
-    "size": 38
+    "size": 39
   },
   {
     "text": "soins",
-    "size": 36
+    "size": 38
   },
   {
     "text": "st",
@@ -116,11 +116,11 @@
     "size": 32
   },
   {
-    "text": "huis",
-    "size": 30
+    "text": "dagcentrum",
+    "size": 31
   },
   {
-    "text": "dagcentrum",
+    "text": "huis",
     "size": 30
   },
   {
@@ -141,7 +141,11 @@
   },
   {
     "text": "centrum",
-    "size": 24
+    "size": 26
+  },
+  {
+    "text": "afdeling",
+    "size": 25
   },
   {
     "text": "sint-jozef",
@@ -172,7 +176,11 @@
     "size": 19
   },
   {
-    "text": "afdeling",
+    "text": "ocmw",
+    "size": 19
+  },
+  {
+    "text": "maria",
     "size": 18
   },
   {
@@ -184,11 +192,11 @@
     "size": 17
   },
   {
-    "text": "maria",
-    "size": 17
+    "text": "nederlands",
+    "size": 16
   },
   {
-    "text": "nederlands",
+    "text": "dienstencentrum",
     "size": 16
   },
   {
@@ -204,6 +212,10 @@
     "size": 15
   },
   {
+    "text": "nv",
+    "size": 15
+  },
+  {
     "text": "saint",
     "size": 15
   },
@@ -212,11 +224,15 @@
     "size": 14
   },
   {
+    "text": "woon-en",
+    "size": 14
+  },
+  {
     "text": "seniorie",
     "size": 14
   },
   {
-    "text": "dienstencentrum",
+    "text": "vie",
     "size": 14
   },
   {
@@ -224,19 +240,11 @@
     "size": 14
   },
   {
-    "text": "nv",
-    "size": 14
-  },
-  {
-    "text": "ocmw",
-    "size": 14
-  },
-  {
     "text": "mrs",
     "size": 13
   },
   {
-    "text": "vie",
+    "text": "villa",
     "size": 13
   },
   {
@@ -244,7 +252,7 @@
     "size": 13
   },
   {
-    "text": "woon-en",
+    "text": "zorg",
     "size": 12
   },
   {
@@ -280,19 +288,11 @@
     "size": 12
   },
   {
-    "text": "zorg",
-    "size": 11
-  },
-  {
     "text": "infi",
     "size": 11
   },
   {
     "text": "heide",
-    "size": 11
-  },
-  {
-    "text": "jardin",
     "size": 11
   },
   {
@@ -304,6 +304,10 @@
     "size": 11
   },
   {
+    "text": "bvba",
+    "size": 11
+  },
+  {
     "text": "domicile",
     "size": 11
   },
@@ -312,12 +316,20 @@
     "size": 11
   },
   {
-    "text": "villa",
+    "text": "begeleidingscentrum",
     "size": 11
   },
   {
-    "text": "begeleidingscentrum",
+    "text": "care",
     "size": 11
+  },
+  {
+    "text": "personnes",
+    "size": 10
+  },
+  {
+    "text": "jardin",
+    "size": 10
   },
   {
     "text": "sociale",
@@ -332,11 +344,11 @@
     "size": 10
   },
   {
-    "text": "bvba",
+    "text": "instituut",
     "size": 10
   },
   {
-    "text": "instituut",
+    "text": "château",
     "size": 10
   },
   {
@@ -344,15 +356,15 @@
     "size": 10
   },
   {
-    "text": "personnes",
-    "size": 9
-  },
-  {
     "text": "anker",
     "size": 9
   },
   {
     "text": "d\u0027hébergement",
+    "size": 9
+  },
+  {
+    "text": "dvc",
     "size": 9
   },
   {
@@ -364,7 +376,15 @@
     "size": 9
   },
   {
+    "text": "hôme",
+    "size": 9
+  },
+  {
     "text": "jeunes",
+    "size": 9
+  },
+  {
+    "text": "isabelle",
     "size": 9
   },
   {
@@ -400,10 +420,6 @@
     "size": 9
   },
   {
-    "text": "château",
-    "size": 9
-  },
-  {
     "text": "retraite",
     "size": 8
   },
@@ -420,11 +436,11 @@
     "size": 8
   },
   {
-    "text": "providence",
+    "text": "invest",
     "size": 8
   },
   {
-    "text": "hôme",
+    "text": "providence",
     "size": 8
   },
   {
@@ -437,6 +453,10 @@
   },
   {
     "text": "antwerpen",
+    "size": 8
+  },
+  {
+    "text": "consulting",
     "size": 8
   },
   {
@@ -456,7 +476,7 @@
     "size": 8
   },
   {
-    "text": "care",
+    "text": "gent",
     "size": 8
   },
   {
@@ -465,6 +485,10 @@
   },
   {
     "text": "seigneurie",
+    "size": 8
+  },
+  {
+    "text": "jour",
     "size": 8
   },
   {
@@ -496,10 +520,6 @@
     "size": 7
   },
   {
-    "text": "ferme",
-    "size": 7
-  },
-  {
     "text": "infirmiers",
     "size": 7
   },
@@ -508,15 +528,15 @@
     "size": 7
   },
   {
-    "text": "isabelle",
-    "size": 7
-  },
-  {
     "text": "centrale",
     "size": 7
   },
   {
     "text": "saint-joseph",
+    "size": 7
+  },
+  {
+    "text": "belle",
     "size": 7
   },
   {
@@ -537,10 +557,6 @@
   },
   {
     "text": "dries",
-    "size": 7
-  },
-  {
-    "text": "consulting",
     "size": 7
   },
   {
@@ -580,10 +596,6 @@
     "size": 7
   },
   {
-    "text": "jour",
-    "size": 7
-  },
-  {
     "text": "l\u0027enfance",
     "size": 7
   },
@@ -600,11 +612,19 @@
     "size": 6
   },
   {
-    "text": "soeurs",
+    "text": "prince",
     "size": 6
   },
   {
-    "text": "invest",
+    "text": "nursing",
+    "size": 6
+  },
+  {
+    "text": "ferme",
+    "size": 6
+  },
+  {
+    "text": "soeurs",
     "size": 6
   },
   {
@@ -613,6 +633,10 @@
   },
   {
     "text": "kleine",
+    "size": 6
+  },
+  {
+    "text": "terre",
     "size": 6
   },
   {
@@ -629,10 +653,6 @@
   },
   {
     "text": "sf",
-    "size": 6
-  },
-  {
-    "text": "belle",
     "size": 6
   },
   {
@@ -668,6 +688,10 @@
     "size": 6
   },
   {
+    "text": "d\u0027or",
+    "size": 6
+  },
+  {
     "text": "nazareth",
     "size": 6
   },
@@ -676,11 +700,15 @@
     "size": 6
   },
   {
+    "text": "royal",
+    "size": 6
+  },
+  {
     "text": "unit",
     "size": 6
   },
   {
-    "text": "gent",
+    "text": "leven",
     "size": 6
   },
   {
@@ -728,6 +756,10 @@
     "size": 5
   },
   {
+    "text": "consult",
+    "size": 5
+  },
+  {
     "text": "w.z.c",
     "size": 5
   },
@@ -736,23 +768,11 @@
     "size": 5
   },
   {
-    "text": "prince",
-    "size": 5
-  },
-  {
     "text": "grand",
     "size": 5
   },
   {
-    "text": "nursing",
-    "size": 5
-  },
-  {
     "text": "infirmiere",
-    "size": 5
-  },
-  {
-    "text": "dvc",
     "size": 5
   },
   {
@@ -773,6 +793,10 @@
   },
   {
     "text": "stad",
+    "size": 5
+  },
+  {
+    "text": "open",
     "size": 5
   },
   {
@@ -797,10 +821,6 @@
   },
   {
     "text": "dc",
-    "size": 5
-  },
-  {
-    "text": "terre",
     "size": 5
   },
   {
@@ -852,11 +872,11 @@
     "size": 5
   },
   {
-    "text": "alice",
+    "text": "heureux",
     "size": 5
   },
   {
-    "text": "heureux",
+    "text": "chez",
     "size": 5
   },
   {
@@ -873,10 +893,6 @@
   },
   {
     "text": "d\u0027accompagnement",
-    "size": 5
-  },
-  {
-    "text": "d\u0027or",
     "size": 5
   },
   {
@@ -904,15 +920,15 @@
     "size": 5
   },
   {
-    "text": "royal",
-    "size": 5
-  },
-  {
     "text": "heures",
     "size": 5
   },
   {
     "text": "carine",
+    "size": 5
+  },
+  {
+    "text": "jan",
     "size": 5
   },
   {
@@ -936,7 +952,7 @@
     "size": 5
   },
   {
-    "text": "leven",
+    "text": "soi",
     "size": 5
   },
   {
@@ -981,22 +997,6 @@
   },
   {
     "text": "destelbergen",
-    "size": 4
-  },
-  {
-    "text": "jourdan",
-    "size": 4
-  },
-  {
-    "text": "bien",
-    "size": 4
-  },
-  {
-    "text": "consult",
-    "size": 4
-  },
-  {
-    "text": "sint-carolus",
     "size": 4
   }
 ]

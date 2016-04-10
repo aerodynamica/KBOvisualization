@@ -4,16 +4,16 @@
     "size": 285
   },
   {
+    "text": "hoofdzetel",
+    "size": 220
+  },
+  {
     "text": "atheneum",
     "size": 218
   },
   {
-    "text": "hoofdzetel",
-    "size": 218
-  },
-  {
     "text": "royal",
-    "size": 143
+    "size": 146
   },
   {
     "text": "athenee",
@@ -21,7 +21,7 @@
   },
   {
     "text": "vestigingsplaats",
-    "size": 125
+    "size": 126
   },
   {
     "text": "technisch",
@@ -33,7 +33,23 @@
   },
   {
     "text": "campus",
-    "size": 34
+    "size": 37
+  },
+  {
+    "text": "institut",
+    "size": 27
+  },
+  {
+    "text": "instituut",
+    "size": 16
+  },
+  {
+    "text": "vzw",
+    "size": 16
+  },
+  {
+    "text": "centre",
+    "size": 15
   },
   {
     "text": "communaute",
@@ -44,24 +60,40 @@
     "size": 13
   },
   {
-    "text": "institut",
+    "text": "koninklijk",
     "size": 11
+  },
+  {
+    "text": "centrum",
+    "size": 10
+  },
+  {
+    "text": "secondaire",
+    "size": 10
+  },
+  {
+    "text": "onderwijs",
+    "size": 10
   },
   {
     "text": "hasselt",
     "size": 10
   },
   {
-    "text": "instituut",
+    "text": "basisschool",
     "size": 9
   },
   {
-    "text": "koninklijk",
+    "text": "pedagogisch",
     "size": 9
   },
   {
-    "text": "secondaire",
+    "text": "medisch",
     "size": 9
+  },
+  {
+    "text": "ter",
+    "size": 8
   },
   {
     "text": "d\u0027enseignement",
@@ -72,11 +104,11 @@
     "size": 8
   },
   {
-    "text": "cefa",
-    "size": 7
+    "text": "mpi",
+    "size": 8
   },
   {
-    "text": "onderwijs",
+    "text": "cefa",
     "size": 7
   },
   {
@@ -84,27 +116,7 @@
     "size": 7
   },
   {
-    "text": "gemeenschapsonderwijs",
-    "size": 7
-  },
-  {
-    "text": "technique",
-    "size": 7
-  },
-  {
-    "text": "lyceum",
-    "size": 7
-  },
-  {
-    "text": "talentenschool",
-    "size": 7
-  },
-  {
     "text": "gent",
-    "size": 7
-  },
-  {
-    "text": "centre",
     "size": 7
   },
   {
@@ -116,15 +128,27 @@
     "size": 7
   },
   {
-    "text": "turnhout",
-    "size": 7
-  },
-  {
     "text": "oostende",
     "size": 7
   },
   {
-    "text": "basisschool",
+    "text": "secundair",
+    "size": 7
+  },
+  {
+    "text": "gemeenschapsonderwijs",
+    "size": 7
+  },
+  {
+    "text": "lyceum",
+    "size": 7
+  },
+  {
+    "text": "talentenschool",
+    "size": 7
+  },
+  {
+    "text": "turnhout",
     "size": 7
   },
   {
@@ -132,19 +156,7 @@
     "size": 6
   },
   {
-    "text": "centrum",
-    "size": 6
-  },
-  {
-    "text": "da",
-    "size": 6
-  },
-  {
     "text": "sociale",
-    "size": 6
-  },
-  {
-    "text": "promotion",
     "size": 6
   },
   {
@@ -152,11 +164,27 @@
     "size": 6
   },
   {
-    "text": "pedagogisch",
+    "text": "technique",
     "size": 6
   },
   {
-    "text": "secundair",
+    "text": "française",
+    "size": 6
+  },
+  {
+    "text": "genk",
+    "size": 6
+  },
+  {
+    "text": "athénée",
+    "size": 6
+  },
+  {
+    "text": "da",
+    "size": 6
+  },
+  {
+    "text": "promotion",
     "size": 6
   },
   {
@@ -168,19 +196,7 @@
     "size": 6
   },
   {
-    "text": "medisch",
-    "size": 6
-  },
-  {
-    "text": "française",
-    "size": 6
-  },
-  {
     "text": "internat",
-    "size": 6
-  },
-  {
-    "text": "athénée",
     "size": 6
   },
   {
@@ -192,14 +208,6 @@
     "size": 6
   },
   {
-    "text": "ar",
-    "size": 5
-  },
-  {
-    "text": "bs",
-    "size": 5
-  },
-  {
     "text": "autonome",
     "size": 5
   },
@@ -208,19 +216,7 @@
     "size": 5
   },
   {
-    "text": "knokke",
-    "size": 5
-  },
-  {
-    "text": "dendermonde",
-    "size": 5
-  },
-  {
     "text": "kapellen",
-    "size": 5
-  },
-  {
-    "text": "ka",
     "size": 5
   },
   {
@@ -228,23 +224,11 @@
     "size": 5
   },
   {
-    "text": "aalst",
-    "size": 5
-  },
-  {
-    "text": "plein",
-    "size": 5
-  },
-  {
-    "text": "lier",
+    "text": "buitengewoon",
     "size": 5
   },
   {
     "text": "pottelberg",
-    "size": 5
-  },
-  {
-    "text": "genk",
     "size": 5
   },
   {
@@ -256,19 +240,55 @@
     "size": 5
   },
   {
-    "text": "ter",
-    "size": 4
+    "text": "ar",
+    "size": 5
+  },
+  {
+    "text": "bs",
+    "size": 5
+  },
+  {
+    "text": "knokke",
+    "size": 5
+  },
+  {
+    "text": "dendermonde",
+    "size": 5
+  },
+  {
+    "text": "kortrijk",
+    "size": 5
+  },
+  {
+    "text": "ka",
+    "size": 5
+  },
+  {
+    "text": "leuven",
+    "size": 5
+  },
+  {
+    "text": "aalst",
+    "size": 5
+  },
+  {
+    "text": "st",
+    "size": 5
+  },
+  {
+    "text": "plein",
+    "size": 5
+  },
+  {
+    "text": "lier",
+    "size": 5
   },
   {
     "text": "voskenslaan",
     "size": 4
   },
   {
-    "text": "maldegem",
-    "size": 4
-  },
-  {
-    "text": "maaseik",
+    "text": "acis",
     "size": 4
   },
   {
@@ -280,27 +300,7 @@
     "size": 4
   },
   {
-    "text": "kortrijk",
-    "size": 4
-  },
-  {
-    "text": "robert",
-    "size": 4
-  },
-  {
     "text": "ukkel",
-    "size": 4
-  },
-  {
-    "text": "speelhof",
-    "size": 4
-  },
-  {
-    "text": "lokeren",
-    "size": 4
-  },
-  {
-    "text": "leuven",
     "size": 4
   },
   {
@@ -312,7 +312,7 @@
     "size": 4
   },
   {
-    "text": "aarschot",
+    "text": "kids",
     "size": 4
   },
   {
@@ -352,7 +352,7 @@
     "size": 4
   },
   {
-    "text": "mpi",
+    "text": "malle",
     "size": 4
   },
   {
@@ -360,7 +360,55 @@
     "size": 4
   },
   {
+    "text": "maison",
+    "size": 4
+  },
+  {
     "text": "fevijn",
+    "size": 4
+  },
+  {
+    "text": "asbl",
+    "size": 4
+  },
+  {
+    "text": "maldegem",
+    "size": 4
+  },
+  {
+    "text": "maaseik",
+    "size": 4
+  },
+  {
+    "text": "home",
+    "size": 4
+  },
+  {
+    "text": "robert",
+    "size": 4
+  },
+  {
+    "text": "speelhof",
+    "size": 4
+  },
+  {
+    "text": "wonen",
+    "size": 4
+  },
+  {
+    "text": "lokeren",
+    "size": 4
+  },
+  {
+    "text": "srj",
+    "size": 4
+  },
+  {
+    "text": "begeleidingscentrum",
+    "size": 4
+  },
+  {
+    "text": "aarschot",
     "size": 4
   },
   {
@@ -368,35 +416,11 @@
     "size": 4
   },
   {
-    "text": "brasschaat",
-    "size": 3
-  },
-  {
-    "text": "den",
-    "size": 3
-  },
-  {
-    "text": "athenée",
-    "size": 3
-  },
-  {
-    "text": "blankenberge",
-    "size": 3
-  },
-  {
     "text": "groenhove",
     "size": 3
   },
   {
     "text": "geraardsbergen",
-    "size": 3
-  },
-  {
-    "text": "willebroek",
-    "size": 3
-  },
-  {
-    "text": "tielt",
     "size": 3
   },
   {
@@ -408,39 +432,7 @@
     "size": 3
   },
   {
-    "text": "herentals",
-    "size": 3
-  },
-  {
-    "text": "arlon",
-    "size": 3
-  },
-  {
-    "text": "gruslin",
-    "size": 3
-  },
-  {
-    "text": "ii",
-    "size": 3
-  },
-  {
-    "text": "panne",
-    "size": 3
-  },
-  {
-    "text": "deurne",
-    "size": 3
-  },
-  {
     "text": "c.f",
-    "size": 3
-  },
-  {
-    "text": "specialise",
-    "size": 3
-  },
-  {
-    "text": "merelbeke",
     "size": 3
   },
   {
@@ -460,23 +452,7 @@
     "size": 3
   },
   {
-    "text": "maerlant",
-    "size": 3
-  },
-  {
-    "text": "st",
-    "size": 3
-  },
-  {
-    "text": "d\u0027uccle",
-    "size": 3
-  },
-  {
     "text": "herk-de-stad",
-    "size": 3
-  },
-  {
-    "text": "koekelberg",
     "size": 3
   },
   {
@@ -484,7 +460,7 @@
     "size": 3
   },
   {
-    "text": "jean",
+    "text": "pedagogique",
     "size": 3
   },
   {
@@ -496,15 +472,127 @@
     "size": 3
   },
   {
-    "text": "brugge",
-    "size": 3
-  },
-  {
-    "text": "malle",
-    "size": 3
-  },
-  {
     "text": "charles",
+    "size": 3
+  },
+  {
+    "text": "kunsthumaniora",
+    "size": 3
+  },
+  {
+    "text": "médico-pédagogique",
+    "size": 3
+  },
+  {
+    "text": "jodoigne",
+    "size": 3
+  },
+  {
+    "text": "brasschaat",
+    "size": 3
+  },
+  {
+    "text": "den",
+    "size": 3
+  },
+  {
+    "text": "athenée",
+    "size": 3
+  },
+  {
+    "text": "blankenberge",
+    "size": 3
+  },
+  {
+    "text": "willebroek",
+    "size": 3
+  },
+  {
+    "text": "tielt",
+    "size": 3
+  },
+  {
+    "text": "pédagogique",
+    "size": 3
+  },
+  {
+    "text": "centrale",
+    "size": 3
+  },
+  {
+    "text": "begeleid",
+    "size": 3
+  },
+  {
+    "text": "médico",
+    "size": 3
+  },
+  {
+    "text": "herentals",
+    "size": 3
+  },
+  {
+    "text": "gruslin",
+    "size": 3
+  },
+  {
+    "text": "ouverte",
+    "size": 3
+  },
+  {
+    "text": "ii",
+    "size": 3
+  },
+  {
+    "text": "panne",
+    "size": 3
+  },
+  {
+    "text": "baudouin",
+    "size": 3
+  },
+  {
+    "text": "deurne",
+    "size": 3
+  },
+  {
+    "text": "specialise",
+    "size": 3
+  },
+  {
+    "text": "merelbeke",
+    "size": 3
+  },
+  {
+    "text": "internaat",
+    "size": 3
+  },
+  {
+    "text": "spermalie",
+    "size": 3
+  },
+  {
+    "text": "maerlant",
+    "size": 3
+  },
+  {
+    "text": "d\u0027uccle",
+    "size": 3
+  },
+  {
+    "text": "koekelberg",
+    "size": 3
+  },
+  {
+    "text": "jean",
+    "size": 3
+  },
+  {
+    "text": "sint",
+    "size": 3
+  },
+  {
+    "text": "brugge",
     "size": 3
   },
   {
@@ -513,10 +601,6 @@
   },
   {
     "text": "mol",
-    "size": 3
-  },
-  {
-    "text": "kunsthumaniora",
     "size": 3
   },
   {
@@ -538,14 +622,6 @@
   {
     "text": "fondamental",
     "size": 3
-  },
-  {
-    "text": "jodoigne",
-    "size": 3
-  },
-  {
-    "text": "athenea",
-    "size": 2
   },
   {
     "text": "etterbeek",
@@ -572,19 +648,7 @@
     "size": 2
   },
   {
-    "text": "hautes-fagnes",
-    "size": 2
-  },
-  {
-    "text": "reynaert",
-    "size": 2
-  },
-  {
     "text": "vijverbeek",
-    "size": 2
-  },
-  {
-    "text": "1ste",
     "size": 2
   },
   {
@@ -608,15 +672,7 @@
     "size": 2
   },
   {
-    "text": "stroom",
-    "size": 2
-  },
-  {
-    "text": "borgloon",
-    "size": 2
-  },
-  {
-    "text": "centrale",
+    "text": "foyer",
     "size": 2
   },
   {
@@ -632,6 +688,10 @@
     "size": 2
   },
   {
+    "text": "voc",
+    "size": 2
+  },
+  {
     "text": "jette",
     "size": 2
   },
@@ -640,7 +700,7 @@
     "size": 2
   },
   {
-    "text": "thomas",
+    "text": "huize",
     "size": 2
   },
   {
@@ -648,11 +708,11 @@
     "size": 2
   },
   {
-    "text": "tienen",
+    "text": "service",
     "size": 2
   },
   {
-    "text": "prins",
+    "text": "arlon",
     "size": 2
   },
   {
@@ -672,27 +732,7 @@
     "size": 2
   },
   {
-    "text": "ledebaan",
-    "size": 2
-  },
-  {
-    "text": "oranje",
-    "size": 2
-  },
-  {
     "text": "technica",
-    "size": 2
-  },
-  {
-    "text": "baudouin",
-    "size": 2
-  },
-  {
-    "text": "hiel",
-    "size": 2
-  },
-  {
-    "text": "travail",
     "size": 2
   },
   {
@@ -700,19 +740,11 @@
     "size": 2
   },
   {
-    "text": "peruwelz",
-    "size": 2
-  },
-  {
-    "text": "martinus",
+    "text": "heide",
     "size": 2
   },
   {
     "text": "klein-brabant",
-    "size": 2
-  },
-  {
-    "text": "dilsen-stokkem",
     "size": 2
   },
   {
@@ -728,15 +760,7 @@
     "size": 2
   },
   {
-    "text": "spectrumschool",
-    "size": 2
-  },
-  {
-    "text": "sigo",
-    "size": 2
-  },
-  {
-    "text": "altea",
+    "text": "savio",
     "size": 2
   },
   {
@@ -744,11 +768,19 @@
     "size": 2
   },
   {
-    "text": "montegnee",
+    "text": "vrije",
     "size": 2
   },
   {
-    "text": "spa",
+    "text": "clé",
+    "size": 2
+  },
+  {
+    "text": "woluwe",
+    "size": 2
+  },
+  {
+    "text": "unit",
     "size": 2
   },
   {
@@ -756,31 +788,11 @@
     "size": 2
   },
   {
-    "text": "lycee",
-    "size": 2
-  },
-  {
-    "text": "wallonie-bruxelles",
-    "size": 2
-  },
-  {
-    "text": "zelzate",
-    "size": 2
-  },
-  {
     "text": "heist-op-den-berg",
     "size": 2
   },
   {
-    "text": "rixensart",
-    "size": 2
-  },
-  {
     "text": "ekeren",
-    "size": 2
-  },
-  {
-    "text": "lennik",
     "size": 2
   },
   {
@@ -792,15 +804,11 @@
     "size": 2
   },
   {
+    "text": "i.m.p",
+    "size": 2
+  },
+  {
     "text": "busleyden",
-    "size": 2
-  },
-  {
-    "text": "internaat",
-    "size": 2
-  },
-  {
-    "text": "mariakerke",
     "size": 2
   },
   {
@@ -812,51 +820,11 @@
     "size": 2
   },
   {
-    "text": "plinius",
-    "size": 2
-  },
-  {
-    "text": "herzele",
-    "size": 2
-  },
-  {
-    "text": "sint-pieters-woluwe",
-    "size": 2
-  },
-  {
-    "text": "asse",
-    "size": 2
-  },
-  {
-    "text": "bastogne",
-    "size": 2
-  },
-  {
     "text": "berchem",
     "size": 2
   },
   {
-    "text": "beuk",
-    "size": 2
-  },
-  {
-    "text": "beveren-waas",
-    "size": 2
-  },
-  {
     "text": "bilzen",
-    "size": 2
-  },
-  {
-    "text": "westerlo",
-    "size": 2
-  },
-  {
-    "text": "vierboete",
-    "size": 2
-  },
-  {
-    "text": "villers",
     "size": 2
   },
   {
@@ -868,15 +836,7 @@
     "size": 2
   },
   {
-    "text": "ohrem",
-    "size": 2
-  },
-  {
-    "text": "emanuel",
-    "size": 2
-  },
-  {
-    "text": "mouscron",
+    "text": "services",
     "size": 2
   },
   {
@@ -892,23 +852,7 @@
     "size": 2
   },
   {
-    "text": "essen-kalmthout",
-    "size": 2
-  },
-  {
-    "text": "evere",
-    "size": 2
-  },
-  {
     "text": "wemmel",
-    "size": 2
-  },
-  {
-    "text": "mast",
-    "size": 2
-  },
-  {
-    "text": "buitengewoon",
     "size": 2
   },
   {
@@ -916,15 +860,7 @@
     "size": 2
   },
   {
-    "text": "brug",
-    "size": 2
-  },
-  {
     "text": "menen",
-    "size": 2
-  },
-  {
-    "text": "coovi",
     "size": 2
   },
   {
@@ -940,15 +876,7 @@
     "size": 2
   },
   {
-    "text": "woudlucht",
-    "size": 2
-  },
-  {
-    "text": "namur",
-    "size": 2
-  },
-  {
-    "text": "unescoschool",
+    "text": "medico",
     "size": 2
   },
   {
@@ -956,27 +884,11 @@
     "size": 2
   },
   {
-    "text": "zottegem",
-    "size": 2
-  },
-  {
     "text": "enseignement",
     "size": 2
   },
   {
-    "text": "voorstad",
-    "size": 2
-  },
-  {
     "text": "sint-jans-molenbeek",
-    "size": 2
-  },
-  {
-    "text": "schoten",
-    "size": 2
-  },
-  {
-    "text": "servais",
     "size": 2
   },
   {
@@ -988,15 +900,103 @@
     "size": 2
   },
   {
-    "text": "aalter",
-    "size": 2
-  },
-  {
-    "text": "veurne",
-    "size": 2
-  },
-  {
     "text": "grenslandscholen",
+    "size": 2
+  },
+  {
+    "text": "deinze",
+    "size": 2
+  },
+  {
+    "text": "diksmuide",
+    "size": 2
+  },
+  {
+    "text": "sint-niklaas",
+    "size": 2
+  },
+  {
+    "text": "maasmechelen",
+    "size": 2
+  },
+  {
+    "text": "koekelare",
+    "size": 2
+  },
+  {
+    "text": "mercurius",
+    "size": 2
+  },
+  {
+    "text": "nieuwpoort",
+    "size": 2
+  },
+  {
+    "text": "athenea",
+    "size": 2
+  },
+  {
+    "text": "hautes-fagnes",
+    "size": 2
+  },
+  {
+    "text": "reynaert",
+    "size": 2
+  },
+  {
+    "text": "1ste",
+    "size": 2
+  },
+  {
+    "text": "dominiek",
+    "size": 2
+  },
+  {
+    "text": "stroom",
+    "size": 2
+  },
+  {
+    "text": "borgloon",
+    "size": 2
+  },
+  {
+    "text": "thomas",
+    "size": 2
+  },
+  {
+    "text": "tienen",
+    "size": 2
+  },
+  {
+    "text": "prins",
+    "size": 2
+  },
+  {
+    "text": "vert",
+    "size": 2
+  },
+  {
+    "text": "irsa",
+    "size": 2
+  },
+  {
+    "text": "bruxelles",
+    "size": 2
+  },
+  {
+    "text": "ledebaan",
+    "size": 2
+  },
+  {
+    "text": "oranje",
+    "size": 2
+  },
+  {
+    "text": "hiel",
+    "size": 2
+  },
+  {
+    "text": "travail",
     "size": 2
   }
 ]

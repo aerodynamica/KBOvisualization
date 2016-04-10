@@ -1,66 +1,110 @@
 [
   {
     "text": "bvba",
-    "size": 23
-  },
-  {
-    "text": "design",
-    "size": 15
+    "size": 32
   },
   {
     "text": "trading",
-    "size": 15
+    "size": 19
+  },
+  {
+    "text": "design",
+    "size": 16
+  },
+  {
+    "text": "gant",
+    "size": 16
   },
   {
     "text": "consulting",
-    "size": 13
+    "size": 15
   },
   {
     "text": "home",
-    "size": 13
+    "size": 14
   },
   {
     "text": "company",
-    "size": 10
+    "size": 13
   },
   {
     "text": "international",
-    "size": 10
+    "size": 12
   },
   {
     "text": "the",
-    "size": 9
+    "size": 11
+  },
+  {
+    "text": "inno",
+    "size": 11
   },
   {
     "text": "belgium",
-    "size": 8
+    "size": 11
+  },
+  {
+    "text": "food",
+    "size": 10
+  },
+  {
+    "text": "group",
+    "size": 9
   },
   {
     "text": "wine",
-    "size": 7
+    "size": 8
+  },
+  {
+    "text": "solutions",
+    "size": 8
   },
   {
     "text": "co",
-    "size": 7
+    "size": 8
   },
   {
     "text": "deco",
-    "size": 7
+    "size": 8
   },
   {
     "text": "nv",
+    "size": 8
+  },
+  {
+    "text": "studio",
     "size": 7
+  },
+  {
+    "text": "maison",
+    "size": 7
+  },
+  {
+    "text": "art",
+    "size": 7
+  },
+  {
+    "text": "horeca",
+    "size": 7
+  },
+  {
+    "text": "benelux",
+    "size": 7
+  },
+  {
+    "text": "services",
+    "size": 6
   },
   {
     "text": "concept",
     "size": 6
   },
   {
-    "text": "maison",
+    "text": "business",
     "size": 6
   },
   {
-    "text": "group",
+    "text": "products",
     "size": 6
   },
   {
@@ -72,39 +116,23 @@
     "size": 6
   },
   {
-    "text": "food",
+    "text": "wines",
     "size": 6
   },
   {
-    "text": "services",
-    "size": 5
-  },
-  {
-    "text": "studio",
-    "size": 5
-  },
-  {
-    "text": "import-export",
-    "size": 5
-  },
-  {
-    "text": "solutions",
-    "size": 5
-  },
-  {
-    "text": "wines",
-    "size": 5
+    "text": "europe",
+    "size": 6
   },
   {
     "text": "sprl",
+    "size": 6
+  },
+  {
+    "text": "antiek",
     "size": 5
   },
   {
-    "text": "art",
-    "size": 5
-  },
-  {
-    "text": "horeca",
+    "text": "projects",
     "size": 5
   },
   {
@@ -112,15 +140,27 @@
     "size": 5
   },
   {
-    "text": "benelux",
-    "size": 5
-  },
-  {
     "text": "wijnen",
     "size": 5
   },
   {
+    "text": "factory",
+    "size": 5
+  },
+  {
+    "text": "totaal",
+    "size": 4
+  },
+  {
     "text": "export",
+    "size": 4
+  },
+  {
+    "text": "electro",
+    "size": 4
+  },
+  {
+    "text": "service",
     "size": 4
   },
   {
@@ -132,11 +172,15 @@
     "size": 4
   },
   {
-    "text": "construct",
+    "text": "den",
     "size": 4
   },
   {
-    "text": "products",
+    "text": "import-export",
+    "size": 4
+  },
+  {
+    "text": "construct",
     "size": 4
   },
   {
@@ -144,7 +188,11 @@
     "size": 4
   },
   {
-    "text": "europe",
+    "text": "global",
+    "size": 4
+  },
+  {
+    "text": "invest",
     "size": 4
   },
   {
@@ -156,23 +204,27 @@
     "size": 4
   },
   {
-    "text": "projects",
-    "size": 4
-  },
-  {
     "text": "big",
     "size": 4
   },
   {
-    "text": "factory",
+    "text": "concepts",
     "size": 4
   },
   {
-    "text": "electro",
-    "size": 3
+    "text": "distribution",
+    "size": 4
   },
   {
-    "text": "service",
+    "text": "depot",
+    "size": 4
+  },
+  {
+    "text": "brussel",
+    "size": 4
+  },
+  {
+    "text": "good",
     "size": 3
   },
   {
@@ -184,15 +236,23 @@
     "size": 3
   },
   {
+    "text": "sogno",
+    "size": 3
+  },
+  {
+    "text": "claes",
+    "size": 3
+  },
+  {
     "text": "publi",
     "size": 3
   },
   {
-    "text": "den",
+    "text": "brasserie",
     "size": 3
   },
   {
-    "text": "business",
+    "text": "interior",
     "size": 3
   },
   {
@@ -200,11 +260,15 @@
     "size": 3
   },
   {
+    "text": "meubles",
+    "size": 3
+  },
+  {
     "text": "soul",
     "size": 3
   },
   {
-    "text": "invest",
+    "text": "online",
     "size": 3
   },
   {
@@ -236,6 +300,10 @@
     "size": 3
   },
   {
+    "text": "huis",
+    "size": 3
+  },
+  {
     "text": "green",
     "size": 3
   },
@@ -248,11 +316,11 @@
     "size": 3
   },
   {
-    "text": "vino",
+    "text": "wim",
     "size": 3
   },
   {
-    "text": "gant",
+    "text": "by",
     "size": 3
   },
   {
@@ -268,6 +336,10 @@
     "size": 3
   },
   {
+    "text": "decor",
+    "size": 3
+  },
+  {
     "text": "flanders",
     "size": 3
   },
@@ -280,7 +352,11 @@
     "size": 3
   },
   {
-    "text": "concepts",
+    "text": "restaurant",
+    "size": 3
+  },
+  {
+    "text": "one",
     "size": 3
   },
   {
@@ -288,11 +364,15 @@
     "size": 3
   },
   {
-    "text": "depot",
+    "text": "life",
     "size": 3
   },
   {
-    "text": "totaal",
+    "text": "sales",
+    "size": 3
+  },
+  {
+    "text": "tea",
     "size": 2
   },
   {
@@ -300,11 +380,19 @@
     "size": 2
   },
   {
-    "text": "good",
+    "text": "sana",
     "size": 2
   },
   {
-    "text": "sana",
+    "text": "room",
+    "size": 2
+  },
+  {
+    "text": "nedda",
+    "size": 2
+  },
+  {
+    "text": "wijnmarkt",
     "size": 2
   },
   {
@@ -332,6 +420,14 @@
     "size": 2
   },
   {
+    "text": "events",
+    "size": 2
+  },
+  {
+    "text": "pleisterwerken",
+    "size": 2
+  },
+  {
     "text": "creacorner",
     "size": 2
   },
@@ -353,6 +449,10 @@
   },
   {
     "text": "lifestyle",
+    "size": 2
+  },
+  {
+    "text": "dubron",
     "size": 2
   },
   {
@@ -380,15 +480,11 @@
     "size": 2
   },
   {
+    "text": "galery",
+    "size": 2
+  },
+  {
     "text": "comptoir",
-    "size": 2
-  },
-  {
-    "text": "antiek",
-    "size": 2
-  },
-  {
-    "text": "interior",
     "size": 2
   },
   {
@@ -396,7 +492,15 @@
     "size": 2
   },
   {
-    "text": "meubles",
+    "text": "paul",
+    "size": 2
+  },
+  {
+    "text": "rahim",
+    "size": 2
+  },
+  {
+    "text": "print",
     "size": 2
   },
   {
@@ -404,7 +508,7 @@
     "size": 2
   },
   {
-    "text": "inno",
+    "text": "robert",
     "size": 2
   },
   {
@@ -413,6 +517,14 @@
   },
   {
     "text": "equipment",
+    "size": 2
+  },
+  {
+    "text": "praet",
+    "size": 2
+  },
+  {
+    "text": "louis",
     "size": 2
   },
   {
@@ -428,10 +540,6 @@
     "size": 2
   },
   {
-    "text": "global",
-    "size": 2
-  },
-  {
     "text": "plants",
     "size": 2
   },
@@ -440,7 +548,15 @@
     "size": 2
   },
   {
+    "text": "advies",
+    "size": 2
+  },
+  {
     "text": "vennet",
+    "size": 2
+  },
+  {
+    "text": "belgique",
     "size": 2
   },
   {
@@ -464,6 +580,10 @@
     "size": 2
   },
   {
+    "text": "agency",
+    "size": 2
+  },
+  {
     "text": "from",
     "size": 2
   },
@@ -480,11 +600,31 @@
     "size": 2
   },
   {
+    "text": "centrum",
+    "size": 2
+  },
+  {
     "text": "gifts",
     "size": 2
   },
   {
+    "text": "wijnhuis",
+    "size": 2
+  },
+  {
+    "text": "city",
+    "size": 2
+  },
+  {
     "text": "visitas",
+    "size": 2
+  },
+  {
+    "text": "belux",
+    "size": 2
+  },
+  {
+    "text": "royal",
     "size": 2
   },
   {
@@ -500,11 +640,15 @@
     "size": 2
   },
   {
-    "text": "chendi",
+    "text": "europoint",
     "size": 2
   },
   {
     "text": "jan",
+    "size": 2
+  },
+  {
+    "text": "exclusive",
     "size": 2
   },
   {
@@ -520,11 +664,11 @@
     "size": 2
   },
   {
-    "text": "huis",
+    "text": "toys",
     "size": 2
   },
   {
-    "text": "toys",
+    "text": "gent",
     "size": 2
   },
   {
@@ -536,6 +680,10 @@
     "size": 2
   },
   {
+    "text": "vino",
+    "size": 2
+  },
+  {
     "text": "vins",
     "size": 2
   },
@@ -544,11 +692,11 @@
     "size": 2
   },
   {
-    "text": "wim",
+    "text": "move",
     "size": 2
   },
   {
-    "text": "move",
+    "text": "outlet",
     "size": 2
   },
   {
@@ -560,11 +708,15 @@
     "size": 2
   },
   {
-    "text": "by",
+    "text": "wok",
     "size": 2
   },
   {
     "text": "france",
+    "size": 2
+  },
+  {
+    "text": "el",
     "size": 2
   },
   {
@@ -573,10 +725,6 @@
   },
   {
     "text": "for",
-    "size": 2
-  },
-  {
-    "text": "decor",
     "size": 2
   },
   {
@@ -592,11 +740,11 @@
     "size": 2
   },
   {
-    "text": "restaurant",
+    "text": "hasselt",
     "size": 2
   },
   {
-    "text": "hasselt",
+    "text": "wonen",
     "size": 2
   },
   {
@@ -612,6 +760,10 @@
     "size": 2
   },
   {
+    "text": "charleroi",
+    "size": 2
+  },
+  {
     "text": "l\u0027atelier",
     "size": 2
   },
@@ -620,7 +772,15 @@
     "size": 2
   },
   {
+    "text": "belle",
+    "size": 2
+  },
+  {
     "text": "ceramics",
+    "size": 2
+  },
+  {
+    "text": "express",
     "size": 2
   },
   {
@@ -632,7 +792,7 @@
     "size": 2
   },
   {
-    "text": "life",
+    "text": "pure",
     "size": 2
   },
   {
@@ -644,15 +804,15 @@
     "size": 2
   },
   {
+    "text": "brugge",
+    "size": 2
+  },
+  {
     "text": "christophe",
     "size": 2
   },
   {
     "text": "nord",
-    "size": 2
-  },
-  {
-    "text": "sales",
     "size": 2
   },
   {
@@ -668,11 +828,15 @@
     "size": 1
   },
   {
-    "text": "sapounas",
+    "text": "halk",
     "size": 1
   },
   {
-    "text": "tea",
+    "text": "vintop",
+    "size": 1
+  },
+  {
+    "text": "sapounas",
     "size": 1
   },
   {
@@ -681,6 +845,14 @@
   },
   {
     "text": "basta",
+    "size": 1
+  },
+  {
+    "text": "glb",
+    "size": 1
+  },
+  {
+    "text": "ter",
     "size": 1
   },
   {
@@ -716,11 +888,19 @@
     "size": 1
   },
   {
+    "text": "wing",
+    "size": 1
+  },
+  {
     "text": "bohero",
     "size": 1
   },
   {
     "text": "deceuninck",
+    "size": 1
+  },
+  {
+    "text": "masters",
     "size": 1
   },
   {
@@ -748,6 +928,10 @@
     "size": 1
   },
   {
+    "text": "garland",
+    "size": 1
+  },
+  {
     "text": "coeur",
     "size": 1
   },
@@ -765,6 +949,10 @@
   },
   {
     "text": "bleser",
+    "size": 1
+  },
+  {
+    "text": "sali",
     "size": 1
   },
   {
@@ -808,195 +996,7 @@
     "size": 1
   },
   {
-    "text": "european",
-    "size": 1
-  },
-  {
-    "text": "cylance",
-    "size": 1
-  },
-  {
-    "text": "sany",
-    "size": 1
-  },
-  {
-    "text": "handelsbemiddeling",
-    "size": 1
-  },
-  {
-    "text": "glassworks",
-    "size": 1
-  },
-  {
-    "text": "gone",
-    "size": 1
-  },
-  {
-    "text": "babon",
-    "size": 1
-  },
-  {
-    "text": "paardje",
-    "size": 1
-  },
-  {
-    "text": "mawisco",
-    "size": 1
-  },
-  {
-    "text": "babawa",
-    "size": 1
-  },
-  {
-    "text": "technics",
-    "size": 1
-  },
-  {
-    "text": "cie",
-    "size": 1
-  },
-  {
-    "text": "tarologue",
-    "size": 1
-  },
-  {
-    "text": "malcontent",
-    "size": 1
-  },
-  {
-    "text": "schilderwerken",
-    "size": 1
-  },
-  {
-    "text": "hendrix",
-    "size": 1
-  },
-  {
-    "text": "dolce",
-    "size": 1
-  },
-  {
-    "text": "kadoworld",
-    "size": 1
-  },
-  {
-    "text": "patrick",
-    "size": 1
-  },
-  {
-    "text": "hotelex",
-    "size": 1
-  },
-  {
-    "text": "zwart",
-    "size": 1
-  },
-  {
-    "text": "complementair",
-    "size": 1
-  },
-  {
-    "text": "karimatex",
-    "size": 1
-  },
-  {
-    "text": "magali",
-    "size": 1
-  },
-  {
-    "text": "belgoglass",
-    "size": 1
-  },
-  {
-    "text": "room",
-    "size": 1
-  },
-  {
-    "text": "aveve",
-    "size": 1
-  },
-  {
-    "text": "algemeen",
-    "size": 1
-  },
-  {
-    "text": "verlichting-bloemen-decoratie",
-    "size": 1
-  },
-  {
-    "text": "snauwaert",
-    "size": 1
-  },
-  {
-    "text": "thé",
-    "size": 1
-  },
-  {
-    "text": "coffee",
-    "size": 1
-  },
-  {
-    "text": "blakes",
-    "size": 1
-  },
-  {
-    "text": "gemma",
-    "size": 1
-  },
-  {
-    "text": "chine",
-    "size": 1
-  },
-  {
-    "text": "proretro",
-    "size": 1
-  },
-  {
-    "text": "megakantoor",
-    "size": 1
-  },
-  {
-    "text": "bfocust",
-    "size": 1
-  },
-  {
-    "text": "couscous",
-    "size": 1
-  },
-  {
-    "text": "atlas",
-    "size": 1
-  },
-  {
-    "text": "sechehaye",
-    "size": 1
-  },
-  {
-    "text": "henderyckx",
-    "size": 1
-  },
-  {
-    "text": "arelbieres",
-    "size": 1
-  },
-  {
-    "text": "fego-dogo",
-    "size": 1
-  },
-  {
-    "text": "kasteelverhuur",
-    "size": 1
-  },
-  {
-    "text": "e.c",
-    "size": 1
-  },
-  {
-    "text": "zen-wood",
-    "size": 1
-  },
-  {
-    "text": "difco",
+    "text": "chi",
     "size": 1
   }
 ]

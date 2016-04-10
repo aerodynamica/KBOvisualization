@@ -1,90 +1,630 @@
 [
   {
-    "text": "logistics",
-    "size": 174
+    "text": "bvba",
+    "size": 398
   },
   {
     "text": "nv",
-    "size": 96
+    "size": 278
   },
   {
-    "text": "transport",
-    "size": 79
+    "text": "logistics",
+    "size": 224
   },
   {
-    "text": "bvba",
-    "size": 69
-  },
-  {
-    "text": "belgium",
-    "size": 64
-  },
-  {
-    "text": "services",
-    "size": 47
-  },
-  {
-    "text": "europe",
-    "size": 33
-  },
-  {
-    "text": "trans",
-    "size": 28
-  },
-  {
-    "text": "international",
-    "size": 25
+    "text": "colruyt",
+    "size": 209
   },
   {
     "text": "sprl",
-    "size": 25
+    "size": 186
   },
   {
-    "text": "service",
-    "size": 24
+    "text": "delhaize",
+    "size": 184
+  },
+  {
+    "text": "kruidvat",
+    "size": 158
+  },
+  {
+    "text": "slagerij",
+    "size": 145
+  },
+  {
+    "text": "apotheek",
+    "size": 133
+  },
+  {
+    "text": "chez",
+    "size": 133
+  },
+  {
+    "text": "shop",
+    "size": 133
+  },
+  {
+    "text": "belgium",
+    "size": 117
+  },
+  {
+    "text": "transport",
+    "size": 115
+  },
+  {
+    "text": "services",
+    "size": 111
+  },
+  {
+    "text": "bakkerij",
+    "size": 105
+  },
+  {
+    "text": "boucherie",
+    "size": 94
+  },
+  {
+    "text": "food",
+    "size": 93
+  },
+  {
+    "text": "international",
+    "size": 84
   },
   {
     "text": "express",
-    "size": 23
+    "size": 82
   },
   {
-    "text": "trading",
-    "size": 21
+    "text": "di",
+    "size": 81
   },
   {
-    "text": "antwerp",
-    "size": 19
+    "text": "service",
+    "size": 74
   },
   {
-    "text": "storage",
-    "size": 19
+    "text": "sc",
+    "size": 73
   },
   {
-    "text": "distribution",
-    "size": 19
+    "text": "boulangerie",
+    "size": 70
   },
   {
-    "text": "logistic",
-    "size": 18
+    "text": "voeding",
+    "size": 69
   },
   {
     "text": "center",
-    "size": 17
+    "size": 69
   },
   {
-    "text": "terminal",
-    "size": 17
+    "text": "den",
+    "size": 67
+  },
+  {
+    "text": "superette",
+    "size": 67
+  },
+  {
+    "text": "trading",
+    "size": 66
+  },
+  {
+    "text": "huis",
+    "size": 64
+  },
+  {
+    "text": "market",
+    "size": 62
+  },
+  {
+    "text": "trans",
+    "size": 61
+  },
+  {
+    "text": "traiteur",
+    "size": 61
+  },
+  {
+    "text": "supermarkt",
+    "size": 60
+  },
+  {
+    "text": "patisserie",
+    "size": 56
+  },
+  {
+    "text": "alimentation",
+    "size": 56
+  },
+  {
+    "text": "europe",
+    "size": 53
+  },
+  {
+    "text": "the",
+    "size": 51
+  },
+  {
+    "text": "fruit",
+    "size": 51
+  },
+  {
+    "text": "station",
+    "size": 48
+  },
+  {
+    "text": "maison",
+    "size": 47
+  },
+  {
+    "text": "night",
+    "size": 46
+  },
+  {
+    "text": "bxl",
+    "size": 46
+  },
+  {
+    "text": "brico",
+    "size": 45
+  },
+  {
+    "text": "co",
+    "size": 44
+  },
+  {
+    "text": "camping",
+    "size": 44
+  },
+  {
+    "text": "super",
+    "size": 44
+  },
+  {
+    "text": "and",
+    "size": 44
+  },
+  {
+    "text": "okay",
+    "size": 43
+  },
+  {
+    "text": "librairie",
+    "size": 41
+  },
+  {
+    "text": "relay",
+    "size": 40
+  },
+  {
+    "text": "brood",
+    "size": 38
+  },
+  {
+    "text": "beenhouwerij",
+    "size": 38
+  },
+  {
+    "text": "shopping",
+    "size": 37
+  },
+  {
+    "text": "new",
+    "size": 37
+  },
+  {
+    "text": "discount",
+    "size": 37
+  },
+  {
+    "text": "cafe",
+    "size": 37
   },
   {
     "text": "invest",
-    "size": 16
+    "size": 36
+  },
+  {
+    "text": "petit",
+    "size": 36
+  },
+  {
+    "text": "ets",
+    "size": 35
+  },
+  {
+    "text": "aveve",
+    "size": 35
+  },
+  {
+    "text": "distribution",
+    "size": 35
+  },
+  {
+    "text": "marc",
+    "size": 34
+  },
+  {
+    "text": "consulting",
+    "size": 34
+  },
+  {
+    "text": "luc",
+    "size": 32
+  },
+  {
+    "text": "marche",
+    "size": 32
+  },
+  {
+    "text": "oxfam",
+    "size": 32
+  },
+  {
+    "text": "fils",
+    "size": 32
+  },
+  {
+    "text": "company",
+    "size": 31
+  },
+  {
+    "text": "gb",
+    "size": 31
+  },
+  {
+    "text": "euro",
+    "size": 31
+  },
+  {
+    "text": "benelux",
+    "size": 31
+  },
+  {
+    "text": "cv",
+    "size": 30
+  },
+  {
+    "text": "garage",
+    "size": 30
+  },
+  {
+    "text": "group",
+    "size": 30
+  },
+  {
+    "text": "antwerp",
+    "size": 29
+  },
+  {
+    "text": "management",
+    "size": 29
+  },
+  {
+    "text": "groenten",
+    "size": 29
+  },
+  {
+    "text": "apoteek",
+    "size": 29
+  },
+  {
+    "text": "nachtwinkel",
+    "size": 29
+  },
+  {
+    "text": "ferme",
+    "size": 28
   },
   {
     "text": "solutions",
-    "size": 16
+    "size": 28
+  },
+  {
+    "text": "store",
+    "size": 28
+  },
+  {
+    "text": "wereldwinkel",
+    "size": 28
+  },
+  {
+    "text": "business",
+    "size": 27
+  },
+  {
+    "text": "servauto",
+    "size": 27
+  },
+  {
+    "text": "spar",
+    "size": 27
+  },
+  {
+    "text": "ad",
+    "size": 26
+  },
+  {
+    "text": "snack",
+    "size": 26
+  },
+  {
+    "text": "vert",
+    "size": 26
+  },
+  {
+    "text": "gent",
+    "size": 26
+  },
+  {
+    "text": "geert",
+    "size": 26
+  },
+  {
+    "text": "epicerie",
+    "size": 26
+  },
+  {
+    "text": "trade",
+    "size": 26
+  },
+  {
+    "text": "st",
+    "size": 25
+  },
+  {
+    "text": "delicatessen",
+    "size": 25
+  },
+  {
+    "text": "tuincentrum",
+    "size": 25
+  },
+  {
+    "text": "el",
+    "size": 24
+  },
+  {
+    "text": "o\u0027cool",
+    "size": 24
+  },
+  {
+    "text": "jan",
+    "size": 24
+  },
+  {
+    "text": "delices",
+    "size": 24
+  },
+  {
+    "text": "antwerpen",
+    "size": 24
+  },
+  {
+    "text": "frituur",
+    "size": 24
+  },
+  {
+    "text": "peter",
+    "size": 24
+  },
+  {
+    "text": "world",
+    "size": 23
+  },
+  {
+    "text": "fruits",
+    "size": 23
+  },
+  {
+    "text": "foods",
+    "size": 23
+  },
+  {
+    "text": "bart",
+    "size": 22
+  },
+  {
+    "text": "logistic",
+    "size": 22
+  },
+  {
+    "text": "pvba",
+    "size": 22
+  },
+  {
+    "text": "unic",
+    "size": 22
+  },
+  {
+    "text": "banket",
+    "size": 22
+  },
+  {
+    "text": "dirk",
+    "size": 21
+  },
+  {
+    "text": "d\u0027or",
+    "size": 21
+  },
+  {
+    "text": "dagbladhandel",
+    "size": 21
+  },
+  {
+    "text": "coin",
+    "size": 21
+  },
+  {
+    "text": "cremerie",
+    "size": 21
+  },
+  {
+    "text": "fresh",
+    "size": 21
+  },
+  {
+    "text": "algemene",
+    "size": 21
+  },
+  {
+    "text": "banketbakkerij",
+    "size": 20
+  },
+  {
+    "text": "storage",
+    "size": 20
+  },
+  {
+    "text": "centre",
+    "size": 20
+  },
+  {
+    "text": "vishandel",
+    "size": 20
+  },
+  {
+    "text": "stock",
+    "size": 20
+  },
+  {
+    "text": "liège",
+    "size": 19
+  },
+  {
+    "text": "top",
+    "size": 19
+  },
+  {
+    "text": "import",
+    "size": 19
+  },
+  {
+    "text": "jardin",
+    "size": 19
+  },
+  {
+    "text": "wim",
+    "size": 19
+  },
+  {
+    "text": "markt",
+    "size": 19
+  },
+  {
+    "text": "design",
+    "size": 19
+  },
+  {
+    "text": "home",
+    "size": 19
   },
   {
     "text": "transports",
+    "size": 19
+  },
+  {
+    "text": "casa",
+    "size": 19
+  },
+  {
+    "text": "car",
+    "size": 19
+  },
+  {
+    "text": "day",
+    "size": 18
+  },
+  {
+    "text": "mini",
+    "size": 18
+  },
+  {
+    "text": "louis",
+    "size": 18
+  },
+  {
+    "text": "terminal",
+    "size": 18
+  },
+  {
+    "text": "shipping",
+    "size": 18
+  },
+  {
+    "text": "ter",
+    "size": 18
+  },
+  {
+    "text": "saveurs",
+    "size": 18
+  },
+  {
+    "text": "bon",
+    "size": 18
+  },
+  {
+    "text": "star",
+    "size": 17
+  },
+  {
+    "text": "ii",
+    "size": 17
+  },
+  {
+    "text": "ijs",
+    "size": 17
+  },
+  {
+    "text": "oxfam-wereldwinkel",
+    "size": 17
+  },
+  {
+    "text": "patrick",
+    "size": 17
+  },
+  {
+    "text": "consult",
+    "size": 17
+  },
+  {
+    "text": "drinks",
+    "size": 17
+  },
+  {
+    "text": "friterie",
+    "size": 17
+  },
+  {
+    "text": "charcuterie",
+    "size": 17
+  },
+  {
+    "text": "vincent",
+    "size": 17
+  },
+  {
+    "text": "cargo",
+    "size": 17
+  },
+  {
+    "text": "hobby",
+    "size": 17
+  },
+  {
+    "text": "centrale",
+    "size": 16
+  },
+  {
+    "text": "q8",
+    "size": 16
+  },
+  {
+    "text": "global",
     "size": 16
   },
   {
@@ -92,911 +632,371 @@
     "size": 16
   },
   {
-    "text": "benelux",
+    "text": "point",
     "size": 16
   },
   {
-    "text": "group",
-    "size": 13
+    "text": "projects",
+    "size": 16
+  },
+  {
+    "text": "restaurant",
+    "size": 16
+  },
+  {
+    "text": "all",
+    "size": 16
+  },
+  {
+    "text": "glace",
+    "size": 15
+  },
+  {
+    "text": "construct",
+    "size": 15
+  },
+  {
+    "text": "diffusion",
+    "size": 15
+  },
+  {
+    "text": "export",
+    "size": 15
+  },
+  {
+    "text": "frank",
+    "size": 15
+  },
+  {
+    "text": "oil",
+    "size": 15
+  },
+  {
+    "text": "concept",
+    "size": 15
+  },
+  {
+    "text": "johan",
+    "size": 15
+  },
+  {
+    "text": "olivier",
+    "size": 15
+  },
+  {
+    "text": "immo",
+    "size": 15
+  },
+  {
+    "text": "art",
+    "size": 15
+  },
+  {
+    "text": "bakk",
+    "size": 14
+  },
+  {
+    "text": "supermarket",
+    "size": 14
+  },
+  {
+    "text": "plus",
+    "size": 14
+  },
+  {
+    "text": "guy",
+    "size": 14
+  },
+  {
+    "text": "video",
+    "size": 14
+  },
+  {
+    "text": "carrefour",
+    "size": 14
+  },
+  {
+    "text": "hof",
+    "size": 14
+  },
+  {
+    "text": "city",
+    "size": 14
+  },
+  {
+    "text": "koffie",
+    "size": 14
+  },
+  {
+    "text": "sport",
+    "size": 14
+  },
+  {
+    "text": "eric",
+    "size": 14
+  },
+  {
+    "text": "hasselt",
+    "size": 14
+  },
+  {
+    "text": "saint",
+    "size": 14
+  },
+  {
+    "text": "michel",
+    "size": 14
+  },
+  {
+    "text": "bazar",
+    "size": 14
   },
   {
     "text": "natie",
+    "size": 14
+  },
+  {
+    "text": "partners",
+    "size": 14
+  },
+  {
+    "text": "essenza",
+    "size": 14
+  },
+  {
+    "text": "recycling",
+    "size": 14
+  },
+  {
+    "text": "panier",
     "size": 13
   },
   {
-    "text": "fruit",
+    "text": "italia",
+    "size": 13
+  },
+  {
+    "text": "european",
+    "size": 13
+  },
+  {
+    "text": "chris",
+    "size": 13
+  },
+  {
+    "text": "int",
+    "size": 13
+  },
+  {
+    "text": "presse",
+    "size": 13
+  },
+  {
+    "text": "agri",
+    "size": 13
+  },
+  {
+    "text": "non",
+    "size": 13
+  },
+  {
+    "text": "line",
+    "size": 13
+  },
+  {
+    "text": "etablissements",
+    "size": 13
+  },
+  {
+    "text": "pierre",
+    "size": 13
+  },
+  {
+    "text": "centrum",
+    "size": 13
+  },
+  {
+    "text": "yves",
+    "size": 13
+  },
+  {
+    "text": "zonen",
+    "size": 13
+  },
+  {
+    "text": "import-export",
+    "size": 13
+  },
+  {
+    "text": "action",
+    "size": 13
+  },
+  {
+    "text": "paul",
+    "size": 13
+  },
+  {
+    "text": "generale",
+    "size": 13
+  },
+  {
+    "text": "brugge",
     "size": 12
   },
   {
-    "text": "cargo",
+    "text": "products",
     "size": 12
   },
   {
-    "text": "consulting",
+    "text": "handling",
     "size": 12
   },
   {
-    "text": "and",
+    "text": "agro",
     "size": 12
+  },
+  {
+    "text": "magasin",
+    "size": 12
+  },
+  {
+    "text": "s.a",
+    "size": 12
+  },
+  {
+    "text": "peeters",
+    "size": 12
+  },
+  {
+    "text": "house",
+    "size": 12
+  },
+  {
+    "text": "namur",
+    "size": 12
+  },
+  {
+    "text": "kurt",
+    "size": 12
+  },
+  {
+    "text": "palais",
+    "size": 12
+  },
+  {
+    "text": "cars",
+    "size": 12
+  },
+  {
+    "text": "maes",
+    "size": 11
+  },
+  {
+    "text": "dp",
+    "size": 11
+  },
+  {
+    "text": "mechelen",
+    "size": 11
+  },
+  {
+    "text": "bruno",
+    "size": 11
+  },
+  {
+    "text": "zelfbediening",
+    "size": 11
+  },
+  {
+    "text": "vervoer",
+    "size": 11
+  },
+  {
+    "text": "leuven",
+    "size": 11
+  },
+  {
+    "text": "zoon",
+    "size": 11
+  },
+  {
+    "text": "catering",
+    "size": 11
+  },
+  {
+    "text": "blue",
+    "size": 11
+  },
+  {
+    "text": "pre",
+    "size": 11
+  },
+  {
+    "text": "prima",
+    "size": 11
+  },
+  {
+    "text": "brasserie",
+    "size": 11
+  },
+  {
+    "text": "royal",
+    "size": 11
+  },
+  {
+    "text": "horeca",
+    "size": 11
+  },
+  {
+    "text": "nature",
+    "size": 11
+  },
+  {
+    "text": "glacier",
+    "size": 11
+  },
+  {
+    "text": "hans",
+    "size": 11
+  },
+  {
+    "text": "anne",
+    "size": 11
+  },
+  {
+    "text": "scrl",
+    "size": 11
+  },
+  {
+    "text": "philippe",
+    "size": 11
+  },
+  {
+    "text": "marie",
+    "size": 11
+  },
+  {
+    "text": "maria",
+    "size": 11
+  },
+  {
+    "text": "total",
+    "size": 11
+  },
+  {
+    "text": "sint",
+    "size": 11
+  },
+  {
+    "text": "place",
+    "size": 11
   },
   {
     "text": "katoen",
     "size": 11
   },
   {
-    "text": "management",
+    "text": "fitness",
     "size": 11
-  },
-  {
-    "text": "handling",
-    "size": 10
-  },
-  {
-    "text": "agri",
-    "size": 10
-  },
-  {
-    "text": "recycling",
-    "size": 10
-  },
-  {
-    "text": "magazijn",
-    "size": 9
-  },
-  {
-    "text": "company",
-    "size": 9
-  },
-  {
-    "text": "trade",
-    "size": 9
-  },
-  {
-    "text": "food",
-    "size": 9
-  },
-  {
-    "text": "logistiek",
-    "size": 8
-  },
-  {
-    "text": "holding",
-    "size": 8
-  },
-  {
-    "text": "vervoer",
-    "size": 8
-  },
-  {
-    "text": "shipping",
-    "size": 8
-  },
-  {
-    "text": "world",
-    "size": 8
-  },
-  {
-    "text": "opslag",
-    "size": 8
-  },
-  {
-    "text": "immo",
-    "size": 7
-  },
-  {
-    "text": "n.v",
-    "size": 7
-  },
-  {
-    "text": "zonen",
-    "size": 7
-  },
-  {
-    "text": "verhuizingen",
-    "size": 7
-  },
-  {
-    "text": "forwarding",
-    "size": 7
-  },
-  {
-    "text": "agro",
-    "size": 7
-  },
-  {
-    "text": "afgekort",
-    "size": 7
-  },
-  {
-    "text": "rail",
-    "size": 7
-  },
-  {
-    "text": "wim",
-    "size": 7
-  },
-  {
-    "text": "projects",
-    "size": 7
-  },
-  {
-    "text": "dp",
-    "size": 7
-  },
-  {
-    "text": "depot",
-    "size": 7
-  },
-  {
-    "text": "line",
-    "size": 7
-  },
-  {
-    "text": "the",
-    "size": 6
-  },
-  {
-    "text": "export",
-    "size": 6
-  },
-  {
-    "text": "supply",
-    "size": 6
-  },
-  {
-    "text": "consult",
-    "size": 6
-  },
-  {
-    "text": "peter",
-    "size": 6
-  },
-  {
-    "text": "construct",
-    "size": 6
-  },
-  {
-    "text": "global",
-    "size": 6
-  },
-  {
-    "text": "warehousing",
-    "size": 6
-  },
-  {
-    "text": "container",
-    "size": 6
-  },
-  {
-    "text": "co",
-    "size": 6
-  },
-  {
-    "text": "olivier",
-    "size": 6
-  },
-  {
-    "text": "fresh",
-    "size": 6
-  },
-  {
-    "text": "freight",
-    "size": 6
-  },
-  {
-    "text": "ter",
-    "size": 5
-  },
-  {
-    "text": "concept",
-    "size": 5
-  },
-  {
-    "text": "chain",
-    "size": 5
-  },
-  {
-    "text": "zoon",
-    "size": 5
-  },
-  {
-    "text": "terminals",
-    "size": 5
-  },
-  {
-    "text": "tank",
-    "size": 5
-  },
-  {
-    "text": "fils",
-    "size": 5
-  },
-  {
-    "text": "entrepot",
-    "size": 5
-  },
-  {
-    "text": "belgie",
-    "size": 5
-  },
-  {
-    "text": "pharma",
-    "size": 5
-  },
-  {
-    "text": "nagel",
-    "size": 5
-  },
-  {
-    "text": "stockage",
-    "size": 5
-  },
-  {
-    "text": "edc",
-    "size": 5
-  },
-  {
-    "text": "adm",
-    "size": 5
-  },
-  {
-    "text": "yves",
-    "size": 5
-  },
-  {
-    "text": "all",
-    "size": 5
-  },
-  {
-    "text": "belgian",
-    "size": 5
-  },
-  {
-    "text": "partners",
-    "size": 5
-  },
-  {
-    "text": "engineering",
-    "size": 5
-  },
-  {
-    "text": "kuehne",
-    "size": 5
-  },
-  {
-    "text": "sea",
-    "size": 5
-  },
-  {
-    "text": "packaging",
-    "size": 5
-  },
-  {
-    "text": "vm",
-    "size": 5
-  },
-  {
-    "text": "stassen",
-    "size": 5
-  },
-  {
-    "text": "energy",
-    "size": 4
-  },
-  {
-    "text": "hendrickx",
-    "size": 4
-  },
-  {
-    "text": "hans",
-    "size": 4
-  },
-  {
-    "text": "blue",
-    "size": 4
-  },
-  {
-    "text": "solucious",
-    "size": 4
-  },
-  {
-    "text": "design",
-    "size": 4
-  },
-  {
-    "text": "maritime",
-    "size": 4
-  },
-  {
-    "text": "charlier",
-    "size": 4
-  },
-  {
-    "text": "fruitbedrijf",
-    "size": 4
-  },
-  {
-    "text": "clean",
-    "size": 4
-  },
-  {
-    "text": "luc",
-    "size": 4
-  },
-  {
-    "text": "willebroek",
-    "size": 4
-  },
-  {
-    "text": "business",
-    "size": 4
-  },
-  {
-    "text": "dhl",
-    "size": 4
-  },
-  {
-    "text": "danny",
-    "size": 4
-  },
-  {
-    "text": "heavy",
-    "size": 4
-  },
-  {
-    "text": "grondwerken",
-    "size": 4
-  },
-  {
-    "text": "internationaal",
-    "size": 4
-  },
-  {
-    "text": "s.a",
-    "size": 4
-  },
-  {
-    "text": "star",
-    "size": 4
-  },
-  {
-    "text": "project",
-    "size": 4
-  },
-  {
-    "text": "bart",
-    "size": 4
-  },
-  {
-    "text": "renting",
-    "size": 4
-  },
-  {
-    "text": "agency",
-    "size": 4
-  },
-  {
-    "text": "vincent",
-    "size": 4
-  },
-  {
-    "text": "belgië",
-    "size": 4
-  },
-  {
-    "text": "verbeke",
-    "size": 4
-  },
-  {
-    "text": "nike",
-    "size": 4
-  },
-  {
-    "text": "distributie",
-    "size": 4
-  },
-  {
-    "text": "agencies",
-    "size": 4
-  },
-  {
-    "text": "new",
-    "size": 4
-  },
-  {
-    "text": "blandain",
-    "size": 4
-  },
-  {
-    "text": "shurgard",
-    "size": 4
-  },
-  {
-    "text": "urban",
-    "size": 4
-  },
-  {
-    "text": "puurs",
-    "size": 4
-  },
-  {
-    "text": "at",
-    "size": 4
-  },
-  {
-    "text": "flanders",
-    "size": 4
-  },
-  {
-    "text": "it",
-    "size": 4
-  },
-  {
-    "text": "store",
-    "size": 4
-  },
-  {
-    "text": "liège",
-    "size": 4
-  },
-  {
-    "text": "car",
-    "size": 4
-  },
-  {
-    "text": "your",
-    "size": 3
-  },
-  {
-    "text": "victor",
-    "size": 3
-  },
-  {
-    "text": "nova",
-    "size": 3
-  },
-  {
-    "text": "belspeed",
-    "size": 3
-  },
-  {
-    "text": "european",
-    "size": 3
-  },
-  {
-    "text": "tom",
-    "size": 3
-  },
-  {
-    "text": "proxilog",
-    "size": 3
-  },
-  {
-    "text": "forlog",
-    "size": 3
-  },
-  {
-    "text": "algemene",
-    "size": 3
-  },
-  {
-    "text": "geodis",
-    "size": 3
-  },
-  {
-    "text": "team",
-    "size": 3
-  },
-  {
-    "text": "eric",
-    "size": 3
-  },
-  {
-    "text": "full",
-    "size": 3
-  },
-  {
-    "text": "depannage",
-    "size": 3
-  },
-  {
-    "text": "worldwide",
-    "size": 3
-  },
-  {
-    "text": "general",
-    "size": 3
-  },
-  {
-    "text": "ltd",
-    "size": 3
-  },
-  {
-    "text": "hessenatie",
-    "size": 3
-  },
-  {
-    "text": "vermeersch",
-    "size": 3
-  },
-  {
-    "text": "meat",
-    "size": 3
-  },
-  {
-    "text": "easy",
-    "size": 3
-  },
-  {
-    "text": "waasland",
-    "size": 3
-  },
-  {
-    "text": "rudder",
-    "size": 3
-  },
-  {
-    "text": "maes",
-    "size": 3
-  },
-  {
-    "text": "blits",
-    "size": 3
-  },
-  {
-    "text": "proxitrans",
-    "size": 3
-  },
-  {
-    "text": "taxi",
-    "size": 3
-  },
-  {
-    "text": "entrepôt",
-    "size": 3
-  },
-  {
-    "text": "vermeer",
-    "size": 3
-  },
-  {
-    "text": "antiques",
-    "size": 3
-  },
-  {
-    "text": "nico",
-    "size": 3
-  },
-  {
-    "text": "gmbh",
-    "size": 3
-  },
-  {
-    "text": "talke",
-    "size": 3
-  },
-  {
-    "text": "building",
-    "size": 3
-  },
-  {
-    "text": "vio",
-    "size": 3
-  },
-  {
-    "text": "kurt",
-    "size": 3
-  },
-  {
-    "text": "air",
-    "size": 3
-  },
-  {
-    "text": "estate",
-    "size": 3
-  },
-  {
-    "text": "martin",
-    "size": 3
-  },
-  {
-    "text": "moer",
-    "size": 3
-  },
-  {
-    "text": "art",
-    "size": 3
-  },
-  {
-    "text": "palace",
-    "size": 3
-  },
-  {
-    "text": "green",
-    "size": 3
-  },
-  {
-    "text": "b.v.b.a",
-    "size": 3
-  },
-  {
-    "text": "african",
-    "size": 3
-  },
-  {
-    "text": "afbraakwerken",
-    "size": 3
-  },
-  {
-    "text": "cars",
-    "size": 3
-  },
-  {
-    "text": "care",
-    "size": 3
-  },
-  {
-    "text": "peeters",
-    "size": 3
-  },
-  {
-    "text": "automotive",
-    "size": 3
-  },
-  {
-    "text": "david",
-    "size": 3
-  },
-  {
-    "text": "move",
-    "size": 3
-  },
-  {
-    "text": "bv",
-    "size": 3
-  },
-  {
-    "text": "partner",
-    "size": 3
-  },
-  {
-    "text": "dc",
-    "size": 3
-  },
-  {
-    "text": "di",
-    "size": 3
-  },
-  {
-    "text": "montage",
-    "size": 3
-  },
-  {
-    "text": "centrale",
-    "size": 3
-  },
-  {
-    "text": "containers",
-    "size": 3
-  },
-  {
-    "text": "go",
-    "size": 3
-  },
-  {
-    "text": "jacobs",
-    "size": 3
-  },
-  {
-    "text": "sky",
-    "size": 3
-  },
-  {
-    "text": "works",
-    "size": 3
-  },
-  {
-    "text": "office",
-    "size": 3
-  },
-  {
-    "text": "plus",
-    "size": 3
-  },
-  {
-    "text": "magazijnen",
-    "size": 3
-  },
-  {
-    "text": "eurobrokers",
-    "size": 3
-  },
-  {
-    "text": "deforche",
-    "size": 3
-  },
-  {
-    "text": "dentressangle",
-    "size": 3
-  },
-  {
-    "text": "vopak",
-    "size": 3
-  },
-  {
-    "text": "delta",
-    "size": 3
-  },
-  {
-    "text": "zigzag",
-    "size": 3
-  },
-  {
-    "text": "rp",
-    "size": 3
-  },
-  {
-    "text": "garage",
-    "size": 3
-  },
-  {
-    "text": "carrosserie",
-    "size": 3
-  },
-  {
-    "text": "dépôt",
-    "size": 3
-  },
-  {
-    "text": "euro",
-    "size": 3
-  },
-  {
-    "text": "norbert",
-    "size": 3
-  },
-  {
-    "text": "road",
-    "size": 3
-  },
-  {
-    "text": "feluy",
-    "size": 3
-  },
-  {
-    "text": "power",
-    "size": 3
-  },
-  {
-    "text": "christophe",
-    "size": 3
-  },
-  {
-    "text": "ardenne",
-    "size": 3
-  },
-  {
-    "text": "beton",
-    "size": 3
-  },
-  {
-    "text": "flex",
-    "size": 3
-  },
-  {
-    "text": "vishandel",
-    "size": 2
-  },
-  {
-    "text": "stapelplaats",
-    "size": 2
-  },
-  {
-    "text": "tgw",
-    "size": 2
-  },
-  {
-    "text": "grond",
-    "size": 2
-  },
-  {
-    "text": "hougardis",
-    "size": 2
-  },
-  {
-    "text": "thw",
-    "size": 2
-  },
-  {
-    "text": "banque",
-    "size": 2
-  },
-  {
-    "text": "wandre",
-    "size": 2
-  },
-  {
-    "text": "soditra",
-    "size": 2
-  },
-  {
-    "text": "sany",
-    "size": 2
-  },
-  {
-    "text": "dfds",
-    "size": 2
-  },
-  {
-    "text": "cie",
-    "size": 2
-  },
-  {
-    "text": "patrick",
-    "size": 2
-  },
-  {
-    "text": "société",
-    "size": 2
-  },
-  {
-    "text": "societe",
-    "size": 2
-  },
-  {
-    "text": "adrien",
-    "size": 2
-  },
-  {
-    "text": "ultra",
-    "size": 2
-  },
-  {
-    "text": "colfridis",
-    "size": 2
-  },
-  {
-    "text": "acuhold",
-    "size": 2
-  },
-  {
-    "text": "wellen",
-    "size": 2
-  },
-  {
-    "text": "bulk",
-    "size": 2
-  },
-  {
-    "text": "d.k.-invest",
-    "size": 2
-  },
-  {
-    "text": "groep",
-    "size": 2
-  },
-  {
-    "text": "industries",
-    "size": 2
-  },
-  {
-    "text": "industriel",
-    "size": 2
-  },
-  {
-    "text": "vls-group",
-    "size": 2
-  },
-  {
-    "text": "etablissements",
-    "size": 2
-  },
-  {
-    "text": "west",
-    "size": 2
-  },
-  {
-    "text": "drink-o-mat",
-    "size": 2
   }
 ]

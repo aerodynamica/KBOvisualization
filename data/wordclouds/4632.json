@@ -1,42 +1,46 @@
 [
   {
     "text": "bvba",
-    "size": 104
+    "size": 108
   },
   {
     "text": "nv",
-    "size": 85
+    "size": 86
   },
   {
     "text": "slagerij",
-    "size": 55
+    "size": 64
   },
   {
     "text": "vleeshandel",
-    "size": 45
-  },
-  {
-    "text": "boucherie",
-    "size": 40
+    "size": 46
   },
   {
     "text": "food",
-    "size": 37
+    "size": 43
+  },
+  {
+    "text": "boucherie",
+    "size": 42
   },
   {
     "text": "meat",
-    "size": 34
+    "size": 35
   },
   {
     "text": "vleeswaren",
-    "size": 33
-  },
-  {
-    "text": "vleesgroothandel",
-    "size": 19
+    "size": 35
   },
   {
     "text": "sprl",
+    "size": 21
+  },
+  {
+    "text": "vleesgroothandel",
+    "size": 20
+  },
+  {
+    "text": "foods",
     "size": 19
   },
   {
@@ -44,27 +48,43 @@
     "size": 18
   },
   {
-    "text": "traiteur",
-    "size": 13
-  },
-  {
-    "text": "foods",
-    "size": 13
-  },
-  {
     "text": "trading",
-    "size": 12
+    "size": 17
+  },
+  {
+    "text": "traiteur",
+    "size": 15
   },
   {
     "text": "ferme",
+    "size": 13
+  },
+  {
+    "text": "service",
+    "size": 12
+  },
+  {
+    "text": "den",
     "size": 12
   },
   {
     "text": "salaisons",
+    "size": 12
+  },
+  {
+    "text": "belgium",
     "size": 11
   },
   {
-    "text": "den",
+    "text": "beenhouwerij",
+    "size": 11
+  },
+  {
+    "text": "group",
+    "size": 10
+  },
+  {
+    "text": "viandes",
     "size": 10
   },
   {
@@ -72,7 +92,7 @@
     "size": 9
   },
   {
-    "text": "service",
+    "text": "services",
     "size": 9
   },
   {
@@ -80,31 +100,15 @@
     "size": 9
   },
   {
-    "text": "belgium",
+    "text": "international",
     "size": 9
   },
   {
-    "text": "beenhouwerij",
+    "text": "vee",
     "size": 9
-  },
-  {
-    "text": "viandes",
-    "size": 9
-  },
-  {
-    "text": "distribution",
-    "size": 9
-  },
-  {
-    "text": "services",
-    "size": 8
   },
   {
     "text": "zonen",
-    "size": 8
-  },
-  {
-    "text": "international",
     "size": 8
   },
   {
@@ -112,23 +116,27 @@
     "size": 8
   },
   {
-    "text": "vee",
-    "size": 8
-  },
-  {
-    "text": "saveurs",
-    "size": 8
-  },
-  {
     "text": "gebroeders",
     "size": 8
   },
   {
-    "text": "group",
-    "size": 7
+    "text": "distribution",
+    "size": 8
   },
   {
     "text": "vlees",
+    "size": 7
+  },
+  {
+    "text": "luc",
+    "size": 7
+  },
+  {
+    "text": "company",
+    "size": 7
+  },
+  {
+    "text": "keurslager",
     "size": 7
   },
   {
@@ -140,11 +148,35 @@
     "size": 7
   },
   {
-    "text": "fresh",
+    "text": "quality",
     "size": 7
   },
   {
-    "text": "maison",
+    "text": "saveurs",
+    "size": 7
+  },
+  {
+    "text": "vleesbedrijf",
+    "size": 7
+  },
+  {
+    "text": "benelux",
+    "size": 7
+  },
+  {
+    "text": "kip",
+    "size": 7
+  },
+  {
+    "text": "keurslagerij",
+    "size": 6
+  },
+  {
+    "text": "viande",
+    "size": 6
+  },
+  {
+    "text": "slachthuis",
     "size": 6
   },
   {
@@ -156,7 +188,7 @@
     "size": 6
   },
   {
-    "text": "trade",
+    "text": "belgië",
     "size": 6
   },
   {
@@ -164,11 +196,11 @@
     "size": 6
   },
   {
-    "text": "import",
+    "text": "huis",
     "size": 6
   },
   {
-    "text": "vleesbedrijf",
+    "text": "fresh",
     "size": 6
   },
   {
@@ -176,23 +208,15 @@
     "size": 5
   },
   {
-    "text": "keurslagerij",
+    "text": "geert",
     "size": 5
   },
   {
-    "text": "viande",
+    "text": "maison",
     "size": 5
   },
   {
-    "text": "slachthuis",
-    "size": 5
-  },
-  {
-    "text": "luc",
-    "size": 5
-  },
-  {
-    "text": "company",
+    "text": "chez",
     "size": 5
   },
   {
@@ -200,15 +224,23 @@
     "size": 5
   },
   {
-    "text": "quality",
+    "text": "steen",
     "size": 5
   },
   {
-    "text": "belgië",
+    "text": "vincent",
     "size": 5
   },
   {
-    "text": "huis",
+    "text": "trade",
+    "size": 5
+  },
+  {
+    "text": "delhaize",
+    "size": 5
+  },
+  {
+    "text": "import",
     "size": 5
   },
   {
@@ -216,7 +248,15 @@
     "size": 5
   },
   {
-    "text": "benelux",
+    "text": "horeca",
+    "size": 5
+  },
+  {
+    "text": "el",
+    "size": 5
+  },
+  {
+    "text": "dirk",
     "size": 5
   },
   {
@@ -228,10 +268,6 @@
     "size": 5
   },
   {
-    "text": "kip",
-    "size": 5
-  },
-  {
     "text": "filip",
     "size": 5
   },
@@ -240,19 +276,15 @@
     "size": 5
   },
   {
-    "text": "export",
-    "size": 4
-  },
-  {
     "text": "chicken",
     "size": 4
   },
   {
-    "text": "geert",
+    "text": "center",
     "size": 4
   },
   {
-    "text": "center",
+    "text": "chris",
     "size": 4
   },
   {
@@ -264,15 +296,11 @@
     "size": 4
   },
   {
-    "text": "chez",
-    "size": 4
-  },
-  {
-    "text": "keurslager",
-    "size": 4
-  },
-  {
     "text": "robert",
+    "size": 4
+  },
+  {
+    "text": "veehandel",
     "size": 4
   },
   {
@@ -288,10 +316,6 @@
     "size": 4
   },
   {
-    "text": "steen",
-    "size": 4
-  },
-  {
     "text": "europe",
     "size": 4
   },
@@ -300,15 +324,7 @@
     "size": 4
   },
   {
-    "text": "vincent",
-    "size": 4
-  },
-  {
     "text": "pierre",
-    "size": 4
-  },
-  {
-    "text": "delhaize",
     "size": 4
   },
   {
@@ -316,7 +332,15 @@
     "size": 4
   },
   {
+    "text": "and",
+    "size": 4
+  },
+  {
     "text": "super",
+    "size": 4
+  },
+  {
+    "text": "shop",
     "size": 4
   },
   {
@@ -325,6 +349,14 @@
   },
   {
     "text": "andre",
+    "size": 4
+  },
+  {
+    "text": "jos",
+    "size": 4
+  },
+  {
+    "text": "steven",
     "size": 4
   },
   {
@@ -344,10 +376,6 @@
     "size": 4
   },
   {
-    "text": "dirk",
-    "size": 4
-  },
-  {
     "text": "verhoeven",
     "size": 4
   },
@@ -362,6 +390,30 @@
   {
     "text": "delicatessen",
     "size": 4
+  },
+  {
+    "text": "zn",
+    "size": 4
+  },
+  {
+    "text": "christophe",
+    "size": 4
+  },
+  {
+    "text": "pauwels",
+    "size": 4
+  },
+  {
+    "text": "totaal",
+    "size": 3
+  },
+  {
+    "text": "hans",
+    "size": 3
+  },
+  {
+    "text": "export",
+    "size": 3
   },
   {
     "text": "patrick",
@@ -384,6 +436,10 @@
     "size": 3
   },
   {
+    "text": "landschoot",
+    "size": 3
+  },
+  {
     "text": "degroote",
     "size": 3
   },
@@ -396,7 +452,7 @@
     "size": 3
   },
   {
-    "text": "chris",
+    "text": "loo",
     "size": 3
   },
   {
@@ -416,15 +472,23 @@
     "size": 3
   },
   {
+    "text": "prima",
+    "size": 3
+  },
+  {
+    "text": "comptoir",
+    "size": 3
+  },
+  {
     "text": "gevogelte",
     "size": 3
   },
   {
-    "text": "paul",
+    "text": "peter",
     "size": 3
   },
   {
-    "text": "impex",
+    "text": "paul",
     "size": 3
   },
   {
@@ -433,10 +497,6 @@
   },
   {
     "text": "thomas",
-    "size": 3
-  },
-  {
-    "text": "veehandel",
     "size": 3
   },
   {
@@ -468,7 +528,7 @@
     "size": 3
   },
   {
-    "text": "debroux",
+    "text": "nick",
     "size": 3
   },
   {
@@ -481,6 +541,14 @@
   },
   {
     "text": "declerck",
+    "size": 3
+  },
+  {
+    "text": "yves",
+    "size": 3
+  },
+  {
+    "text": "metzgerei",
     "size": 3
   },
   {
@@ -500,7 +568,7 @@
     "size": 3
   },
   {
-    "text": "and",
+    "text": "belgian",
     "size": 3
   },
   {
@@ -520,10 +588,6 @@
     "size": 3
   },
   {
-    "text": "shop",
-    "size": 3
-  },
-  {
     "text": "georges",
     "size": 3
   },
@@ -532,23 +596,15 @@
     "size": 3
   },
   {
-    "text": "jos",
+    "text": "market",
     "size": 3
   },
   {
-    "text": "steven",
+    "text": "vdhoreca",
     "size": 3
   },
   {
     "text": "dl",
-    "size": 3
-  },
-  {
-    "text": "horeca",
-    "size": 3
-  },
-  {
-    "text": "el",
     "size": 3
   },
   {
@@ -557,6 +613,10 @@
   },
   {
     "text": "kris",
+    "size": 3
+  },
+  {
+    "text": "four",
     "size": 3
   },
   {
@@ -572,15 +632,15 @@
     "size": 3
   },
   {
+    "text": "oz",
+    "size": 3
+  },
+  {
+    "text": "cock",
+    "size": 3
+  },
+  {
     "text": "st",
-    "size": 3
-  },
-  {
-    "text": "zn",
-    "size": 3
-  },
-  {
-    "text": "christophe",
     "size": 3
   },
   {
@@ -596,7 +656,11 @@
     "size": 3
   },
   {
-    "text": "hans",
+    "text": "halal",
+    "size": 2
+  },
+  {
+    "text": "ter",
     "size": 2
   },
   {
@@ -624,6 +688,10 @@
     "size": 2
   },
   {
+    "text": "corporation",
+    "size": 2
+  },
+  {
     "text": "jozef",
     "size": 2
   },
@@ -632,7 +700,15 @@
     "size": 2
   },
   {
+    "text": "guy",
+    "size": 2
+  },
+  {
     "text": "aert",
+    "size": 2
+  },
+  {
+    "text": "vandecruys",
     "size": 2
   },
   {
@@ -652,7 +728,15 @@
     "size": 2
   },
   {
+    "text": "pedro",
+    "size": 2
+  },
+  {
     "text": "leonard",
+    "size": 2
+  },
+  {
+    "text": "immo",
     "size": 2
   },
   {
@@ -672,10 +756,6 @@
     "size": 2
   },
   {
-    "text": "landschoot",
-    "size": 2
-  },
-  {
     "text": "l.v.b",
     "size": 2
   },
@@ -692,6 +772,10 @@
     "size": 2
   },
   {
+    "text": "has",
+    "size": 2
+  },
+  {
     "text": "fagnarde",
     "size": 2
   },
@@ -700,7 +784,19 @@
     "size": 2
   },
   {
+    "text": "stars",
+    "size": 2
+  },
+  {
     "text": "b.m.c",
+    "size": 2
+  },
+  {
+    "text": "dubron",
+    "size": 2
+  },
+  {
+    "text": "multi",
     "size": 2
   },
   {
@@ -712,7 +808,7 @@
     "size": 2
   },
   {
-    "text": "loo",
+    "text": "verbinnen",
     "size": 2
   },
   {
@@ -728,7 +824,7 @@
     "size": 2
   },
   {
-    "text": "prima",
+    "text": "bistro",
     "size": 2
   },
   {
@@ -744,19 +840,15 @@
     "size": 2
   },
   {
-    "text": "comptoir",
-    "size": 2
-  },
-  {
-    "text": "peter",
-    "size": 2
-  },
-  {
     "text": "business",
     "size": 2
   },
   {
     "text": "bijnens",
+    "size": 2
+  },
+  {
+    "text": "impex",
     "size": 2
   },
   {
@@ -776,7 +868,15 @@
     "size": 2
   },
   {
+    "text": "beke",
+    "size": 2
+  },
+  {
     "text": "temmerman",
+    "size": 2
+  },
+  {
+    "text": "construct",
     "size": 2
   },
   {
@@ -789,6 +889,10 @@
   },
   {
     "text": "badr",
+    "size": 2
+  },
+  {
+    "text": "julien",
     "size": 2
   },
   {
@@ -824,7 +928,11 @@
     "size": 2
   },
   {
-    "text": "frozen",
+    "text": "pieter",
+    "size": 2
+  },
+  {
+    "text": "rudy",
     "size": 2
   },
   {
@@ -840,11 +948,27 @@
     "size": 2
   },
   {
+    "text": "pgmbh",
+    "size": 2
+  },
+  {
+    "text": "vanduffel",
+    "size": 2
+  },
+  {
     "text": "lieven",
     "size": 2
   },
   {
+    "text": "poppe",
+    "size": 2
+  },
+  {
     "text": "blancke",
+    "size": 2
+  },
+  {
+    "text": "star",
     "size": 2
   },
   {
@@ -868,135 +992,11 @@
     "size": 2
   },
   {
-    "text": "vanhaelemeesch",
+    "text": "solutions",
     "size": 2
   },
   {
-    "text": "vermeiren",
-    "size": 2
-  },
-  {
-    "text": "bergerie",
-    "size": 2
-  },
-  {
-    "text": "continental",
-    "size": 2
-  },
-  {
-    "text": "nick",
-    "size": 2
-  },
-  {
-    "text": "nico",
-    "size": 2
-  },
-  {
-    "text": "anseeuw",
-    "size": 2
-  },
-  {
-    "text": "vehafarm",
-    "size": 2
-  },
-  {
-    "text": "vds",
-    "size": 2
-  },
-  {
-    "text": "petruzzi",
-    "size": 2
-  },
-  {
-    "text": "dumont",
-    "size": 2
-  },
-  {
-    "text": "winter",
-    "size": 2
-  },
-  {
-    "text": "cvba",
-    "size": 2
-  },
-  {
-    "text": "int",
-    "size": 2
-  },
-  {
-    "text": "francis",
-    "size": 2
-  },
-  {
-    "text": "alimentation",
-    "size": 2
-  },
-  {
-    "text": "berghe",
-    "size": 2
-  },
-  {
-    "text": "ketels",
-    "size": 2
-  },
-  {
-    "text": "spit",
-    "size": 2
-  },
-  {
-    "text": "defrancq",
-    "size": 2
-  },
-  {
-    "text": "els",
-    "size": 2
-  },
-  {
-    "text": "yves",
-    "size": 2
-  },
-  {
-    "text": "raoul",
-    "size": 2
-  },
-  {
-    "text": "vof",
-    "size": 2
-  },
-  {
-    "text": "metzgerei",
-    "size": 2
-  },
-  {
-    "text": "monsieur",
-    "size": 2
-  },
-  {
-    "text": "l\u0027abattoir",
-    "size": 2
-  },
-  {
-    "text": "oude",
-    "size": 2
-  },
-  {
-    "text": "aelter",
-    "size": 2
-  },
-  {
-    "text": "rik",
-    "size": 2
-  },
-  {
-    "text": "kurt",
-    "size": 2
-  },
-  {
-    "text": "forte",
-    "size": 2
-  },
-  {
-    "text": "royal",
+    "text": "debroux",
     "size": 2
   }
 ]

@@ -1,11 +1,11 @@
 [
   {
     "text": "hoofdzetel",
-    "size": 868
+    "size": 871
   },
   {
     "text": "vestigingsplaats",
-    "size": 358
+    "size": 362
   },
   {
     "text": "go",
@@ -13,19 +13,23 @@
   },
   {
     "text": "institut",
-    "size": 243
+    "size": 275
   },
   {
     "text": "atheneum",
     "size": 224
   },
   {
-    "text": "ecole",
-    "size": 174
+    "text": "vzw",
+    "size": 216
   },
   {
     "text": "instituut",
-    "size": 166
+    "size": 176
+  },
+  {
+    "text": "ecole",
+    "size": 175
   },
   {
     "text": "technisch",
@@ -37,23 +41,47 @@
   },
   {
     "text": "royal",
-    "size": 145
+    "size": 149
   },
   {
     "text": "middenschool",
     "size": 136
   },
   {
+    "text": "centre",
+    "size": 122
+  },
+  {
+    "text": "maison",
+    "size": 106
+  },
+  {
+    "text": "home",
+    "size": 104
+  },
+  {
     "text": "libre",
-    "size": 92
+    "size": 93
+  },
+  {
+    "text": "residence",
+    "size": 91
+  },
+  {
+    "text": "campus",
+    "size": 85
   },
   {
     "text": "secondaire",
-    "size": 83
+    "size": 84
   },
   {
     "text": "college",
-    "size": 78
+    "size": 80
+  },
+  {
+    "text": "zorgcentrum",
+    "size": 79
   },
   {
     "text": "academie",
@@ -64,8 +92,20 @@
     "size": 74
   },
   {
-    "text": "campus",
-    "size": 67
+    "text": "woon",
+    "size": 73
+  },
+  {
+    "text": "wzc",
+    "size": 73
+  },
+  {
+    "text": "résidence",
+    "size": 73
+  },
+  {
+    "text": "ter",
+    "size": 72
   },
   {
     "text": "d\u0027enseignement",
@@ -76,11 +116,23 @@
     "size": 58
   },
   {
-    "text": "centre",
+    "text": "rusthuis",
+    "size": 57
+  },
+  {
+    "text": "st",
     "size": 54
   },
   {
     "text": "onderwijs",
+    "size": 52
+  },
+  {
+    "text": "sociale",
+    "size": 52
+  },
+  {
+    "text": "acis",
     "size": 49
   },
   {
@@ -88,44 +140,68 @@
     "size": 49
   },
   {
+    "text": "promotion",
+    "size": 47
+  },
+  {
     "text": "enseignement",
     "size": 47
   },
   {
     "text": "technique",
-    "size": 45
+    "size": 46
   },
   {
-    "text": "promotion",
-    "size": 45
+    "text": "repos",
+    "size": 44
   },
   {
     "text": "specialise",
     "size": 44
   },
   {
-    "text": "sociale",
-    "size": 42
+    "text": "vrij",
+    "size": 44
   },
   {
-    "text": "vrij",
-    "size": 42
+    "text": "notre-dame",
+    "size": 43
+  },
+  {
+    "text": "foyer",
+    "size": 41
   },
   {
     "text": "provincial",
+    "size": 41
+  },
+  {
+    "text": "wonen",
     "size": 40
+  },
+  {
+    "text": "huize",
+    "size": 40
+  },
+  {
+    "text": "maria",
+    "size": 39
+  },
+  {
+    "text": "secundair",
+    "size": 39
   },
   {
     "text": "subventionnee",
     "size": 38
   },
   {
-    "text": "secundair",
-    "size": 38
+    "text": "don",
+    "size": 37
   },
   {
-    "text": "notre-dame",
-    "size": 37
+    "text": "asbl",
+    "size": 36
   },
   {
     "text": "arts",
@@ -136,12 +212,12 @@
     "size": 35
   },
   {
-    "text": "lyceum",
+    "text": "rustoord",
     "size": 35
   },
   {
-    "text": "scolaire",
-    "size": 34
+    "text": "lyceum",
+    "size": 35
   },
   {
     "text": "fondamentale",
@@ -149,6 +225,18 @@
   },
   {
     "text": "heilig",
+    "size": 34
+  },
+  {
+    "text": "scolaire",
+    "size": 34
+  },
+  {
+    "text": "residentie",
+    "size": 33
+  },
+  {
+    "text": "verzorgingstehuis",
     "size": 32
   },
   {
@@ -160,7 +248,27 @@
     "size": 30
   },
   {
-    "text": "don",
+    "text": "bosco",
+    "size": 30
+  },
+  {
+    "text": "rvt",
+    "size": 30
+  },
+  {
+    "text": "den",
+    "size": 29
+  },
+  {
+    "text": "centrum",
+    "size": 29
+  },
+  {
+    "text": "service",
+    "size": 29
+  },
+  {
+    "text": "rust",
     "size": 29
   },
   {
@@ -168,8 +276,8 @@
     "size": 29
   },
   {
-    "text": "maria",
-    "size": 27
+    "text": "sint-jozef",
+    "size": 28
   },
   {
     "text": "cours",
@@ -180,7 +288,11 @@
     "size": 25
   },
   {
-    "text": "vzw",
+    "text": "serviceflats",
+    "size": 24
+  },
+  {
+    "text": "zusters",
     "size": 24
   },
   {
@@ -188,11 +300,19 @@
     "size": 24
   },
   {
-    "text": "st",
-    "size": 24
+    "text": "d\u0027accueil",
+    "size": 23
   },
   {
-    "text": "bosco",
+    "text": "saint",
+    "size": 23
+  },
+  {
+    "text": "hart",
+    "size": 22
+  },
+  {
+    "text": "communaute",
     "size": 22
   },
   {
@@ -200,11 +320,43 @@
     "size": 21
   },
   {
-    "text": "communaute",
-    "size": 20
+    "text": "saint-joseph",
+    "size": 21
+  },
+  {
+    "text": "fedasil",
+    "size": 21
+  },
+  {
+    "text": "jean",
+    "size": 21
   },
   {
     "text": "vrije",
+    "size": 21
+  },
+  {
+    "text": "hof",
+    "size": 20
+  },
+  {
+    "text": "beschut",
+    "size": 20
+  },
+  {
+    "text": "provinciale",
+    "size": 20
+  },
+  {
+    "text": "sint-jan",
+    "size": 19
+  },
+  {
+    "text": "dagcentrum",
+    "size": 19
+  },
+  {
+    "text": "antwerpen",
     "size": 19
   },
   {
@@ -212,15 +364,39 @@
     "size": 19
   },
   {
+    "text": "sainte-marie",
+    "size": 18
+  },
+  {
     "text": "collège",
     "size": 18
   },
   {
-    "text": "provinciale",
+    "text": "ocmw",
     "size": 18
   },
   {
-    "text": "hart",
+    "text": "provinciaal",
+    "size": 18
+  },
+  {
+    "text": "sint",
+    "size": 18
+  },
+  {
+    "text": "woonzorgcentrum",
+    "size": 18
+  },
+  {
+    "text": "providence",
+    "size": 17
+  },
+  {
+    "text": "huis",
+    "size": 17
+  },
+  {
+    "text": "ii",
     "size": 17
   },
   {
@@ -228,7 +404,15 @@
     "size": 17
   },
   {
-    "text": "sint-jan",
+    "text": "brand",
+    "size": 17
+  },
+  {
+    "text": "sint-vincentius",
+    "size": 17
+  },
+  {
+    "text": "ten",
     "size": 16
   },
   {
@@ -236,27 +420,23 @@
     "size": 16
   },
   {
-    "text": "sainte-marie",
-    "size": 16
-  },
-  {
-    "text": "jean",
-    "size": 16
-  },
-  {
-    "text": "saint-joseph",
-    "size": 16
-  },
-  {
-    "text": "asbl",
-    "size": 15
-  },
-  {
-    "text": "aso",
-    "size": 15
-  },
-  {
     "text": "katholiek",
+    "size": 16
+  },
+  {
+    "text": "internat",
+    "size": 15
+  },
+  {
+    "text": "turnhout",
+    "size": 15
+  },
+  {
+    "text": "domaine",
+    "size": 15
+  },
+  {
+    "text": "joseph",
     "size": 15
   },
   {
@@ -264,19 +444,35 @@
     "size": 15
   },
   {
-    "text": "provinciaal",
+    "text": "liege",
     "size": 15
   },
   {
-    "text": "beaux-arts",
+    "text": "section",
+    "size": 15
+  },
+  {
+    "text": "d\u0027aide",
+    "size": 15
+  },
+  {
+    "text": "dame",
+    "size": 15
+  },
+  {
+    "text": "aso",
+    "size": 15
+  },
+  {
+    "text": "gent",
+    "size": 15
+  },
+  {
+    "text": "francaise",
     "size": 14
   },
   {
-    "text": "antwerpen",
-    "size": 14
-  },
-  {
-    "text": "comite",
+    "text": "val",
     "size": 14
   },
   {
@@ -288,35 +484,27 @@
     "size": 14
   },
   {
-    "text": "section",
-    "size": 14
-  },
-  {
     "text": "hasselt",
     "size": 14
   },
   {
-    "text": "danse",
-    "size": 13
+    "text": "beaux-arts",
+    "size": 14
+  },
+  {
+    "text": "comite",
+    "size": 14
+  },
+  {
+    "text": "marie",
+    "size": 14
+  },
+  {
+    "text": "adultes",
+    "size": 14
   },
   {
     "text": "paulus",
-    "size": 13
-  },
-  {
-    "text": "francaise",
-    "size": 13
-  },
-  {
-    "text": "internat",
-    "size": 13
-  },
-  {
-    "text": "guldensporencollege",
-    "size": 13
-  },
-  {
-    "text": "liege",
     "size": 13
   },
   {
@@ -324,11 +512,55 @@
     "size": 13
   },
   {
-    "text": "zusters",
+    "text": "regina",
+    "size": 13
+  },
+  {
+    "text": "koninklijk",
+    "size": 13
+  },
+  {
+    "text": "danse",
+    "size": 13
+  },
+  {
+    "text": "guldensporencollege",
+    "size": 13
+  },
+  {
+    "text": "mater",
+    "size": 13
+  },
+  {
+    "text": "leuven",
+    "size": 13
+  },
+  {
+    "text": "ste",
+    "size": 13
+  },
+  {
+    "text": "reine",
+    "size": 13
+  },
+  {
+    "text": "onze-lieve-vrouw",
+    "size": 13
+  },
+  {
+    "text": "site",
+    "size": 13
+  },
+  {
+    "text": "petrus",
     "size": 12
   },
   {
-    "text": "turnhout",
+    "text": "dienstencentrum",
+    "size": 12
+  },
+  {
+    "text": "autonome",
     "size": 12
   },
   {
@@ -336,15 +568,19 @@
     "size": 12
   },
   {
-    "text": "gent",
-    "size": 12
-  },
-  {
-    "text": "mater",
+    "text": "nv",
     "size": 12
   },
   {
     "text": "bernardusscholen",
+    "size": 12
+  },
+  {
+    "text": "heilige",
+    "size": 12
+  },
+  {
+    "text": "jeugdzorg",
     "size": 12
   },
   {
@@ -356,15 +592,15 @@
     "size": 11
   },
   {
-    "text": "verpleegkunde",
+    "text": "woon-en",
     "size": 11
   },
   {
-    "text": "relindis",
+    "text": "association",
     "size": 11
   },
   {
-    "text": "providence",
+    "text": "fabiola",
     "size": 11
   },
   {
@@ -372,19 +608,15 @@
     "size": 11
   },
   {
-    "text": "saint",
+    "text": "mrs",
     "size": 11
   },
   {
-    "text": "d.o.a",
+    "text": "handicapés",
     "size": 11
   },
   {
     "text": "harlindis",
-    "size": 11
-  },
-  {
-    "text": "ii",
     "size": 11
   },
   {
@@ -396,7 +628,31 @@
     "size": 11
   },
   {
-    "text": "rhizo",
+    "text": "vincentius",
+    "size": 11
+  },
+  {
+    "text": "verpleegkunde",
+    "size": 11
+  },
+  {
+    "text": "relindis",
+    "size": 11
+  },
+  {
+    "text": "soins",
+    "size": 11
+  },
+  {
+    "text": "d.o.a",
+    "size": 11
+  },
+  {
+    "text": "basisschool",
+    "size": 11
+  },
+  {
+    "text": "personnes",
     "size": 10
   },
   {
@@ -404,11 +660,59 @@
     "size": 10
   },
   {
+    "text": "maternelle",
+    "size": 10
+  },
+  {
     "text": "technische",
     "size": 10
   },
   {
-    "text": "petrus",
+    "text": "services",
+    "size": 10
+  },
+  {
+    "text": "professionnel",
+    "size": 10
+  },
+  {
+    "text": "pierre",
+    "size": 10
+  },
+  {
+    "text": "stella",
+    "size": 10
+  },
+  {
+    "text": "kasog",
+    "size": 10
+  },
+  {
+    "text": "brussels",
+    "size": 10
+  },
+  {
+    "text": "rhizo",
+    "size": 10
+  },
+  {
+    "text": "kempen",
+    "size": 10
+  },
+  {
+    "text": "tehuis",
+    "size": 10
+  },
+  {
+    "text": "scholen",
+    "size": 10
+  },
+  {
+    "text": "beschermd",
+    "size": 10
+  },
+  {
+    "text": "vereniging",
     "size": 10
   },
   {
@@ -420,55 +724,67 @@
     "size": 10
   },
   {
-    "text": "professionnel",
-    "size": 10
-  },
-  {
-    "text": "stella",
-    "size": 10
-  },
-  {
     "text": "sint-lambertus",
     "size": 10
   },
   {
-    "text": "leuven",
+    "text": "m.r.s",
     "size": 10
   },
   {
-    "text": "sint-jozef",
-    "size": 10
+    "text": "moretus",
+    "size": 9
   },
   {
-    "text": "kasog",
-    "size": 10
+    "text": "seniorie",
+    "size": 9
   },
   {
-    "text": "koninklijk",
-    "size": 10
+    "text": "linde",
+    "size": 9
   },
   {
-    "text": "brussels",
-    "size": 10
+    "text": "fontaine",
+    "size": 9
+  },
+  {
+    "text": "polytechnique",
+    "size": 9
+  },
+  {
+    "text": "charles",
+    "size": 9
+  },
+  {
+    "text": "province",
+    "size": 9
+  },
+  {
+    "text": "medisch",
+    "size": 9
+  },
+  {
+    "text": "virgo",
+    "size": 9
+  },
+  {
+    "text": "mechelen",
+    "size": 9
+  },
+  {
+    "text": "voorzienigheid",
+    "size": 9
   },
   {
     "text": "sint-martinusscholen",
     "size": 9
   },
   {
-    "text": "heilige",
-    "size": 9
-  },
-  {
-    "text": "marie",
-    "size": 9
-  },
-  {
-    "text": "scholen",
-    "size": 9
-  },
-  {
     "text": "travail",
+    "size": 9
+  },
+  {
+    "text": "pedagogisch",
     "size": 9
   },
   {
@@ -484,15 +800,15 @@
     "size": 9
   },
   {
-    "text": "autonome",
+    "text": "mentaux",
     "size": 9
   },
   {
-    "text": "polytechnique",
+    "text": "air",
     "size": 9
   },
   {
-    "text": "basisschool",
+    "text": "jan",
     "size": 9
   },
   {
@@ -500,27 +816,87 @@
     "size": 9
   },
   {
-    "text": "province",
+    "text": "jour",
     "size": 9
   },
   {
-    "text": "dame",
-    "size": 9
-  },
-  {
-    "text": "onze-lieve-vrouw",
-    "size": 9
-  },
-  {
-    "text": "virgo",
-    "size": 9
-  },
-  {
-    "text": "ter",
+    "text": "the",
     "size": 8
   },
   {
-    "text": "mechelen",
+    "text": "retraite",
+    "size": 8
+  },
+  {
+    "text": "paul",
+    "size": 8
+  },
+  {
+    "text": "soeurs",
+    "size": 8
+  },
+  {
+    "text": "mpi",
+    "size": 8
+  },
+  {
+    "text": "vie",
+    "size": 8
+  },
+  {
+    "text": "hôme",
+    "size": 8
+  },
+  {
+    "text": "organisateur",
+    "size": 8
+  },
+  {
+    "text": "secundaire",
+    "size": 8
+  },
+  {
+    "text": "heide",
+    "size": 8
+  },
+  {
+    "text": "verviers",
+    "size": 8
+  },
+  {
+    "text": "handelsschool",
+    "size": 8
+  },
+  {
+    "text": "da",
+    "size": 8
+  },
+  {
+    "text": "second",
+    "size": 8
+  },
+  {
+    "text": "lier",
+    "size": 8
+  },
+  {
+    "text": "hainaut",
+    "size": 8
+  },
+  {
+    "text": "afdeling",
+    "size": 8
+  },
+  {
+    "text": "coeur",
+    "size": 8
+  },
+  {
+    "text": "familie",
+    "size": 8
+  },
+  {
+    "text": "jardins",
     "size": 8
   },
   {
@@ -528,7 +904,7 @@
     "size": 8
   },
   {
-    "text": "moretus",
+    "text": "sancta",
     "size": 8
   },
   {
@@ -537,6 +913,14 @@
   },
   {
     "text": "handels",
+    "size": 8
+  },
+  {
+    "text": "enfants",
+    "size": 8
+  },
+  {
+    "text": "ville",
     "size": 8
   },
   {
@@ -552,19 +936,15 @@
     "size": 8
   },
   {
+    "text": "saint-jean",
+    "size": 8
+  },
+  {
+    "text": "ada",
+    "size": 8
+  },
+  {
     "text": "scheppersinstituut",
-    "size": 8
-  },
-  {
-    "text": "organisateur",
-    "size": 8
-  },
-  {
-    "text": "secundaire",
-    "size": 8
-  },
-  {
-    "text": "verviers",
     "size": 8
   },
   {
@@ -572,11 +952,11 @@
     "size": 8
   },
   {
-    "text": "handelsschool",
+    "text": "mons",
     "size": 8
   },
   {
-    "text": "charles",
+    "text": "genk",
     "size": 8
   },
   {
@@ -584,419 +964,39 @@
     "size": 8
   },
   {
-    "text": "second",
-    "size": 8
-  },
-  {
-    "text": "sint-vincentius",
-    "size": 8
-  },
-  {
-    "text": "maternelle",
-    "size": 7
-  },
-  {
-    "text": "onze-lieve-vrouwinstituut",
-    "size": 7
-  },
-  {
-    "text": "pius",
-    "size": 7
-  },
-  {
-    "text": "voorzienigheid",
-    "size": 7
-  },
-  {
-    "text": "scholengroep",
-    "size": 7
-  },
-  {
-    "text": "sancta",
-    "size": 7
-  },
-  {
-    "text": "hoger",
-    "size": 7
-  },
-  {
-    "text": "immaculata",
-    "size": 7
-  },
-  {
-    "text": "robert",
-    "size": 7
-  },
-  {
-    "text": "spectrumcollege",
-    "size": 7
-  },
-  {
-    "text": "ville",
-    "size": 7
-  },
-  {
-    "text": "middelbare",
-    "size": 7
-  },
-  {
-    "text": "saint-jean",
-    "size": 7
-  },
-  {
-    "text": "centrum",
-    "size": 7
-  },
-  {
-    "text": "prizma",
-    "size": 7
-  },
-  {
-    "text": "genk",
-    "size": 7
-  },
-  {
     "text": "deinze",
-    "size": 7
+    "size": 8
   },
   {
-    "text": "oostende",
-    "size": 7
+    "text": "social",
+    "size": 8
   },
   {
-    "text": "sec",
-    "size": 7
+    "text": "accueil",
+    "size": 8
   },
   {
-    "text": "da",
-    "size": 7
-  },
-  {
-    "text": "mb",
-    "size": 7
-  },
-  {
-    "text": "ms",
-    "size": 7
-  },
-  {
-    "text": "gemeenschapsonderwijs",
-    "size": 7
-  },
-  {
-    "text": "ste",
-    "size": 7
-  },
-  {
-    "text": "regina",
-    "size": 7
+    "text": "l\u0027enfance",
+    "size": 8
   },
   {
     "text": "communauté",
-    "size": 7
-  },
-  {
-    "text": "brugge",
-    "size": 7
+    "size": 8
   },
   {
     "text": "vinci",
+    "size": 8
+  },
+  {
+    "text": "jozef",
     "size": 7
   },
   {
-    "text": "techniques",
+    "text": "ldc",
     "size": 7
   },
   {
-    "text": "professionnels",
-    "size": 6
-  },
-  {
-    "text": "kta",
-    "size": 6
-  },
-  {
-    "text": "onze-lieve-vrouwcollege",
-    "size": 6
-  },
-  {
-    "text": "sint-jozefsinstituut",
-    "size": 6
-  },
-  {
-    "text": "sint-michielscollege",
-    "size": 6
-  },
-  {
-    "text": "prof",
-    "size": 6
-  },
-  {
-    "text": "dei",
-    "size": 6
-  },
-  {
-    "text": "d\u0027ens",
-    "size": 6
-  },
-  {
-    "text": "metiers",
-    "size": 6
-  },
-  {
-    "text": "maris",
-    "size": 6
-  },
-  {
-    "text": "pedagogisch",
-    "size": 6
-  },
-  {
-    "text": "kcst",
-    "size": 6
-  },
-  {
-    "text": "herstal",
-    "size": 6
-  },
-  {
-    "text": "berchmanscollege",
-    "size": 6
-  },
-  {
-    "text": "diest",
-    "size": 6
-  },
-  {
-    "text": "catholique",
-    "size": 6
-  },
-  {
-    "text": "thuin",
-    "size": 6
-  },
-  {
-    "text": "hotelschool",
-    "size": 6
-  },
-  {
-    "text": "air",
-    "size": 6
-  },
-  {
-    "text": "seminarie",
-    "size": 6
-  },
-  {
-    "text": "jan",
-    "size": 6
-  },
-  {
-    "text": "saint-laurent",
-    "size": 6
-  },
-  {
-    "text": "sint-franciscuscollege",
-    "size": 6
-  },
-  {
-    "text": "edugo",
-    "size": 6
-  },
-  {
-    "text": "mons",
-    "size": 6
-  },
-  {
-    "text": "française",
-    "size": 6
-  },
-  {
-    "text": "st-joseph",
-    "size": 6
-  },
-  {
-    "text": "kunsthumaniora",
-    "size": 6
-  },
-  {
-    "text": "athénée",
-    "size": 6
-  },
-  {
-    "text": "athenée",
-    "size": 6
-  },
-  {
-    "text": "sint-jozefinstituut",
-    "size": 6
-  },
-  {
-    "text": "commerciaux",
-    "size": 6
-  },
-  {
-    "text": "dendermonde",
-    "size": 6
-  },
-  {
-    "text": "sint-norbertusinstituut",
-    "size": 6
-  },
-  {
-    "text": "medisch",
-    "size": 6
-  },
-  {
-    "text": "dépaysement",
-    "size": 5
-  },
-  {
-    "text": "kapellen",
-    "size": 5
-  },
-  {
-    "text": "floreffe",
-    "size": 5
-  },
-  {
-    "text": "fidelisinstituut",
-    "size": 5
-  },
-  {
-    "text": "industriels",
-    "size": 5
-  },
-  {
-    "text": "berchmansinstituut",
-    "size": 5
-  },
-  {
-    "text": "halle",
-    "size": 5
-  },
-  {
-    "text": "pottelberg",
-    "size": 5
-  },
-  {
-    "text": "domein",
-    "size": 5
-  },
-  {
-    "text": "sint-michiel",
-    "size": 5
-  },
-  {
-    "text": "tournai",
-    "size": 5
-  },
-  {
-    "text": "séminaire",
-    "size": 5
-  },
-  {
-    "text": "saint-luc",
-    "size": 5
-  },
-  {
-    "text": "knokke",
-    "size": 5
-  },
-  {
-    "text": "saint-andré",
-    "size": 5
-  },
-  {
-    "text": "hiëronymus",
-    "size": 5
-  },
-  {
-    "text": "aalst",
-    "size": 5
-  },
-  {
-    "text": "beroepsonderwijs",
-    "size": 5
-  },
-  {
-    "text": "d\u0027uccle",
-    "size": 5
-  },
-  {
-    "text": "sint-paulusinstituut",
-    "size": 5
-  },
-  {
-    "text": "onze-lieve-vrouw-presentatie",
-    "size": 5
-  },
-  {
-    "text": "brug",
-    "size": 5
-  },
-  {
-    "text": "etablissement",
-    "size": 5
-  },
-  {
-    "text": "aumoniers",
-    "size": 5
-  },
-  {
-    "text": "implantation",
-    "size": 5
-  },
-  {
-    "text": "fondamental",
-    "size": 5
-  },
-  {
-    "text": "saint-martin",
-    "size": 5
-  },
-  {
-    "text": "d\u0027ixelles",
-    "size": 5
-  },
-  {
-    "text": "sint-godelieve",
-    "size": 5
-  },
-  {
-    "text": "ukkel",
-    "size": 5
-  },
-  {
-    "text": "x-instituut",
-    "size": 5
-  },
-  {
-    "text": "dames",
-    "size": 5
-  },
-  {
-    "text": "joseph",
-    "size": 5
-  },
-  {
-    "text": "stedelijke",
-    "size": 5
-  },
-  {
-    "text": "jules",
-    "size": 5
-  },
-  {
-    "text": "rene",
-    "size": 5
-  },
-  {
-    "text": "boomgaard",
-    "size": 5
-  },
-  {
-    "text": "sint-ursula-instituut",
-    "size": 5
+    "text": "sint-truiden",
+    "size": 7
   }
 ]
