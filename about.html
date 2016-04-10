@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8"/>
-    <title>InfoFish - Visualisation</title>
+    <title>InfoFish - About</title>
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="57x57" href="img/icon/apple-icon-57x57.png">
@@ -35,6 +35,7 @@
     <script src="libraries/d3.tip.js"></script>
   </head/>
   <body id="page-top">
+      <div id="wrapper">
       <nav class="navbar navbar-default navbar-fixed-top">
           <div class="container">
               <!-- Brand and toggle get grouped for better mobile display -->
@@ -52,13 +53,13 @@
               <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                   <ul class="nav navbar-nav navbar-right">
                       <li class="page-scroll">
-                          <a class="active" href="index.html">Visualisation</a>
+                          <a href="index.html">Visualisation</a>
                       </li>
                       <li class="page-scroll">
                           <a href="circkepacking.html">Circle Packing</a>
                       </li>
                       <li class="page-scroll">
-                          <a href="about.html">About</a>
+                          <a class="active" href="about.html">About</a>
                       </li>
                   </ul>
               </div>
@@ -69,46 +70,34 @@
 
 <!-- Main content -->
       <div class="container-fluid" id="content">
-        <div class="content-title container" style="display:none;">
+        <div class="content-title container">
             <div class="row">
                 <div class="col-sm-9 col-xs-12">
-                    <h2>Main Vis<h2>
-                </div>
-                <div class="col-sm-3 hidden-xs" style="margin-top: 15px;">
-                    <div class="input-group">
-                      <input type="text" class="form-control" placeholder="Search for...">
-                      <span class="input-group-btn">
-                        <button class="btn btn-default" type="button">Go!</button>
-                      </span>
-                    </div><!-- /input-group -->
+                    <h2 style="color:#333;">About<h2>
                 </div>
             </div>
         </div>
         <!-- Visualisation -->
-        <div class="row">
-            <div class="col-sm-12">
-
-                <!-- Wordclouds -->
-                <div id="wordcloud" class="col-xs-6">
-                    <script src="libraries/d3.layout.cloud.js"></script>
-                    <script src="infofish.wordcloud.js"></script>
-                    <script>
-                        var wordcloud = wordCloud();
-                        updateCloud("root");
-                    </script>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <p>This website is dedicated to the result of a school
+                        assignment, based on the data from Visualization of
+                        The Crossroads Bank for Enterprises (BCE/KBO)
+                    </p>
+                    <ul>
+                        <li>Data source:
+                            <a href="http://economie.fgov.be/nl/ondernemingen/KBO/#.Vwo7bPmLSbh" target="_blank">
+                                http://economie.fgov.be/nl/ondernemingen/KBO/#.Vwo7bPmLSbh
+                            </a>
+                        </li>
+                    </ul>
+                    <p><img src="img/infofish.png" height="400px;"/></p>
                 </div>
-
-                <!-- Zoomable Circle Packing -->
-                <div id="sunburst" class="navigation col-xs-6">
-                    <div id="sequence"></div>
-                    <div id="chart"></div>
-                    <script src="infofish.sunburst.js"></script>
-                </div>
-
             </div>
         </div>
       </div>
-
+    </div>
     <!-- Footer -->
     <footer>
         <div class="container">
