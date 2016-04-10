@@ -271,12 +271,13 @@ function updateBreadcrumbs(nodeArray, percentageString) {
     // Remove exiting nodes.
     g.exit().remove();
     // Now move and update the percentage at the end.
-    d3.select("#trail").select("#endlabel")
+    
+/*    d3.select("#trail").select("#endlabel")
             .attr("x", (nodeArray.length + 0.5) * (b.w + b.s))
             .attr("y", b.h / 2)
             .attr("dy", "0.35em")
             .attr("text-anchor", "middle")
-            .text(percentageString);
+           .text(percentageString);*/
     // Make the breadcrumb trail visible, if it's hidden.
     d3.select("#trail")
             .style("visibility", "");
