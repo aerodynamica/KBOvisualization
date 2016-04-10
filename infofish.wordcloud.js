@@ -18,7 +18,7 @@ function wordCloud() {
         .attr("width", cwidth)
         .attr("height", cheight)
         .append("g")
-        .attr("transform", "translate(350,350)");
+        .attr("transform", "translate("+cwidth/2+","+cheight/2+")");
 
     //Draw the word cloud
     function draw(words) {
