@@ -28,7 +28,8 @@ var mainGroup = svg.append("g")
 var partition = d3.layout.partition()
         .value(function (d) {
             return 1;
-        });
+        })
+        .sort(null);
 
 var arc = d3.svg.arc()
         .startAngle(function (d) {
