@@ -277,7 +277,20 @@ function updateBreadcrumbs(nodeArray, percentageString) {
     entering.append("svg:polygon")
             .attr("points", breadcrumbPoints)
             .style("fill", function (d) {
-                return color(d.Code);
+                //return color(d.Code);
+                if(typeof d.parent === 'undefined')
+                    return "#ffffff";
+                else if(d.parent.Code == "root") {
+                    d.Color = color(d.Code);
+                    return d.Color;
+                } else {
+                    if(d.depth %2 == 0)
+                        d.Color = d3.rgb(d.parent.Color).darker(d.Code %10 / 10);
+                    else {
+                        d.Color = d3.rgb(d.parent.Color).brighter(d.Code %10 / 10);
+                    }
+                    return d.Color;
+                }
             });
     entering.append("svg:text")
             .attr("x", (b.w + b.t) / 2)
