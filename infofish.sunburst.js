@@ -5,8 +5,8 @@
 
  // Dimensions of sunburst.
  // Check if variables already defined somewhere, otherwise default value
- var width = (typeof width !== 'undefined')? width : window.innerWidth/2 - 100;
- var height = (typeof height !== 'undefined')? height : window.innerWidth/2 - 100;
+ var width = (typeof width !== 'undefined')? width : window.innerWidth/2 - 50;
+ var height = (typeof height !== 'undefined')? height : window.innerWidth/2 - 50;
 var radius = (Math.min(width, height) / 2) - 10;
 
 // Breadcrumb dimensions: width, height, spacing, width of tip/tail.
@@ -28,8 +28,7 @@ var mainGroup = svg.append("g")
 var partition = d3.layout.partition()
         .value(function (d) {
             return 1;
-        })
-        .sort(null);
+        });
 
 var arc = d3.svg.arc()
         .startAngle(function (d) {
@@ -90,11 +89,33 @@ d3.json("activitiesAug.json", function (error, root) {
             .enter().append("path")
             .attr("d", arc)
             .style("fill", function (d) {
+                if(typeof d.parent === 'undefined')
+                    return "#ffffff";
+                else if(d.parent.Code == "root") {
+                    d.Color = color(d.Code);
+                    return d.Color;
+                } else {
+                    if(d.depth %2 == 0)
+                        d.Color = d3.rgb(d.parent.Color).darker(d.Code %10 / 10);
+                    else {
+                        d.Color = d3.rgb(d.parent.Color).brighter(d.Code %10 / 10);
+                    }
+                    return d.Color;
+                }
+                /*
                 var path = getAncestors(d);
-                if (path[0])
-                    return color(path[0].Code);
-                else
-                    return color((d.children ? d : d.parent).Code);
+                if (path[0]) {
+                    console.log(path[0]);
+                        //return color(path[0].Code);
+                        console.log(d);
+                        d.Color = color(d.parent.Color);
+                        return d.Color;
+
+                }
+                else {
+                    d.Color = color((d.children ? d : d.parent).Code);
+                    return d.Color;
+                }*/
             })
             .on("mouseover",mouseover)
             .on("mouseout", mouseout)
@@ -107,6 +128,7 @@ d3.json("activitiesAug.json", function (error, root) {
     totalSize = path.node().__data__.value;
     function click(d) {
         updateCloud(d.Code);
+        updateBars(d.Code, d.Color);
         node = d;
         isChanging = true;
         path.transition()
@@ -224,9 +246,10 @@ function initializeBreadcrumbTrail() {
             .attr("height", 50)
             .attr("id", "trail");
     // Add the label at the end, for the percentage.
-    trail.append("svg:text")
+    // No percentage
+    /*trail.append("svg:text")
             .attr("id", "endlabel")
-            .style("fill", "#000");
+            .style("fill", "#000");*/
 }
 // Generate a string that describes the points of a breadcrumb polygon.
 function breadcrumbPoints(d, i) {
@@ -271,13 +294,12 @@ function updateBreadcrumbs(nodeArray, percentageString) {
     // Remove exiting nodes.
     g.exit().remove();
     // Now move and update the percentage at the end.
-    
-/*    d3.select("#trail").select("#endlabel")
+    d3.select("#trail").select("#endlabel")
             .attr("x", (nodeArray.length + 0.5) * (b.w + b.s))
             .attr("y", b.h / 2)
             .attr("dy", "0.35em")
             .attr("text-anchor", "middle")
-           .text(percentageString);*/
+            .text(percentageString);
     // Make the breadcrumb trail visible, if it's hidden.
     d3.select("#trail")
             .style("visibility", "");

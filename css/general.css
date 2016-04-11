@@ -19,7 +19,7 @@ body{
 h1,h2,h3,h4,h5,h6{
 	font-family: 'Open Sans', sans-serif;
     font-weight:100;
-    color: #ffffff;
+    color: #333;
 }
 
 a,
@@ -267,6 +267,31 @@ g.tooltip:not(.css) { fill:currentColor; }
 #percentage {
   font-size: 2.5em;
 }
+
+
+/** Barchart **/
+.bar {
+	fill: steelblue;
+  }
+
+  .bar:hover {
+	fill: brown;
+  }
+
+  .axis {
+	font: 10px sans-serif;
+  }
+
+  .axis path,
+  .axis line {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+  }
+
+  .x.axis path {
+	display: none;
+  }
 
  /*--------------------
  -----  Footer  -------

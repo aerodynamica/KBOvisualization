@@ -86,28 +86,47 @@
         </div>
         <!-- Visualisation -->
         <div class="row">
-            <div class="col-sm-12">
+            <!-- Wordclouds -->
+            <div id="wordcloud" class="col-xs-6">
+                <script src="libraries/d3.layout.cloud.js"></script>
+                <script src="infofish.wordcloud.js"></script>
+                <script>
+                    var wordcloud = wordCloud();
+                    updateCloud("root");
+                </script>
+            </div>
 
-                <!-- Wordclouds -->
-                <div id="wordcloud" class="col-xs-6">
-                    <script src="libraries/d3.layout.cloud.js"></script>
-                    <script src="infofish.wordcloud.js"></script>
-                    <script>
-                        var wordcloud = wordCloud();
-                        updateCloud("root");
-                    </script>
-                </div>
+            <!-- Zoomable Circle Packing -->
+            <div id="sunburst" class="navigation col-xs-6">
+                <div id="sequence"></div>
+                <div id="chart"></div>
+                <script src="infofish.sunburst.js"></script>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-11">
 
-                <!-- Zoomable Circle Packing -->
-                <div id="sunburst" class="navigation col-xs-6">
-                    <div id="sequence"></div>
-                    <div id="chart"></div>
-                    <script src="infofish.sunburst.js"></script>
+                <!-- top juridical forms -->
+                <script src="infofish.horizontal-bar.js"></script>
+                <script>
+                var juridicalForms = juridicalForms();
+                    updateBars("root", "steelblue");
+                </script>
+                <h4> Top 5 Juridical Forms</h4>
+                <div id="barchart">
                 </div>
 
             </div>
         </div>
       </div>
+      <div class="row">
+          <div class="col-sm-11">
+
+              <br/>
+
+          </div>
+      </div>
+    </div>
 
     <!-- Footer -->
     <footer>
