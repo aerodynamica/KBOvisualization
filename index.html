@@ -33,8 +33,27 @@
     <!-- Javascript -->
     <script src="http://d3js.org/d3.v3.min.js"></script>
     <script src="libraries/d3.tip.js"></script>
+	<script>
+		function decompress(){
+			var xmlhttp = new XMLHttpRequest();
+			var url = "data/entities_reform3.json.gz";
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+					var myArr = JSON.parse(xmlhttp.responseText);
+					myFunction(myArr);
+				}
+			};
+			xmlhttp.open("GET", url, true);
+			xmlhttp.send();
+		}
+		
+		function myFunction(data){
+			console.log(data);
+		}
+	</script>
   </head/>
-  <body id="page-top">
+  <body id="page-top" onload="decompress()">
       <nav class="navbar navbar-default navbar-fixed-top">
           <div class="container">
               <!-- Brand and toggle get grouped for better mobile display -->
