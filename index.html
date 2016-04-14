@@ -42,8 +42,8 @@
 				if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
 					var test = xmlhttp.responseText.substring(0, 50);
 					console.log(test);
-					var myArr = JSON.parse(xmlhttp.responseText);
-					myFunction(myArr);
+					//var myArr = JSON.parse(xmlhttp.responseText);
+					//myFunction(myArr);
 				}
 			};
 			xmlhttp.open("GET", url, true);
