@@ -6,7 +6,6 @@
  // Check if variables already defined somewhere, otherwise default value
  var cwidth = (typeof width !== 'undefined')? width : window.innerWidth/2 - 100;
  var cheight = (typeof height !== 'undefined')? height : window.innerWidth/2 - 100;
-var firstWord;
 
 // Encapsulate the word cloud functionality
 function wordCloud() {
@@ -29,7 +28,7 @@ function wordCloud() {
         cloud.enter()
             .append("text")
             .style("font-family", "Impact")
-            .style("fill", function(d, i) { return fill(i); })
+            .style("fill", function(d) { return fill(d.category); })
             .attr("text-anchor", "middle")
             .attr('font-size', 1)
             .text(function(d) { return d.text; });
@@ -61,8 +60,7 @@ function wordCloud() {
         //The outside world will need to call this function, so make it part
         // of the wordCloud return value.
         update: function(words) {
-            words = words.filter(isValidWord);
-            firstWord = words[0].text;
+            //words = words.filter(isValidWord);
 
             var scale = d3.scale.linear()
                     .domain(d3.extent(words,function(d) { return d.size; }))
