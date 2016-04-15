@@ -1,1002 +1,1252 @@
 [
   {
     "text": "agri",
-    "size": 16
+    "size": 15,
+    "category": "ander"
   },
   {
     "text": "ferme",
-    "size": 16
+    "size": 15,
+    "category": "ander"
   },
   {
     "text": "luc",
-    "size": 8
-  },
-  {
-    "text": "lv",
-    "size": 7
+    "size": 8,
+    "category": "voornaam man"
   },
   {
     "text": "sagr",
-    "size": 7
-  },
-  {
-    "text": "tom",
-    "size": 6
-  },
-  {
-    "text": "jardins",
-    "size": 6
+    "size": 7,
+    "category": "rechtsvorm"
   },
   {
     "text": "den",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "agro",
-    "size": 5
+    "text": "tom",
+    "size": 6,
+    "category": "voornaam man"
   },
   {
-    "text": "bvba",
-    "size": 5
+    "text": "jardins",
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "legrand",
-    "size": 5
-  },
-  {
-    "text": "kris",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "philippe",
-    "size": 5
+    "size": 5,
+    "category": "voornaam man"
   },
   {
-    "text": "tuinen",
-    "size": 5
+    "text": "bvba",
+    "size": 5,
+    "category": "rechtsvorm"
   },
   {
     "text": "nijs",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "landbouwvennootschap",
-    "size": 4
-  },
-  {
-    "text": "mathieu",
-    "size": 4
-  },
-  {
-    "text": "sébastien",
-    "size": 4
-  },
-  {
-    "text": "thomas",
-    "size": 4
-  },
-  {
-    "text": "looveren",
-    "size": 4
+    "text": "kris",
+    "size": 4,
+    "category": "voornaam"
   },
   {
     "text": "johan",
-    "size": 4
+    "size": 4,
+    "category": "voornaam"
+  },
+  {
+    "text": "lv",
+    "size": 4,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "tuinen",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "bart",
-    "size": 4
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "pierre",
-    "size": 3
+    "size": 3,
+    "category": "voornaam"
   },
   {
     "text": "yves",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
-    "text": "jozef",
-    "size": 3
+    "text": "agro",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "pirlot",
-    "size": 3
+    "text": "thomas",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
-    "text": "jardin",
-    "size": 3
-  },
-  {
-    "text": "david",
-    "size": 3
-  },
-  {
-    "text": "agricole",
-    "size": 3
+    "text": "mathieu",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "vert",
-    "size": 3
-  },
-  {
-    "text": "bio",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "devos",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "looveren",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "jozef",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "jm",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "grondwerken",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "nv",
-    "size": 3
-  },
-  {
-    "text": "thierry",
-    "size": 3
+    "text": "pirlot",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "jean",
-    "size": 3
+    "size": 3,
+    "category": "voornaam"
   },
   {
-    "text": "françois",
-    "size": 3
+    "text": "sébastien",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "jardin",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "pascal",
-    "size": 3
+    "size": 3,
+    "category": "voornaam"
   },
   {
     "text": "emmanuel",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
-    "text": "saint",
-    "size": 2
-  },
-  {
-    "text": "germain",
-    "size": 2
-  },
-  {
-    "text": "benjamin",
-    "size": 2
-  },
-  {
-    "text": "patrick",
-    "size": 2
-  },
-  {
-    "text": "société",
-    "size": 2
-  },
-  {
-    "text": "vanneste",
-    "size": 2
-  },
-  {
-    "text": "sprl",
-    "size": 2
-  },
-  {
-    "text": "landbouwbedrijf",
-    "size": 2
-  },
-  {
-    "text": "laurent",
-    "size": 2
-  },
-  {
-    "text": "laurens",
-    "size": 2
-  },
-  {
-    "text": "engels",
-    "size": 2
-  },
-  {
-    "text": "try",
-    "size": 2
-  },
-  {
-    "text": "véronique",
-    "size": 2
-  },
-  {
-    "text": "vlasbedrijf",
-    "size": 2
-  },
-  {
-    "text": "descamps",
-    "size": 2
-  },
-  {
-    "text": "martin",
-    "size": 2
-  },
-  {
-    "text": "meulemeester",
-    "size": 2
-  },
-  {
-    "text": "geert",
-    "size": 2
-  },
-  {
-    "text": "kristof",
-    "size": 2
-  },
-  {
-    "text": "ward",
-    "size": 2
-  },
-  {
-    "text": "services",
-    "size": 2
-  },
-  {
-    "text": "elevage",
-    "size": 2
-  },
-  {
-    "text": "d\u0027heure",
-    "size": 2
-  },
-  {
-    "text": "bernard",
-    "size": 2
-  },
-  {
-    "text": "wauters",
-    "size": 2
-  },
-  {
-    "text": "remy",
-    "size": 2
-  },
-  {
-    "text": "wim",
-    "size": 2
-  },
-  {
-    "text": "manege",
-    "size": 2
-  },
-  {
-    "text": "desmedt",
-    "size": 2
+    "text": "david",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "tuinaanleg",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "scs",
-    "size": 2
+    "size": 2,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "agricole",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "entreprise",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "galant",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "wilmus",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "corinne",
-    "size": 2
+    "text": "benjamin",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "olivier",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "marie",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
-    "text": "julien",
-    "size": 2
+    "text": "patrick",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "bio",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "vanneste",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "robert",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
-    "text": "dirk",
-    "size": 2
+    "text": "sprl",
+    "size": 2,
+    "category": "rechtsvorm"
   },
   {
-    "text": "lapierre",
-    "size": 2
+    "text": "laurent",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "engels",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "moyaerts",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "joly",
-    "size": 2
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "try",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "nv",
+    "size": 2,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "véronique",
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "descamps",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "bert",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "martin",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "meulemeester",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "kristof",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "henrot",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "christian",
-    "size": 2
+    "text": "ward",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "services",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "thierry",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "d\u0027heure",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bernard",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "annick",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "dervaux",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "wauters",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "nicolas",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "remy",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "wijnants",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "françois",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "frederic",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
-    "text": "landbouw",
-    "size": 2
+    "text": "wim",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "desmedt",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "debruyne",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "borieux",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "comauco",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "projects",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vanheeswyck",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ferrieres",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "christel",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "cérès",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "annemie",
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "nickmans",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "beddings",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hondekyn",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "dewicke",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "stedeva",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lux",
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "feijter",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "paddegat",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sagesse",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "barre",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "ren-do-fruit",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "lohnunternehmen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "meulenhuys",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "farm",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "moerman",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ter",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "matagri",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bilt",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dinant",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "groentegeweld",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "knapen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "cdv",
-    "size": 1
+    "text": "swennen",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "bjorn",
-    "size": 1
+    "text": "christine",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "pattes",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "logisch",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "plant",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "delhaye",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hof",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "hayois",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "maertens",
-    "size": 1
+    "text": "spruytte",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "frank",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "precisplan",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "wolfcarius",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vande",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "teillage",
-    "size": 1
+    "text": "geerts",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "deceuninck",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "hans",
-    "size": 1
+    "text": "isabelle",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "torreele",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "baudoin",
-    "size": 1
-  },
-  {
-    "text": "rembert",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "bouche",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "peter",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "sauer",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "delvin",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "batis-moi",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "fleur-couleur",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "willy",
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "declercq",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "deau",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "leuragri",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "landbouwuitbating",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vanwynsberghe",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "masson",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "storken",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "cornu",
-    "size": 1
+    "text": "mind",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "saint",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "business",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "akker",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ambrozijn",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "co",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "demey",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vanderstraeten",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "marnix",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "mathias",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "constantin",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "degand",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "laerhof",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hupé",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "germain",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "symbiose",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "paul",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "decroly",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "detroz",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "renders",
-    "size": 1
+    "text": "bel-air",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "koolmees",
-    "size": 1
+    "text": "mosterdzaadje",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "terre",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "deman",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "daneels",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "antoon",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "gossart",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "koenraad",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "horticulture",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "myriam",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "caballo",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bex",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "culivair",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "reginald",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "sneygaertshoeve",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "casier",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "michel",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "ines",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "focquaert",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "maele",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "zonen",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "andres",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "els",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "moureaux",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lucht",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "croizelée",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dewaele",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "scri",
-    "size": 1
+    "size": 1,
+    "category": "rechtsvorm"
   },
   {
-    "text": "herdertje",
-    "size": 1
+    "text": "decovar",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "jeanne",
-    "size": 1
+    "text": "neven",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "degecentrum",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "patteeuw",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gallée",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "goffin",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "lindt",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "freddy",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "production",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "biosmose",
-    "size": 1
+    "text": "corinne",
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "delphine",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "petillon",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vof",
-    "size": 1
+    "size": 1,
+    "category": "rechtsvorm"
   },
   {
     "text": "picard-jans",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "decker-verstraeten",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "maeseneer",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "terra-c",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "devalin",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "f-x",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "electro",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bylois",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "i4c",
-    "size": 1
+    "text": "petit",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "verveine",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "company",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "maria",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "boelen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "delcourt",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "wuyts-mb",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "smet-van",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "hendrik",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
-    "text": "leme",
-    "size": 1
+    "text": "société",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "traiteur",
-    "size": 1
+    "text": "gontran",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "six",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tieghem",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vanackere",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "walleghem",
-    "size": 1
+    "text": "lanssens",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "evolution",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "naert",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "michael",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "helaers",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "dewitte",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "service",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vandendriessche-cremelie",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gauthier",
-    "size": 1
-  },
-  {
-    "text": "prealle",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "pirlet",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tuinwerken",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "graindorge",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "horsten",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vandewalle",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "torreele-plomteux",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "adrien",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
-    "text": "vervloet",
-    "size": 1
+    "text": "heinrich",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "intertraxx",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "expert",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "baes",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "voedsel",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "vrins",
-    "size": 1
+    "text": "davreux",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "hempgreen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "guillaume",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "segers",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "veerle",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "kery",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "herman",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "marlène",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "wizzwizz",
-    "size": 1
-  },
-  {
-    "text": "handelskwekerij",
-    "size": 1
-  },
-  {
-    "text": "epi",
-    "size": 1
-  },
-  {
-    "text": "ronny",
-    "size": 1
-  },
-  {
-    "text": "debuysscher",
-    "size": 1
-  },
-  {
-    "text": "budts",
-    "size": 1
-  },
-  {
-    "text": "trappeniers",
-    "size": 1
-  },
-  {
-    "text": "kleinfruit",
-    "size": 1
-  },
-  {
-    "text": "houben-menten",
-    "size": 1
-  },
-  {
-    "text": "pelkmans",
-    "size": 1
-  },
-  {
-    "text": "savoir",
-    "size": 1
-  },
-  {
-    "text": "frères",
-    "size": 1
-  },
-  {
-    "text": "coudeville",
-    "size": 1
-  },
-  {
-    "text": "koen",
-    "size": 1
-  },
-  {
-    "text": "jean-françois",
-    "size": 1
-  },
-  {
-    "text": "moncheau",
-    "size": 1
-  },
-  {
-    "text": "guy",
-    "size": 1
-  },
-  {
-    "text": "aqualotus",
-    "size": 1
-  },
-  {
-    "text": "s.m.v",
-    "size": 1
-  },
-  {
-    "text": "bock",
-    "size": 1
-  },
-  {
-    "text": "pecquereau",
-    "size": 1
-  },
-  {
-    "text": "groentehart",
-    "size": 1
-  },
-  {
-    "text": "guytenaer",
-    "size": 1
-  },
-  {
-    "text": "walter",
-    "size": 1
-  },
-  {
-    "text": "delvaux",
-    "size": 1
-  },
-  {
-    "text": "vanovertveldt",
-    "size": 1
-  },
-  {
-    "text": "damien",
-    "size": 1
-  },
-  {
-    "text": "haras",
-    "size": 1
-  },
-  {
-    "text": "dantinne-labye",
-    "size": 1
-  },
-  {
-    "text": "roderic",
-    "size": 1
-  },
-  {
-    "text": "saveurs",
-    "size": 1
-  },
-  {
-    "text": "hulsbosch",
-    "size": 1
-  },
-  {
-    "text": "deraux",
-    "size": 1
-  },
-  {
-    "text": "b.klean",
-    "size": 1
-  },
-  {
-    "text": "cedic",
-    "size": 1
-  },
-  {
-    "text": "callens",
-    "size": 1
-  },
-  {
-    "text": "roland",
-    "size": 1
-  },
-  {
-    "text": "jean-claude",
-    "size": 1
-  },
-  {
-    "text": "lamerant",
-    "size": 1
-  },
-  {
-    "text": "agriterrassement",
-    "size": 1
-  },
-  {
-    "text": "paardenmelkerij",
-    "size": 1
-  },
-  {
-    "text": "arne",
-    "size": 1
-  },
-  {
-    "text": "buttiens",
-    "size": 1
-  },
-  {
-    "text": "vue",
-    "size": 1
-  },
-  {
-    "text": "ajoat",
-    "size": 1
-  },
-  {
-    "text": "finest",
-    "size": 1
-  },
-  {
-    "text": "pierre-henri",
-    "size": 1
-  },
-  {
-    "text": "eta",
-    "size": 1
-  },
-  {
-    "text": "boer",
-    "size": 1
-  },
-  {
-    "text": "vercruysse",
-    "size": 1
-  },
-  {
-    "text": "tuinarchitectuur-tuinwerken",
-    "size": 1
-  },
-  {
-    "text": "etablissements",
-    "size": 1
-  },
-  {
-    "text": "cahotte",
-    "size": 1
-  },
-  {
-    "text": "marcel",
-    "size": 1
-  },
-  {
-    "text": "haine",
-    "size": 1
-  },
-  {
-    "text": "all",
-    "size": 1
-  },
-  {
-    "text": "tralala",
-    "size": 1
-  },
-  {
-    "text": "panier",
-    "size": 1
-  },
-  {
-    "text": "panavest",
-    "size": 1
-  },
-  {
-    "text": "bedoret-viscourt",
-    "size": 1
-  },
-  {
-    "text": "joseph",
-    "size": 1
-  },
-  {
-    "text": "onderweg",
-    "size": 1
-  },
-  {
-    "text": "massa",
-    "size": 1
-  },
-  {
-    "text": "eva",
-    "size": 1
-  },
-  {
-    "text": "denamur",
-    "size": 1
-  },
-  {
-    "text": "and",
-    "size": 1
-  },
-  {
-    "text": "belcanthus",
-    "size": 1
-  },
-  {
-    "text": "vondels",
-    "size": 1
-  },
-  {
-    "text": "jacqueline",
-    "size": 1
+    "text": "genevieve",
+    "size": 1,
+    "category": "voornaam vrouw"
   }
 ]

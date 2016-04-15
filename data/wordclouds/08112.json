@@ -1,790 +1,902 @@
 [
   {
     "text": "carriere",
-    "size": 9
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "carrieres",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "usine",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "sprl",
-    "size": 3
+    "size": 3,
+    "category": "rechtsvorm"
   },
   {
     "text": "holcim",
-    "size": 3
-  },
-  {
-    "text": "bilstain",
-    "size": 2
-  },
-  {
-    "text": "carrières",
-    "size": 2
-  },
-  {
-    "text": "carrière",
-    "size": 2
-  },
-  {
-    "text": "lambrighs",
-    "size": 2
-  },
-  {
-    "text": "belgique",
-    "size": 2
-  },
-  {
-    "text": "stone",
-    "size": 2
-  },
-  {
-    "text": "agri",
-    "size": 2
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "terrassements",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "etablissements",
-    "size": 2
+    "text": "bilstain",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "carrières",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "lambrighs",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "belgique",
+    "size": 2,
+    "category": "land"
   },
   {
     "text": "nv",
-    "size": 2
+    "size": 2,
+    "category": "rechtsvorm"
   },
   {
     "text": "cimescaut",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "euroquartz",
-    "size": 1
-  },
-  {
-    "text": "bioindustry",
-    "size": 1
-  },
-  {
-    "text": "carnol",
-    "size": 1
-  },
-  {
-    "text": "onsite",
-    "size": 1
-  },
-  {
-    "text": "all-plant",
-    "size": 1
-  },
-  {
-    "text": "natuursteen",
-    "size": 1
-  },
-  {
-    "text": "granitpierre",
-    "size": 1
-  },
-  {
-    "text": "fond",
-    "size": 1
-  },
-  {
-    "text": "petons",
-    "size": 1
-  },
-  {
-    "text": "cerastone",
-    "size": 1
-  },
-  {
-    "text": "flèche",
-    "size": 1
-  },
-  {
-    "text": "sainte-barbe",
-    "size": 1
-  },
-  {
-    "text": "marbrerie",
-    "size": 1
-  },
-  {
-    "text": "ferrari",
-    "size": 1
-  },
-  {
-    "text": "granulats",
-    "size": 1
-  },
-  {
-    "text": "dandoy",
-    "size": 1
-  },
-  {
-    "text": "libramont",
-    "size": 1
-  },
-  {
-    "text": "steven",
-    "size": 1
-  },
-  {
-    "text": "dwh",
-    "size": 1
-  },
-  {
-    "text": "eerlings-janssen",
-    "size": 1
-  },
-  {
-    "text": "demarcin",
-    "size": 1
-  },
-  {
-    "text": "d\u0027antoing",
-    "size": 1
-  },
-  {
-    "text": "remediation",
-    "size": 1
-  },
-  {
-    "text": "labeye",
-    "size": 1
-  },
-  {
-    "text": "belle",
-    "size": 1
-  },
-  {
-    "text": "soenens",
-    "size": 1
-  },
-  {
-    "text": "creation",
-    "size": 1
-  },
-  {
-    "text": "belmagri",
-    "size": 1
-  },
-  {
-    "text": "st",
-    "size": 1
-  },
-  {
-    "text": "villers",
-    "size": 1
-  },
-  {
-    "text": "hengotherm",
-    "size": 1
-  },
-  {
-    "text": "consulting",
-    "size": 1
-  },
-  {
-    "text": "yan",
-    "size": 1
-  },
-  {
-    "text": "services",
-    "size": 1
-  },
-  {
-    "text": "co",
-    "size": 1
-  },
-  {
-    "text": "afkorting",
-    "size": 1
-  },
-  {
-    "text": "salenbien",
-    "size": 1
-  },
-  {
-    "text": "potrell",
-    "size": 1
-  },
-  {
-    "text": "catteeuw",
-    "size": 1
-  },
-  {
-    "text": "pauline",
-    "size": 1
-  },
-  {
-    "text": "quin",
-    "size": 1
-  },
-  {
-    "text": "soares",
-    "size": 1
-  },
-  {
-    "text": "marenne",
-    "size": 1
-  },
-  {
-    "text": "da",
-    "size": 1
-  },
-  {
-    "text": "db",
-    "size": 1
-  },
-  {
-    "text": "dc",
-    "size": 1
-  },
-  {
-    "text": "rigot",
-    "size": 1
-  },
-  {
-    "text": "rue",
-    "size": 1
-  },
-  {
-    "text": "grès",
-    "size": 1
-  },
-  {
-    "text": "heijmans-re",
-    "size": 1
-  },
-  {
-    "text": "parcs",
-    "size": 1
-  },
-  {
-    "text": "sablar",
-    "size": 1
-  },
-  {
-    "text": "silex",
-    "size": 1
-  },
-  {
-    "text": "dcor",
-    "size": 1
-  },
-  {
-    "text": "gary",
-    "size": 1
-  },
-  {
-    "text": "neblon",
-    "size": 1
-  },
-  {
-    "text": "kevin",
-    "size": 1
-  },
-  {
-    "text": "recogne",
-    "size": 1
-  },
-  {
-    "text": "vaulx",
-    "size": 1
-  },
-  {
-    "text": "capitaine",
-    "size": 1
-  },
-  {
-    "text": "michel",
-    "size": 1
-  },
-  {
-    "text": "pre",
-    "size": 1
-  },
-  {
-    "text": "harmignies",
-    "size": 1
-  },
-  {
-    "text": "centrale",
-    "size": 1
-  },
-  {
-    "text": "sinterco",
-    "size": 1
-  },
-  {
-    "text": "arnold",
-    "size": 1
-  },
-  {
-    "text": "vloerdersbedrijf",
-    "size": 1
-  },
-  {
-    "text": "i.a.s.w",
-    "size": 1
-  },
-  {
-    "text": "horsetrucks",
-    "size": 1
-  },
-  {
-    "text": "fa",
-    "size": 1
-  },
-  {
-    "text": "meuse",
-    "size": 1
-  },
-  {
-    "text": "dodion",
-    "size": 1
-  },
-  {
-    "text": "lompret",
-    "size": 1
-  },
-  {
-    "text": "deutschland",
-    "size": 1
-  },
-  {
-    "text": "sobry",
-    "size": 1
-  },
-  {
-    "text": "corbais",
-    "size": 1
-  },
-  {
-    "text": "regis",
-    "size": 1
-  },
-  {
-    "text": "maassen",
-    "size": 1
-  },
-  {
-    "text": "olivier",
-    "size": 1
-  },
-  {
-    "text": "benjamin",
-    "size": 1
-  },
-  {
-    "text": "kreco",
-    "size": 1
-  },
-  {
-    "text": "l\u0027arbre",
-    "size": 1
-  },
-  {
-    "text": "recyclage",
-    "size": 1
-  },
-  {
-    "text": "envirotrans",
-    "size": 1
-  },
-  {
-    "text": "travaux",
-    "size": 1
-  },
-  {
-    "text": "gravières",
-    "size": 1
-  },
-  {
-    "text": "thomas",
-    "size": 1
-  },
-  {
-    "text": "ardennes",
-    "size": 1
-  },
-  {
-    "text": "mérenne",
-    "size": 1
-  },
-  {
-    "text": "puits",
-    "size": 1
-  },
-  {
-    "text": "gres",
-    "size": 1
-  },
-  {
-    "text": "vanden",
-    "size": 1
-  },
-  {
-    "text": "morlimat",
-    "size": 1
-  },
-  {
-    "text": "lahonry",
-    "size": 1
-  },
-  {
-    "text": "jardins",
-    "size": 1
-  },
-  {
-    "text": "beerens",
-    "size": 1
-  },
-  {
-    "text": "location",
-    "size": 1
-  },
-  {
-    "text": "lixhe",
-    "size": 1
-  },
-  {
-    "text": "transinne",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vers",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bioindustry",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "carnol",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "construct",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bosmans",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "jonathan",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "onsite",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "zingara",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "all-plant",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "calcaire",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "natuursteen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "granitpierre",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fond",
+    "size": 1,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "petons",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "grima",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "solvay",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "flèche",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "road",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "clb",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "milieutechniek",
-    "size": 1
+    "text": "sainte-barbe",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "marbrerie",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "aertssen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "recyvesdre",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "inter",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ferrari",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "riemster",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "granulats",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dandoy",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "libramont",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "steven",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "dwh",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "eerlings-janssen",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "roche",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "natuursysteem",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sablières",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "frères",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "jozef",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "demarcin",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "jean-françois",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "d\u0027antoing",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sente",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gralux",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "remediation",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "omya",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mai",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "labeye",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "belle",
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "consult",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "lardot",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "art-imo",
-    "size": 1
+    "text": "soenens",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "v-infra",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "belmagri",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "grondwerken",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "jlc",
-    "size": 1
+    "text": "st",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "carrière",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "villers",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hengotherm",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "consulting",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "yan",
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "christophe",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "sacarex",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "services",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "co",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "reeth-hoefkens",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "afkorting",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "salenbien",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "site",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "potrell",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "catteeuw",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "hermans-stulens",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pauline",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "soares",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "berthe",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "marenne",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "da",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "db",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dc",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bouw",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "rigot",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "lucas",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "novas",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "grès",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "lambert",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
-    "text": "patcatravaux",
-    "size": 1
+    "text": "heijmans-re",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "parcs",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sablar",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "silex",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dcor",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cbr-site",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gary",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "neblon",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "kevin",
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "benoit",
-    "size": 1
-  },
-  {
-    "text": "rochettes",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "costa",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "carmeuse",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bova",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "etablissements",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "recogne",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vaulx",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sprl/bvba",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "capitaine",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "michel",
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "beton",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "harmignies",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "centrale",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "s.a",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sinterco",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "arnold",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "vloerdersbedrijf",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mining",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "trailers",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "i.a.s.w",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tony",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "heijmans",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "compagnie",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "horsetrucks",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "berke",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "meuse",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dodion",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "repair",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lompret",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "s.c.t",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "deutschland",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sobry",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "lemaire",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "corbais",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "condroz",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "regis",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "maassen",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bodarwe",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cupa",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "geoffroy",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "benjamin",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "mondial",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "florizoone",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "kreco",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "l\u0027arbre",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "recyclage",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "car",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "travaux",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gravières",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "thomas",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "ardennes",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mérenne",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bemco",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "niboconstruct",
-    "size": 1
+    "text": "puits",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "geron",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gres",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "d\u0027arbre",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vanden",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "soda",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "morlimat",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lahonry",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "centribel",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "schauss",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "stone",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "agri",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "grme",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "oisy",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "buverie",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "csd",
-    "size": 1
+    "text": "jardins",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "nikabi",
-    "size": 1
+    "text": "beerens",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "location",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lixhe",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "transinne",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tdm",
-    "size": 1
-  },
-  {
-    "text": "wapenhandel",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pizarras",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   }
 ]

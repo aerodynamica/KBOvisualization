@@ -1,782 +1,867 @@
 [
   {
     "text": "centrum",
-    "size": 14
+    "size": 14,
+    "category": "ander"
   },
   {
     "text": "basiseducatie",
-    "size": 14
+    "size": 14,
+    "category": "ander"
   },
   {
     "text": "hoofdzetel",
-    "size": 13
+    "size": 13,
+    "category": "ander"
   },
   {
     "text": "lire",
-    "size": 5
-  },
-  {
-    "text": "alpha",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "centre",
-    "size": 5
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "alpha",
+    "size": 5,
+    "category": "voornaam"
   },
   {
     "text": "ecrire",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "collectif",
-    "size": 4
-  },
-  {
-    "text": "school",
-    "size": 3
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "maison",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "school",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "asbl",
-    "size": 3
-  },
-  {
-    "text": "open",
-    "size": 2
-  },
-  {
-    "text": "fleurs",
-    "size": 2
-  },
-  {
-    "text": "promotion",
-    "size": 2
+    "size": 3,
+    "category": "rechtsvorm"
   },
   {
     "text": "liège-huy-waremme",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "zuid-oost-vlaanderen",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "bruxelles",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "formation",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "culture",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "open",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "fleurs",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "manguier",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "promotion",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "d\u0027action",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "d\u0027origine",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pieter",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "l\u0027avenir",
-    "size": 1
-  },
-  {
-    "text": "social-chrétien",
-    "size": 1
-  },
-  {
-    "text": "shift",
-    "size": 1
-  },
-  {
-    "text": "antwerpen",
-    "size": 1
-  },
-  {
-    "text": "chôm\u0027hier",
-    "size": 1
-  },
-  {
-    "text": "tea",
-    "size": 1
-  },
-  {
-    "text": "swinnen",
-    "size": 1
-  },
-  {
-    "text": "coaching",
-    "size": 1
-  },
-  {
-    "text": "kristof",
-    "size": 1
-  },
-  {
-    "text": "limburg",
-    "size": 1
-  },
-  {
-    "text": "excellent",
-    "size": 1
-  },
-  {
-    "text": "formosa",
-    "size": 1
-  },
-  {
-    "text": "schaerbeek",
-    "size": 1
-  },
-  {
-    "text": "documentation",
-    "size": 1
-  },
-  {
-    "text": "waremme",
-    "size": 1
-  },
-  {
-    "text": "christine",
-    "size": 1
-  },
-  {
-    "text": "vzw",
-    "size": 1
-  },
-  {
-    "text": "alternance",
-    "size": 1
-  },
-  {
-    "text": "west-vlaanderen",
-    "size": 1
-  },
-  {
-    "text": "photography",
-    "size": 1
-  },
-  {
-    "text": "sub",
-    "size": 1
-  },
-  {
-    "text": "forest",
-    "size": 1
-  },
-  {
-    "text": "d+",
-    "size": 1
-  },
-  {
-    "text": "isabelle",
-    "size": 1
-  },
-  {
-    "text": "waas",
-    "size": 1
-  },
-  {
-    "text": "verlingua",
-    "size": 1
-  },
-  {
-    "text": "caria",
-    "size": 1
-  },
-  {
-    "text": "hans",
-    "size": 1
-  },
-  {
-    "text": "partenariat",
-    "size": 1
-  },
-  {
-    "text": "cactus",
-    "size": 1
-  },
-  {
-    "text": "vade",
-    "size": 1
-  },
-  {
-    "text": "femmes",
-    "size": 1
-  },
-  {
-    "text": "barricade",
-    "size": 1
-  },
-  {
-    "text": "accueil",
-    "size": 1
-  },
-  {
-    "text": "saint",
-    "size": 1
-  },
-  {
-    "text": "vormgeving",
-    "size": 1
-  },
-  {
-    "text": "services",
-    "size": 1
-  },
-  {
-    "text": "tic-déclic",
-    "size": 1
-  },
-  {
-    "text": "the",
-    "size": 1
-  },
-  {
-    "text": "suite",
-    "size": 1
-  },
-  {
-    "text": "gent-meetjesland-leieland",
-    "size": 1
-  },
-  {
-    "text": "d\u0027avenir",
-    "size": 1
-  },
-  {
-    "text": "stan",
-    "size": 1
-  },
-  {
-    "text": "bleser",
-    "size": 1
-  },
-  {
-    "text": "advies",
-    "size": 1
-  },
-  {
-    "text": "grac",
-    "size": 1
-  },
-  {
-    "text": "dender",
-    "size": 1
-  },
-  {
-    "text": "delaplace",
-    "size": 1
-  },
-  {
-    "text": "administration",
-    "size": 1
-  },
-  {
-    "text": "béguinage",
-    "size": 1
-  },
-  {
-    "text": "mangulu",
-    "size": 1
-  },
-  {
-    "text": "dynamic",
-    "size": 1
-  },
-  {
-    "text": "berlurons",
-    "size": 1
-  },
-  {
-    "text": "molenbeek",
-    "size": 1
-  },
-  {
-    "text": "imtc",
-    "size": 1
-  },
-  {
-    "text": "campus",
-    "size": 1
-  },
-  {
-    "text": "josse",
-    "size": 1
-  },
-  {
-    "text": "dinantaises",
-    "size": 1
-  },
-  {
-    "text": "sofie",
-    "size": 1
-  },
-  {
-    "text": "bleus",
-    "size": 1
-  },
-  {
-    "text": "blanche",
-    "size": 1
-  },
-  {
-    "text": "istasse",
-    "size": 1
-  },
-  {
-    "text": "squad",
-    "size": 1
-  },
-  {
-    "text": "pedagogique",
-    "size": 1
-  },
-  {
-    "text": "dehandschutter",
-    "size": 1
-  },
-  {
-    "text": "finances",
-    "size": 1
-  },
-  {
-    "text": "elingua",
-    "size": 1
-  },
-  {
-    "text": "couleurs",
-    "size": 1
-  },
-  {
-    "text": "leuven-aarschot-diest-haacht-tienen",
-    "size": 1
-  },
-  {
-    "text": "halle-vilvoorde",
-    "size": 1
-  },
-  {
-    "text": "tefo",
-    "size": 1
-  },
-  {
-    "text": "fr",
-    "size": 1
-  },
-  {
-    "text": "kurde",
-    "size": 1
-  },
-  {
-    "text": "id-4-you",
-    "size": 1
-  },
-  {
-    "text": "interest",
-    "size": 1
-  },
-  {
-    "text": "amadeus",
-    "size": 1
-  },
-  {
-    "text": "psy",
-    "size": 1
-  },
-  {
-    "text": "thomas",
-    "size": 1
-  },
-  {
-    "text": "human",
-    "size": 1
-  },
-  {
-    "text": "pcs",
-    "size": 1
-  },
-  {
-    "text": "pauzemeester",
-    "size": 1
-  },
-  {
-    "text": "go",
-    "size": 1
-  },
-  {
-    "text": "c.t.l",
-    "size": 1
-  },
-  {
-    "text": "dòczi",
-    "size": 1
-  },
-  {
-    "text": "wauthier",
-    "size": 1
-  },
-  {
-    "text": "limburg-zuid",
-    "size": 1
-  },
-  {
-    "text": "personnel",
-    "size": 1
-  },
-  {
-    "text": "stabilo-construct",
-    "size": 1
-  },
-  {
-    "text": "agb",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "meeus",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "écrire",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "social-chrétien",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "shift",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ya",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "disruptor",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "antwerpen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "chôm\u0027hier",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "communale",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tea",
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "l\u0027esperluete",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mot",
-    "size": 1
-  },
-  {
-    "text": "swiggers",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "occidental",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "swinnen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "coaching",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "kristof",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "signes",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "guide",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "africa",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "cristophe",
-    "size": 1
+    "text": "limburg",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "excellent",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "formosa",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "schaerbeek",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "double",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "documentation",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "m.j",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "waremme",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "abinet",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "hainaut",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "christine",
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "anderlechtois",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "gisèle",
-    "size": 1
+    "text": "vzw",
+    "size": 1,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "alternance",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "midden",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vertim",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "exil",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "entraide",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "west-vlaanderen",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pieterjan",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "aid",
-    "size": 1
-  },
-  {
-    "text": "linguas",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "l\u0027ovradge",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sub",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "forest",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "d+",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "brugge-oostende-westhoek",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "isabelle",
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "institut",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "waas",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "caria",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hans",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "partenariat",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "luxembourg",
-    "size": 1
+    "size": 1,
+    "category": "land"
+  },
+  {
+    "text": "cactus",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "source-in-you",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "l\u0027happeautine",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vade",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tivator",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "event",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "femmes",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "d\u0027alphabetisation",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "barricade",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "accueil",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "nti",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sprl",
-    "size": 1
+    "size": 1,
+    "category": "rechtsvorm"
   },
   {
     "text": "jeunesse",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "saint",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "lamberts",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "meerkracht/crea",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tekst",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "carpe",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "services",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tic-déclic",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "suite",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gent-meetjesland-leieland",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "d\u0027avenir",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bleser",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "advies",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "grac",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "imprimées",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dender",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "administration",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "masslovsky",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "béguinage",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mots",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mangulu",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dynamic",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "berlurons",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "d\u0027aide",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mondombo",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "glain",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "voix",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "martinge",
-    "size": 1
+    "text": "molenbeek",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "brigode",
-    "size": 1
+    "text": "imtc",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sens",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ilona",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "campus",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "josse",
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "rysman",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "choses",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "philippe",
-    "size": 1
+    "text": "dinantaises",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sofie",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "bleus",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "zuid",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "blanche",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "istasse",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "krist:of",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pedagogique",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ambusa",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "maitre",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "finances",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "joseph",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
-    "text": "joris",
-    "size": 1
+    "text": "elingua",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "kempen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "diem",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "5000",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "environs",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "couleurs",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "leschosesimprimees.com",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "leuven-aarschot-diest-haacht-tienen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "halle-vilvoorde",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "solidarité",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vincent",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "tefo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fr",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "kurde",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "id-4-you",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "midden-noord",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "socio-culturelle",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "interest",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "amadeus",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "psy",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "s.s.h",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "kinnaer",
-    "size": 1
+    "text": "human",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pcs",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "social",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pauzemeester",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "alternative",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "go",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gysels",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "c.t.l",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "extra-scolaire",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sahara",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "processus",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "besk",
-    "size": 1
+    "text": "dòczi",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "growth",
-    "size": 1
+    "text": "limburg-zuid",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "personnel",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "groupe",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "brussel",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "agb",
+    "size": 1,
+    "category": "ander"
   }
 ]

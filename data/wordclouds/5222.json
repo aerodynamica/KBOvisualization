@@ -1,1002 +1,1252 @@
 [
   {
-    "text": "slagerij",
-    "size": 347
-  },
-  {
-    "text": "boucherie",
-    "size": 261
-  },
-  {
-    "text": "bvba",
-    "size": 147
-  },
-  {
-    "text": "beenhouwerij",
-    "size": 114
-  },
-  {
-    "text": "traiteur",
-    "size": 76
-  },
-  {
-    "text": "vishandel",
-    "size": 68
-  },
-  {
-    "text": "nv",
-    "size": 65
-  },
-  {
-    "text": "sprl",
-    "size": 51
-  },
-  {
     "text": "logistics",
-    "size": 49
-  },
-  {
-    "text": "colruyt",
-    "size": 48
-  },
-  {
-    "text": "services",
-    "size": 41
-  },
-  {
-    "text": "belgium",
-    "size": 39
-  },
-  {
-    "text": "den",
-    "size": 34
-  },
-  {
-    "text": "chez",
-    "size": 34
-  },
-  {
-    "text": "bakkerij",
-    "size": 31
-  },
-  {
-    "text": "charcuterie",
-    "size": 31
+    "size": 35,
+    "category": "ander"
   },
   {
     "text": "sluis",
-    "size": 28
+    "size": 28,
+    "category": "ander"
+  },
+  {
+    "text": "belgium",
+    "size": 25,
+    "category": "land"
   },
   {
     "text": "shipping",
-    "size": 28
+    "size": 25,
+    "category": "ander"
   },
   {
-    "text": "kwaliteitsslagerij",
-    "size": 27
+    "text": "services",
+    "size": 24,
+    "category": "ander"
   },
   {
-    "text": "poissonnerie",
-    "size": 24
-  },
-  {
-    "text": "ferme",
-    "size": 23
-  },
-  {
-    "text": "maison",
-    "size": 22
+    "text": "bvba",
+    "size": 21,
+    "category": "rechtsvorm"
   },
   {
     "text": "transport",
-    "size": 22
+    "size": 18,
+    "category": "ander"
   },
   {
     "text": "antwerp",
-    "size": 21
+    "size": 15,
+    "category": "ander"
   },
   {
-    "text": "marc",
-    "size": 21
-  },
-  {
-    "text": "voeding",
-    "size": 21
-  },
-  {
-    "text": "keurslager",
-    "size": 21
-  },
-  {
-    "text": "peter",
-    "size": 19
-  },
-  {
-    "text": "jan",
-    "size": 19
-  },
-  {
-    "text": "patrick",
-    "size": 18
-  },
-  {
-    "text": "dirk",
-    "size": 18
-  },
-  {
-    "text": "delicatessen",
-    "size": 17
-  },
-  {
-    "text": "johan",
-    "size": 16
-  },
-  {
-    "text": "co",
-    "size": 16
-  },
-  {
-    "text": "supermarkt",
-    "size": 15
-  },
-  {
-    "text": "huis",
-    "size": 15
-  },
-  {
-    "text": "luc",
-    "size": 14
-  },
-  {
-    "text": "brood",
-    "size": 14
-  },
-  {
-    "text": "slagerij-traiteur",
-    "size": 14
+    "text": "nv",
+    "size": 15,
+    "category": "rechtsvorm"
   },
   {
     "text": "brug",
-    "size": 14
-  },
-  {
-    "text": "superette",
-    "size": 14
-  },
-  {
-    "text": "international",
-    "size": 14
-  },
-  {
-    "text": "frituur",
-    "size": 13
-  },
-  {
-    "text": "management",
-    "size": 13
-  },
-  {
-    "text": "keurslagerij",
-    "size": 13
-  },
-  {
-    "text": "the",
-    "size": 12
-  },
-  {
-    "text": "geert",
-    "size": 12
-  },
-  {
-    "text": "bart",
-    "size": 12
+    "size": 14,
+    "category": "ander"
   },
   {
     "text": "terminal",
-    "size": 12
+    "size": 10,
+    "category": "ander"
   },
   {
-    "text": "service",
-    "size": 12
-  },
-  {
-    "text": "chris",
-    "size": 12
-  },
-  {
-    "text": "vleeswaren",
-    "size": 12
-  },
-  {
-    "text": "foods",
-    "size": 12
-  },
-  {
-    "text": "kip",
-    "size": 12
-  },
-  {
-    "text": "algemene",
-    "size": 11
-  },
-  {
-    "text": "trading",
-    "size": 11
-  },
-  {
-    "text": "europe",
-    "size": 11
-  },
-  {
-    "text": "kurt",
-    "size": 11
-  },
-  {
-    "text": "boucherie-charcuterie",
-    "size": 11
-  },
-  {
-    "text": "andre",
-    "size": 11
-  },
-  {
-    "text": "food",
-    "size": 11
-  },
-  {
-    "text": "st",
-    "size": 11
-  },
-  {
-    "text": "meat",
-    "size": 11
-  },
-  {
-    "text": "fish",
-    "size": 11
-  },
-  {
-    "text": "hoeveslagerij",
-    "size": 11
-  },
-  {
-    "text": "company",
-    "size": 10
-  },
-  {
-    "text": "super",
-    "size": 10
-  },
-  {
-    "text": "frank",
-    "size": 10
-  },
-  {
-    "text": "cv",
-    "size": 10
-  },
-  {
-    "text": "el",
-    "size": 10
-  },
-  {
-    "text": "diving",
-    "size": 10
-  },
-  {
-    "text": "consulting",
-    "size": 10
-  },
-  {
-    "text": "jean",
-    "size": 10
-  },
-  {
-    "text": "pascal",
-    "size": 10
-  },
-  {
-    "text": "paul",
-    "size": 9
-  },
-  {
-    "text": "solutions",
-    "size": 9
-  },
-  {
-    "text": "wim",
-    "size": 9
-  },
-  {
-    "text": "consultancy",
-    "size": 9
-  },
-  {
-    "text": "philippe",
-    "size": 9
-  },
-  {
-    "text": "group",
-    "size": 9
-  },
-  {
-    "text": "fils",
-    "size": 9
-  },
-  {
-    "text": "rudy",
-    "size": 9
+    "text": "international",
+    "size": 10,
+    "category": "ander"
   },
   {
     "text": "regie",
-    "size": 9
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "schoten",
-    "size": 9
+    "size": 9,
+    "category": "ander"
   },
   {
-    "text": "nico",
-    "size": 9
-  },
-  {
-    "text": "delhaize",
-    "size": 9
-  },
-  {
-    "text": "salaisons",
-    "size": 9
-  },
-  {
-    "text": "unic",
-    "size": 9
-  },
-  {
-    "text": "cafe",
-    "size": 9
-  },
-  {
-    "text": "sea",
-    "size": 9
-  },
-  {
-    "text": "express",
-    "size": 9
-  },
-  {
-    "text": "hans",
-    "size": 8
-  },
-  {
-    "text": "dominique",
-    "size": 8
-  },
-  {
-    "text": "topslagerij",
-    "size": 8
-  },
-  {
-    "text": "marcel",
-    "size": 8
-  },
-  {
-    "text": "market",
-    "size": 8
-  },
-  {
-    "text": "vleeshandel",
-    "size": 8
-  },
-  {
-    "text": "sc",
-    "size": 8
-  },
-  {
-    "text": "wild",
-    "size": 8
-  },
-  {
-    "text": "marine",
-    "size": 8
-  },
-  {
-    "text": "trans",
-    "size": 8
-  },
-  {
-    "text": "gevogelte",
-    "size": 8
-  },
-  {
-    "text": "danny",
-    "size": 8
-  },
-  {
-    "text": "spar",
-    "size": 8
+    "text": "europe",
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "chartering",
-    "size": 8
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "spit",
-    "size": 8
+    "text": "diving",
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "saveurs",
-    "size": 8
+    "text": "consulting",
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "kwaliteitslagerij",
-    "size": 8
-  },
-  {
-    "text": "and",
-    "size": 8
-  },
-  {
-    "text": "shop",
-    "size": 8
-  },
-  {
-    "text": "kris",
-    "size": 8
-  },
-  {
-    "text": "fijnkost",
-    "size": 8
-  },
-  {
-    "text": "freddy",
-    "size": 7
-  },
-  {
-    "text": "cargo",
-    "size": 7
-  },
-  {
-    "text": "eric",
-    "size": 7
-  },
-  {
-    "text": "consult",
-    "size": 7
-  },
-  {
-    "text": "claude",
-    "size": 7
-  },
-  {
-    "text": "lieven",
-    "size": 7
-  },
-  {
-    "text": "jacques",
-    "size": 7
-  },
-  {
-    "text": "pierre",
-    "size": 7
-  },
-  {
-    "text": "culinaire",
-    "size": 7
-  },
-  {
-    "text": "eddy",
-    "size": 7
-  },
-  {
-    "text": "guy",
-    "size": 7
-  },
-  {
-    "text": "petit",
-    "size": 7
-  },
-  {
-    "text": "forwarding",
-    "size": 7
-  },
-  {
-    "text": "rik",
-    "size": 7
-  },
-  {
-    "text": "fresh",
-    "size": 7
-  },
-  {
-    "text": "car",
-    "size": 7
-  },
-  {
-    "text": "dijkwachter",
-    "size": 6
-  },
-  {
-    "text": "kristof",
-    "size": 6
-  },
-  {
-    "text": "concept",
-    "size": 6
-  },
-  {
-    "text": "centre",
-    "size": 6
-  },
-  {
-    "text": "zoon",
-    "size": 6
-  },
-  {
-    "text": "banketbakkerij",
-    "size": 6
-  },
-  {
-    "text": "mol",
-    "size": 6
-  },
-  {
-    "text": "vis",
-    "size": 6
-  },
-  {
-    "text": "versmarkt",
-    "size": 6
-  },
-  {
-    "text": "metzgerei",
-    "size": 6
-  },
-  {
-    "text": "marche",
-    "size": 6
-  },
-  {
-    "text": "ets",
-    "size": 6
-  },
-  {
-    "text": "janssens",
-    "size": 6
-  },
-  {
-    "text": "willy",
-    "size": 6
-  },
-  {
-    "text": "michel",
-    "size": 6
-  },
-  {
-    "text": "patisserie",
-    "size": 6
-  },
-  {
-    "text": "maritime",
-    "size": 6
-  },
-  {
-    "text": "d\u0027or",
-    "size": 6
-  },
-  {
-    "text": "vincent",
-    "size": 6
+    "text": "trans",
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "port",
-    "size": 6
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "dijkwachter",
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "afgekort",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "finesse",
-    "size": 6
+    "text": "marine",
+    "size": 6,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "jos",
-    "size": 6
+    "text": "group",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "projects",
-    "size": 6
+    "text": "sea",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "world",
-    "size": 6
+    "text": "management",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "restaurant",
-    "size": 6
+    "text": "mol",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "franky",
-    "size": 6
+    "text": "service",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "benelux",
-    "size": 6
+    "text": "and",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "filip",
-    "size": 6
-  },
-  {
-    "text": "ten",
-    "size": 5
-  },
-  {
-    "text": "stefan",
-    "size": 5
-  },
-  {
-    "text": "spekslagerij",
-    "size": 5
-  },
-  {
-    "text": "chicken",
-    "size": 5
-  },
-  {
-    "text": "vermeersch",
-    "size": 5
-  },
-  {
-    "text": "hotel",
-    "size": 5
-  },
-  {
-    "text": "nagel",
-    "size": 5
-  },
-  {
-    "text": "invest",
-    "size": 5
-  },
-  {
-    "text": "els",
-    "size": 5
-  },
-  {
-    "text": "tony",
-    "size": 5
+    "text": "algemene",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "operationele",
-    "size": 5
-  },
-  {
-    "text": "dp",
-    "size": 5
-  },
-  {
-    "text": "centrale",
-    "size": 5
-  },
-  {
-    "text": "gb",
-    "size": 5
-  },
-  {
-    "text": "vert",
-    "size": 5
-  },
-  {
-    "text": "bleu",
-    "size": 5
-  },
-  {
-    "text": "aqua",
-    "size": 5
-  },
-  {
-    "text": "euro",
-    "size": 5
-  },
-  {
-    "text": "katrien",
-    "size": 5
-  },
-  {
-    "text": "pvba",
-    "size": 5
-  },
-  {
-    "text": "aveve",
-    "size": 5
-  },
-  {
-    "text": "ronny",
-    "size": 5
-  },
-  {
-    "text": "bogaert",
-    "size": 5
-  },
-  {
-    "text": "groep",
-    "size": 5
-  },
-  {
-    "text": "roland",
-    "size": 5
-  },
-  {
-    "text": "antwerpen",
-    "size": 5
-  },
-  {
-    "text": "charc",
-    "size": 5
-  },
-  {
-    "text": "carrefour",
-    "size": 5
-  },
-  {
-    "text": "cremerie",
-    "size": 5
-  },
-  {
-    "text": "haantje",
-    "size": 5
-  },
-  {
-    "text": "ann",
-    "size": 5
-  },
-  {
-    "text": "loberge",
-    "size": 5
-  },
-  {
-    "text": "geel",
-    "size": 5
-  },
-  {
-    "text": "mestdagh",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "kuehne",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "grill",
-    "size": 5
+    "text": "consult",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "kaas",
-    "size": 5
+    "text": "dp",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "olivier",
-    "size": 5
+    "text": "trading",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "ignace",
-    "size": 5
+    "text": "nagel",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "banket",
-    "size": 5
+    "text": "forwarding",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "françois",
-    "size": 5
-  },
-  {
-    "text": "vleescentrale",
-    "size": 5
-  },
-  {
-    "text": "willems",
-    "size": 5
-  },
-  {
-    "text": "ter",
-    "size": 4
+    "text": "car",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "cfe",
-    "size": 4
-  },
-  {
-    "text": "camping",
-    "size": 4
-  },
-  {
-    "text": "tom",
-    "size": 4
-  },
-  {
-    "text": "leonard",
-    "size": 4
-  },
-  {
-    "text": "immo",
-    "size": 4
-  },
-  {
-    "text": "anne",
-    "size": 4
-  },
-  {
-    "text": "gaston",
-    "size": 4
-  },
-  {
-    "text": "center",
-    "size": 4
-  },
-  {
-    "text": "cornelis",
-    "size": 4
-  },
-  {
-    "text": "delikatessen",
-    "size": 4
-  },
-  {
-    "text": "10",
-    "size": 4
-  },
-  {
-    "text": "velde",
-    "size": 4
-  },
-  {
-    "text": "l\u0027artisan",
-    "size": 4
-  },
-  {
-    "text": "catering",
-    "size": 4
-  },
-  {
-    "text": "stijn",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "lines",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "epb",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "herman",
-    "size": 4
-  },
-  {
-    "text": "new",
-    "size": 4
-  },
-  {
-    "text": "boucher",
-    "size": 4
+    "text": "sprl",
+    "size": 4,
+    "category": "rechtsvorm"
   },
   {
     "text": "blandain",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "rederij",
-    "size": 4
-  },
-  {
-    "text": "philip",
-    "size": 4
-  },
-  {
-    "text": "bernard",
-    "size": 4
-  },
-  {
-    "text": "container",
-    "size": 4
-  },
-  {
-    "text": "martine",
-    "size": 4
-  },
-  {
-    "text": "slager",
-    "size": 4
-  },
-  {
-    "text": "david",
-    "size": 4
-  },
-  {
-    "text": "ad",
-    "size": 4
-  },
-  {
-    "text": "steven",
-    "size": 4
-  },
-  {
-    "text": "for",
-    "size": 4
-  },
-  {
-    "text": "terroir",
-    "size": 4
-  },
-  {
-    "text": "stefaan",
-    "size": 4
-  },
-  {
-    "text": "poulet",
-    "size": 4
-  },
-  {
-    "text": "daniel",
-    "size": 4
-  },
-  {
-    "text": "cock",
-    "size": 4
-  },
-  {
-    "text": "coin",
-    "size": 4
-  },
-  {
-    "text": "viandes",
-    "size": 4
-  },
-  {
-    "text": "north",
-    "size": 4
-  },
-  {
-    "text": "zeebrugge",
-    "size": 4
-  },
-  {
-    "text": "christophe",
-    "size": 4
-  },
-  {
-    "text": "brussels",
-    "size": 4
-  },
-  {
-    "text": "vande",
-    "size": 4
-  },
-  {
-    "text": "koen",
-    "size": 4
-  },
-  {
-    "text": "a.d",
-    "size": 4
-  },
-  {
-    "text": "events",
-    "size": 4
+    "text": "geel",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "ham",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "bruno",
-    "size": 4
+    "text": "zetel",
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "nathalie",
-    "size": 4
+    "text": "consultancy",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "company",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "world",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "benelux",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "aqua",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "north",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "branch",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "autonome",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "red",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "european",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "patrick",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "aegean",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "werkhuis",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "haven",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "cargo",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "beerse",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "maritime",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "container",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "genk",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "brecht",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "projects",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "dienstverlening",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "wallenius",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "for",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "dominique",
+    "size": 3,
+    "category": "voornaam"
+  },
+  {
+    "text": "rijkevorsel",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "grondwerken",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "auto",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "bpc",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "vopak",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "10",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "global",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "wilhelmsen",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "solutions",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "euro",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "namur",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "françois",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "zeebrugge",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "sail",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "line",
+    "size": 3,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "dutch",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "blauwe",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "alexios",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "the",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "blue",
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "mohamed",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "dienstgebouw",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "controle",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "sailing",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "sallaum",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "emd",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "freddy",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "vof",
+    "size": 2,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "lommel",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "agencies",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "agentschap",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "gsk",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "africa",
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "infrastructuur",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "hazma-t",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "kust",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "ets",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "sint-lenaerts",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "martin",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "antwerpen",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "technische",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "jan",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "kennedy",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "g.c.t",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "kluizendok",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "a.c.s.a",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "engineering",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "center",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "kimpe",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "administratie",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "shuttle",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "logikx",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bouwwerken",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "hanjin",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "logistiek",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "worldwide",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "king",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "surete",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "rail",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "sint-job-in\u0027t-goor",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "vervoer",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "noord",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "wim",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "ltd",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "den",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bbc",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "terminals",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "peter",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "business",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "co",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "neerpelt",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "oleum",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "danny",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "bocholt",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "tank",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "construct",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "division",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "belgam",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "hasselt",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "didier",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "dilsen-stokkem",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bma",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "maritiem",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "my",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "mdk",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "schip",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "dive",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "13",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "sun",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "yachting",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "dienst",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "advies",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "euroports",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "invest",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "express",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "caelen",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "offshore",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "support",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "carron",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "liège",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "backer",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "safety",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "freight",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "nico",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "jacques",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "dessel",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "agency",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "olen",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "terrassement",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "maritieme",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "tours",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "hunter",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "brussels",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "hellmann",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "verschueren",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "securite",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "duikwerken",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "cvba",
+    "size": 2,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "turnhout",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "professionnels",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jeni",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "lehoucq",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "building",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "wiveba",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "adrem",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sambre",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "neeroeteren",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "amaury",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "victor",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "geerinckx",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "customs",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "danajo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "moving",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bunkers",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "leleu",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ifsca",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vishandel",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "v.i.p",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "aaa+",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bouwonderneming",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "cocoa",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "merksem",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "b-logistics",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "geotechnique",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "goliath",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "trover",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "stow",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "wind",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "independent",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "groupair",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "nile",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "narcotec",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "idqs",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vaartuigen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gmv",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "nevejans",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "schranshoeve",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "landrain",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "a.y.s",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "backman",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "martens",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gompel",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "st.john",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "brandt",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tgw",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lozen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "parcours",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "delhaize",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "se@fly",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "demey",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "voorde",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "isarno",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "seasafety",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "caltic",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "grensverspreider",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "eke",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "polendam",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "acc",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "koneyin",
+    "size": 1,
+    "category": "ander"
   }
 ]

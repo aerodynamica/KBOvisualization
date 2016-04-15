@@ -1,1002 +1,1252 @@
 [
   {
     "text": "bvba",
-    "size": 1048
+    "size": 859,
+    "category": "rechtsvorm"
   },
   {
     "text": "construct",
-    "size": 589
+    "size": 517,
+    "category": "ander"
   },
   {
     "text": "design",
-    "size": 446
+    "size": 402,
+    "category": "ander"
   },
   {
     "text": "sprl",
-    "size": 381
+    "size": 353,
+    "category": "rechtsvorm"
   },
   {
     "text": "architecten",
-    "size": 353
-  },
-  {
-    "text": "tuinen",
-    "size": 342
-  },
-  {
-    "text": "projects",
-    "size": 331
+    "size": 352,
+    "category": "ander"
   },
   {
     "text": "nv",
-    "size": 321
+    "size": 289,
+    "category": "rechtsvorm"
   },
   {
     "text": "architect",
-    "size": 286
+    "size": 282,
+    "category": "ander"
   },
   {
-    "text": "services",
-    "size": 262
+    "text": "tuinen",
+    "size": 276,
+    "category": "ander"
   },
   {
-    "text": "concept",
-    "size": 258
+    "text": "projects",
+    "size": 256,
+    "category": "ander"
   },
   {
     "text": "architectenbureau",
-    "size": 237
+    "size": 237,
+    "category": "ander"
   },
   {
-    "text": "consulting",
-    "size": 237
+    "text": "concept",
+    "size": 231,
+    "category": "ander"
+  },
+  {
+    "text": "services",
+    "size": 212,
+    "category": "ander"
   },
   {
     "text": "interieur",
-    "size": 220
-  },
-  {
-    "text": "bouw",
-    "size": 214
-  },
-  {
-    "text": "algemene",
-    "size": 208
+    "size": 188,
+    "category": "ander"
   },
   {
     "text": "atelier",
-    "size": 204
+    "size": 184,
+    "category": "ander"
   },
   {
-    "text": "invest",
-    "size": 190
-  },
-  {
-    "text": "bouwwerken",
-    "size": 184
+    "text": "consulting",
+    "size": 179,
+    "category": "ander"
   },
   {
     "text": "architecture",
-    "size": 178
-  },
-  {
-    "text": "immo",
-    "size": 176
+    "size": 178,
+    "category": "ander"
   },
   {
     "text": "jardins",
-    "size": 172
+    "size": 168,
+    "category": "ander"
   },
   {
-    "text": "garden",
-    "size": 163
+    "text": "bouw",
+    "size": 161,
+    "category": "ander"
   },
   {
-    "text": "consult",
-    "size": 162
+    "text": "algemene",
+    "size": 161,
+    "category": "ander"
   },
   {
-    "text": "construction",
-    "size": 158
-  },
-  {
-    "text": "co",
-    "size": 157
+    "text": "invest",
+    "size": 150,
+    "category": "ander"
   },
   {
     "text": "entreprise",
-    "size": 157
-  },
-  {
-    "text": "jan",
-    "size": 156
-  },
-  {
-    "text": "engineering",
-    "size": 151
+    "size": 149,
+    "category": "ander"
   },
   {
     "text": "bureau",
-    "size": 150
+    "size": 145,
+    "category": "ander"
   },
   {
-    "text": "bart",
-    "size": 148
+    "text": "garden",
+    "size": 144,
+    "category": "ander"
   },
   {
-    "text": "den",
-    "size": 144
+    "text": "construction",
+    "size": 142,
+    "category": "ander"
   },
   {
-    "text": "home",
-    "size": 144
+    "text": "immo",
+    "size": 140,
+    "category": "ander"
   },
   {
-    "text": "peter",
-    "size": 141
+    "text": "bouwwerken",
+    "size": 138,
+    "category": "ander"
+  },
+  {
+    "text": "consult",
+    "size": 138,
+    "category": "ander"
   },
   {
     "text": "architecte",
-    "size": 138
+    "size": 137,
+    "category": "ander"
   },
   {
-    "text": "solutions",
-    "size": 135
+    "text": "co",
+    "size": 134,
+    "category": "ander"
   },
   {
-    "text": "tom",
-    "size": 135
-  },
-  {
-    "text": "bouwonderneming",
-    "size": 131
+    "text": "jan",
+    "size": 132,
+    "category": "voornaam"
   },
   {
     "text": "architectuur",
-    "size": 128
+    "size": 128,
+    "category": "ander"
+  },
+  {
+    "text": "engineering",
+    "size": 126,
+    "category": "ander"
+  },
+  {
+    "text": "bart",
+    "size": 123,
+    "category": "voornaam man"
+  },
+  {
+    "text": "den",
+    "size": 118,
+    "category": "ander"
+  },
+  {
+    "text": "home",
+    "size": 118,
+    "category": "ander"
+  },
+  {
+    "text": "tom",
+    "size": 111,
+    "category": "voornaam man"
+  },
+  {
+    "text": "peter",
+    "size": 109,
+    "category": "voornaam man"
   },
   {
     "text": "marc",
-    "size": 123
-  },
-  {
-    "text": "studio",
-    "size": 121
-  },
-  {
-    "text": "project",
-    "size": 119
-  },
-  {
-    "text": "david",
-    "size": 116
-  },
-  {
-    "text": "philippe",
-    "size": 114
-  },
-  {
-    "text": "koen",
-    "size": 112
-  },
-  {
-    "text": "management",
-    "size": 112
-  },
-  {
-    "text": "thomas",
-    "size": 110
-  },
-  {
-    "text": "olivier",
-    "size": 110
-  },
-  {
-    "text": "luc",
-    "size": 109
-  },
-  {
-    "text": "service",
-    "size": 109
-  },
-  {
-    "text": "green",
-    "size": 109
-  },
-  {
-    "text": "steven",
-    "size": 106
+    "size": 107,
+    "category": "voornaam man"
   },
   {
     "text": "d\u0027architecture",
-    "size": 106
+    "size": 106,
+    "category": "ander"
   },
   {
-    "text": "art",
-    "size": 104
+    "text": "studio",
+    "size": 105,
+    "category": "ander"
   },
   {
-    "text": "group",
-    "size": 104
+    "text": "thomas",
+    "size": 103,
+    "category": "voornaam man"
+  },
+  {
+    "text": "david",
+    "size": 103,
+    "category": "voornaam man"
+  },
+  {
+    "text": "philippe",
+    "size": 102,
+    "category": "voornaam man"
+  },
+  {
+    "text": "project",
+    "size": 100,
+    "category": "ander"
+  },
+  {
+    "text": "bouwonderneming",
+    "size": 98,
+    "category": "ander"
+  },
+  {
+    "text": "olivier",
+    "size": 96,
+    "category": "voornaam man"
+  },
+  {
+    "text": "green",
+    "size": 96,
+    "category": "ander"
   },
   {
     "text": "jardin",
-    "size": 103
+    "size": 95,
+    "category": "ander"
+  },
+  {
+    "text": "solutions",
+    "size": 95,
+    "category": "ander"
+  },
+  {
+    "text": "steven",
+    "size": 92,
+    "category": "voornaam man"
+  },
+  {
+    "text": "art",
+    "size": 92,
+    "category": "voornaam man"
+  },
+  {
+    "text": "luc",
+    "size": 92,
+    "category": "voornaam man"
   },
   {
     "text": "patrick",
-    "size": 103
+    "size": 92,
+    "category": "voornaam man"
+  },
+  {
+    "text": "service",
+    "size": 91,
+    "category": "ander"
   },
   {
     "text": "johan",
-    "size": 103
+    "size": 91,
+    "category": "voornaam"
   },
   {
-    "text": "interior",
-    "size": 100
-  },
-  {
-    "text": "pieter",
-    "size": 100
-  },
-  {
-    "text": "tuinaanleg",
-    "size": 98
+    "text": "koen",
+    "size": 89,
+    "category": "voornaam man"
   },
   {
     "text": "nicolas",
-    "size": 97
-  },
-  {
-    "text": "christophe",
-    "size": 96
+    "size": 88,
+    "category": "voornaam man"
   },
   {
     "text": "vincent",
-    "size": 94
+    "size": 88,
+    "category": "voornaam man"
   },
   {
-    "text": "and",
-    "size": 93
-  },
-  {
-    "text": "building",
-    "size": 93
-  },
-  {
-    "text": "wim",
-    "size": 93
-  },
-  {
-    "text": "partners",
-    "size": 91
-  },
-  {
-    "text": "geert",
-    "size": 90
+    "text": "management",
+    "size": 87,
+    "category": "ander"
   },
   {
     "text": "architects",
-    "size": 87
+    "size": 86,
+    "category": "ander"
   },
   {
-    "text": "the",
-    "size": 86
+    "text": "interior",
+    "size": 86,
+    "category": "ander"
   },
   {
-    "text": "dirk",
-    "size": 83
+    "text": "pieter",
+    "size": 86,
+    "category": "voornaam man"
+  },
+  {
+    "text": "building",
+    "size": 84,
+    "category": "ander"
+  },
+  {
+    "text": "group",
+    "size": 80,
+    "category": "ander"
+  },
+  {
+    "text": "partners",
+    "size": 80,
+    "category": "ander"
+  },
+  {
+    "text": "wim",
+    "size": 79,
+    "category": "voornaam man"
+  },
+  {
+    "text": "christophe",
+    "size": 78,
+    "category": "voornaam man"
   },
   {
     "text": "laurent",
-    "size": 82
+    "size": 78,
+    "category": "voornaam man"
   },
   {
-    "text": "decor",
-    "size": 81
-  },
-  {
-    "text": "belgium",
-    "size": 80
-  },
-  {
-    "text": "pierre",
-    "size": 78
-  },
-  {
-    "text": "bouwbedrijf",
-    "size": 77
+    "text": "and",
+    "size": 76,
+    "category": "ander"
   },
   {
     "text": "architectes",
-    "size": 76
+    "size": 75,
+    "category": "ander"
   },
   {
-    "text": "tuinwerken",
-    "size": 76
+    "text": "decor",
+    "size": 75,
+    "category": "ander"
   },
   {
-    "text": "stijn",
-    "size": 74
+    "text": "tuinaanleg",
+    "size": 73,
+    "category": "ander"
   },
   {
-    "text": "technics",
-    "size": 73
+    "text": "pierre",
+    "size": 73,
+    "category": "voornaam"
+  },
+  {
+    "text": "dirk",
+    "size": 72,
+    "category": "voornaam man"
+  },
+  {
+    "text": "geert",
+    "size": 71,
+    "category": "voornaam"
+  },
+  {
+    "text": "the",
+    "size": 67,
+    "category": "voornaam"
+  },
+  {
+    "text": "belgium",
+    "size": 64,
+    "category": "land"
   },
   {
     "text": "tuinarchitectuur",
-    "size": 73
+    "size": 64,
+    "category": "ander"
   },
   {
-    "text": "international",
-    "size": 70
+    "text": "bouwbedrijf",
+    "size": 62,
+    "category": "ander"
   },
   {
     "text": "kris",
-    "size": 69
+    "size": 62,
+    "category": "voornaam"
+  },
+  {
+    "text": "international",
+    "size": 60,
+    "category": "ander"
   },
   {
     "text": "eric",
-    "size": 69
+    "size": 59,
+    "category": "voornaam man"
   },
   {
-    "text": "tuin",
-    "size": 67
-  },
-  {
-    "text": "deco",
-    "size": 67
-  },
-  {
-    "text": "kristof",
-    "size": 66
+    "text": "stijn",
+    "size": 59,
+    "category": "voornaam man"
   },
   {
     "text": "maes",
-    "size": 65
+    "size": 58,
+    "category": "ander"
   },
   {
     "text": "bert",
-    "size": 65
+    "size": 57,
+    "category": "voornaam man"
   },
   {
-    "text": "peeters",
-    "size": 63
+    "text": "tuin",
+    "size": 57,
+    "category": "ander"
   },
   {
-    "text": "michel",
-    "size": 62
-  },
-  {
-    "text": "dakwerken",
-    "size": 61
-  },
-  {
-    "text": "simon",
-    "size": 61
-  },
-  {
-    "text": "interiors",
-    "size": 60
-  },
-  {
-    "text": "renovation",
-    "size": 60
-  },
-  {
-    "text": "kurt",
-    "size": 59
-  },
-  {
-    "text": "all",
-    "size": 59
-  },
-  {
-    "text": "company",
-    "size": 58
-  },
-  {
-    "text": "vert",
-    "size": 58
-  },
-  {
-    "text": "menuiserie",
-    "size": 58
-  },
-  {
-    "text": "vastgoed",
-    "size": 57
-  },
-  {
-    "text": "julien",
-    "size": 57
-  },
-  {
-    "text": "paul",
-    "size": 56
+    "text": "deco",
+    "size": 57,
+    "category": "ander"
   },
   {
     "text": "architectenvennootschap",
-    "size": 56
+    "size": 56,
+    "category": "ander"
   },
   {
-    "text": "jeroen",
-    "size": 56
+    "text": "vert",
+    "size": 55,
+    "category": "ander"
   },
   {
-    "text": "bruno",
-    "size": 55
+    "text": "kristof",
+    "size": 54,
+    "category": "voornaam man"
   },
   {
-    "text": "fils",
-    "size": 55
+    "text": "julien",
+    "size": 54,
+    "category": "voornaam"
   },
   {
-    "text": "aannemingen",
-    "size": 54
+    "text": "simon",
+    "size": 54,
+    "category": "voornaam"
+  },
+  {
+    "text": "technics",
+    "size": 53,
+    "category": "ander"
+  },
+  {
+    "text": "michel",
+    "size": 53,
+    "category": "voornaam"
+  },
+  {
+    "text": "tuinwerken",
+    "size": 53,
+    "category": "ander"
+  },
+  {
+    "text": "renovation",
+    "size": 52,
+    "category": "ander"
+  },
+  {
+    "text": "menuiserie",
+    "size": 51,
+    "category": "ander"
   },
   {
     "text": "frédéric",
-    "size": 54
+    "size": 51,
+    "category": "voornaam man"
   },
   {
-    "text": "advies",
-    "size": 54
+    "text": "jeroen",
+    "size": 50,
+    "category": "voornaam man"
   },
   {
-    "text": "constructions",
-    "size": 53
+    "text": "peeters",
+    "size": 49,
+    "category": "ander"
   },
   {
-    "text": "yves",
-    "size": 53
+    "text": "all",
+    "size": 49,
+    "category": "ander"
   },
   {
-    "text": "schilderwerken",
-    "size": 52
+    "text": "interiors",
+    "size": 48,
+    "category": "ander"
   },
   {
-    "text": "dries",
-    "size": 52
+    "text": "vastgoed",
+    "size": 48,
+    "category": "ander"
+  },
+  {
+    "text": "bruno",
+    "size": 48,
+    "category": "voornaam man"
   },
   {
     "text": "daniel",
-    "size": 52
+    "size": 48,
+    "category": "voornaam"
   },
   {
-    "text": "real",
-    "size": 51
+    "text": "paul",
+    "size": 47,
+    "category": "voornaam man"
   },
   {
-    "text": "alain",
-    "size": 51
+    "text": "dakwerken",
+    "size": 47,
+    "category": "ander"
   },
   {
-    "text": "groen",
-    "size": 51
+    "text": "advies",
+    "size": 47,
+    "category": "ander"
   },
   {
-    "text": "consultancy",
-    "size": 50
+    "text": "kurt",
+    "size": 46,
+    "category": "voornaam man"
   },
   {
-    "text": "dieter",
-    "size": 50
-  },
-  {
-    "text": "energy",
-    "size": 50
-  },
-  {
-    "text": "ets",
-    "size": 50
-  },
-  {
-    "text": "estate",
-    "size": 50
-  },
-  {
-    "text": "plus",
-    "size": 49
-  },
-  {
-    "text": "thierry",
-    "size": 49
-  },
-  {
-    "text": "janssens",
-    "size": 49
-  },
-  {
-    "text": "joris",
-    "size": 49
-  },
-  {
-    "text": "pascal",
-    "size": 48
-  },
-  {
-    "text": "wood",
-    "size": 48
-  },
-  {
-    "text": "bois",
-    "size": 47
-  },
-  {
-    "text": "nico",
-    "size": 47
-  },
-  {
-    "text": "stefan",
-    "size": 47
-  },
-  {
-    "text": "kevin",
-    "size": 46
-  },
-  {
-    "text": "françois",
-    "size": 46
+    "text": "constructions",
+    "size": 46,
+    "category": "ander"
   },
   {
     "text": "klussenier",
-    "size": 46
+    "size": 46,
+    "category": "ander"
   },
   {
-    "text": "martin",
-    "size": 45
+    "text": "fils",
+    "size": 46,
+    "category": "voornaam man"
+  },
+  {
+    "text": "bois",
+    "size": 45,
+    "category": "ander"
+  },
+  {
+    "text": "energy",
+    "size": 45,
+    "category": "ander"
+  },
+  {
+    "text": "ets",
+    "size": 45,
+    "category": "ander"
+  },
+  {
+    "text": "company",
+    "size": 44,
+    "category": "ander"
   },
   {
     "text": "buro",
-    "size": 45
+    "size": 44,
+    "category": "ander"
   },
   {
-    "text": "studiebureau",
-    "size": 45
+    "text": "dieter",
+    "size": 44,
+    "category": "voornaam man"
   },
   {
-    "text": "guy",
-    "size": 45
-  },
-  {
-    "text": "renovatie",
-    "size": 45
-  },
-  {
-    "text": "entreprises",
-    "size": 45
-  },
-  {
-    "text": "mathieu",
-    "size": 45
+    "text": "wood",
+    "size": 44,
+    "category": "ander"
   },
   {
     "text": "bernard",
-    "size": 45
+    "size": 44,
+    "category": "voornaam man"
   },
   {
-    "text": "wouter",
-    "size": 44
-  },
-  {
-    "text": "frederik",
-    "size": 44
-  },
-  {
-    "text": "electro",
-    "size": 44
+    "text": "alain",
+    "size": 43,
+    "category": "voornaam man"
   },
   {
     "text": "julie",
-    "size": 44
+    "size": 43,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "frank",
-    "size": 44
+    "text": "plus",
+    "size": 43,
+    "category": "ander"
   },
   {
-    "text": "filip",
-    "size": 44
+    "text": "thierry",
+    "size": 43,
+    "category": "voornaam man"
   },
   {
-    "text": "house",
-    "size": 44
+    "text": "martin",
+    "size": 42,
+    "category": "voornaam"
   },
   {
-    "text": "elektro",
-    "size": 44
-  },
-  {
-    "text": "maison",
-    "size": 43
-  },
-  {
-    "text": "sophie",
-    "size": 43
-  },
-  {
-    "text": "stefaan",
-    "size": 43
+    "text": "studiebureau",
+    "size": 42,
+    "category": "ander"
   },
   {
     "text": "jean",
-    "size": 43
+    "size": 42,
+    "category": "voornaam"
   },
   {
-    "text": "tuinonderhoud",
-    "size": 42
+    "text": "pascal",
+    "size": 42,
+    "category": "voornaam"
   },
   {
-    "text": "pro",
-    "size": 42
+    "text": "françois",
+    "size": 42,
+    "category": "voornaam man"
   },
   {
-    "text": "frederic",
-    "size": 41
+    "text": "sophie",
+    "size": 41,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "sébastien",
-    "size": 41
+    "text": "janssens",
+    "size": 41,
+    "category": "ander"
+  },
+  {
+    "text": "house",
+    "size": 41,
+    "category": "ander"
+  },
+  {
+    "text": "yves",
+    "size": 41,
+    "category": "voornaam man"
+  },
+  {
+    "text": "mathieu",
+    "size": 41,
+    "category": "voornaam man"
   },
   {
     "text": "benjamin",
-    "size": 41
+    "size": 40,
+    "category": "voornaam man"
   },
   {
-    "text": "gardens",
-    "size": 41
-  },
-  {
-    "text": "christian",
-    "size": 41
+    "text": "aannemingen",
+    "size": 40,
+    "category": "ander"
   },
   {
     "text": "d\u0027architectes",
-    "size": 41
+    "size": 40,
+    "category": "ander"
   },
   {
-    "text": "maarten",
-    "size": 41
+    "text": "joris",
+    "size": 40,
+    "category": "voornaam man"
   },
   {
-    "text": "hans",
-    "size": 40
+    "text": "guy",
+    "size": 39,
+    "category": "voornaam man"
   },
   {
-    "text": "tim",
-    "size": 40
+    "text": "dries",
+    "size": 39,
+    "category": "voornaam man"
   },
   {
-    "text": "danny",
-    "size": 40
+    "text": "entreprises",
+    "size": 39,
+    "category": "ander"
   },
   {
-    "text": "gregory",
-    "size": 39
+    "text": "consultancy",
+    "size": 38,
+    "category": "ander"
   },
   {
-    "text": "by",
-    "size": 39
+    "text": "frederic",
+    "size": 38,
+    "category": "voornaam man"
   },
   {
-    "text": "xavier",
-    "size": 39
+    "text": "real",
+    "size": 38,
+    "category": "voornaam man"
+  },
+  {
+    "text": "kevin",
+    "size": 38,
+    "category": "voornaam"
   },
   {
     "text": "sofie",
-    "size": 39
+    "size": 38,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "claes",
-    "size": 39
+    "text": "frank",
+    "size": 38,
+    "category": "voornaam man"
   },
   {
-    "text": "michael",
-    "size": 39
-  },
-  {
-    "text": "decoratie",
-    "size": 38
-  },
-  {
-    "text": "onderhoud",
-    "size": 38
-  },
-  {
-    "text": "bram",
-    "size": 38
-  },
-  {
-    "text": "creations",
-    "size": 38
-  },
-  {
-    "text": "eddy",
-    "size": 38
+    "text": "wouter",
+    "size": 37,
+    "category": "voornaam man"
   },
   {
     "text": "ir",
-    "size": 37
+    "size": 37,
+    "category": "ander"
   },
   {
-    "text": "concepts",
-    "size": 37
+    "text": "maison",
+    "size": 37,
+    "category": "ander"
   },
   {
-    "text": "schrijnwerkerij",
-    "size": 37
+    "text": "xavier",
+    "size": 37,
+    "category": "voornaam man"
   },
   {
-    "text": "jonathan",
-    "size": 37
+    "text": "estate",
+    "size": 37,
+    "category": "ander"
   },
   {
-    "text": "vanden",
-    "size": 37
+    "text": "gardens",
+    "size": 37,
+    "category": "ander"
   },
   {
-    "text": "marie",
-    "size": 37
+    "text": "christian",
+    "size": 37,
+    "category": "voornaam"
   },
   {
-    "text": "smet",
-    "size": 37
+    "text": "groen",
+    "size": 37,
+    "category": "ander"
   },
   {
-    "text": "bati",
-    "size": 36
+    "text": "schilderwerken",
+    "size": 36,
+    "category": "ander"
   },
   {
-    "text": "team",
-    "size": 36
+    "text": "decoratie",
+    "size": 36,
+    "category": "ander"
+  },
+  {
+    "text": "sébastien",
+    "size": 36,
+    "category": "voornaam man"
   },
   {
     "text": "charlotte",
-    "size": 36
+    "size": 36,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "development",
-    "size": 36
+    "text": "michael",
+    "size": 36,
+    "category": "voornaam"
   },
   {
     "text": "interieurarchitect",
-    "size": 36
+    "size": 36,
+    "category": "ander"
   },
   {
-    "text": "groep",
-    "size": 36
+    "text": "gregory",
+    "size": 35,
+    "category": "voornaam man"
+  },
+  {
+    "text": "frederik",
+    "size": 35,
+    "category": "voornaam man"
+  },
+  {
+    "text": "stefaan",
+    "size": 35,
+    "category": "voornaam man"
+  },
+  {
+    "text": "nico",
+    "size": 35,
+    "category": "voornaam"
+  },
+  {
+    "text": "stefan",
+    "size": 35,
+    "category": "voornaam man"
+  },
+  {
+    "text": "tim",
+    "size": 35,
+    "category": "voornaam"
+  },
+  {
+    "text": "marie",
+    "size": 35,
+    "category": "voornaam"
   },
   {
     "text": "renov",
-    "size": 35
+    "size": 34,
+    "category": "ander"
   },
   {
-    "text": "chris",
-    "size": 35
+    "text": "jonathan",
+    "size": 34,
+    "category": "voornaam man"
   },
   {
-    "text": "dominique",
-    "size": 35
+    "text": "electro",
+    "size": 34,
+    "category": "ander"
   },
   {
-    "text": "systems",
-    "size": 35
+    "text": "claes",
+    "size": 34,
+    "category": "voornaam man"
   },
   {
-    "text": "casa",
-    "size": 35
-  },
-  {
-    "text": "build",
-    "size": 35
-  },
-  {
-    "text": "maxime",
-    "size": 35
-  },
-  {
-    "text": "dimitri",
-    "size": 34
-  },
-  {
-    "text": "decoration",
-    "size": 34
+    "text": "renovatie",
+    "size": 34,
+    "category": "ander"
   },
   {
     "text": "chauffage",
-    "size": 34
+    "size": 34,
+    "category": "ander"
   },
   {
-    "text": "clean",
-    "size": 34
+    "text": "pro",
+    "size": 34,
+    "category": "ander"
   },
   {
-    "text": "mario",
-    "size": 34
+    "text": "filip",
+    "size": 34,
+    "category": "voornaam man"
   },
   {
-    "text": "toitures",
-    "size": 34
+    "text": "maxime",
+    "size": 34,
+    "category": "voornaam"
   },
   {
-    "text": "davy",
-    "size": 34
-  },
-  {
-    "text": "didier",
-    "size": 34
+    "text": "bati",
+    "size": 33,
+    "category": "ander"
   },
   {
     "text": "parcs",
-    "size": 33
+    "size": 33,
+    "category": "ander"
+  },
+  {
+    "text": "dominique",
+    "size": 33,
+    "category": "voornaam"
+  },
+  {
+    "text": "systems",
+    "size": 33,
+    "category": "ander"
+  },
+  {
+    "text": "decoration",
+    "size": 33,
+    "category": "ander"
+  },
+  {
+    "text": "casa",
+    "size": 33,
+    "category": "ander"
+  },
+  {
+    "text": "creations",
+    "size": 32,
+    "category": "ander"
+  },
+  {
+    "text": "eddy",
+    "size": 32,
+    "category": "voornaam"
+  },
+  {
+    "text": "maarten",
+    "size": 32,
+    "category": "voornaam man"
+  },
+  {
+    "text": "didier",
+    "size": 32,
+    "category": "voornaam man"
+  },
+  {
+    "text": "by",
+    "size": 31,
+    "category": "ander"
+  },
+  {
+    "text": "concepts",
+    "size": 31,
+    "category": "ander"
   },
   {
     "text": "gilles",
-    "size": 33
-  },
-  {
-    "text": "benoit",
-    "size": 33
-  },
-  {
-    "text": "erik",
-    "size": 33
+    "size": 31,
+    "category": "voornaam"
   },
   {
     "text": "michaël",
-    "size": 33
+    "size": 31,
+    "category": "voornaam man"
   },
   {
-    "text": "guillaume",
-    "size": 32
+    "text": "groep",
+    "size": 31,
+    "category": "ander"
   },
   {
-    "text": "pauwels",
-    "size": 32
+    "text": "chris",
+    "size": 30,
+    "category": "voornaam"
+  },
+  {
+    "text": "dimitri",
+    "size": 30,
+    "category": "voornaam man"
+  },
+  {
+    "text": "development",
+    "size": 30,
+    "category": "ander"
+  },
+  {
+    "text": "vanden",
+    "size": 30,
+    "category": "ander"
+  },
+  {
+    "text": "erik",
+    "size": 30,
+    "category": "voornaam man"
+  },
+  {
+    "text": "hans",
+    "size": 30,
+    "category": "voornaam man"
   },
   {
     "text": "anne",
-    "size": 32
+    "size": 30,
+    "category": "voornaam"
   },
   {
-    "text": "gert",
-    "size": 31
+    "text": "elektro",
+    "size": 30,
+    "category": "ander"
   },
   {
-    "text": "goossens",
-    "size": 31
+    "text": "guillaume",
+    "size": 29,
+    "category": "voornaam man"
   },
   {
-    "text": "willems",
-    "size": 31
+    "text": "team",
+    "size": 29,
+    "category": "ander"
   },
   {
-    "text": "works",
-    "size": 30
-  },
-  {
-    "text": "robert",
-    "size": 30
-  },
-  {
-    "text": "eco",
-    "size": 30
-  },
-  {
-    "text": "new",
-    "size": 30
-  },
-  {
-    "text": "steve",
-    "size": 30
-  },
-  {
-    "text": "jacobs",
-    "size": 30
-  },
-  {
-    "text": "cv",
-    "size": 29
-  },
-  {
-    "text": "jacques",
-    "size": 29
-  },
-  {
-    "text": "nick",
-    "size": 29
+    "text": "benoit",
+    "size": 29,
+    "category": "voornaam man"
   },
   {
     "text": "arnaud",
-    "size": 29
+    "size": 29,
+    "category": "voornaam man"
+  },
+  {
+    "text": "build",
+    "size": 29,
+    "category": "ander"
+  },
+  {
+    "text": "davy",
+    "size": 29,
+    "category": "voornaam"
+  },
+  {
+    "text": "onderhoud",
+    "size": 28,
+    "category": "ander"
+  },
+  {
+    "text": "bram",
+    "size": 28,
+    "category": "voornaam man"
+  },
+  {
+    "text": "clean",
+    "size": 28,
+    "category": "ander"
   },
   {
     "text": "francois",
-    "size": 29
+    "size": 28,
+    "category": "voornaam man"
   },
   {
-    "text": "denis",
-    "size": 29
+    "text": "mario",
+    "size": 28,
+    "category": "voornaam man"
   },
   {
-    "text": "jonas",
-    "size": 29
-  },
-  {
-    "text": "woningbouw",
-    "size": 29
-  },
-  {
-    "text": "lieven",
-    "size": 28
-  },
-  {
-    "text": "sven",
-    "size": 28
-  },
-  {
-    "text": "martens",
-    "size": 28
-  },
-  {
-    "text": "grondwerken",
-    "size": 28
-  },
-  {
-    "text": "reno",
-    "size": 28
-  },
-  {
-    "text": "cleaning",
-    "size": 28
-  },
-  {
-    "text": "aerts",
-    "size": 28
-  },
-  {
-    "text": "sebastien",
-    "size": 28
-  },
-  {
-    "text": "vof",
-    "size": 28
-  },
-  {
-    "text": "style",
-    "size": 27
+    "text": "toitures",
+    "size": 28,
+    "category": "ander"
   },
   {
     "text": "caroline",
-    "size": 27
+    "size": 27,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "willy",
-    "size": 27
+    "text": "eco",
+    "size": 27,
+    "category": "ander"
   },
   {
-    "text": "mertens",
-    "size": 27
+    "text": "smet",
+    "size": 27,
+    "category": "ander"
+  },
+  {
+    "text": "danny",
+    "size": 27,
+    "category": "voornaam"
+  },
+  {
+    "text": "multiprofessionele",
+    "size": 26,
+    "category": "ander"
+  },
+  {
+    "text": "architectenburo",
+    "size": 26,
+    "category": "ander"
+  },
+  {
+    "text": "jacques",
+    "size": 26,
+    "category": "voornaam man"
+  },
+  {
+    "text": "gert",
+    "size": 26,
+    "category": "voornaam"
+  },
+  {
+    "text": "denis",
+    "size": 26,
+    "category": "voornaam"
+  },
+  {
+    "text": "jonas",
+    "size": 26,
+    "category": "voornaam man"
+  },
+  {
+    "text": "jacobs",
+    "size": 26,
+    "category": "ander"
+  },
+  {
+    "text": "tuinonderhoud",
+    "size": 25,
+    "category": "ander"
+  },
+  {
+    "text": "schrijnwerkerij",
+    "size": 25,
+    "category": "ander"
+  },
+  {
+    "text": "société",
+    "size": 25,
+    "category": "ander"
+  },
+  {
+    "text": "constantin",
+    "size": 25,
+    "category": "voornaam man"
+  },
+  {
+    "text": "interieurarchitectuur",
+    "size": 25,
+    "category": "ander"
+  },
+  {
+    "text": "cleaning",
+    "size": 25,
+    "category": "ander"
+  },
+  {
+    "text": "new",
+    "size": 25,
+    "category": "ander"
+  },
+  {
+    "text": "florence",
+    "size": 25,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "florin",
+    "size": 25,
+    "category": "voornaam man"
+  },
+  {
+    "text": "stephanie",
+    "size": 25,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "cv",
+    "size": 24,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "id",
+    "size": 24,
+    "category": "ander"
+  },
+  {
+    "text": "claude",
+    "size": 24,
+    "category": "voornaam"
+  },
+  {
+    "text": "katrien",
+    "size": 24,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "hermans",
+    "size": 24,
+    "category": "ander"
+  },
+  {
+    "text": "grondwerken",
+    "size": 24,
+    "category": "ander"
   },
   {
     "text": "niels",
-    "size": 27
+    "size": 24,
+    "category": "voornaam man"
   },
   {
-    "text": "renovatiewerken",
-    "size": 27
+    "text": "goossens",
+    "size": 24,
+    "category": "ander"
   },
   {
-    "text": "kim",
-    "size": 27
+    "text": "robert",
+    "size": 24,
+    "category": "voornaam man"
   },
   {
-    "text": "energie",
-    "size": 27
+    "text": "pauwels",
+    "size": 24,
+    "category": "ander"
   },
   {
-    "text": "living",
-    "size": 27
+    "text": "sebastien",
+    "size": 24,
+    "category": "voornaam man"
+  },
+  {
+    "text": "sam",
+    "size": 24,
+    "category": "voornaam"
+  },
+  {
+    "text": "antoine",
+    "size": 24,
+    "category": "voornaam man"
+  },
+  {
+    "text": "tekenbureau",
+    "size": 23,
+    "category": "ander"
+  },
+  {
+    "text": "style",
+    "size": 23,
+    "category": "ander"
+  },
+  {
+    "text": "martens",
+    "size": 23,
+    "category": "ander"
+  },
+  {
+    "text": "willy",
+    "size": 23,
+    "category": "voornaam"
   }
 ]

@@ -1,1002 +1,1252 @@
 [
   {
     "text": "consulting",
-    "size": 1107
+    "size": 831,
+    "category": "ander"
   },
   {
     "text": "consult",
-    "size": 489
+    "size": 373,
+    "category": "ander"
   },
   {
     "text": "services",
-    "size": 446
+    "size": 338,
+    "category": "ander"
   },
   {
     "text": "bvba",
-    "size": 383
+    "size": 258,
+    "category": "rechtsvorm"
   },
   {
     "text": "management",
-    "size": 321
+    "size": 231,
+    "category": "ander"
   },
   {
     "text": "the",
-    "size": 307
+    "size": 224,
+    "category": "voornaam"
   },
   {
     "text": "solutions",
-    "size": 299
+    "size": 220,
+    "category": "ander"
   },
   {
     "text": "coaching",
-    "size": 248
-  },
-  {
-    "text": "consultancy",
-    "size": 208
+    "size": 212,
+    "category": "ander"
   },
   {
     "text": "and",
-    "size": 197
+    "size": 158,
+    "category": "ander"
   },
   {
-    "text": "it",
-    "size": 166
-  },
-  {
-    "text": "belgium",
-    "size": 147
-  },
-  {
-    "text": "design",
-    "size": 146
+    "text": "consultancy",
+    "size": 150,
+    "category": "ander"
   },
   {
     "text": "training",
-    "size": 143
-  },
-  {
-    "text": "atelier",
-    "size": 142
+    "size": 125,
+    "category": "ander"
   },
   {
     "text": "sprl",
-    "size": 137
+    "size": 122,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "atelier",
+    "size": 121,
+    "category": "ander"
+  },
+  {
+    "text": "it",
+    "size": 120,
+    "category": "ander"
+  },
+  {
+    "text": "design",
+    "size": 113,
+    "category": "ander"
+  },
+  {
+    "text": "belgium",
+    "size": 106,
+    "category": "land"
   },
   {
     "text": "studio",
-    "size": 136
-  },
-  {
-    "text": "projects",
-    "size": 129
-  },
-  {
-    "text": "business",
-    "size": 121
+    "size": 103,
+    "category": "ander"
   },
   {
     "text": "den",
-    "size": 118
-  },
-  {
-    "text": "international",
-    "size": 106
+    "size": 91,
+    "category": "ander"
   },
   {
     "text": "art",
-    "size": 106
+    "size": 88,
+    "category": "voornaam man"
+  },
+  {
+    "text": "projects",
+    "size": 88,
+    "category": "ander"
+  },
+  {
+    "text": "business",
+    "size": 85,
+    "category": "ander"
   },
   {
     "text": "group",
-    "size": 105
-  },
-  {
-    "text": "co",
-    "size": 102
-  },
-  {
-    "text": "invest",
-    "size": 101
-  },
-  {
-    "text": "peter",
-    "size": 101
-  },
-  {
-    "text": "engineering",
-    "size": 96
+    "size": 83,
+    "category": "ander"
   },
   {
     "text": "events",
-    "size": 94
+    "size": 79,
+    "category": "ander"
   },
   {
-    "text": "service",
-    "size": 94
+    "text": "international",
+    "size": 77,
+    "category": "ander"
   },
   {
-    "text": "partners",
-    "size": 93
-  },
-  {
-    "text": "for",
-    "size": 91
-  },
-  {
-    "text": "jan",
-    "size": 91
-  },
-  {
-    "text": "bart",
-    "size": 89
-  },
-  {
-    "text": "beauty",
-    "size": 89
+    "text": "co",
+    "size": 76,
+    "category": "ander"
   },
   {
     "text": "concept",
-    "size": 84
+    "size": 75,
+    "category": "ander"
   },
   {
-    "text": "media",
-    "size": 83
-  },
-  {
-    "text": "company",
-    "size": 82
-  },
-  {
-    "text": "anne",
-    "size": 82
-  },
-  {
-    "text": "marc",
-    "size": 81
-  },
-  {
-    "text": "nathalie",
-    "size": 78
+    "text": "for",
+    "size": 75,
+    "category": "ander"
   },
   {
     "text": "olivier",
-    "size": 78
+    "size": 74,
+    "category": "voornaam man"
   },
   {
-    "text": "life",
-    "size": 75
+    "text": "service",
+    "size": 74,
+    "category": "ander"
   },
   {
-    "text": "ann",
-    "size": 73
+    "text": "peter",
+    "size": 73,
+    "category": "voornaam man"
+  },
+  {
+    "text": "engineering",
+    "size": 72,
+    "category": "ander"
+  },
+  {
+    "text": "beauty",
+    "size": 71,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "jan",
+    "size": 70,
+    "category": "voornaam"
+  },
+  {
+    "text": "invest",
+    "size": 70,
+    "category": "ander"
+  },
+  {
+    "text": "anne",
+    "size": 70,
+    "category": "voornaam"
+  },
+  {
+    "text": "marc",
+    "size": 69,
+    "category": "voornaam man"
+  },
+  {
+    "text": "bart",
+    "size": 67,
+    "category": "voornaam man"
   },
   {
     "text": "centre",
-    "size": 72
+    "size": 66,
+    "category": "ander"
   },
   {
-    "text": "to",
-    "size": 71
+    "text": "nathalie",
+    "size": 65,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "philippe",
-    "size": 71
+    "text": "media",
+    "size": 65,
+    "category": "ander"
+  },
+  {
+    "text": "partners",
+    "size": 65,
+    "category": "ander"
   },
   {
     "text": "isabelle",
-    "size": 71
-  },
-  {
-    "text": "patrick",
-    "size": 71
-  },
-  {
-    "text": "johan",
-    "size": 70
-  },
-  {
-    "text": "coach",
-    "size": 69
-  },
-  {
-    "text": "marie",
-    "size": 68
-  },
-  {
-    "text": "by",
-    "size": 67
-  },
-  {
-    "text": "productions",
-    "size": 67
-  },
-  {
-    "text": "be",
-    "size": 66
-  },
-  {
-    "text": "tom",
-    "size": 66
-  },
-  {
-    "text": "david",
-    "size": 65
-  },
-  {
-    "text": "center",
-    "size": 63
-  },
-  {
-    "text": "vincent",
-    "size": 63
-  },
-  {
-    "text": "els",
-    "size": 62
-  },
-  {
-    "text": "luc",
-    "size": 62
-  },
-  {
-    "text": "wim",
-    "size": 62
-  },
-  {
-    "text": "europe",
-    "size": 61
-  },
-  {
-    "text": "thomas",
-    "size": 60
+    "size": 64,
+    "category": "voornaam vrouw"
   },
   {
     "text": "pierre",
-    "size": 60
+    "size": 59,
+    "category": "voornaam"
   },
   {
-    "text": "music",
-    "size": 60
+    "text": "life",
+    "size": 58,
+    "category": "ander"
   },
   {
-    "text": "vof",
-    "size": 59
+    "text": "marie",
+    "size": 58,
+    "category": "voornaam"
   },
   {
-    "text": "photography",
-    "size": 59
+    "text": "philippe",
+    "size": 57,
+    "category": "voornaam man"
   },
   {
-    "text": "nails",
-    "size": 58
+    "text": "patrick",
+    "size": 57,
+    "category": "voornaam man"
+  },
+  {
+    "text": "johan",
+    "size": 56,
+    "category": "voornaam"
+  },
+  {
+    "text": "coach",
+    "size": 54,
+    "category": "ander"
+  },
+  {
+    "text": "by",
+    "size": 54,
+    "category": "ander"
+  },
+  {
+    "text": "vincent",
+    "size": 54,
+    "category": "voornaam man"
+  },
+  {
+    "text": "thomas",
+    "size": 53,
+    "category": "voornaam man"
+  },
+  {
+    "text": "david",
+    "size": 53,
+    "category": "voornaam man"
+  },
+  {
+    "text": "center",
+    "size": 53,
+    "category": "ander"
+  },
+  {
+    "text": "ann",
+    "size": 53,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "tom",
+    "size": 53,
+    "category": "voornaam man"
+  },
+  {
+    "text": "company",
+    "size": 52,
+    "category": "ander"
   },
   {
     "text": "home",
-    "size": 58
+    "size": 52,
+    "category": "ander"
   },
   {
-    "text": "support",
-    "size": 56
+    "text": "photography",
+    "size": 51,
+    "category": "ander"
   },
   {
-    "text": "koen",
-    "size": 55
+    "text": "be",
+    "size": 50,
+    "category": "ander"
   },
   {
-    "text": "michel",
-    "size": 55
+    "text": "to",
+    "size": 50,
+    "category": "voornaam"
+  },
+  {
+    "text": "els",
+    "size": 50,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "nails",
+    "size": 50,
+    "category": "ander"
+  },
+  {
+    "text": "europe",
+    "size": 49,
+    "category": "ander"
   },
   {
     "text": "sofie",
-    "size": 54
+    "size": 49,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "katrien",
-    "size": 53
-  },
-  {
-    "text": "your",
-    "size": 53
-  },
-  {
-    "text": "caroline",
-    "size": 52
+    "text": "luc",
+    "size": 49,
+    "category": "voornaam man"
   },
   {
     "text": "yoga",
-    "size": 52
+    "size": 49,
+    "category": "ander"
   },
   {
-    "text": "advies",
-    "size": 52
+    "text": "michel",
+    "size": 49,
+    "category": "voornaam"
   },
   {
-    "text": "hr",
-    "size": 51
-  },
-  {
-    "text": "steven",
-    "size": 51
-  },
-  {
-    "text": "global",
-    "size": 51
+    "text": "wim",
+    "size": 47,
+    "category": "voornaam man"
   },
   {
     "text": "laurent",
-    "size": 51
+    "size": 47,
+    "category": "voornaam man"
   },
   {
-    "text": "pieter",
-    "size": 51
-  },
-  {
-    "text": "catherine",
-    "size": 50
-  },
-  {
-    "text": "sophie",
-    "size": 50
-  },
-  {
-    "text": "dominique",
-    "size": 50
-  },
-  {
-    "text": "sarah",
-    "size": 50
+    "text": "music",
+    "size": 47,
+    "category": "ander"
   },
   {
     "text": "alain",
-    "size": 50
+    "size": 46,
+    "category": "voornaam man"
   },
   {
-    "text": "hilde",
-    "size": 49
+    "text": "katrien",
+    "size": 45,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "food",
-    "size": 47
+    "text": "sophie",
+    "size": 45,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "christophe",
-    "size": 47
+    "text": "sarah",
+    "size": 45,
+    "category": "voornaam"
+  },
+  {
+    "text": "catherine",
+    "size": 44,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "caroline",
+    "size": 44,
+    "category": "voornaam vrouw"
   },
   {
     "text": "christine",
-    "size": 47
+    "size": 44,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "project",
-    "size": 47
+    "text": "dominique",
+    "size": 43,
+    "category": "voornaam"
   },
   {
-    "text": "office",
-    "size": 47
+    "text": "christophe",
+    "size": 43,
+    "category": "voornaam man"
   },
   {
-    "text": "fotografie",
-    "size": 46
+    "text": "productions",
+    "size": 43,
+    "category": "ander"
   },
   {
-    "text": "development",
-    "size": 46
-  },
-  {
-    "text": "health",
-    "size": 46
+    "text": "global",
+    "size": 43,
+    "category": "ander"
   },
   {
     "text": "nicolas",
-    "size": 45
+    "size": 40,
+    "category": "voornaam man"
   },
   {
     "text": "martine",
-    "size": 45
+    "size": 40,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "all",
-    "size": 45
+    "text": "steven",
+    "size": 40,
+    "category": "voornaam man"
   },
   {
-    "text": "you",
-    "size": 45
+    "text": "support",
+    "size": 40,
+    "category": "ander"
+  },
+  {
+    "text": "project",
+    "size": 39,
+    "category": "ander"
   },
   {
     "text": "geert",
-    "size": 45
+    "size": 39,
+    "category": "voornaam"
   },
   {
-    "text": "systems",
-    "size": 44
-  },
-  {
-    "text": "eric",
-    "size": 44
+    "text": "hr",
+    "size": 38,
+    "category": "ander"
   },
   {
     "text": "jean",
-    "size": 44
-  },
-  {
-    "text": "paul",
-    "size": 43
-  },
-  {
-    "text": "maes",
-    "size": 42
-  },
-  {
-    "text": "dirk",
-    "size": 42
-  },
-  {
-    "text": "maison",
-    "size": 42
-  },
-  {
-    "text": "julie",
-    "size": 42
-  },
-  {
-    "text": "filip",
-    "size": 42
-  },
-  {
-    "text": "peeters",
-    "size": 41
-  },
-  {
-    "text": "jacques",
-    "size": 41
+    "size": 38,
+    "category": "voornaam"
   },
   {
     "text": "véronique",
-    "size": 41
+    "size": 38,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "huis",
-    "size": 40
+    "text": "hilde",
+    "size": 38,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "koen",
+    "size": 37,
+    "category": "voornaam man"
+  },
+  {
+    "text": "vof",
+    "size": 37,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "office",
+    "size": 37,
+    "category": "ander"
   },
   {
     "text": "communication",
-    "size": 40
+    "size": 36,
+    "category": "ander"
   },
   {
-    "text": "stijn",
-    "size": 40
+    "text": "maison",
+    "size": 36,
+    "category": "ander"
   },
   {
-    "text": "wouter",
-    "size": 39
+    "text": "jacques",
+    "size": 36,
+    "category": "voornaam man"
   },
   {
-    "text": "nv",
-    "size": 39
+    "text": "all",
+    "size": 36,
+    "category": "ander"
   },
   {
-    "text": "blue",
-    "size": 39
-  },
-  {
-    "text": "janssens",
-    "size": 39
-  },
-  {
-    "text": "centrum",
-    "size": 39
-  },
-  {
-    "text": "up",
-    "size": 38
-  },
-  {
-    "text": "creations",
-    "size": 38
-  },
-  {
-    "text": "sales",
-    "size": 38
-  },
-  {
-    "text": "immo",
-    "size": 38
+    "text": "julie",
+    "size": 36,
+    "category": "voornaam vrouw"
   },
   {
     "text": "thierry",
-    "size": 38
+    "size": 36,
+    "category": "voornaam man"
   },
   {
-    "text": "school",
-    "size": 38
+    "text": "eric",
+    "size": 36,
+    "category": "voornaam man"
   },
   {
-    "text": "energy",
-    "size": 37
+    "text": "your",
+    "size": 36,
+    "category": "ander"
   },
   {
-    "text": "tim",
-    "size": 37
+    "text": "food",
+    "size": 35,
+    "category": "ander"
   },
   {
-    "text": "house",
-    "size": 37
+    "text": "dirk",
+    "size": 35,
+    "category": "voornaam man"
+  },
+  {
+    "text": "advies",
+    "size": 35,
+    "category": "ander"
   },
   {
     "text": "my",
-    "size": 36
+    "size": 34,
+    "category": "voornaam"
   },
   {
-    "text": "l\u0027atelier",
-    "size": 36
+    "text": "systems",
+    "size": 34,
+    "category": "ander"
   },
   {
-    "text": "sport",
-    "size": 36
+    "text": "development",
+    "size": 34,
+    "category": "ander"
   },
   {
-    "text": "cuisine",
-    "size": 36
+    "text": "school",
+    "size": 34,
+    "category": "ander"
   },
   {
-    "text": "body",
-    "size": 36
+    "text": "filip",
+    "size": 34,
+    "category": "voornaam man"
   },
   {
-    "text": "care",
-    "size": 36
+    "text": "tim",
+    "size": 34,
+    "category": "voornaam"
   },
   {
-    "text": "gcv",
-    "size": 36
-  },
-  {
-    "text": "annelies",
-    "size": 36
-  },
-  {
-    "text": "laurence",
-    "size": 36
-  },
-  {
-    "text": "language",
-    "size": 35
-  },
-  {
-    "text": "human",
-    "size": 35
-  },
-  {
-    "text": "praktijk",
-    "size": 35
-  },
-  {
-    "text": "new",
-    "size": 35
-  },
-  {
-    "text": "one",
-    "size": 35
-  },
-  {
-    "text": "maria",
-    "size": 35
-  },
-  {
-    "text": "pascale",
-    "size": 35
+    "text": "centrum",
+    "size": 34,
+    "category": "ander"
   },
   {
     "text": "formation",
-    "size": 35
+    "size": 34,
+    "category": "ander"
   },
   {
-    "text": "more",
-    "size": 34
+    "text": "maes",
+    "size": 33,
+    "category": "ander"
   },
   {
-    "text": "trading",
-    "size": 34
+    "text": "l\u0027atelier",
+    "size": 33,
+    "category": "ander"
   },
   {
-    "text": "fit",
-    "size": 34
+    "text": "up",
+    "size": 33,
+    "category": "rechtsvorm"
   },
   {
-    "text": "smart",
-    "size": 34
+    "text": "cuisine",
+    "size": 33,
+    "category": "ander"
   },
   {
-    "text": "agency",
-    "size": 34
+    "text": "paul",
+    "size": 33,
+    "category": "voornaam man"
   },
   {
-    "text": "web",
-    "size": 34
+    "text": "one",
+    "size": 33,
+    "category": "ander"
   },
   {
-    "text": "safety",
-    "size": 34
+    "text": "pieter",
+    "size": 33,
+    "category": "voornaam man"
   },
   {
-    "text": "creative",
-    "size": 33
+    "text": "fotografie",
+    "size": 32,
+    "category": "ander"
   },
   {
-    "text": "veerle",
-    "size": 33
+    "text": "blue",
+    "size": 32,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "laurence",
+    "size": 32,
+    "category": "voornaam"
+  },
+  {
+    "text": "house",
+    "size": 32,
+    "category": "ander"
+  },
+  {
+    "text": "you",
+    "size": 32,
+    "category": "voornaam"
+  },
+  {
+    "text": "language",
+    "size": 31,
+    "category": "ander"
+  },
+  {
+    "text": "sport",
+    "size": 31,
+    "category": "ander"
+  },
+  {
+    "text": "annelies",
+    "size": 31,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "pascale",
+    "size": 31,
+    "category": "voornaam"
   },
   {
     "text": "software",
-    "size": 33
+    "size": 30,
+    "category": "ander"
   },
   {
-    "text": "kris",
-    "size": 33
+    "text": "peeters",
+    "size": 30,
+    "category": "ander"
   },
   {
-    "text": "elke",
-    "size": 33
-  },
-  {
-    "text": "academy",
-    "size": 33
-  },
-  {
-    "text": "frank",
-    "size": 33
-  },
-  {
-    "text": "daniel",
-    "size": 33
-  },
-  {
-    "text": "translations",
-    "size": 33
-  },
-  {
-    "text": "nancy",
-    "size": 33
-  },
-  {
-    "text": "people",
-    "size": 33
-  },
-  {
-    "text": "an",
-    "size": 32
-  },
-  {
-    "text": "personal",
-    "size": 32
+    "text": "creations",
+    "size": 30,
+    "category": "ander"
   },
   {
     "text": "institut",
-    "size": 32
-  },
-  {
-    "text": "ict",
-    "size": 32
-  },
-  {
-    "text": "bureau",
-    "size": 32
-  },
-  {
-    "text": "pascal",
-    "size": 32
-  },
-  {
-    "text": "petit",
-    "size": 32
-  },
-  {
-    "text": "didier",
-    "size": 32
-  },
-  {
-    "text": "technics",
-    "size": 31
-  },
-  {
-    "text": "kristof",
-    "size": 31
-  },
-  {
-    "text": "di",
-    "size": 31
-  },
-  {
-    "text": "style",
-    "size": 31
-  },
-  {
-    "text": "technology",
-    "size": 31
-  },
-  {
-    "text": "consultants",
-    "size": 31
-  },
-  {
-    "text": "mind",
-    "size": 31
-  },
-  {
-    "text": "annick",
-    "size": 31
-  },
-  {
-    "text": "wendy",
-    "size": 31
-  },
-  {
-    "text": "hans",
-    "size": 31
-  },
-  {
-    "text": "wellness",
-    "size": 31
-  },
-  {
-    "text": "concepts",
-    "size": 30
-  },
-  {
-    "text": "mieke",
-    "size": 30
-  },
-  {
-    "text": "kurt",
-    "size": 30
+    "size": 30,
+    "category": "ander"
   },
   {
     "text": "ateliers",
-    "size": 30
+    "size": 30,
+    "category": "ander"
   },
   {
-    "text": "plus",
-    "size": 30
+    "text": "elke",
+    "size": 30,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "factory",
-    "size": 30
+    "text": "huis",
+    "size": 29,
+    "category": "ander"
   },
   {
-    "text": "bruno",
-    "size": 30
+    "text": "nv",
+    "size": 29,
+    "category": "rechtsvorm"
   },
   {
-    "text": "communications",
-    "size": 30
+    "text": "mieke",
+    "size": 29,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "nature",
-    "size": 30
+    "text": "immo",
+    "size": 29,
+    "category": "ander"
   },
   {
-    "text": "hair",
-    "size": 30
+    "text": "fit",
+    "size": 29,
+    "category": "ander"
   },
   {
-    "text": "ingrid",
-    "size": 30
+    "text": "academy",
+    "size": 29,
+    "category": "ander"
   },
   {
-    "text": "jeroen",
-    "size": 30
+    "text": "new",
+    "size": 29,
+    "category": "ander"
   },
   {
-    "text": "michael",
-    "size": 30
+    "text": "health",
+    "size": 29,
+    "category": "ander"
   },
   {
-    "text": "traiteur",
-    "size": 30
+    "text": "pascal",
+    "size": 29,
+    "category": "voornaam"
   },
   {
-    "text": "sven",
-    "size": 29
+    "text": "maria",
+    "size": 29,
+    "category": "voornaam"
   },
   {
-    "text": "marleen",
-    "size": 29
+    "text": "didier",
+    "size": 29,
+    "category": "voornaam man"
   },
   {
-    "text": "christian",
-    "size": 29
+    "text": "kristof",
+    "size": 28,
+    "category": "voornaam man"
   },
   {
-    "text": "leen",
-    "size": 29
+    "text": "wouter",
+    "size": 28,
+    "category": "voornaam man"
   },
   {
-    "text": "green",
-    "size": 29
+    "text": "body",
+    "size": 28,
+    "category": "ander"
+  },
+  {
+    "text": "personal",
+    "size": 28,
+    "category": "ander"
+  },
+  {
+    "text": "wendy",
+    "size": 28,
+    "category": "voornaam"
+  },
+  {
+    "text": "energy",
+    "size": 28,
+    "category": "ander"
+  },
+  {
+    "text": "bureau",
+    "size": 28,
+    "category": "ander"
+  },
+  {
+    "text": "daniel",
+    "size": 28,
+    "category": "voornaam"
+  },
+  {
+    "text": "web",
+    "size": 28,
+    "category": "ander"
+  },
+  {
+    "text": "translations",
+    "size": 28,
+    "category": "ander"
+  },
+  {
+    "text": "safety",
+    "size": 28,
+    "category": "ander"
+  },
+  {
+    "text": "stijn",
+    "size": 28,
+    "category": "voornaam man"
   },
   {
     "text": "bernard",
-    "size": 29
-  },
-  {
-    "text": "vanessa",
-    "size": 28
-  },
-  {
-    "text": "sylvie",
-    "size": 28
-  },
-  {
-    "text": "balance",
-    "size": 28
-  },
-  {
-    "text": "eva",
-    "size": 28
-  },
-  {
-    "text": "fashion",
-    "size": 28
-  },
-  {
-    "text": "karen",
-    "size": 28
-  },
-  {
-    "text": "pure",
-    "size": 28
-  },
-  {
-    "text": "pro",
-    "size": 28
-  },
-  {
-    "text": "frédéric",
-    "size": 28
-  },
-  {
-    "text": "soi",
-    "size": 28
-  },
-  {
-    "text": "passion",
-    "size": 28
-  },
-  {
-    "text": "yves",
-    "size": 28
-  },
-  {
-    "text": "espace",
-    "size": 28
-  },
-  {
-    "text": "quality",
-    "size": 28
+    "size": 28,
+    "category": "voornaam man"
   },
   {
     "text": "ecole",
-    "size": 28
+    "size": 28,
+    "category": "ander"
   },
   {
-    "text": "christel",
-    "size": 28
+    "text": "petit",
+    "size": 28,
+    "category": "voornaam man"
+  },
+  {
+    "text": "veerle",
+    "size": 27,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "care",
+    "size": 27,
+    "category": "ander"
+  },
+  {
+    "text": "trading",
+    "size": 27,
+    "category": "ander"
+  },
+  {
+    "text": "praktijk",
+    "size": 27,
+    "category": "ander"
+  },
+  {
+    "text": "frédéric",
+    "size": 27,
+    "category": "voornaam man"
+  },
+  {
+    "text": "soi",
+    "size": 27,
+    "category": "ander"
+  },
+  {
+    "text": "nature",
+    "size": 27,
+    "category": "ander"
+  },
+  {
+    "text": "ingrid",
+    "size": 27,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "nancy",
+    "size": 27,
+    "category": "voornaam vrouw"
   },
   {
     "text": "valérie",
-    "size": 28
+    "size": 27,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "ad",
-    "size": 27
-  },
-  {
-    "text": "go",
-    "size": 27
-  },
-  {
-    "text": "pc",
-    "size": 27
-  },
-  {
-    "text": "françoise",
-    "size": 27
-  },
-  {
-    "text": "sébastien",
-    "size": 27
-  },
-  {
-    "text": "happy",
-    "size": 27
-  },
-  {
-    "text": "inge",
-    "size": 27
-  },
-  {
-    "text": "event",
-    "size": 27
+    "text": "technics",
+    "size": 26,
+    "category": "ander"
   },
   {
     "text": "ferme",
-    "size": 26
+    "size": 26,
+    "category": "ander"
   },
   {
-    "text": "stal",
-    "size": 26
+    "text": "an",
+    "size": 26,
+    "category": "voornaam"
   },
   {
-    "text": "bert",
-    "size": 26
+    "text": "more",
+    "size": 26,
+    "category": "ander"
   },
   {
-    "text": "veronique",
-    "size": 26
+    "text": "sébastien",
+    "size": 26,
+    "category": "voornaam man"
   },
   {
-    "text": "fleurs",
-    "size": 26
+    "text": "kris",
+    "size": 26,
+    "category": "voornaam"
   },
   {
-    "text": "robert",
-    "size": 26
+    "text": "annick",
+    "size": 26,
+    "category": "voornaam"
   },
   {
-    "text": "education",
-    "size": 26
+    "text": "sylvie",
+    "size": 26,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "nele",
-    "size": 26
+    "text": "passion",
+    "size": 26,
+    "category": "ander"
   },
   {
-    "text": "claes",
-    "size": 26
+    "text": "hans",
+    "size": 26,
+    "category": "voornaam man"
   },
   {
-    "text": "erik",
-    "size": 26
+    "text": "michael",
+    "size": 26,
+    "category": "voornaam"
   },
   {
-    "text": "computer",
-    "size": 26
-  },
-  {
-    "text": "zen",
-    "size": 26
+    "text": "wellness",
+    "size": 26,
+    "category": "ander"
   },
   {
     "text": "simon",
-    "size": 26
+    "size": 26,
+    "category": "voornaam"
+  },
+  {
+    "text": "françoise",
+    "size": 25,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "sales",
+    "size": 25,
+    "category": "ander"
+  },
+  {
+    "text": "fleurs",
+    "size": 25,
+    "category": "ander"
+  },
+  {
+    "text": "human",
+    "size": 25,
+    "category": "ander"
+  },
+  {
+    "text": "kurt",
+    "size": 25,
+    "category": "voornaam man"
+  },
+  {
+    "text": "factory",
+    "size": 25,
+    "category": "ander"
+  },
+  {
+    "text": "bruno",
+    "size": 25,
+    "category": "voornaam man"
+  },
+  {
+    "text": "janssens",
+    "size": 25,
+    "category": "ander"
+  },
+  {
+    "text": "pro",
+    "size": 25,
+    "category": "ander"
+  },
+  {
+    "text": "agency",
+    "size": 25,
+    "category": "ander"
+  },
+  {
+    "text": "green",
+    "size": 25,
+    "category": "ander"
+  },
+  {
+    "text": "espace",
+    "size": 25,
+    "category": "ander"
+  },
+  {
+    "text": "traiteur",
+    "size": 25,
+    "category": "ander"
+  },
+  {
+    "text": "creative",
+    "size": 24,
+    "category": "ander"
+  },
+  {
+    "text": "style",
+    "size": 24,
+    "category": "ander"
+  },
+  {
+    "text": "technology",
+    "size": 24,
+    "category": "ander"
+  },
+  {
+    "text": "vanessa",
+    "size": 24,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "happy",
+    "size": 24,
+    "category": "voornaam"
+  },
+  {
+    "text": "event",
+    "size": 24,
+    "category": "ander"
+  },
+  {
+    "text": "christian",
+    "size": 24,
+    "category": "voornaam"
+  },
+  {
+    "text": "frank",
+    "size": 24,
+    "category": "voornaam man"
+  },
+  {
+    "text": "zen",
+    "size": 24,
+    "category": "voornaam"
+  },
+  {
+    "text": "christel",
+    "size": 24,
+    "category": "voornaam"
+  },
+  {
+    "text": "pc",
+    "size": 23,
+    "category": "ander"
+  },
+  {
+    "text": "concepts",
+    "size": 23,
+    "category": "ander"
+  },
+  {
+    "text": "veronique",
+    "size": 23,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "inge",
+    "size": 23,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "robert",
+    "size": 23,
+    "category": "voornaam man"
+  },
+  {
+    "text": "balance",
+    "size": 23,
+    "category": "ander"
+  },
+  {
+    "text": "smart",
+    "size": 23,
+    "category": "ander"
+  },
+  {
+    "text": "ict",
+    "size": 23,
+    "category": "ander"
+  },
+  {
+    "text": "fashion",
+    "size": 23,
+    "category": "ander"
+  },
+  {
+    "text": "computer",
+    "size": 23,
+    "category": "ander"
+  },
+  {
+    "text": "stéphanie",
+    "size": 23,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "communications",
+    "size": 23,
+    "category": "ander"
+  },
+  {
+    "text": "yves",
+    "size": 23,
+    "category": "voornaam man"
+  },
+  {
+    "text": "sens",
+    "size": 23,
+    "category": "ander"
+  },
+  {
+    "text": "brussels",
+    "size": 23,
+    "category": "ander"
+  },
+  {
+    "text": "stephanie",
+    "size": 23,
+    "category": "voornaam vrouw"
   },
   {
     "text": "heidi",
-    "size": 25
+    "size": 22,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "id",
-    "size": 25
+    "text": "martin",
+    "size": 22,
+    "category": "voornaam"
+  },
+  {
+    "text": "di",
+    "size": 22,
+    "category": "voornaam"
+  },
+  {
+    "text": "go",
+    "size": 22,
+    "category": "ander"
+  },
+  {
+    "text": "sven",
+    "size": 22,
+    "category": "voornaam man"
+  },
+  {
+    "text": "mind",
+    "size": 22,
+    "category": "ander"
   },
   {
     "text": "terre",
-    "size": 25
+    "size": 22,
+    "category": "ander"
   },
   {
     "text": "security",
-    "size": 25
+    "size": 22,
+    "category": "ander"
   },
   {
-    "text": "mertens",
-    "size": 25
+    "text": "marleen",
+    "size": 22,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "entreprise",
+    "size": 22,
+    "category": "ander"
+  },
+  {
+    "text": "fabienne",
+    "size": 22,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "horses",
+    "size": 22,
+    "category": "ander"
+  },
+  {
+    "text": "xavier",
+    "size": 22,
+    "category": "voornaam man"
+  },
+  {
+    "text": "nele",
+    "size": 22,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "chez",
+    "size": 22,
+    "category": "ander"
+  },
+  {
+    "text": "leen",
+    "size": 22,
+    "category": "voornaam"
+  },
+  {
+    "text": "barbara",
+    "size": 22,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "myriam",
+    "size": 21,
+    "category": "voornaam"
+  },
+  {
+    "text": "consultance",
+    "size": 21,
+    "category": "ander"
+  },
+  {
+    "text": "sandrine",
+    "size": 21,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "benoit",
+    "size": 21,
+    "category": "voornaam man"
   },
   {
     "text": "ilse",
-    "size": 25
+    "size": 21,
+    "category": "voornaam vrouw"
   },
   {
     "text": "charlotte",
-    "size": 25
+    "size": 21,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "sandra",
+    "size": 21,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "plus",
+    "size": 21,
+    "category": "ander"
+  },
+  {
+    "text": "gcv",
+    "size": 21,
+    "category": "rechtsvorm"
   }
 ]

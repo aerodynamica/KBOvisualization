@@ -1,1002 +1,1252 @@
 [
   {
-    "text": "bvba",
-    "size": 205
-  },
-  {
-    "text": "schilderwerken",
-    "size": 171
-  },
-  {
     "text": "decor",
-    "size": 165
+    "size": 148,
+    "category": "ander"
+  },
+  {
+    "text": "bvba",
+    "size": 141,
+    "category": "rechtsvorm"
   },
   {
     "text": "interieur",
-    "size": 131
+    "size": 106,
+    "category": "ander"
   },
   {
-    "text": "design",
-    "size": 106
+    "text": "schilderwerken",
+    "size": 105,
+    "category": "ander"
   },
   {
     "text": "decoratie",
-    "size": 91
+    "size": 79,
+    "category": "ander"
   },
   {
-    "text": "home",
-    "size": 83
+    "text": "design",
+    "size": 77,
+    "category": "ander"
   },
   {
     "text": "deco",
-    "size": 82
+    "size": 72,
+    "category": "ander"
   },
   {
-    "text": "schilder",
-    "size": 70
+    "text": "home",
+    "size": 70,
+    "category": "ander"
   },
   {
     "text": "nv",
-    "size": 64
+    "size": 57,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "schilder",
+    "size": 48,
+    "category": "ander"
   },
   {
     "text": "decoratiewerken",
-    "size": 62
-  },
-  {
-    "text": "maison",
-    "size": 53
-  },
-  {
-    "text": "interior",
-    "size": 48
-  },
-  {
-    "text": "sprl",
-    "size": 48
-  },
-  {
-    "text": "projects",
-    "size": 47
+    "size": 44,
+    "category": "ander"
   },
   {
     "text": "leen",
-    "size": 44
+    "size": 43,
+    "category": "voornaam"
   },
   {
-    "text": "concept",
-    "size": 41
+    "text": "maison",
+    "size": 43,
+    "category": "ander"
   },
   {
     "text": "bakker",
-    "size": 41
+    "size": 41,
+    "category": "ander"
   },
   {
-    "text": "huis",
-    "size": 40
+    "text": "sprl",
+    "size": 37,
+    "category": "rechtsvorm"
   },
   {
-    "text": "co",
-    "size": 38
+    "text": "interior",
+    "size": 35,
+    "category": "ander"
   },
   {
     "text": "decoration",
-    "size": 37
+    "size": 35,
+    "category": "ander"
+  },
+  {
+    "text": "huis",
+    "size": 34,
+    "category": "ander"
+  },
+  {
+    "text": "projects",
+    "size": 32,
+    "category": "ander"
   },
   {
     "text": "casa",
-    "size": 36
+    "size": 32,
+    "category": "ander"
   },
   {
-    "text": "construct",
-    "size": 35
+    "text": "concept",
+    "size": 30,
+    "category": "ander"
   },
   {
-    "text": "interiors",
-    "size": 34
-  },
-  {
-    "text": "algemene",
-    "size": 34
-  },
-  {
-    "text": "the",
-    "size": 30
+    "text": "co",
+    "size": 28,
+    "category": "ander"
   },
   {
     "text": "colora",
-    "size": 30
+    "size": 28,
+    "category": "ander"
   },
   {
-    "text": "international",
-    "size": 30
-  },
-  {
-    "text": "den",
-    "size": 29
-  },
-  {
-    "text": "trading",
-    "size": 29
-  },
-  {
-    "text": "atelier",
-    "size": 29
+    "text": "construct",
+    "size": 26,
+    "category": "ander"
   },
   {
     "text": "belgium",
-    "size": 29
+    "size": 24,
+    "category": "land"
   },
   {
-    "text": "art",
-    "size": 29
+    "text": "international",
+    "size": 24,
+    "category": "ander"
   },
   {
-    "text": "services",
-    "size": 27
+    "text": "algemene",
+    "size": 24,
+    "category": "ander"
   },
   {
     "text": "new",
-    "size": 27
+    "size": 23,
+    "category": "ander"
+  },
+  {
+    "text": "art",
+    "size": 23,
+    "category": "voornaam man"
+  },
+  {
+    "text": "services",
+    "size": 22,
+    "category": "ander"
   },
   {
     "text": "paint",
-    "size": 27
+    "size": 21,
+    "category": "ander"
+  },
+  {
+    "text": "the",
+    "size": 20,
+    "category": "voornaam"
+  },
+  {
+    "text": "trading",
+    "size": 20,
+    "category": "ander"
+  },
+  {
+    "text": "atelier",
+    "size": 20,
+    "category": "ander"
+  },
+  {
+    "text": "interiors",
+    "size": 19,
+    "category": "ander"
   },
   {
     "text": "and",
-    "size": 26
-  },
-  {
-    "text": "consulting",
-    "size": 24
-  },
-  {
-    "text": "bart",
-    "size": 22
-  },
-  {
-    "text": "style",
-    "size": 22
-  },
-  {
-    "text": "center",
-    "size": 21
+    "size": 19,
+    "category": "ander"
   },
   {
     "text": "luc",
-    "size": 21
+    "size": 18,
+    "category": "voornaam man"
+  },
+  {
+    "text": "center",
+    "size": 17,
+    "category": "ander"
+  },
+  {
+    "text": "consulting",
+    "size": 17,
+    "category": "ander"
   },
   {
     "text": "group",
-    "size": 20
+    "size": 17,
+    "category": "ander"
   },
   {
-    "text": "patrick",
-    "size": 19
-  },
-  {
-    "text": "house",
-    "size": 19
+    "text": "den",
+    "size": 16,
+    "category": "ander"
   },
   {
     "text": "europe",
-    "size": 19
-  },
-  {
-    "text": "kurt",
-    "size": 19
-  },
-  {
-    "text": "painting",
-    "size": 19
-  },
-  {
-    "text": "wim",
-    "size": 18
-  },
-  {
-    "text": "meubelen",
-    "size": 18
-  },
-  {
-    "text": "fashion",
-    "size": 18
-  },
-  {
-    "text": "studio",
-    "size": 18
-  },
-  {
-    "text": "vloeren",
-    "size": 18
-  },
-  {
-    "text": "service",
-    "size": 18
-  },
-  {
-    "text": "peter",
-    "size": 18
-  },
-  {
-    "text": "company",
-    "size": 17
-  },
-  {
-    "text": "invest",
-    "size": 17
-  },
-  {
-    "text": "color",
-    "size": 17
+    "size": 16,
+    "category": "ander"
   },
   {
     "text": "verf",
-    "size": 17
+    "size": 16,
+    "category": "ander"
   },
   {
     "text": "brico",
-    "size": 17
+    "size": 16,
+    "category": "ander"
   },
   {
-    "text": "tom",
-    "size": 16
+    "text": "painting",
+    "size": 16,
+    "category": "ander"
   },
   {
-    "text": "vof",
-    "size": 16
-  },
-  {
-    "text": "jan",
-    "size": 16
-  },
-  {
-    "text": "meubles",
-    "size": 16
+    "text": "patrick",
+    "size": 15,
+    "category": "voornaam man"
   },
   {
     "text": "bazar",
-    "size": 16
+    "size": 15,
+    "category": "ander"
   },
   {
-    "text": "steven",
-    "size": 16
-  },
-  {
-    "text": "consult",
-    "size": 15
-  },
-  {
-    "text": "by",
-    "size": 15
-  },
-  {
-    "text": "shop",
-    "size": 15
-  },
-  {
-    "text": "geert",
-    "size": 15
-  },
-  {
-    "text": "claes",
-    "size": 15
+    "text": "color",
+    "size": 15,
+    "category": "ander"
   },
   {
     "text": "tapis",
-    "size": 15
+    "size": 15,
+    "category": "ander"
   },
   {
-    "text": "living",
-    "size": 15
-  },
-  {
-    "text": "benelux",
-    "size": 15
+    "text": "house",
+    "size": 14,
+    "category": "ander"
   },
   {
     "text": "tapijten",
-    "size": 14
+    "size": 14,
+    "category": "ander"
   },
   {
-    "text": "concepts",
-    "size": 14
+    "text": "company",
+    "size": 14,
+    "category": "ander"
   },
   {
-    "text": "solutions",
-    "size": 14
+    "text": "style",
+    "size": 14,
+    "category": "ander"
+  },
+  {
+    "text": "geert",
+    "size": 14,
+    "category": "voornaam"
   },
   {
     "text": "dekor",
-    "size": 14
-  },
-  {
-    "text": "bouw",
-    "size": 14
-  },
-  {
-    "text": "johan",
-    "size": 13
-  },
-  {
-    "text": "maes",
-    "size": 13
-  },
-  {
-    "text": "marc",
-    "size": 13
+    "size": 14,
+    "category": "ander"
   },
   {
     "text": "ets",
-    "size": 13
-  },
-  {
-    "text": "christophe",
-    "size": 13
+    "size": 13,
+    "category": "ander"
   },
   {
     "text": "advies",
-    "size": 13
+    "size": 13,
+    "category": "ander"
   },
   {
-    "text": "immo",
-    "size": 13
+    "text": "meubelen",
+    "size": 13,
+    "category": "ander"
   },
   {
-    "text": "all",
-    "size": 13
+    "text": "invest",
+    "size": 13,
+    "category": "ander"
   },
   {
-    "text": "peeters",
-    "size": 13
+    "text": "kurt",
+    "size": 13,
+    "category": "voornaam man"
   },
   {
-    "text": "gallery",
-    "size": 12
+    "text": "service",
+    "size": 13,
+    "category": "ander"
+  },
+  {
+    "text": "peter",
+    "size": 13,
+    "category": "voornaam man"
+  },
+  {
+    "text": "benelux",
+    "size": 13,
+    "category": "ander"
   },
   {
     "text": "carpets",
-    "size": 12
+    "size": 12,
+    "category": "ander"
   },
   {
-    "text": "david",
-    "size": 12
+    "text": "wim",
+    "size": 12,
+    "category": "voornaam man"
   },
   {
-    "text": "philippe",
-    "size": 12
+    "text": "meubles",
+    "size": 12,
+    "category": "ander"
   },
   {
-    "text": "koen",
-    "size": 12
-  },
-  {
-    "text": "products",
-    "size": 12
+    "text": "vloeren",
+    "size": 12,
+    "category": "ander"
   },
   {
     "text": "blokker",
-    "size": 12
+    "size": 12,
+    "category": "ander"
   },
   {
-    "text": "partners",
-    "size": 12
+    "text": "bouw",
+    "size": 12,
+    "category": "ander"
   },
   {
     "text": "big",
-    "size": 12
+    "size": 12,
+    "category": "ander"
   },
   {
-    "text": "bouwwerken",
-    "size": 11
+    "text": "tom",
+    "size": 11,
+    "category": "voornaam man"
   },
   {
-    "text": "at",
-    "size": 11
+    "text": "consult",
+    "size": 11,
+    "category": "ander"
   },
   {
-    "text": "dirk",
-    "size": 11
+    "text": "maes",
+    "size": 11,
+    "category": "ander"
+  },
+  {
+    "text": "marc",
+    "size": 11,
+    "category": "voornaam man"
+  },
+  {
+    "text": "vof",
+    "size": 11,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "by",
+    "size": 11,
+    "category": "ander"
   },
   {
     "text": "dekoratie",
-    "size": 11
+    "size": 11,
+    "category": "ander"
   },
   {
-    "text": "parket",
-    "size": 11
+    "text": "jan",
+    "size": 11,
+    "category": "voornaam"
   },
   {
-    "text": "stefaan",
-    "size": 11
+    "text": "immo",
+    "size": 11,
+    "category": "ander"
   },
   {
-    "text": "hasselt",
-    "size": 11
+    "text": "peeters",
+    "size": 11,
+    "category": "ander"
   },
   {
-    "text": "stock",
-    "size": 11
+    "text": "gallery",
+    "size": 10,
+    "category": "ander"
   },
   {
-    "text": "trade",
-    "size": 11
-  },
-  {
-    "text": "distri",
-    "size": 11
-  },
-  {
-    "text": "peinture",
-    "size": 11
-  },
-  {
-    "text": "kristof",
-    "size": 10
+    "text": "johan",
+    "size": 10,
+    "category": "voornaam"
   },
   {
     "text": "confort",
-    "size": 10
+    "size": 10,
+    "category": "ander"
+  },
+  {
+    "text": "bart",
+    "size": 10,
+    "category": "voornaam man"
+  },
+  {
+    "text": "david",
+    "size": 10,
+    "category": "voornaam man"
   },
   {
     "text": "kwantum",
-    "size": 10
+    "size": 10,
+    "category": "ander"
   },
   {
-    "text": "plus",
-    "size": 10
+    "text": "at",
+    "size": 10,
+    "category": "ander"
   },
   {
-    "text": "creations",
-    "size": 10
+    "text": "concepts",
+    "size": 10,
+    "category": "ander"
   },
   {
-    "text": "menuiserie",
-    "size": 10
+    "text": "christophe",
+    "size": 10,
+    "category": "voornaam man"
   },
   {
-    "text": "kris",
-    "size": 10
+    "text": "claes",
+    "size": 10,
+    "category": "voornaam man"
   },
   {
-    "text": "export",
-    "size": 10
+    "text": "studio",
+    "size": 10,
+    "category": "ander"
   },
   {
-    "text": "eric",
-    "size": 10
+    "text": "steven",
+    "size": 10,
+    "category": "voornaam man"
   },
   {
-    "text": "couture",
-    "size": 10
+    "text": "hasselt",
+    "size": 10,
+    "category": "ander"
   },
   {
-    "text": "fils",
-    "size": 10
+    "text": "stock",
+    "size": 10,
+    "category": "ander"
   },
   {
-    "text": "décoration",
-    "size": 10
+    "text": "distri",
+    "size": 10,
+    "category": "ander"
   },
   {
-    "text": "alain",
-    "size": 10
-  },
-  {
-    "text": "andy",
-    "size": 9
+    "text": "living",
+    "size": 10,
+    "category": "ander"
   },
   {
     "text": "dominique",
-    "size": 9
+    "size": 9,
+    "category": "voornaam"
   },
   {
-    "text": "thomas",
-    "size": 9
+    "text": "dirk",
+    "size": 9,
+    "category": "voornaam man"
   },
   {
-    "text": "doe",
-    "size": 9
+    "text": "philippe",
+    "size": 9,
+    "category": "voornaam man"
   },
   {
-    "text": "behangwerken",
-    "size": 9
-  },
-  {
-    "text": "yves",
-    "size": 9
-  },
-  {
-    "text": "cv",
-    "size": 9
-  },
-  {
-    "text": "wonen",
-    "size": 9
-  },
-  {
-    "text": "guy",
-    "size": 9
+    "text": "plus",
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "mertens",
-    "size": 9
-  },
-  {
-    "text": "you",
-    "size": 9
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "espace",
-    "size": 9
+    "size": 9,
+    "category": "ander"
   },
   {
-    "text": "paints",
-    "size": 9
+    "text": "products",
+    "size": 9,
+    "category": "ander"
   },
   {
-    "text": "vincent",
-    "size": 9
-  },
-  {
-    "text": "bouwonderneming",
-    "size": 9
-  },
-  {
-    "text": "city",
-    "size": 9
-  },
-  {
-    "text": "construction",
-    "size": 9
-  },
-  {
-    "text": "carrelages",
-    "size": 9
-  },
-  {
-    "text": "olivier",
-    "size": 9
-  },
-  {
-    "text": "behang",
-    "size": 9
-  },
-  {
-    "text": "stefan",
-    "size": 9
-  },
-  {
-    "text": "verstraete",
-    "size": 9
-  },
-  {
-    "text": "zoon",
-    "size": 9
-  },
-  {
-    "text": "jurgen",
-    "size": 9
-  },
-  {
-    "text": "market",
-    "size": 9
-  },
-  {
-    "text": "euro",
-    "size": 9
-  },
-  {
-    "text": "davy",
-    "size": 9
-  },
-  {
-    "text": "danny",
-    "size": 9
+    "text": "couture",
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "petit",
-    "size": 9
+    "size": 9,
+    "category": "voornaam man"
   },
   {
-    "text": "boutique",
-    "size": 9
+    "text": "fils",
+    "size": 9,
+    "category": "voornaam man"
   },
   {
-    "text": "pascal",
-    "size": 9
+    "text": "peinture",
+    "size": 9,
+    "category": "ander"
   },
   {
-    "text": "decorations",
-    "size": 9
+    "text": "kristof",
+    "size": 8,
+    "category": "voornaam man"
   },
   {
-    "text": "lifestyle",
-    "size": 8
+    "text": "doe",
+    "size": 8,
+    "category": "ander"
   },
   {
     "text": "hubo",
-    "size": 8
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "julie",
-    "size": 8
+    "text": "bouwwerken",
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "michel",
-    "size": 8
+    "text": "carrelages",
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "sven",
-    "size": 8
+    "text": "behang",
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "glenn",
-    "size": 8
+    "text": "export",
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "dries",
-    "size": 8
+    "text": "fashion",
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "steve",
-    "size": 8
+    "text": "eric",
+    "size": 8,
+    "category": "voornaam man"
   },
   {
-    "text": "pieter",
-    "size": 8
-  },
-  {
-    "text": "sofie",
-    "size": 8
-  },
-  {
-    "text": "nico",
-    "size": 8
-  },
-  {
-    "text": "ikea",
-    "size": 8
-  },
-  {
-    "text": "dieter",
-    "size": 8
+    "text": "zoon",
+    "size": 8,
+    "category": "ander"
   },
   {
     "text": "discount",
-    "size": 8
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "velde",
-    "size": 8
-  },
-  {
-    "text": "project",
-    "size": 8
-  },
-  {
-    "text": "francis",
-    "size": 8
-  },
-  {
-    "text": "janssens",
-    "size": 8
+    "text": "solutions",
+    "size": 8,
+    "category": "ander"
   },
   {
     "text": "déco",
-    "size": 8
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "frank",
-    "size": 8
-  },
-  {
-    "text": "distribution",
-    "size": 8
-  },
-  {
-    "text": "renovatie",
-    "size": 8
-  },
-  {
-    "text": "clean",
-    "size": 8
+    "text": "stefaan",
+    "size": 8,
+    "category": "voornaam man"
   },
   {
     "text": "schildersbedrijf",
-    "size": 8
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "rose",
-    "size": 7
+    "text": "boutique",
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "creation",
-    "size": 7
+    "text": "pascal",
+    "size": 8,
+    "category": "voornaam"
   },
   {
-    "text": "tegels",
-    "size": 7
+    "text": "trade",
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "wood",
-    "size": 7
+    "text": "all",
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "id",
-    "size": 7
+    "text": "andy",
+    "size": 7,
+    "category": "voornaam"
   },
   {
-    "text": "pauwels",
-    "size": 7
+    "text": "thomas",
+    "size": 7,
+    "category": "voornaam man"
   },
   {
-    "text": "bruno",
-    "size": 7
+    "text": "wonen",
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "point",
-    "size": 7
+    "text": "creations",
+    "size": 7,
+    "category": "ander"
+  },
+  {
+    "text": "koen",
+    "size": 7,
+    "category": "voornaam man"
+  },
+  {
+    "text": "you",
+    "size": 7,
+    "category": "voornaam"
   },
   {
     "text": "marie",
-    "size": 7
+    "size": 7,
+    "category": "voornaam"
   },
   {
     "text": "woondecoratie",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "bert",
-    "size": 7
+    "text": "menuiserie",
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "wooninrichting",
-    "size": 7
+    "text": "paints",
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "vanneste",
-    "size": 7
+    "text": "city",
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "shopping",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "entreprise",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "floor",
-    "size": 7
+    "text": "olivier",
+    "size": 7,
+    "category": "voornaam man"
   },
   {
-    "text": "decors",
-    "size": 7
+    "text": "verstraete",
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "paul",
-    "size": 7
+    "text": "jurgen",
+    "size": 7,
+    "category": "voornaam man"
   },
   {
-    "text": "devos",
-    "size": 7
+    "text": "market",
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "stijn",
-    "size": 7
-  },
-  {
-    "text": "stores",
-    "size": 7
-  },
-  {
-    "text": "orient",
-    "size": 7
+    "text": "frank",
+    "size": 7,
+    "category": "voornaam man"
   },
   {
     "text": "flanders",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "one",
-    "size": 7
+    "text": "euro",
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "life",
-    "size": 7
+    "text": "davy",
+    "size": 7,
+    "category": "voornaam"
   },
   {
     "text": "groep",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "binnenhuisinrichting",
-    "size": 7
+    "text": "renovatie",
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "collection",
-    "size": 7
+    "text": "danny",
+    "size": 7,
+    "category": "voornaam"
   },
   {
-    "text": "crea",
-    "size": 7
+    "text": "décoration",
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "mode",
-    "size": 7
+    "text": "partners",
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "interieurarchitectuur",
-    "size": 7
+    "text": "tegels",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "jacobs",
-    "size": 7
+    "text": "behangwerken",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "filip",
-    "size": 7
-  },
-  {
-    "text": "tim",
-    "size": 6
-  },
-  {
-    "text": "antwerp",
-    "size": 6
-  },
-  {
-    "text": "raamdecoratie",
-    "size": 6
-  },
-  {
-    "text": "pierre",
-    "size": 6
-  },
-  {
-    "text": "els",
-    "size": 6
-  },
-  {
-    "text": "herman",
-    "size": 6
+    "text": "yves",
+    "size": 6,
+    "category": "voornaam man"
   },
   {
     "text": "import",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "jardin",
-    "size": 6
+    "text": "julie",
+    "size": 6,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "cv",
+    "size": 6,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "michel",
+    "size": 6,
+    "category": "voornaam"
   },
   {
     "text": "couleurs",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "ii",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "lj",
-    "size": 6
-  },
-  {
-    "text": "to",
-    "size": 6
-  },
-  {
-    "text": "factory",
-    "size": 6
-  },
-  {
-    "text": "electro",
-    "size": 6
-  },
-  {
-    "text": "renovation",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "buro",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "arte",
-    "size": 6
-  },
-  {
-    "text": "chic",
-    "size": 6
+    "text": "bruno",
+    "size": 6,
+    "category": "voornaam man"
   },
   {
     "text": "firma",
-    "size": 6
+    "size": 6,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "zonen",
-    "size": 6
+    "text": "pieter",
+    "size": 6,
+    "category": "voornaam man"
   },
   {
-    "text": "mario",
-    "size": 6
+    "text": "sofie",
+    "size": 6,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "reno",
-    "size": 6
+    "text": "wooninrichting",
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "vincent",
+    "size": 6,
+    "category": "voornaam man"
+  },
+  {
+    "text": "bouwonderneming",
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "shop",
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "genk",
-    "size": 6
-  },
-  {
-    "text": "comfort",
-    "size": 6
-  },
-  {
-    "text": "stones",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "carpet",
-    "size": 6
-  },
-  {
-    "text": "lucas",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "décor",
-    "size": 6
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "stefan",
+    "size": 6,
+    "category": "voornaam man"
+  },
+  {
+    "text": "decors",
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "devos",
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "velde",
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "project",
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "francis",
+    "size": 6,
+    "category": "voornaam"
+  },
+  {
+    "text": "stores",
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "super",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "philip",
-    "size": 6
+    "text": "orient",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "vloerwerken",
-    "size": 6
+    "text": "life",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "management",
-    "size": 6
+    "text": "distribution",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "eddy",
-    "size": 6
+    "text": "binnenhuisinrichting",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "frederic",
-    "size": 6
-  },
-  {
-    "text": "blue",
-    "size": 6
-  },
-  {
-    "text": "pvba",
-    "size": 6
-  },
-  {
-    "text": "villa",
-    "size": 6
-  },
-  {
-    "text": "global",
-    "size": 6
+    "text": "collection",
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "belgië",
-    "size": 6
+    "size": 6,
+    "category": "land"
+  },
+  {
+    "text": "lommel",
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "bois",
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "passion",
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "tex",
+    "size": 5,
+    "category": "voornaam man"
+  },
+  {
+    "text": "creation",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "d\u0027intérieur",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "wood",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "vds",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "eco",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "pierre",
+    "size": 5,
+    "category": "voornaam"
+  },
+  {
+    "text": "jardin",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "ad",
+    "size": 5,
+    "category": "voornaam man"
+  },
+  {
+    "text": "an",
+    "size": 5,
+    "category": "voornaam"
+  },
+  {
+    "text": "id",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "l\u0027atelier",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "sc",
+    "size": 5,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "sven",
+    "size": 5,
+    "category": "voornaam man"
+  },
+  {
+    "text": "to",
+    "size": 5,
+    "category": "voornaam"
+  },
+  {
+    "text": "domus",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "glenn",
+    "size": 5,
+    "category": "voornaam"
+  },
+  {
+    "text": "renovation",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "mechelen",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "zonen",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "mario",
+    "size": 5,
+    "category": "voornaam man"
+  },
+  {
+    "text": "vandenberghe",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "vanneste",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "construction",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "parket",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "stones",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "lucas",
+    "size": 5,
+    "category": "voornaam man"
+  },
+  {
+    "text": "parquets",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "centre",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "stijn",
+    "size": 5,
+    "category": "voornaam man"
+  },
+  {
+    "text": "turnhout",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "gordijnen",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "literie",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "line",
+    "size": 5,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "pvba",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "matelas",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "pro",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "jardins",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "2000",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "vermeulen",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "global",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "interieurs",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "building",
-    "size": 6
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "crea",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "interieurarchitectuur",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "decorations",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "sam",
+    "size": 5,
+    "category": "voornaam"
+  },
+  {
+    "text": "jacobs",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "nature",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "filip",
+    "size": 5,
+    "category": "voornaam man"
+  },
+  {
+    "text": "tim",
+    "size": 4,
+    "category": "voornaam"
+  },
+  {
+    "text": "styling",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "marketing",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "anne",
+    "size": 4,
+    "category": "voornaam"
+  },
+  {
+    "text": "wouter",
+    "size": 4,
+    "category": "voornaam man"
+  },
+  {
+    "text": "vermeire",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "vanraes",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "raamdecoratie",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "jacques",
+    "size": 4,
+    "category": "voornaam man"
   }
 ]

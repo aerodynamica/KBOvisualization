@@ -1,842 +1,1012 @@
 [
   {
     "text": "justice",
-    "size": 31
+    "size": 31,
+    "category": "voornaam man"
   },
   {
     "text": "justitiehuis",
-    "size": 25
+    "size": 25,
+    "category": "ander"
   },
   {
     "text": "maison",
-    "size": 25
+    "size": 25,
+    "category": "ander"
   },
   {
     "text": "prison",
-    "size": 20
+    "size": 20,
+    "category": "ander"
   },
   {
     "text": "gevangenis",
-    "size": 17
+    "size": 17,
+    "category": "ander"
   },
   {
     "text": "service",
-    "size": 9
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "justiciables",
-    "size": 9
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "d\u0027aide",
-    "size": 9
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "centrale",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "namur",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "justitie",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "province",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "dinant",
-    "size": 4
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "judiciaire",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "merksplas",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "laïque",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "fod",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "sociale",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "marneffe",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "epi",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "centre",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "spf",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "turnhout",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "leuven",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "l\u0027arrondissement",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "louvain",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "pénitentiaire",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "hasselt",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "penitentiair",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "verviers",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "asbl",
-    "size": 3
+    "size": 3,
+    "category": "rechtsvorm"
   },
   {
     "text": "doornik",
-    "size": 2
-  },
-  {
-    "text": "den",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "hoogstraten",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "neufchâteau",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "gand",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "d\u0027eupen",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "école",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "schoolcentrum",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "malines",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "garage",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "dg",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "aide",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "administration",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "victimes",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "nivelles",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "termonde",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "d\u0027ypres",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "bruges",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "marche-en-famenne",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "ocpp",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "brugge",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "berkendael",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "huy",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "gent",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "dendermonde",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "administratie",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "d\u0027arlon",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "nicc",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "ieper",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "namen",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "mechelen",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "cfpp",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "aarlen",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "charleroi",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "hoei",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "tournai",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "jamioulx",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "pieter",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "sociales",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bescherming",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bemiddeling",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "arrondissement",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "antwerpen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "privatlebens",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "expertise",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "den",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pierre",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "vie",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "hoge",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "complex",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pension",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "privée",
-    "size": 1
-  },
-  {
-    "text": "bergh",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "criminologie",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "touline",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "radian",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vzw",
-    "size": 1
+    "size": 1,
+    "category": "rechtsvorm"
   },
   {
     "text": "d\u0027anvers",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vrouwengevangenis",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "hulpgevangenis",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "belgisch",
-    "size": 1
-  },
-  {
-    "text": "frank",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "associations",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "d\u0027ittre",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vide",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "centrum",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "reclassering",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vidi",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "dienst",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vincke",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "luik",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "commission",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sint-gillis",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "femmes",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "jeunes",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "depuydt",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "services",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "psychotherapie",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "staatsblad",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vici",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "exco",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "incc",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "jongeren",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "arbor",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "maisons",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "persoonlijke",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "paul",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "cabinet",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "nijvel",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "praktijk",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "anne",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "d\u0027audenarde",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vene",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pac",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "arifi",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "dynamic",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bergen",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "patyn",
-    "size": 1
-  },
-  {
-    "text": "dylst",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "courtrai",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "autrement",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "raad",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "swerts",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "shpresim",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "concertation",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "belge",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "architects",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cie",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "commissie",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "expertises-chimie",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "central",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mons",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "fédéral",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "psy",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ausschuss",
-    "size": 1
-  },
-  {
-    "text": "borgers",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "itter",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "federaal",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "actives",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "wauters",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "d\u0027hasselt",
-    "size": 1
-  },
-  {
-    "text": "inge",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "d\u0027everberg",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "liège",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "m.a.g",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "everberg",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tutelles",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ii",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "fermé",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "simair",
-    "size": 1
-  },
-  {
-    "text": "liesbeth",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "hainaut",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "busschaert",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "kabinet",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "johan",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "bruxelles",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "frederic",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "opérationnelle",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "detenus",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "voogdij",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "schutz",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "arpege",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "liege",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "saint-gilles",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "protection",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "formation",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "moniteur",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "kortrijk",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gesloten",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "luxembourg",
-    "size": 1
+    "size": 1,
+    "category": "land"
   },
   {
     "text": "hulp",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "veurne",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "reclassement",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "kristel",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "3d-expertise",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "oudenaarde",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "laique",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "secondaire",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "soens",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "l\u0027arrondisement",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "furnes",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "proches",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "levenssfeer",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "karen",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "sens",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "waterside",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "familiezaken",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "eupen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "poitou",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "conseil",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "supérieur",
-    "size": 1
-  },
-  {
-    "text": "hoet",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "s.c.s",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "justitiehuizen",
-    "size": 1
-  },
-  {
-    "text": "erwin",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "für",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "direction",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "social",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "prelude",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "complexe",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   }
 ]

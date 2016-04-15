@@ -1,1002 +1,1252 @@
 [
   {
     "text": "belgium",
-    "size": 12
+    "size": 11,
+    "category": "land"
   },
   {
     "text": "chemicals",
-    "size": 10
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "nv",
-    "size": 8
+    "size": 6,
+    "category": "rechtsvorm"
   },
   {
     "text": "europe",
-    "size": 5
-  },
-  {
-    "text": "bvba",
-    "size": 4
-  },
-  {
-    "text": "antwerpen",
-    "size": 3
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "products",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "international",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "bvba",
+    "size": 3,
+    "category": "rechtsvorm"
   },
   {
     "text": "regeneration",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "antwerpen",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "benelux",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "chemical",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "ingredients",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "the",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "inovyn",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "acid",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "proviron",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "sulferic",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "solutions",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "polymer",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "concept",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "green",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "keshe",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "north",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "foundation",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "courage",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "and",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "dea",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "ecologic",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pieter",
-    "size": 1
-  },
-  {
-    "text": "anhairco",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "ashland",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "nanoq",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "dux",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cosmétiques",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "delta",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "oxeno",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bioindustry",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "jean-marie",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "integrator",
-    "size": 1
-  },
-  {
-    "text": "equity",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sourcing",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ingenieurs",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "financiere",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "specialties",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "manufacturing",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "phar",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "energy",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "waves",
-    "size": 1
-  },
-  {
-    "text": "ab",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "hevadex",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "keminal",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "betz",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "invent",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pigment",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "extergy",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "intersciences",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "labor",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "raskin",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "dequenne",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "comptoir",
-    "size": 1
-  },
-  {
-    "text": "elit",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "compagny",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "louma",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "functional",
-    "size": 1
-  },
-  {
-    "text": "technochim",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "eco-point",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "regen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "jsr",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pelvan",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "diagam",
-    "size": 1
-  },
-  {
-    "text": "3gc",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tertre",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vandenborre",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "g.c.l",
-    "size": 1
-  },
-  {
-    "text": "ire",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "spiaps",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "biomass",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "biomast",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bdf",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "smartchim",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sharda",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "jubilant",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "marco",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "silmaco",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "kyzen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "services",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "co",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "durieu",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "iki-tsu",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "impexpharma",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tk",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "aero-sense",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mebrom",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pauline",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "pharma",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "stds",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "nano",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "invest",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "afton",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "fernandes",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "kerry",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "research",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sciences",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "aqua",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ghiant",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "kevin",
-    "size": 1
-  },
-  {
-    "text": "icp",
-    "size": 1
-  },
-  {
-    "text": "aelmans",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "chlorchemicals",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sigma",
-    "size": 1
-  },
-  {
-    "text": "opc",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "belgo",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "european",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "godinez",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pro",
-    "size": 1
-  },
-  {
-    "text": "withindustry",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "technologies",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "houquet",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "chem-lab-analytical",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "globaltex",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "xfflexx",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "emb",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bienca",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "restauratietechnieken",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bizz-art",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "b-vet",
-    "size": 1
-  },
-  {
-    "text": "greenseal",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bernard",
-    "size": 1
-  },
-  {
-    "text": "private",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "united",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "roxana",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "cepea",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "o.r.a.o",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "representation",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "life",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pet\u0027s",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ensagent",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "nigom",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "uniteq",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "company",
-    "size": 1
-  },
-  {
-    "text": "breco",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "unisensor",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "human",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "prince",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "pigments",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "associes",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "allopharm",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "center",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "selectcolor",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "fraver",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ionics",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "societe",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "agri",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "nesar",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "coatings",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "akzo",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "n.s",
-    "size": 1
-  },
-  {
-    "text": "management",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "micro",
-    "size": 1
-  },
-  {
-    "text": "constrix",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cappelle",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "n.v",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "eoc",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "basf",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "studio",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "t\u0027jollyn",
-    "size": 1
-  },
-  {
-    "text": "wagner",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "hydrogen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mol",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "yara",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "b-energy",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "solvay",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "latochema",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "distrimarks",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "carbon",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "francaise",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "eltochem",
-    "size": 1
-  },
-  {
-    "text": "wizzwizz",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tessenderlo",
-    "size": 1
-  },
-  {
-    "text": "lippens",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "a-resins",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "kern",
-    "size": 1
-  },
-  {
-    "text": "novevita",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gts",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pvs",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "nutripol",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "hoof",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sadaci",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sylvatica",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "inopsys",
-    "size": 1
-  },
-  {
-    "text": "celsius",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "wilker",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gampelaere",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vintage",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cmc",
-    "size": 1
-  },
-  {
-    "text": "spunky",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "metaalwerken",
-    "size": 1
-  },
-  {
-    "text": "trading",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "flaurea",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "continental",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "steel",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "belife",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "belphos",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ecobois",
-    "size": 1
-  },
-  {
-    "text": "pascal",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tuinbouwbenodigdheden",
-    "size": 1
-  },
-  {
-    "text": "heinrichs",
-    "size": 1
-  },
-  {
-    "text": "strings",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vynova",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "climax",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "d.c",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "consult",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "degrijse",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "kappa",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "orrion",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ecorec",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cpac",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sprl",
-    "size": 1
+    "size": 1,
+    "category": "rechtsvorm"
   },
   {
     "text": "chlorchem",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "nobel",
-    "size": 1
-  },
-  {
-    "text": "paints",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "loda",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bel-vitre",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "aquatreat",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "corporate",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "eisai",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "afgekort",
-    "size": 1
-  },
-  {
-    "text": "braine",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "lucas",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "plantacote",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mail",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "chem-lab",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "office",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "waco-jo",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ecm",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "huber",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "danisco",
-    "size": 1
-  },
-  {
-    "text": "lonza",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "laurent",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "mc",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "md",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "cibimmob",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "west",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "aerobel",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "lapicor",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "brian",
-    "size": 1
-  },
-  {
-    "text": "group",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "development",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "conexus",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "borne",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "helios",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lafabrik",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "p.l.concept",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "brussels",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "loureiro",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "atlon",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "buccalco",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "laboratoire",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "copaint",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "a+b",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "basic",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "apotheek",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "produits",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "aerosols",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "scientific",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "allnex",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "stockmans",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sarco",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "everspring",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tectero",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ceepal",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "design",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "plastipharm",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "land",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "wcab",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "developpements",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "village",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "cleaning",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "limited",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "cosmade",
+    "size": 1,
+    "category": "ander"
   }
 ]

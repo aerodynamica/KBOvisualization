@@ -1,1002 +1,1252 @@
 [
   {
     "text": "tuinen",
-    "size": 51
+    "size": 23,
+    "category": "ander"
   },
   {
     "text": "bvba",
-    "size": 27
-  },
-  {
-    "text": "den",
-    "size": 20
+    "size": 20,
+    "category": "rechtsvorm"
   },
   {
     "text": "vzw",
-    "size": 20
+    "size": 20,
+    "category": "rechtsvorm"
   },
   {
     "text": "parc",
-    "size": 18
+    "size": 18,
+    "category": "ander"
   },
   {
     "text": "landschap",
-    "size": 18
+    "size": 18,
+    "category": "ander"
   },
   {
     "text": "terreinploeg",
-    "size": 17
+    "size": 17,
+    "category": "ander"
   },
   {
     "text": "regionaal",
-    "size": 15
+    "size": 15,
+    "category": "ander"
   },
   {
     "text": "invest",
-    "size": 13
+    "size": 12,
+    "category": "ander"
   },
   {
-    "text": "tuinwerken",
-    "size": 13
-  },
-  {
-    "text": "immo",
-    "size": 12
-  },
-  {
-    "text": "consulting",
-    "size": 11
+    "text": "den",
+    "size": 11,
+    "category": "ander"
   },
   {
     "text": "dinant",
-    "size": 11
+    "size": 11,
+    "category": "voornaam man"
   },
   {
     "text": "bc",
-    "size": 11
+    "size": 11,
+    "category": "ander"
   },
   {
     "text": "naturel",
-    "size": 11
-  },
-  {
-    "text": "garden",
-    "size": 10
+    "size": 11,
+    "category": "ander"
   },
   {
     "text": "gestion",
-    "size": 10
+    "size": 10,
+    "category": "ander"
   },
   {
-    "text": "boomverzorging",
-    "size": 9
-  },
-  {
-    "text": "tuinarchitectuur",
-    "size": 9
+    "text": "consulting",
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "natuurpunt",
-    "size": 9
+    "size": 9,
+    "category": "ander"
   },
   {
-    "text": "green",
-    "size": 9
-  },
-  {
-    "text": "design",
-    "size": 8
-  },
-  {
-    "text": "services",
-    "size": 8
-  },
-  {
-    "text": "tuinonderhoud",
-    "size": 8
-  },
-  {
-    "text": "tom",
-    "size": 7
-  },
-  {
-    "text": "groen",
-    "size": 7
-  },
-  {
-    "text": "kristof",
-    "size": 7
-  },
-  {
-    "text": "peter",
-    "size": 7
+    "text": "immo",
+    "size": 8,
+    "category": "ander"
   },
   {
     "text": "association",
-    "size": 7
-  },
-  {
-    "text": "bart",
-    "size": 7
-  },
-  {
-    "text": "stijn",
-    "size": 7
-  },
-  {
-    "text": "tuinaanleg",
-    "size": 7
-  },
-  {
-    "text": "projects",
-    "size": 7
-  },
-  {
-    "text": "natuur",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "terre",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "nv",
-    "size": 7
-  },
-  {
-    "text": "tuin",
-    "size": 7
-  },
-  {
-    "text": "tim",
-    "size": 6
-  },
-  {
-    "text": "group",
-    "size": 6
-  },
-  {
-    "text": "luc",
-    "size": 6
+    "text": "design",
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "international",
-    "size": 6
-  },
-  {
-    "text": "bert",
-    "size": 6
-  },
-  {
-    "text": "jan",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "kinderboerderij",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "rusthuis",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "peeters",
-    "size": 6
+    "text": "natuur",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "co",
-    "size": 6
+    "text": "nv",
+    "size": 6,
+    "category": "rechtsvorm"
   },
   {
     "text": "the",
-    "size": 5
+    "size": 5,
+    "category": "voornaam"
   },
   {
-    "text": "technics",
-    "size": 5
+    "text": "tom",
+    "size": 5,
+    "category": "voornaam man"
   },
   {
-    "text": "geert",
-    "size": 5
-  },
-  {
-    "text": "eric",
-    "size": 5
-  },
-  {
-    "text": "concept",
-    "size": 5
-  },
-  {
-    "text": "jardins",
-    "size": 5
-  },
-  {
-    "text": "domein",
-    "size": 5
-  },
-  {
-    "text": "centre",
-    "size": 5
-  },
-  {
-    "text": "tree",
-    "size": 5
-  },
-  {
-    "text": "bram",
-    "size": 5
-  },
-  {
-    "text": "knokke",
-    "size": 5
-  },
-  {
-    "text": "company",
-    "size": 5
-  },
-  {
-    "text": "construct",
-    "size": 5
-  },
-  {
-    "text": "johan",
-    "size": 5
-  },
-  {
-    "text": "ferme",
-    "size": 5
-  },
-  {
-    "text": "pieter",
-    "size": 5
+    "text": "garden",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "interieur",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "nico",
-    "size": 5
-  },
-  {
-    "text": "landscape",
-    "size": 5
-  },
-  {
-    "text": "construction",
-    "size": 5
-  },
-  {
-    "text": "jespers",
-    "size": 5
-  },
-  {
-    "text": "wim",
-    "size": 5
-  },
-  {
-    "text": "management",
-    "size": 5
-  },
-  {
-    "text": "jeroen",
-    "size": 5
+    "text": "co",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "nature",
-    "size": 5
-  },
-  {
-    "text": "nicolas",
-    "size": 5
-  },
-  {
-    "text": "joris",
-    "size": 5
-  },
-  {
-    "text": "investment",
-    "size": 4
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "commission",
-    "size": 4
-  },
-  {
-    "text": "koen",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "antwerpen",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "claes",
-    "size": 4
+    "text": "geert",
+    "size": 4,
+    "category": "voornaam"
+  },
+  {
+    "text": "kristof",
+    "size": 4,
+    "category": "voornaam man"
+  },
+  {
+    "text": "domein",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "park",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "dominique",
-    "size": 4
+    "text": "knokke",
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "home",
-    "size": 4
+    "text": "construct",
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "solutions",
-    "size": 4
+    "text": "ferme",
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "vof",
-    "size": 4
+    "text": "bart",
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "estate",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "groene",
-    "size": 4
+    "text": "construction",
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "onderhoud",
-    "size": 4
+    "text": "jan",
+    "size": 4,
+    "category": "voornaam"
   },
   {
-    "text": "gert",
-    "size": 4
+    "text": "green",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "peeters",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "jespers",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "projects",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "promotion",
-    "size": 4
-  },
-  {
-    "text": "vert",
-    "size": 4
-  },
-  {
-    "text": "dakwerken",
-    "size": 4
-  },
-  {
-    "text": "beheer",
-    "size": 4
-  },
-  {
-    "text": "parcs",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "life",
-    "size": 4
-  },
-  {
-    "text": "filip",
-    "size": 4
-  },
-  {
-    "text": "christophe",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "aventure",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "marnix",
-    "size": 3
+    "text": "investment",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "stefan",
-    "size": 3
-  },
-  {
-    "text": "seizoenen",
-    "size": 3
+    "text": "tim",
+    "size": 3,
+    "category": "voornaam"
   },
   {
     "text": "kempen",
-    "size": 3
-  },
-  {
-    "text": "verde",
-    "size": 3
-  },
-  {
-    "text": "lander",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "arte",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "kevin",
-    "size": 3
+    "text": "claes",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "eric",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "prov",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "asbl",
-    "size": 3
+    "text": "centre",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "hof",
-    "size": 3
+    "text": "group",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "gardens",
-    "size": 3
+    "text": "tree",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "luc",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "interior",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "boombeheer",
-    "size": 3
+    "text": "peter",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
-    "text": "thomas",
-    "size": 3
+    "text": "company",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "grondwerken",
-    "size": 3
+    "text": "home",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "praet",
-    "size": 3
-  },
-  {
-    "text": "simon",
-    "size": 3
+    "text": "pieter",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "fish",
-    "size": 3
-  },
-  {
-    "text": "advies",
-    "size": 3
-  },
-  {
-    "text": "europe",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "emmanuel",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
-    "text": "kurt",
-    "size": 3
+    "text": "landscape",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "belgium",
-    "size": 3
-  },
-  {
-    "text": "all",
-    "size": 3
+    "text": "vof",
+    "size": 3,
+    "category": "rechtsvorm"
   },
   {
     "text": "real",
-    "size": 3
-  },
-  {
-    "text": "engineering",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "jardin",
-    "size": 3
-  },
-  {
-    "text": "knoops",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "dieter",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "groene",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "grottes",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "wim",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "claus",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
-    "text": "consultancy",
-    "size": 3
+    "text": "management",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "smet",
-    "size": 3
+    "text": "vert",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "evasion",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "arboretum",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "stefaan",
-    "size": 3
+    "text": "dakwerken",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "restaurant",
-    "size": 3
+    "text": "jeroen",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
-    "text": "bauwens",
-    "size": 3
+    "text": "beheer",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "hoeve",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "tuinservice",
-    "size": 3
+    "text": "parcs",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "robin",
-    "size": 3
+    "text": "nicolas",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "davy",
-    "size": 2
-  },
-  {
-    "text": "hans",
-    "size": 2
-  },
-  {
-    "text": "naessens",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "coeur",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "dekeyzer",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "technics",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "pavillon",
-    "size": 2
-  },
-  {
-    "text": "patrick",
-    "size": 2
-  },
-  {
-    "text": "hendrik",
-    "size": 2
-  },
-  {
-    "text": "service",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "agentschap",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "camping",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "focus",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "zwin",
-    "size": 2
-  },
-  {
-    "text": "ronny",
-    "size": 2
-  },
-  {
-    "text": "corporation",
-    "size": 2
-  },
-  {
-    "text": "renovation",
-    "size": 2
-  },
-  {
-    "text": "top",
-    "size": 2
-  },
-  {
-    "text": "groep",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "pic",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "touristique",
-    "size": 2
-  },
-  {
-    "text": "jelle",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "lang",
-    "size": 2
-  },
-  {
-    "text": "algemene",
-    "size": 2
-  },
-  {
-    "text": "wets",
-    "size": 2
-  },
-  {
-    "text": "tuinaannemingen",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "lapis",
-    "size": 2
-  },
-  {
-    "text": "events",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "pomme",
-    "size": 2
+    "size": 2,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "dries",
-    "size": 2
-  },
-  {
-    "text": "ward",
-    "size": 2
-  },
-  {
-    "text": "desplenter",
-    "size": 2
+    "text": "services",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "tuinonderneming",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "pro",
-    "size": 2
-  },
-  {
-    "text": "gielen",
-    "size": 2
+    "text": "concept",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "l\u0027escaut",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "center",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "meeus",
-    "size": 2
-  },
-  {
-    "text": "wouter",
-    "size": 2
+    "text": "jardins",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "croisieres",
-    "size": 2
-  },
-  {
-    "text": "leuchtenberg",
-    "size": 2
-  },
-  {
-    "text": "bruno",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "l\u0027arche",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "consult",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "maison",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "rustoord",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "nathalie",
-    "size": 2
+    "size": 2,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "mike",
-    "size": 2
+    "text": "asbl",
+    "size": 2,
+    "category": "rechtsvorm"
   },
   {
     "text": "build",
-    "size": 2
-  },
-  {
-    "text": "lux",
-    "size": 2
-  },
-  {
-    "text": "iris",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "d\u0027ambiance",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "afix",
-    "size": 2
+    "text": "bram",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "legrand",
-    "size": 2
-  },
-  {
-    "text": "paul",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "marie",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "thomas",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "herdershoeve",
-    "size": 2
-  },
-  {
-    "text": "tuinconcept",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "pays",
-    "size": 2
-  },
-  {
-    "text": "bureaux",
-    "size": 2
-  },
-  {
-    "text": "bever",
-    "size": 2
-  },
-  {
-    "text": "ruben",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "ruebens",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "mario",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
-    "text": "looveren",
-    "size": 2
-  },
-  {
-    "text": "bosch",
-    "size": 2
-  },
-  {
-    "text": "cleynhens",
-    "size": 2
+    "text": "johan",
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "steve",
-    "size": 2
-  },
-  {
-    "text": "klein",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "vlaamse",
-    "size": 2
-  },
-  {
-    "text": "karel",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "solution",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "lootens",
-    "size": 2
-  },
-  {
-    "text": "hove",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "meise",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "vermeulen",
-    "size": 2
+    "text": "praet",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "quercus",
-    "size": 2
+    "text": "bert",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
-    "text": "outdoor",
-    "size": 2
+    "text": "boomverzorging",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "reizen",
-    "size": 2
-  },
-  {
-    "text": "coenen",
-    "size": 2
+    "text": "advies",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "wood",
-    "size": 2
-  },
-  {
-    "text": "barf",
-    "size": 2
-  },
-  {
-    "text": "constructies",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "motors",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "antoine",
-    "size": 2
-  },
-  {
-    "text": "michiel",
-    "size": 2
-  },
-  {
-    "text": "ster",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "collines",
-    "size": 2
-  },
-  {
-    "text": "landscaping",
-    "size": 2
-  },
-  {
-    "text": "renting",
-    "size": 2
-  },
-  {
-    "text": "pascal",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "enjoy",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "stephan",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "haspengouw",
-    "size": 2
-  },
-  {
-    "text": "vdb",
-    "size": 2
-  },
-  {
-    "text": "vds",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "lambert",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "wuyts",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "zoo",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "verbist",
-    "size": 2
+    "text": "stijn",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "decoratie",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "intercommunale",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "pierre",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "vie",
-    "size": 2
-  },
-  {
-    "text": "raf",
-    "size": 2
+    "size": 2,
+    "category": "voornaam vrouw"
   },
   {
     "text": "farm",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "centrum",
-    "size": 2
-  },
-  {
-    "text": "joachim",
-    "size": 2
-  },
-  {
-    "text": "maxime",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "boomwerken",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "federation",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "kune",
-    "size": 2
+    "text": "matthias",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "zoute",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "aquarium",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "tuinwerken",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "rik",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "kurt",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "bocages",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "plaines",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "belgium",
+    "size": 2,
+    "category": "land"
+  },
+  {
+    "text": "domaine",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "tony",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "bauters",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "and",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bourgoyen",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bois",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "d\u0027iris",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bonte",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bollaerts",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "engineering",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "gibier",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "ardennen",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "fleur",
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "evasion/embarquement",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "gent",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "sportoase",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "carl",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "schuur",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "zoologie",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "blankaart",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "onderhoud",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "zavelput",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "gert",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "adam",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "cauwels",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "steven",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "frans",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "musketiers",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "paard",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "franck",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "consultancy",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "little",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "treecare",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "roodebeek",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "hasselt",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "plus",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "deboel",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "garage",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bauwens",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "tuinservice",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "gebroeders",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "kiewit",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "tuinplanning",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "tuin",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "wallonie",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "christophe",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "nord",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "ardenne",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "jonas",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "meetjesland",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "vastgoed",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gkr",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "decuypere",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "virgil",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "arbo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "beaulieu",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "west-vlaamse",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "wietse",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "gabriel",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "nander",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "graineterie",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "reserves",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "juthose",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "zante",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fortemaison",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "theux",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "brugs",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "driepikkel",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "naessens",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "laat",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "connect",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hand",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "policy",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "buckwalhoeve",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "marnix",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "kivià",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "poeke",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "netewoud",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "liereman",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "miron",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "lumicom",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "eburons",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lacs",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "layon",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gower",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sans",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "orto-advance",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "rivierengebied",
+    "size": 1,
+    "category": "ander"
   }
 ]

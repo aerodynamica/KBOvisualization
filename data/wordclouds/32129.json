@@ -1,1002 +1,1252 @@
 [
   {
     "text": "atelier",
-    "size": 9
-  },
-  {
-    "text": "bijouterie",
-    "size": 8
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "design",
-    "size": 8
+    "size": 8,
+    "category": "ander"
+  },
+  {
+    "text": "bijouterie",
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "studio",
-    "size": 6
-  },
-  {
-    "text": "bvba",
-    "size": 5
-  },
-  {
-    "text": "trading",
-    "size": 4
-  },
-  {
-    "text": "consulting",
-    "size": 4
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "services",
-    "size": 4
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "bvba",
+    "size": 4,
+    "category": "rechtsvorm"
   },
   {
     "text": "gold",
-    "size": 3
-  },
-  {
-    "text": "peter",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "laser",
-    "size": 3
-  },
-  {
-    "text": "belgium",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "juwelier",
-    "size": 3
-  },
-  {
-    "text": "pierre",
-    "size": 2
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "an",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "dino\u0027s",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "peter",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "the",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "schoenmakerij",
-    "size": 2
-  },
-  {
-    "text": "sara",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "patrick",
-    "size": 2
-  },
-  {
-    "text": "thomas",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "rembrandt",
-    "size": 2
-  },
-  {
-    "text": "machiels",
-    "size": 2
-  },
-  {
-    "text": "nedda",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "guillaume",
-    "size": 2
-  },
-  {
-    "text": "metal",
-    "size": 2
-  },
-  {
-    "text": "jv",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "eddy",
-    "size": 2
-  },
-  {
-    "text": "sprl",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "joke",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "rose",
-    "size": 2
+    "size": 2,
+    "category": "voornaam vrouw"
   },
   {
     "text": "sarah",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "philippe",
-    "size": 2
-  },
-  {
-    "text": "joseph",
-    "size": 2
-  },
-  {
-    "text": "mauquoy",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "or",
-    "size": 2
+    "size": 2,
+    "category": "voornaam vrouw"
   },
   {
     "text": "jewellery",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "martin",
-    "size": 2
-  },
-  {
-    "text": "kristof",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "pearl",
-    "size": 2
+    "size": 2,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "jewels",
-    "size": 2
+    "text": "consulting",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "ilse",
-    "size": 2
+    "size": 2,
+    "category": "voornaam vrouw"
   },
   {
     "text": "bonne",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "shop",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "joaillier",
-    "size": 2
-  },
-  {
-    "text": "lien",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "lies",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "stef",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "mestdagh",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "joaillerie",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "julie",
-    "size": 2
+    "size": 2,
+    "category": "voornaam vrouw"
   },
   {
     "text": "quick",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "lambert",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "jordan",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "jewelry",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "axia",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "nathalie",
-    "size": 2
+    "size": 2,
+    "category": "voornaam vrouw"
   },
   {
     "text": "vincent",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "artisan",
-    "size": 2
-  },
-  {
-    "text": "el-asmar",
-    "size": 1
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "lut",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "den",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mertens",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cnc-jeff",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "wallemacq",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "treatments",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pierre",
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "chaussure",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pham",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "dottignies",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bar",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "burn-me",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vanhenis",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "marougrav",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bilo",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ag",
-    "size": 1
+    "size": 1,
+    "category": "rechtsvorm"
   },
   {
     "text": "lion",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "mihtra",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "esthaby",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gravures",
-    "size": 1
-  },
-  {
-    "text": "bresseleers",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "florin",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "uurwerken-juwelen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "irepya",
-    "size": 1
-  },
-  {
-    "text": "diether",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "roovers",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "wauwe",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "delfin",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "iulian",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "marleen",
-    "size": 1
-  },
-  {
-    "text": "peersman",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "verbruggen",
-    "size": 1
-  },
-  {
-    "text": "knalselder",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "isabelle",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "deleu",
-    "size": 1
-  },
-  {
-    "text": "stijnen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "hans",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "abcoro",
-    "size": 1
-  },
-  {
-    "text": "systems",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ateliers",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bijorca",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "martens",
-    "size": 1
-  },
-  {
-    "text": "karwij",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mind",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "labar",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "grammarick",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bizoux",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "fabergenia",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cm",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "co",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "food",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "elke",
-    "size": 1
-  },
-  {
-    "text": "condes",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "l\u0027or",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tomkverdonck.be",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "partner",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "knops",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "monfort",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "yova",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "infinity",
-    "size": 1
-  },
-  {
-    "text": "blondiaux",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pagode",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "olleke",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "camelion",
-    "size": 1
-  },
-  {
-    "text": "ingrid",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "dharma",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "londot",
-    "size": 1
-  },
-  {
-    "text": "leathers",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gon",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "précieuses",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ber",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bosquet",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "beaute",
-    "size": 1
-  },
-  {
-    "text": "wish",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "duchêne",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bekleift",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bakkers",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sterckx",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "declerck",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "daxhelet",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "boemer",
-    "size": 1
-  },
-  {
-    "text": "sfera",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "quentin",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "mapao",
-    "size": 1
-  },
-  {
-    "text": "piga",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "b-watched",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "claerhout",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "heleven",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "els",
-    "size": 1
-  },
-  {
-    "text": "man-des",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "digitales",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "allround",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "perneel",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "waaw",
-    "size": 1
-  },
-  {
-    "text": "thys",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "little",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "clotilde",
-    "size": 1
-  },
-  {
-    "text": "katrijn",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "strano",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "couleurs",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "laurence",
-    "size": 1
-  },
-  {
-    "text": "session",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "misjoef",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sara",
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "demco",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vof",
-    "size": 1
+    "size": 1,
+    "category": "rechtsvorm"
   },
   {
     "text": "minit",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "representation",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "linea",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "e.a.j.h",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "leigh",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "d3co",
-    "size": 1
-  },
-  {
-    "text": "marie",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "kadoworld",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "potvin",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "leesen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "lardinois",
-    "size": 1
-  },
-  {
-    "text": "company",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ryck",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "thomas",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "banica",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "eventalist",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "henri",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "clara",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "vanmeirhaeghe",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "kris",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "schram",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "emiel",
-    "size": 1
-  },
-  {
-    "text": "vrij",
-    "size": 1
-  },
-  {
-    "text": "dls",
-    "size": 1
+    "text": "machiels",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "veronique",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "panaesthetik",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "grav\u0027ballon",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "polegato",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "michael",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "procestechniek",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ceulemans",
-    "size": 1
-  },
-  {
-    "text": "print",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "environment",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "stella",
-    "size": 1
-  },
-  {
-    "text": "service",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "maraite",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "petronella",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "rodts",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "alexandre",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "noten",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "curyus",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "goossens",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "regnard",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "azzardi",
-    "size": 1
-  },
-  {
-    "text": "aureli",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "nartesan",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "argentaurum",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "biur",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "construct",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bosmans",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "edelsteenzetter",
-    "size": 1
-  },
-  {
-    "text": "j\u0027ad\u0027or",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "b\u0027s",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "harout",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "marie-noëlle",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "uop",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "michaelis",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "neumann",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vrouwtje",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "création",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "goldwing",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "özsoy",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "id",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "apprêt",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "flow",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "slaets",
-    "size": 1
-  },
-  {
-    "text": "omerta",
-    "size": 1
-  },
-  {
-    "text": "montaca",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "surface",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ahn",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gooris",
-    "size": 1
-  },
-  {
-    "text": "corporation",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sebepri",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "creatien",
-    "size": 1
+    "text": "metal",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vanik",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "mario",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "gysens",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "benatia",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "comines",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "poussenier",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "c.line",
-    "size": 1
-  },
-  {
-    "text": "candidus",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vancauwenberghe",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "jc",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "silver",
-    "size": 1
-  },
-  {
-    "text": "dog",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "koen",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "trading",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jean-françois",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "diffusion",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "aim",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "city",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "coiffeur",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "thierens",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "institut",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "cell",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jv",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "reproarcheo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "wettstein",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "summer",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "products",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "stefaan",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "scrap",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "world",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "cevema",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ka",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "mineralenmuseum",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "raphaël",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "dylan",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "kerckhof",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ijskelder",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sprl",
+    "size": 1,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "dakwerken",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ko",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "carpe",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "blu",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "damien",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "prototype",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gravure-bijouterie",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "saskia",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "aka",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "benedicte",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "rosa",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "dekimpe",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hassgold",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "perdomo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "toutou",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tempo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jewellers",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "roger",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "second",
+    "size": 1,
+    "category": "ander"
   }
 ]

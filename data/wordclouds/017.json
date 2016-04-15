@@ -1,1002 +1,1252 @@
 [
   {
     "text": "invest",
-    "size": 6
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "ferme",
-    "size": 5
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "entreprise",
-    "size": 3
-  },
-  {
-    "text": "service",
-    "size": 3
-  },
-  {
-    "text": "valkerij",
-    "size": 3
-  },
-  {
-    "text": "services",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "bernard",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "jardins",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "consult",
-    "size": 3
+    "text": "valkerij",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "bvba",
-    "size": 3
+    "size": 3,
+    "category": "rechtsvorm"
   },
   {
     "text": "den",
-    "size": 2
-  },
-  {
-    "text": "co",
-    "size": 2
-  },
-  {
-    "text": "agri",
-    "size": 2
-  },
-  {
-    "text": "management",
-    "size": 2
-  },
-  {
-    "text": "sprl",
-    "size": 2
-  },
-  {
-    "text": "didier",
-    "size": 2
-  },
-  {
-    "text": "domaine",
-    "size": 2
-  },
-  {
-    "text": "nv",
-    "size": 2
-  },
-  {
-    "text": "and",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "bois",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "weyn",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "garenne",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "co",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "elevage",
-    "size": 2
-  },
-  {
-    "text": "franssen",
-    "size": 2
-  },
-  {
-    "text": "jean",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "eric",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "travaux",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "wauters",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "agri",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "management",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "service",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "consult",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "jacques",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "sprl",
+    "size": 2,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "didier",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "garden",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "emmanuel",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "domaine",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "nv",
+    "size": 2,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "and",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "verger",
-    "size": 2
-  },
-  {
-    "text": "tuinaanleg",
-    "size": 1
-  },
-  {
-    "text": "d\u0027en",
-    "size": 1
-  },
-  {
-    "text": "jean-marie",
-    "size": 1
-  },
-  {
-    "text": "lux",
-    "size": 1
-  },
-  {
-    "text": "pierre",
-    "size": 1
-  },
-  {
-    "text": "surv",
-    "size": 1
-  },
-  {
-    "text": "stephane",
-    "size": 1
-  },
-  {
-    "text": "bas",
-    "size": 1
-  },
-  {
-    "text": "delire",
-    "size": 1
-  },
-  {
-    "text": "farm",
-    "size": 1
-  },
-  {
-    "text": "g.j.f",
-    "size": 1
-  },
-  {
-    "text": "energy",
-    "size": 1
-  },
-  {
-    "text": "maarten",
-    "size": 1
-  },
-  {
-    "text": "logistiques",
-    "size": 1
-  },
-  {
-    "text": "taxusbank",
-    "size": 1
-  },
-  {
-    "text": "a.h.r",
-    "size": 1
-  },
-  {
-    "text": "steven",
-    "size": 1
-  },
-  {
-    "text": "abbaye",
-    "size": 1
-  },
-  {
-    "text": "hof",
-    "size": 1
-  },
-  {
-    "text": "losseau",
-    "size": 1
-  },
-  {
-    "text": "gardens",
-    "size": 1
-  },
-  {
-    "text": "neverland",
-    "size": 1
-  },
-  {
-    "text": "biofors",
-    "size": 1
-  },
-  {
-    "text": "bm",
-    "size": 1
-  },
-  {
-    "text": "maxime",
-    "size": 1
-  },
-  {
-    "text": "bram",
-    "size": 1
-  },
-  {
-    "text": "boomwerken",
-    "size": 1
-  },
-  {
-    "text": "verzorgingsbedrijf",
-    "size": 1
-  },
-  {
-    "text": "chise",
-    "size": 1
-  },
-  {
-    "text": "peter",
-    "size": 1
-  },
-  {
-    "text": "backero",
-    "size": 1
-  },
-  {
-    "text": "farming",
-    "size": 1
-  },
-  {
-    "text": "willy",
-    "size": 1
-  },
-  {
-    "text": "distillerie",
-    "size": 1
-  },
-  {
-    "text": "armurerie",
-    "size": 1
-  },
-  {
-    "text": "barbaix",
-    "size": 1
-  },
-  {
-    "text": "immobilière",
-    "size": 1
-  },
-  {
-    "text": "huybrechts",
-    "size": 1
-  },
-  {
-    "text": "valkeniersgilde",
-    "size": 1
-  },
-  {
-    "text": "bouwart",
-    "size": 1
-  },
-  {
-    "text": "dépannage",
-    "size": 1
-  },
-  {
-    "text": "equo",
-    "size": 1
-  },
-  {
-    "text": "apitrees",
-    "size": 1
-  },
-  {
-    "text": "the",
-    "size": 1
-  },
-  {
-    "text": "fly",
-    "size": 1
-  },
-  {
-    "text": "dewelle",
-    "size": 1
-  },
-  {
-    "text": "invasion",
-    "size": 1
-  },
-  {
-    "text": "nijs",
-    "size": 1
-  },
-  {
-    "text": "blondiaux",
-    "size": 1
-  },
-  {
-    "text": "polinard",
-    "size": 1
-  },
-  {
-    "text": "d\u0027hottemont",
-    "size": 1
-  },
-  {
-    "text": "dc",
-    "size": 1
-  },
-  {
-    "text": "paysagiste",
-    "size": 1
-  },
-  {
-    "text": "sartay",
-    "size": 1
-  },
-  {
-    "text": "vieux",
-    "size": 1
-  },
-  {
-    "text": "héraut",
-    "size": 1
-  },
-  {
-    "text": "assistances",
-    "size": 1
-  },
-  {
-    "text": "arbofor",
-    "size": 1
-  },
-  {
-    "text": "bird",
-    "size": 1
-  },
-  {
-    "text": "layon",
-    "size": 1
-  },
-  {
-    "text": "alinel",
-    "size": 1
-  },
-  {
-    "text": "el",
-    "size": 1
-  },
-  {
-    "text": "mds-construct",
-    "size": 1
-  },
-  {
-    "text": "anabasis",
-    "size": 1
-  },
-  {
-    "text": "alain",
-    "size": 1
-  },
-  {
-    "text": "lvlc",
-    "size": 1
-  },
-  {
-    "text": "final",
-    "size": 1
-  },
-  {
-    "text": "volpe",
-    "size": 1
-  },
-  {
-    "text": "cie",
-    "size": 1
-  },
-  {
-    "text": "lequeu",
-    "size": 1
-  },
-  {
-    "text": "vof",
-    "size": 1
-  },
-  {
-    "text": "damase",
-    "size": 1
-  },
-  {
-    "text": "dominique",
-    "size": 1
-  },
-  {
-    "text": "f-x",
-    "size": 1
-  },
-  {
-    "text": "olivier",
-    "size": 1
-  },
-  {
-    "text": "electro",
-    "size": 1
-  },
-  {
-    "text": "ecorura",
-    "size": 1
-  },
-  {
-    "text": "sartrafor",
-    "size": 1
-  },
-  {
-    "text": "broeckehof",
-    "size": 1
-  },
-  {
-    "text": "company",
-    "size": 1
-  },
-  {
-    "text": "sentinelle",
-    "size": 1
-  },
-  {
-    "text": "henri",
-    "size": 1
-  },
-  {
-    "text": "m.b.m.s",
-    "size": 1
-  },
-  {
-    "text": "gr",
-    "size": 1
-  },
-  {
-    "text": "luma",
-    "size": 1
-  },
-  {
-    "text": "naert",
-    "size": 1
-  },
-  {
-    "text": "print",
-    "size": 1
-  },
-  {
-    "text": "helaers",
-    "size": 1
-  },
-  {
-    "text": "tuinwerken",
-    "size": 1
-  },
-  {
-    "text": "keersmaeker",
-    "size": 1
-  },
-  {
-    "text": "pissoul",
-    "size": 1
-  },
-  {
-    "text": "vente",
-    "size": 1
-  },
-  {
-    "text": "pennes",
-    "size": 1
-  },
-  {
-    "text": "davreux",
-    "size": 1
-  },
-  {
-    "text": "bio",
-    "size": 1
-  },
-  {
-    "text": "marchahes",
-    "size": 1
-  },
-  {
-    "text": "veerle",
-    "size": 1
-  },
-  {
-    "text": "d\u0027ô",
-    "size": 1
-  },
-  {
-    "text": "chercq",
-    "size": 1
-  },
-  {
-    "text": "hoatzin",
-    "size": 1
-  },
-  {
-    "text": "sky",
-    "size": 1
-  },
-  {
-    "text": "meesters",
-    "size": 1
-  },
-  {
-    "text": "mele",
-    "size": 1
-  },
-  {
-    "text": "cuir",
-    "size": 1
-  },
-  {
-    "text": "pecob",
-    "size": 1
-  },
-  {
-    "text": "frères",
-    "size": 1
-  },
-  {
-    "text": "jo",
-    "size": 1
-  },
-  {
-    "text": "bogaert",
-    "size": 1
-  },
-  {
-    "text": "brieuc",
-    "size": 1
-  },
-  {
-    "text": "products",
-    "size": 1
-  },
-  {
-    "text": "dirk",
-    "size": 1
-  },
-  {
-    "text": "daba",
-    "size": 1
-  },
-  {
-    "text": "chadro",
-    "size": 1
-  },
-  {
-    "text": "liessens",
-    "size": 1
-  },
-  {
-    "text": "symons",
-    "size": 1
-  },
-  {
-    "text": "falcon\u0027s",
-    "size": 1
-  },
-  {
-    "text": "querde",
-    "size": 1
-  },
-  {
-    "text": "taupiers",
-    "size": 1
-  },
-  {
-    "text": "kristel",
-    "size": 1
-  },
-  {
-    "text": "bihout-vermeulen",
-    "size": 1
-  },
-  {
-    "text": "phareco",
-    "size": 1
-  },
-  {
-    "text": "sefec",
-    "size": 1
-  },
-  {
-    "text": "ld",
-    "size": 1
-  },
-  {
-    "text": "deneufbourg",
-    "size": 1
-  },
-  {
-    "text": "dekimpe",
-    "size": 1
-  },
-  {
-    "text": "deflandre",
-    "size": 1
-  },
-  {
-    "text": "belgium/ultra",
-    "size": 1
-  },
-  {
-    "text": "kessler",
-    "size": 1
-  },
-  {
-    "text": "falconers@work",
-    "size": 1
-  },
-  {
-    "text": "salva",
-    "size": 1
-  },
-  {
-    "text": "donovan",
-    "size": 1
-  },
-  {
-    "text": "boulle",
-    "size": 1
-  },
-  {
-    "text": "laurent",
-    "size": 1
-  },
-  {
-    "text": "solution",
-    "size": 1
-  },
-  {
-    "text": "pelerin-smets",
-    "size": 1
-  },
-  {
-    "text": "mb",
-    "size": 1
-  },
-  {
-    "text": "dehon",
-    "size": 1
-  },
-  {
-    "text": "wouters",
-    "size": 1
-  },
-  {
-    "text": "adelin",
-    "size": 1
-  },
-  {
-    "text": "mg",
-    "size": 1
-  },
-  {
-    "text": "international",
-    "size": 1
-  },
-  {
-    "text": "residence",
-    "size": 1
-  },
-  {
-    "text": "belgium",
-    "size": 1
-  },
-  {
-    "text": "lapierre",
-    "size": 1
-  },
-  {
-    "text": "brice",
-    "size": 1
-  },
-  {
-    "text": "ideal",
-    "size": 1
-  },
-  {
-    "text": "xing-shi",
-    "size": 1
-  },
-  {
-    "text": "manet",
-    "size": 1
-  },
-  {
-    "text": "flament",
-    "size": 1
-  },
-  {
-    "text": "biches",
-    "size": 1
-  },
-  {
-    "text": "snyers",
-    "size": 1
-  },
-  {
-    "text": "philippe",
-    "size": 1
-  },
-  {
-    "text": "diersoorten",
-    "size": 1
-  },
-  {
-    "text": "andy",
-    "size": 1
-  },
-  {
-    "text": "uwaga",
-    "size": 1
-  },
-  {
-    "text": "animago",
-    "size": 1
-  },
-  {
-    "text": "woodfox",
-    "size": 1
-  },
-  {
-    "text": "bedoret-viscourt",
-    "size": 1
-  },
-  {
-    "text": "theunissen",
-    "size": 1
-  },
-  {
-    "text": "jonckers",
-    "size": 1
-  },
-  {
-    "text": "boo",
-    "size": 1
-  },
-  {
-    "text": "hove",
-    "size": 1
-  },
-  {
-    "text": "geoffroy",
-    "size": 1
-  },
-  {
-    "text": "vercauteren",
-    "size": 1
-  },
-  {
-    "text": "ph.henry",
-    "size": 1
-  },
-  {
-    "text": "vermeulen",
-    "size": 1
-  },
-  {
-    "text": "biezen",
-    "size": 1
-  },
-  {
-    "text": "anc",
-    "size": 1
-  },
-  {
-    "text": "quercus",
-    "size": 1
-  },
-  {
-    "text": "technic",
-    "size": 1
-  },
-  {
-    "text": "ano",
-    "size": 1
-  },
-  {
-    "text": "alecto",
-    "size": 1
-  },
-  {
-    "text": "biogas",
-    "size": 1
-  },
-  {
-    "text": "control",
-    "size": 1
-  },
-  {
-    "text": "bert",
-    "size": 1
-  },
-  {
-    "text": "belgium/eko1000",
-    "size": 1
-  },
-  {
-    "text": "horti",
-    "size": 1
-  },
-  {
-    "text": "momalle",
-    "size": 1
-  },
-  {
-    "text": "martin",
-    "size": 1
-  },
-  {
-    "text": "uitheemse",
-    "size": 1
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "mohy",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "d\u0027en",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "prey",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tsolution",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pieter",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "foods",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "drouin",
-    "size": 1
+    "text": "jean-marie",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "francois",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "lux",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "pierre",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "surv",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "stephane",
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "geert",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "smeets",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bas",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "delire",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "odmc",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tuincreaties",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "farm",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sk-hr",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "g.j.f",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "kristof",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "jacht",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "verhaeghe",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "maarten",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "logistiques",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "dent",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "craenhals",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "taxusbank",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "a.h.r",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "abbaye",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "a.p.c",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "constructions",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "rm",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "begal",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cense",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "natacha",
-    "size": 1
+    "text": "hof",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "dries",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "gardens",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "neverland",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "association",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tech/ultra",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bm",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "scris",
-    "size": 1
+    "size": 1,
+    "category": "rechtsvorm"
   },
   {
     "text": "marland",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cva",
-    "size": 1
+    "size": 1,
+    "category": "rechtsvorm"
   },
   {
     "text": "woodlands",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "maxime",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "bram",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "boomwerken",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "chise",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "peter",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "backero",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "kusters",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "tijd",
-    "size": 1
+    "text": "willy",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "distillerie",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "armurerie",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "barbaix",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "immobilière",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "animart",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "valkeniersgilde",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sr",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "beauffort",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "art",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "villers",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "consulting",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dépannage",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "matignolle",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "apitrees",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "services",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "thierry",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "geoflyn",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tous",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "td",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jorn",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "the",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "fly",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ferti-bio",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "invasion",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "nijs",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "blondiaux",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "polinard",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "d\u0027hottemont",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dc",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "paysagiste",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sartay",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vieux",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "parcs",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "franssen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "agribo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "héraut",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "assistances",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bio-vitamines",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "loos",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "arbofor",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bird",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jean",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "graaf",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "layon",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "domanoy",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bionet",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "el",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "meubelafwerking",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "suenens",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mds-construct",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "chacoux",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "taxema",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "thines-krafft",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jarka",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "alain",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "lvlc",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "final",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "volpe",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fermes",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "cartier",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ajipro",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lequeu",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "frix",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fiduciam",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "planobos",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sys",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "moulin",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dominique",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "kaye",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "sloef",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "f-x",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "olivier",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "electro",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ecorura",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "florian",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "sartrafor",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "broeckehof",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tine",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "company",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "renauld",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "jacob",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "sentinelle",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jardin",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "yojo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "m.b.m.s",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "l\u0027espoir",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "greet",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "clerdin",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gr",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "menco",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "luma",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "naert",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bart",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "print",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "berum",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "delzandre-lambert",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "urban",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "helaers",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "agri-eqwalus",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "marc",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "tuinwerken",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "keersmaeker",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pissoul",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vente",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pennes",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "davreux",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bio",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "reinva",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "marchahes",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dupret",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "veerle",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "d\u0027ô",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "chrisyl",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "handyman",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "chercq",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hoatzin",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "forhavex",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sky",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "neyt",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "meesters",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ominous",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dany",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "arnaud",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "valkenier",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "cuir",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gaëtan",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "forestiere",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dbgix",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pecob",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "frederic",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "frères",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mabemo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tilleul",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jo",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "bogaert",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pascal",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "verhaghe",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "brieuc",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "secret",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "birds",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "products",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "chadro",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "liessens",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "symons",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "boshoeve",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "haie-cologique",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ambona",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "falcon\u0027s",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "event",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "doms",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "orry",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "haubruge",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "taupiers",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "medts",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "kristel",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "soeur",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bienfait",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "promotions",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bihout-vermeulen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "monique",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "vdb",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sefec",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ld",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "deneufbourg",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dekimpe",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mosanature",
+    "size": 1,
+    "category": "ander"
   }
 ]

@@ -1,1002 +1,1252 @@
 [
   {
-    "text": "nv",
-    "size": 154
-  },
-  {
-    "text": "bvba",
-    "size": 117
-  },
-  {
     "text": "ava",
-    "size": 51
+    "size": 51,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "belgium",
-    "size": 41
-  },
-  {
-    "text": "sprl",
-    "size": 36
-  },
-  {
-    "text": "international",
-    "size": 34
-  },
-  {
-    "text": "design",
-    "size": 28
-  },
-  {
-    "text": "atelier",
-    "size": 26
+    "text": "nv",
+    "size": 32,
+    "category": "rechtsvorm"
   },
   {
     "text": "packaging",
-    "size": 25
+    "size": 23,
+    "category": "ander"
+  },
+  {
+    "text": "belgium",
+    "size": 19,
+    "category": "land"
+  },
+  {
+    "text": "bvba",
+    "size": 19,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "sprl",
+    "size": 15,
+    "category": "rechtsvorm"
   },
   {
     "text": "the",
-    "size": 20
+    "size": 10,
+    "category": "voornaam"
   },
   {
-    "text": "weverij",
-    "size": 20
-  },
-  {
-    "text": "co",
-    "size": 19
-  },
-  {
-    "text": "textiles",
-    "size": 18
-  },
-  {
-    "text": "decor",
-    "size": 18
-  },
-  {
-    "text": "ets",
-    "size": 17
-  },
-  {
-    "text": "new",
-    "size": 16
-  },
-  {
-    "text": "carpets",
-    "size": 15
+    "text": "design",
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "and",
-    "size": 15
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "fashion",
-    "size": 14
-  },
-  {
-    "text": "art",
-    "size": 14
-  },
-  {
-    "text": "concept",
-    "size": 13
-  },
-  {
-    "text": "couture",
-    "size": 13
-  },
-  {
-    "text": "europe",
-    "size": 12
-  },
-  {
-    "text": "benelux",
-    "size": 12
-  },
-  {
-    "text": "creation",
-    "size": 11
-  },
-  {
-    "text": "interieur",
-    "size": 11
-  },
-  {
-    "text": "solutions",
-    "size": 11
-  },
-  {
-    "text": "pvba",
-    "size": 11
-  },
-  {
-    "text": "deco",
-    "size": 11
-  },
-  {
-    "text": "maison",
-    "size": 10
-  },
-  {
-    "text": "consulting",
-    "size": 10
-  },
-  {
-    "text": "firma",
-    "size": 10
-  },
-  {
-    "text": "trading",
-    "size": 9
-  },
-  {
-    "text": "studio",
-    "size": 8
-  },
-  {
-    "text": "company",
-    "size": 8
-  },
-  {
-    "text": "fabrics",
-    "size": 8
-  },
-  {
-    "text": "fil",
-    "size": 8
+    "text": "co",
+    "size": 8,
+    "category": "ander"
   },
   {
     "text": "l\u0027atelier",
-    "size": 8
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "print",
-    "size": 8
+    "text": "benelux",
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "products",
-    "size": 8
-  },
-  {
-    "text": "ateliers",
-    "size": 8
-  },
-  {
-    "text": "store",
-    "size": 8
-  },
-  {
-    "text": "confectie",
-    "size": 7
-  },
-  {
-    "text": "sport",
-    "size": 7
+    "text": "new",
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "pack",
-    "size": 7
-  },
-  {
-    "text": "confection",
-    "size": 7
-  },
-  {
-    "text": "line",
-    "size": 7
-  },
-  {
-    "text": "group",
-    "size": 7
-  },
-  {
-    "text": "home",
-    "size": 7
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "drukkerij",
-    "size": 7
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "projects",
-    "size": 7
+    "text": "international",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "tentenverhuur",
-    "size": 6
-  },
-  {
-    "text": "services",
-    "size": 6
-  },
-  {
-    "text": "consult",
-    "size": 6
-  },
-  {
-    "text": "luc",
-    "size": 6
-  },
-  {
-    "text": "cv",
-    "size": 6
-  },
-  {
-    "text": "gebroeders",
-    "size": 6
-  },
-  {
-    "text": "factory",
-    "size": 6
-  },
-  {
-    "text": "publi",
-    "size": 6
-  },
-  {
-    "text": "d\u0027or",
-    "size": 6
-  },
-  {
-    "text": "decoration",
-    "size": 6
-  },
-  {
-    "text": "partners",
-    "size": 6
-  },
-  {
-    "text": "broderie",
-    "size": 6
-  },
-  {
-    "text": "jozef",
-    "size": 5
-  },
-  {
-    "text": "productions",
-    "size": 5
+    "text": "ets",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "labels",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "claes",
-    "size": 5
+    "text": "creation",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "n.v",
-    "size": 5
+    "text": "art",
+    "size": 5,
+    "category": "voornaam man"
   },
   {
-    "text": "decors",
-    "size": 5
+    "text": "solutions",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "johan",
-    "size": 5
-  },
-  {
-    "text": "tuinen",
-    "size": 5
-  },
-  {
-    "text": "els",
-    "size": 5
-  },
-  {
-    "text": "retouche",
-    "size": 5
-  },
-  {
-    "text": "graphics",
-    "size": 5
-  },
-  {
-    "text": "michel",
-    "size": 5
-  },
-  {
-    "text": "for",
-    "size": 5
-  },
-  {
-    "text": "flanders",
-    "size": 5
-  },
-  {
-    "text": "philippe",
-    "size": 5
-  },
-  {
-    "text": "belle",
-    "size": 5
+    "text": "ateliers",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "printing",
-    "size": 5
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "schilderwerken",
-    "size": 5
-  },
-  {
-    "text": "service",
-    "size": 5
-  },
-  {
-    "text": "nathalie",
-    "size": 5
-  },
-  {
-    "text": "point",
-    "size": 5
-  },
-  {
-    "text": "boutique",
-    "size": 5
-  },
-  {
-    "text": "vincent",
-    "size": 5
-  },
-  {
-    "text": "paper",
-    "size": 5
-  },
-  {
-    "text": "naaiatelier",
-    "size": 5
-  },
-  {
-    "text": "all",
-    "size": 5
-  },
-  {
-    "text": "tissus",
-    "size": 5
-  },
-  {
-    "text": "delphine",
-    "size": 4
-  },
-  {
-    "text": "patrick",
-    "size": 4
-  },
-  {
-    "text": "creatief",
-    "size": 4
-  },
-  {
-    "text": "industries",
-    "size": 4
-  },
-  {
-    "text": "zeilmakerij",
-    "size": 4
-  },
-  {
-    "text": "industrial",
-    "size": 4
-  },
-  {
-    "text": "house",
-    "size": 4
-  },
-  {
-    "text": "wauters",
-    "size": 4
-  },
-  {
-    "text": "logistics",
-    "size": 4
-  },
-  {
-    "text": "den",
-    "size": 4
-  },
-  {
-    "text": "paul",
-    "size": 4
-  },
-  {
-    "text": "devos",
-    "size": 4
-  },
-  {
-    "text": "louis",
-    "size": 4
-  },
-  {
-    "text": "etiketten",
-    "size": 4
-  },
-  {
-    "text": "invest",
-    "size": 4
-  },
-  {
-    "text": "marc",
-    "size": 4
-  },
-  {
-    "text": "vrolix",
-    "size": 4
-  },
-  {
-    "text": "anders",
-    "size": 4
-  },
-  {
-    "text": "decoratie",
-    "size": 4
+    "text": "pvba",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "papier",
-    "size": 4
-  },
-  {
-    "text": "screen",
-    "size": 4
-  },
-  {
-    "text": "vlasbedrijf",
-    "size": 4
-  },
-  {
-    "text": "kartonnage",
-    "size": 4
-  },
-  {
-    "text": "huis",
-    "size": 4
-  },
-  {
-    "text": "jeffrey",
-    "size": 4
-  },
-  {
-    "text": "textile",
-    "size": 4
-  },
-  {
-    "text": "an",
-    "size": 4
-  },
-  {
-    "text": "frans",
-    "size": 4
-  },
-  {
-    "text": "isabelle",
-    "size": 4
-  },
-  {
-    "text": "sc",
-    "size": 4
-  },
-  {
-    "text": "euro",
-    "size": 4
-  },
-  {
-    "text": "creations",
-    "size": 4
-  },
-  {
-    "text": "copy",
-    "size": 4
-  },
-  {
-    "text": "brussels",
-    "size": 4
-  },
-  {
-    "text": "events",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "smurfit",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "bonneterie",
-    "size": 4
-  },
-  {
-    "text": "pro",
-    "size": 4
-  },
-  {
-    "text": "chris",
-    "size": 4
-  },
-  {
-    "text": "tissage",
-    "size": 4
-  },
-  {
-    "text": "chez",
-    "size": 4
-  },
-  {
-    "text": "soie",
-    "size": 4
-  },
-  {
-    "text": "zonen",
-    "size": 4
-  },
-  {
-    "text": "2000",
-    "size": 4
-  },
-  {
-    "text": "marie",
-    "size": 4
-  },
-  {
-    "text": "maria",
-    "size": 4
-  },
-  {
-    "text": "fils",
-    "size": 4
-  },
-  {
-    "text": "belgie",
-    "size": 4
-  },
-  {
-    "text": "verpakkingen",
-    "size": 4
-  },
-  {
-    "text": "pascal",
-    "size": 4
-  },
-  {
-    "text": "spinning",
-    "size": 4
-  },
-  {
-    "text": "trade",
-    "size": 4
-  },
-  {
-    "text": "crea",
-    "size": 4
-  },
-  {
-    "text": "sarah",
-    "size": 4
-  },
-  {
-    "text": "jan",
-    "size": 4
+    "text": "kartonnage",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "kappa",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "ter",
-    "size": 3
+    "text": "logistics",
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "tex",
-    "size": 3
+    "text": "print",
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "kleding",
-    "size": 3
+    "text": "etiketten",
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "cie",
-    "size": 3
+    "text": "europe",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "scrap",
-    "size": 3
-  },
-  {
-    "text": "tom",
-    "size": 3
-  },
-  {
-    "text": "algemene",
-    "size": 3
-  },
-  {
-    "text": "supply",
-    "size": 3
-  },
-  {
-    "text": "graphic",
-    "size": 3
-  },
-  {
-    "text": "reynders",
-    "size": 3
-  },
-  {
-    "text": "center",
-    "size": 3
-  },
-  {
-    "text": "gallery",
-    "size": 3
-  },
-  {
-    "text": "mieke",
-    "size": 3
-  },
-  {
-    "text": "mind",
-    "size": 3
-  },
-  {
-    "text": "business",
-    "size": 3
-  },
-  {
-    "text": "meubelstoffering",
-    "size": 3
-  },
-  {
-    "text": "construct",
-    "size": 3
-  },
-  {
-    "text": "division",
-    "size": 3
-  },
-  {
-    "text": "vanhoutte",
-    "size": 3
-  },
-  {
-    "text": "tenten",
-    "size": 3
-  },
-  {
-    "text": "modecoupon",
-    "size": 3
-  },
-  {
-    "text": "ideal",
-    "size": 3
-  },
-  {
-    "text": "servio",
-    "size": 3
-  },
-  {
-    "text": "ellen",
-    "size": 3
-  },
-  {
-    "text": "wood",
-    "size": 3
-  },
-  {
-    "text": "imprimerie",
-    "size": 3
-  },
-  {
-    "text": "jacques",
-    "size": 3
-  },
-  {
-    "text": "turnhout",
-    "size": 3
-  },
-  {
-    "text": "pierre",
-    "size": 3
-  },
-  {
-    "text": "yves",
-    "size": 3
-  },
-  {
-    "text": "linda",
-    "size": 3
-  },
-  {
-    "text": "lieve",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "cartonnages",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "joseph",
-    "size": 3
+    "text": "industrial",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "martin",
-    "size": 3
+    "text": "productions",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "bernard",
-    "size": 3
-  },
-  {
-    "text": "color",
-    "size": 3
-  },
-  {
-    "text": "bekaert",
-    "size": 3
-  },
-  {
-    "text": "pharmaceutical",
-    "size": 3
-  },
-  {
-    "text": "dekzeilen",
-    "size": 3
-  },
-  {
-    "text": "déco",
-    "size": 3
-  },
-  {
-    "text": "be",
-    "size": 3
-  },
-  {
-    "text": "bo",
-    "size": 3
-  },
-  {
-    "text": "food",
-    "size": 3
-  },
-  {
-    "text": "di",
-    "size": 3
-  },
-  {
-    "text": "id",
-    "size": 3
-  },
-  {
-    "text": "mc",
-    "size": 3
-  },
-  {
-    "text": "sports",
-    "size": 3
-  },
-  {
-    "text": "intern",
-    "size": 3
-  },
-  {
-    "text": "distribution",
-    "size": 3
-  },
-  {
-    "text": "christophe",
-    "size": 3
-  },
-  {
-    "text": "witte",
-    "size": 3
-  },
-  {
-    "text": "lampe",
-    "size": 3
-  },
-  {
-    "text": "paepe",
-    "size": 3
-  },
-  {
-    "text": "vande",
-    "size": 3
-  },
-  {
-    "text": "imperial",
-    "size": 3
-  },
-  {
-    "text": "verpakking",
-    "size": 3
-  },
-  {
-    "text": "lano",
-    "size": 3
-  },
-  {
-    "text": "roeselare",
-    "size": 3
-  },
-  {
-    "text": "industrie",
-    "size": 3
-  },
-  {
-    "text": "time",
-    "size": 3
-  },
-  {
-    "text": "petites",
-    "size": 3
-  },
-  {
-    "text": "christine",
-    "size": 3
-  },
-  {
-    "text": "marleen",
-    "size": 3
-  },
-  {
-    "text": "interior",
-    "size": 3
-  },
-  {
-    "text": "dewaele",
-    "size": 3
-  },
-  {
-    "text": "espace",
-    "size": 3
-  },
-  {
-    "text": "villa",
-    "size": 3
-  },
-  {
-    "text": "global",
-    "size": 3
-  },
-  {
-    "text": "knitting",
-    "size": 3
-  },
-  {
-    "text": "ice",
-    "size": 3
-  },
-  {
-    "text": "sofie",
-    "size": 3
-  },
-  {
-    "text": "ontex",
-    "size": 3
-  },
-  {
-    "text": "poly",
-    "size": 3
-  },
-  {
-    "text": "ciseaux",
-    "size": 3
-  },
-  {
-    "text": "declercq",
-    "size": 3
-  },
-  {
-    "text": "martens",
-    "size": 3
-  },
-  {
-    "text": "matrassenhuis",
-    "size": 3
-  },
-  {
-    "text": "vanneste",
-    "size": 3
-  },
-  {
-    "text": "mister",
-    "size": 3
-  },
-  {
-    "text": "touch",
-    "size": 3
-  },
-  {
-    "text": "mousse",
-    "size": 3
+    "text": "services",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "gemaakt",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "gent",
-    "size": 3
+    "text": "roeselare",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "georges",
-    "size": 3
+    "text": "fashion",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "style",
-    "size": 3
+    "text": "concept",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "peeters",
-    "size": 3
+    "text": "reynders",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "more",
-    "size": 3
+    "text": "studio",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "illochroma",
-    "size": 3
+    "text": "pharmaceutical",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "monique",
-    "size": 3
+    "text": "group",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "grafisch",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "alexis",
-    "size": 3
+    "text": "mind",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "bel",
-    "size": 3
+    "text": "graphics",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "france",
-    "size": 3
+    "text": "decor",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "olivier",
-    "size": 3
+    "text": "servio",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "interiors",
-    "size": 3
+    "text": "belle",
+    "size": 3,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "poortere",
-    "size": 3
-  },
-  {
-    "text": "box",
-    "size": 3
+    "text": "belgie",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "passion",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "balta",
-    "size": 3
+    "text": "verpakkingen",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "sint",
-    "size": 3
+    "text": "euro",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "clercq",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "ilwa",
-    "size": 3
+    "text": "imprimerie",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "ontex",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "paper",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "turnhout",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "click",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "martens",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "saint",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "imperial",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "declerck",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "sara",
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "delphine",
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "patrick",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "with",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "gsi",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "healthcare",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "emballage",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "verpakking",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "c.f.i",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "lab",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "eti",
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "boek",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "markus",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "euro\u0027pap",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "graphic",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "consulting",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "fotografie",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bonne",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bernard",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "colwell",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "wauters",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "jeffrey",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "n.v",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "gent",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "genk",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "chris",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "mieke",
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "publi",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "cartomills",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "display",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "illochroma",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "creatieve",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "nathalie",
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "luc",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "projects",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "isabelle",
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "systems",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "business",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "food",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "rembrandt",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "home",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "management",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "espace",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "gerpas",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "products",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "lc",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "mc",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "liefde",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "fils",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "box",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "recycling",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "schleck",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "paint",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "loko",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "etibel",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "interieur",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "chesapeake",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "advies",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "cartamundi",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "ice",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "atelier",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "presentation",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "tobacco",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "mondi",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "samples",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "mps",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "aurora",
-    "size": 3
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "distribution",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "jacques",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "hygiene",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "matal",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "line",
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "cartonnage",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "couleur",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "anders",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "poly",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "reedpack",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vastgoed",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ecoformer",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "d\u0027etiquett",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "zandstralen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vestiging",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "schrijnwerkerij",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "compenhoudt",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hcps",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pierre",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "assensio",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "snelkopie",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tea",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "lochristi",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "barbotine",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "cones",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "visual",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "boeken",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pom\u0027art",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ter",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "debaise",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "secrétariat",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "upgrade",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "excellent",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sommer",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hermie",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pallettenbedrijf",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "investment",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vancraybeek",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mihtra",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "huisman",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "madmodesty",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "merksem",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dejagere",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bubbles",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "rolax",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "cnockaert",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "informatix",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "albox",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "trodatshop",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "stercke",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "weise",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "rom3",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "z\u0027elf",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "perfecta",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "m-dash",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "memleket",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "groof",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "corona",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jeprint",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mzm",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ideaworker",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "accessories",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "artistic",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mymy",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "arelquino",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "liens",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tupu",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "solidus",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "corpack",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "m-art-10",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "blue",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "1001",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "decoratiewerken",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bleser",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "twinky\u0027s",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "grisar",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "standard",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mylite",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gunter",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "converting",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "thinkpro",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gon",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "rubaco",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "scandstick",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "monceau",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "spring",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "siriluna",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "belinfresh",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fiberpack",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "larminier",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sylvie",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "papiertje",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "phenix",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lattelais",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "avery",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "econcore",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "créations",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "project-71",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "serviette",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "festapack",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "maelen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "verkoopkantoor",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pat",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "hardy-fabri-pak",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "l\u0027ami",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "european",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "esperluette",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tezaiku",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "nominette",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "cd\u0027sign",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "padesi",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "els",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "strange",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "naaibank",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "haesen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "labo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "verstraete",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "yves",
+    "size": 1,
+    "category": "voornaam man"
   }
 ]

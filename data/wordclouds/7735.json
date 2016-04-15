@@ -1,1002 +1,1252 @@
 [
   {
     "text": "services",
-    "size": 18
+    "size": 15,
+    "category": "ander"
   },
   {
     "text": "aviation",
-    "size": 14
+    "size": 11,
+    "category": "ander"
   },
   {
     "text": "air",
-    "size": 12
-  },
-  {
-    "text": "bvba",
-    "size": 11
-  },
-  {
-    "text": "nv",
-    "size": 11
+    "size": 10,
+    "category": "ander"
   },
   {
     "text": "belgium",
-    "size": 10
+    "size": 10,
+    "category": "land"
   },
   {
-    "text": "consulting",
-    "size": 10
-  },
-  {
-    "text": "management",
-    "size": 9
+    "text": "nv",
+    "size": 10,
+    "category": "rechtsvorm"
   },
   {
     "text": "lease",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "aero",
-    "size": 7
-  },
-  {
-    "text": "trans",
-    "size": 7
-  },
-  {
-    "text": "invest",
-    "size": 7
-  },
-  {
-    "text": "express",
-    "size": 7
-  },
-  {
-    "text": "solutions",
-    "size": 7
-  },
-  {
-    "text": "flight",
-    "size": 6
-  },
-  {
-    "text": "sprl",
-    "size": 6
-  },
-  {
-    "text": "consult",
-    "size": 6
+    "text": "bvba",
+    "size": 7,
+    "category": "rechtsvorm"
   },
   {
     "text": "company",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "heli",
-    "size": 6
+    "text": "management",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "transport",
-    "size": 5
-  },
-  {
-    "text": "events",
-    "size": 5
-  },
-  {
-    "text": "group",
-    "size": 5
+    "text": "trans",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "fly",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "european",
-    "size": 4
+    "text": "consulting",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "service",
-    "size": 4
+    "text": "express",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "exclusive",
-    "size": 4
+    "text": "solutions",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "drone",
-    "size": 4
-  },
-  {
-    "text": "light",
-    "size": 4
-  },
-  {
-    "text": "logistics",
-    "size": 4
+    "text": "heli",
+    "size": 5,
+    "category": "voornaam"
   },
   {
     "text": "projects",
-    "size": 4
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "flight",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "trading",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "auto\u0027s",
-    "size": 4
+    "text": "aero",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "sprl",
+    "size": 4,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "transport",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "exclusive",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "the",
-    "size": 3
-  },
-  {
-    "text": "and",
-    "size": 3
-  },
-  {
-    "text": "helicopter",
-    "size": 3
-  },
-  {
-    "text": "vendor",
-    "size": 3
-  },
-  {
-    "text": "cars",
-    "size": 3
-  },
-  {
-    "text": "david",
-    "size": 3
-  },
-  {
-    "text": "jasper",
-    "size": 3
+    "size": 3,
+    "category": "voornaam"
   },
   {
     "text": "airlines",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "european",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "service",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "sky",
-    "size": 3
-  },
-  {
-    "text": "nextgen",
-    "size": 3
+    "size": 3,
+    "category": "voornaam"
   },
   {
     "text": "auto",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "kbc",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "helicopter",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "vendor",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "garage",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "cars",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "light",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "consult",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "verschueren",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "david",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "cbc",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "building",
-    "size": 2
-  },
-  {
-    "text": "martens",
-    "size": 2
-  },
-  {
-    "text": "export",
-    "size": 2
-  },
-  {
-    "text": "technics",
-    "size": 2
-  },
-  {
-    "text": "airline",
-    "size": 2
-  },
-  {
-    "text": "pili",
-    "size": 2
-  },
-  {
-    "text": "corporation",
-    "size": 2
-  },
-  {
-    "text": "skydiving",
-    "size": 2
-  },
-  {
-    "text": "all",
-    "size": 2
-  },
-  {
-    "text": "aircraft",
-    "size": 2
-  },
-  {
-    "text": "immo",
-    "size": 2
-  },
-  {
-    "text": "jan",
-    "size": 2
-  },
-  {
-    "text": "black",
-    "size": 2
-  },
-  {
-    "text": "partners",
-    "size": 2
-  },
-  {
-    "text": "technologies",
-    "size": 2
-  },
-  {
-    "text": "shop",
-    "size": 2
-  },
-  {
-    "text": "rgb-led",
-    "size": 2
-  },
-  {
-    "text": "thibaut",
-    "size": 2
-  },
-  {
-    "text": "ardennes",
-    "size": 2
-  },
-  {
-    "text": "center",
-    "size": 2
-  },
-  {
-    "text": "centea",
-    "size": 2
-  },
-  {
-    "text": "minsel",
-    "size": 2
-  },
-  {
-    "text": "nd-sign",
-    "size": 2
-  },
-  {
-    "text": "more",
-    "size": 2
-  },
-  {
-    "text": "sam",
-    "size": 2
+    "text": "jasper",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "fly-out",
-    "size": 2
-  },
-  {
-    "text": "systems",
-    "size": 2
-  },
-  {
-    "text": "cb",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "business",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "export",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "whoop",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "consultancy",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "vision",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "technics",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "immolease",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "bma",
-    "size": 2
+    "text": "airline",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "pili",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "skydiving",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "nextgen",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "international",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "all",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "loft",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "plus",
-    "size": 2
+    "text": "and",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "taxi",
-    "size": 2
+    "text": "immo",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "support",
-    "size": 2
+    "text": "jan",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "events",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "black",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "partners",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "invest",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "drone",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "shop",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "rgb-led",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "thibaut",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "ardennes",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "centea",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "keshe",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "renting",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "minsel",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "auto\u0027s",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "nd-sign",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "foundation",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "europe",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "academy",
-    "size": 2
+    "text": "group",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "cleaning",
-    "size": 2
+    "text": "logistics",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "stijn",
-    "size": 2
+    "text": "sam",
+    "size": 2,
+    "category": "voornaam"
   },
   {
-    "text": "cools",
-    "size": 2
+    "text": "plane",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "simulators",
-    "size": 2
+    "text": "beel",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "leading",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ciglos",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "purus",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cirrus-one",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vvsnv",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "emirates",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "branch",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "soppa",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "building",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jfpr",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "emma",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "envict",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bas",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "rac",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "equa",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vip",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "neirynck",
-    "size": 1
+    "text": "you",
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "avans",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "avia",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "mayor",
-    "size": 1
+    "text": "baluga",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "aerovisuals",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ah",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "bosaero",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "solstice",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "lighting",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "maxibay",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "blueskies",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "innovations",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "helisa",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "bjorn",
-    "size": 1
+    "text": "steven",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "av",
+    "size": 1,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "gmacs",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "citation-one",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "comptoir",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "delhaye",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "wing",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "gmg",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bd",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "be",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "air-fides",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "versmarkt",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mobil-x",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "investments",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vanda",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "cartouche",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ardora",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "br",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gmv",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "aeropassion",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "communications",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "maxime",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "c.r.c",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "systems",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ateliers",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "kalpa",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "debosschere",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bativa",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vita",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "antieke",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "naessens",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "scott",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "martens",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "cb",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cfc",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "learn",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hps",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "jojanda",
-    "size": 1
-  },
-  {
-    "text": "jens",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "blue",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "mees",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "flaico",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "knauf",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mello",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "emmy",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "aerospace",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "paul",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "sogal",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "noorden",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "fleet",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "rdw",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "helixense",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sprint",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pegasus",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ds",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "krafft",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "agence",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "red",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "fitness",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "incorporated",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "yss",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "reginald",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "verkoop",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vmo",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "flyinsite",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "skyworks",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "hontoir",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "e.a.c",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dijk",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "oriondesign",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "orionworks",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sanair",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vaes",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vyvey",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hugues",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "take",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "boite",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "perneel",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ballooning",
-    "size": 1
-  },
-  {
-    "text": "aitc",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "wulpen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "scrl",
-    "size": 1
+    "size": 1,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "schoemans",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pingala",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "knokke",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ebvba",
+    "size": 1,
+    "category": "rechtsvorm"
   },
   {
     "text": "ecorental",
-    "size": 1
-  },
-  {
-    "text": "pragmata",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "meteora",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "dorpe",
-    "size": 1
+    "text": "for",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "nessie",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "fp",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sodemundo",
-    "size": 1
-  },
-  {
-    "text": "vof",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "emu",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "l..sanitechnik",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "partscare",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bati-vero",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "olivier",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "i-fly",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sil",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "steichel",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "relcan",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "europilot",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "kris",
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "desmet",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "victory",
-    "size": 1
+    "text": "associes",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "holz",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ethiopian",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "flanders",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "kwadraat",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "with",
-    "size": 1
-  },
-  {
-    "text": "vpm",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "micro",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "emra",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "hover-cam",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "beerens",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ferwerda",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "alexandre",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "promotion",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "couscous",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "atlas",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
-    "text": "piteco",
-    "size": 1
+    "text": "bosmans",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "aviapro",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tekov",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "adoxa",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bafa",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "fomaco",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "block",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "kurt",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "epi",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "quint",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "flywell",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "inter",
-    "size": 1
+    "text": "corporation",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "abim",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hertog",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "carcenter",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "heli-foto",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "thuisgenot",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "coertjens",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "winner",
-    "size": 1
+    "text": "armstrongcompany",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "verkeers",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "e.c.d",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "helipro",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "silver",
-    "size": 1
+    "text": "johan",
+    "size": 1,
+    "category": "voornaam"
   },
   {
-    "text": "debbaut",
-    "size": 1
+    "text": "mermoz",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "guy",
-    "size": 1
-  },
-  {
-    "text": "rijschool",
-    "size": 1
-  },
-  {
-    "text": "tom",
-    "size": 1
-  },
-  {
-    "text": "product",
-    "size": 1
-  },
-  {
-    "text": "dumon",
-    "size": 1
-  },
-  {
-    "text": "ilpam",
-    "size": 1
-  },
-  {
-    "text": "helimo",
-    "size": 1
-  },
-  {
-    "text": "groep",
-    "size": 1
-  },
-  {
-    "text": "debaecke",
-    "size": 1
-  },
-  {
-    "text": "saveurs",
-    "size": 1
-  },
-  {
-    "text": "schoonheidsinstitut",
-    "size": 1
-  },
-  {
-    "text": "promoglide",
-    "size": 1
-  },
-  {
-    "text": "afgekort",
-    "size": 1
-  },
-  {
-    "text": "aera",
-    "size": 1
-  },
-  {
-    "text": "modularte",
-    "size": 1
-  },
-  {
-    "text": "i-electrics",
-    "size": 1
-  },
-  {
-    "text": "rma",
-    "size": 1
-  },
-  {
-    "text": "helicopters",
-    "size": 1
-  },
-  {
-    "text": "lantman",
-    "size": 1
-  },
-  {
-    "text": "laurent",
-    "size": 1
-  },
-  {
-    "text": "etablissements",
-    "size": 1
-  },
-  {
-    "text": "robimex",
-    "size": 1
-  },
-  {
-    "text": "neo@",
-    "size": 1
-  },
-  {
-    "text": "impecco",
-    "size": 1
-  },
-  {
-    "text": "marcel",
-    "size": 1
-  },
-  {
-    "text": "veral",
-    "size": 1
-  },
-  {
-    "text": "profides",
-    "size": 1
-  },
-  {
-    "text": "fresit",
-    "size": 1
-  },
-  {
-    "text": "estate",
-    "size": 1
-  },
-  {
-    "text": "real",
-    "size": 1
-  },
-  {
-    "text": "hatomec",
-    "size": 1
-  },
-  {
-    "text": "greenlaneadventure",
-    "size": 1
-  },
-  {
-    "text": "try",
-    "size": 1
-  },
-  {
-    "text": "v-fund",
-    "size": 1
-  },
-  {
-    "text": "elitav",
-    "size": 1
-  },
-  {
-    "text": "bodi",
-    "size": 1
-  },
-  {
-    "text": "xperience",
-    "size": 1
-  },
-  {
-    "text": "financial",
-    "size": 1
-  },
-  {
-    "text": "technique",
-    "size": 1
-  },
-  {
-    "text": "dreams",
-    "size": 1
-  },
-  {
-    "text": "media",
-    "size": 1
-  },
-  {
-    "text": "leipzig",
-    "size": 1
-  },
-  {
-    "text": "lengele",
-    "size": 1
-  },
-  {
-    "text": "executiv",
-    "size": 1
-  },
-  {
-    "text": "jacquemin",
-    "size": 1
-  },
-  {
-    "text": "zunbee",
-    "size": 1
-  },
-  {
-    "text": "helipad.be",
-    "size": 1
-  },
-  {
-    "text": "prowrap",
-    "size": 1
-  },
-  {
-    "text": "b.b.a.c",
-    "size": 1
-  },
-  {
-    "text": "academics",
-    "size": 1
-  },
-  {
-    "text": "ingeo",
-    "size": 1
-  },
-  {
-    "text": "conseils",
-    "size": 1
-  },
-  {
-    "text": "maintenance",
-    "size": 1
-  },
-  {
-    "text": "vlaams",
-    "size": 1
+    "text": "lorentias",
+    "size": 1,
+    "category": "ander"
   }
 ]

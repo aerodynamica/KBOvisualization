@@ -1,1002 +1,1252 @@
 [
   {
     "text": "fruit",
-    "size": 19
+    "size": 14,
+    "category": "ander"
   },
   {
     "text": "ferme",
-    "size": 12
-  },
-  {
-    "text": "bvba",
-    "size": 11
+    "size": 10,
+    "category": "ander"
   },
   {
     "text": "belgium",
-    "size": 9
-  },
-  {
-    "text": "food",
-    "size": 8
+    "size": 8,
+    "category": "land"
   },
   {
     "text": "the",
-    "size": 7
+    "size": 7,
+    "category": "voornaam"
   },
   {
-    "text": "services",
-    "size": 7
-  },
-  {
-    "text": "belorta",
-    "size": 7
+    "text": "food",
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "saveurs",
-    "size": 6
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "fruits",
-    "size": 6
-  },
-  {
-    "text": "nv",
-    "size": 6
-  },
-  {
-    "text": "foods",
-    "size": 5
-  },
-  {
-    "text": "fresh",
-    "size": 5
+    "text": "services",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "cuisine",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "sprl",
-    "size": 4
+    "size": 4,
+    "category": "rechtsvorm"
   },
   {
-    "text": "green",
-    "size": 4
+    "text": "foods",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "fruits",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "group",
-    "size": 4
-  },
-  {
-    "text": "comptoir",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "safran",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "company",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "bio",
-    "size": 4
-  },
-  {
-    "text": "international",
-    "size": 4
-  },
-  {
-    "text": "natural",
-    "size": 4
-  },
-  {
-    "text": "groenten",
-    "size": 3
+    "text": "belorta",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "eric",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "green",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "bvba",
+    "size": 3,
+    "category": "rechtsvorm"
   },
   {
     "text": "david",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "luc",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
-    "text": "den",
-    "size": 3
+    "text": "comptoir",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "hof",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "borgloon",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "fresh",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "vert",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "vergers",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "lv",
-    "size": 3
+    "text": "international",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "nature",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "délices",
-    "size": 3
-  },
-  {
-    "text": "lambert",
-    "size": 3
-  },
-  {
-    "text": "verger",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "farm",
-    "size": 2
-  },
-  {
-    "text": "moors",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "saint",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "emoi",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "konings",
-    "size": 2
-  },
-  {
-    "text": "lens",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "agro",
-    "size": 2
-  },
-  {
-    "text": "coffee",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "lady",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "institut",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "gorsem",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "ets",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "ruchers",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "laura",
-    "size": 2
+    "size": 2,
+    "category": "voornaam vrouw"
   },
   {
     "text": "and",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "goût",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "jan",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "d\u0027iris",
-    "size": 2
-  },
-  {
-    "text": "pack",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "ingredients",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "tomaterie",
-    "size": 2
-  },
-  {
-    "text": "charlier",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "jardins",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "flandres",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "martine",
-    "size": 2
+    "size": 2,
+    "category": "voornaam vrouw"
   },
   {
     "text": "consult",
-    "size": 2
-  },
-  {
-    "text": "more",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "centre",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "garden",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "l\u0027epicerie",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "vins",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "meurens",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "confiture",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "jos",
-    "size": 2
-  },
-  {
-    "text": "gezond",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "confituur",
-    "size": 2
-  },
-  {
-    "text": "brasserie",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "co",
-    "size": 2
-  },
-  {
-    "text": "terre",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "hilde",
-    "size": 2
+    "size": 2,
+    "category": "voornaam vrouw"
   },
   {
     "text": "thomas",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "go",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "terroir",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "primeurs",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "bakkerij",
-    "size": 2
+    "text": "bio",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "devos",
-    "size": 2
-  },
-  {
-    "text": "trading",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "biscuiterie",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "products",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "baudouin",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "didier",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "chocolaterie",
-    "size": 2
-  },
-  {
-    "text": "aminata",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "varoxx",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "pieter",
-    "size": 2
+    "text": "nv",
+    "size": 2,
+    "category": "rechtsvorm"
   },
   {
     "text": "tivoli",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "karl",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
-    "text": "star",
-    "size": 2
+    "text": "natural",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "europe",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "schmitz",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "emmanuel",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "lambert",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "wijndomein",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "potager",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "sens",
-    "size": 2
-  },
-  {
-    "text": "herbafrost",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "factory",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "verger",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "francis",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "renaux",
-    "size": 1
-  },
-  {
-    "text": "kollebloem",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "plumes",
-    "size": 1
-  },
-  {
-    "text": "halk",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "participative",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "barenberg",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "nadine",
-    "size": 1
-  },
-  {
-    "text": "raf",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "confitur\u0027emoi",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "halal",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pom\u0027art",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "lichtbuer",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "energy",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ter",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "fruitkorf",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vietnam",
-    "size": 1
+    "size": 1,
+    "category": "land"
   },
   {
     "text": "vershoeve",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "leën",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "dawn",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "bakbel",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tuinsappen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sgarito",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "berghe",
-    "size": 1
-  },
-  {
-    "text": "clarenne",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "waides",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cuvee",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "helena",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "marie-ange",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "ateliers",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "distillerie",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "piet",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "warnimont",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vraies",
-    "size": 1
-  },
-  {
-    "text": "close",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "kroket",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cordonnerie",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "securiworks",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "feuilles",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vlg",
-    "size": 1
-  },
-  {
-    "text": "peltzer",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "coeur",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "fast",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "l\u0027ardennaise",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pomarium",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "interplantcare",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "selder",
-    "size": 1
-  },
-  {
-    "text": "coopmans",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mincé",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bosporus",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "jean-philippe",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "meyhi",
-    "size": 1
-  },
-  {
-    "text": "good",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sylvio",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "bergez",
-    "size": 1
-  },
-  {
-    "text": "speakers",
-    "size": 1
-  },
-  {
-    "text": "dapper",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pak",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "cakes",
-    "size": 1
-  },
-  {
-    "text": "organics",
-    "size": 1
-  },
-  {
-    "text": "elf",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "hermyne",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "freezebeeze",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "karine",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "quentin",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "ballonatelier.be-papillon",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "geestrijk",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "inpak",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "babon",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "euras",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "marie-rose",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "cine",
-    "size": 1
-  },
-  {
-    "text": "yves",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "boite",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "traditions",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "laecke",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ouad",
-    "size": 1
-  },
-  {
-    "text": "tomeco",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "jeanne",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "valkenborg",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "micro-brasserie",
-    "size": 1
-  },
-  {
-    "text": "rabarber",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "conserverie",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "production",
-    "size": 1
-  },
-  {
-    "text": "handelsmaatschappij",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "herbosch",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "biosmose",
-    "size": 1
-  },
-  {
-    "text": "avalon",
-    "size": 1
+    "text": "lens",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "keukenkoets",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pcf",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "fruitig",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "dolce",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "rico",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "archipel",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "patrick",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "icconcept",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "escargots",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "heyn",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "zilverberg",
-    "size": 1
-  },
-  {
-    "text": "traiteur",
-    "size": 1
-  },
-  {
-    "text": "rice",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "agri",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "enz",
-    "size": 1
-  },
-  {
-    "text": "forum",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mathieu",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "scierie-foresterie",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "bodrum",
-    "size": 1
-  },
-  {
-    "text": "service",
-    "size": 1
+    "text": "coffee",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ansgar",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "d\u0027icidelà",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "fernelmont",
-    "size": 1
-  },
-  {
-    "text": "v.w",
-    "size": 1
-  },
-  {
-    "text": "morango",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ruche",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tidane",
-    "size": 1
-  },
-  {
-    "text": "atlas",
-    "size": 1
-  },
-  {
-    "text": "duizendblad",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "j\u0027aime",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "guillaume",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "huy/waremme",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cruysveld",
-    "size": 1
-  },
-  {
-    "text": "kurt",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "kitom",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "guldenboom",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gerben",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "green-beam",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tiarmont",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "jozef",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "groenten",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "hotaru",
-    "size": 1
-  },
-  {
-    "text": "koen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bbdesign",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "hoeveslagerij",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "queen",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "guy",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "jusdici",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "univeg",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "selma-turen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "emballage",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tim\u0027s",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gaumais-atout",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pasana",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gvn",
-    "size": 1
-  },
-  {
-    "text": "gastronomie",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "crée",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "crea",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "vandecruys",
-    "size": 1
+    "text": "haut",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "vercammen",
-    "size": 1
+    "text": "callas",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "groes",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mauro",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "gigi",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "benedicte",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "vernico",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hulsbosch",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "l\u0027îlot",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "thillo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "confitures",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "franchimont",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jambrouwerij",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "laurent",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "mister",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "wouters",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "blommaert",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "spoor",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "stock",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "haine",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dhondt",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "l\u0027esprit",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "l\u0027autre",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dutron",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "domaine",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "baeyens",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "estate",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tralala",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "shakers",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "moeke",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "boshuis",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ruches",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mayeur",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "rucher",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "elixirs",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "aengeveld",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hodwinry",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gout",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ams",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "orqap",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "magasin",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "artus",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "confibel",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "versno",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "m-appeal",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "co-motion",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fontbaré",
+    "size": 1,
+    "category": "ander"
   }
 ]

@@ -1,1002 +1,1252 @@
 [
   {
     "text": "bvba",
-    "size": 88
+    "size": 72,
+    "category": "rechtsvorm"
   },
   {
     "text": "nv",
-    "size": 58
-  },
-  {
-    "text": "musée",
-    "size": 51
+    "size": 52,
+    "category": "rechtsvorm"
   },
   {
     "text": "klussenier",
-    "size": 48
+    "size": 48,
+    "category": "ander"
+  },
+  {
+    "text": "musée",
+    "size": 48,
+    "category": "ander"
   },
   {
     "text": "museum",
-    "size": 45
+    "size": 45,
+    "category": "ander"
   },
   {
     "text": "sprl",
-    "size": 37
-  },
-  {
-    "text": "construct",
-    "size": 24
-  },
-  {
-    "text": "bouwbedrijf",
-    "size": 24
+    "size": 32,
+    "category": "rechtsvorm"
   },
   {
     "text": "algemene",
-    "size": 22
+    "size": 21,
+    "category": "ander"
   },
   {
-    "text": "bouwonderneming",
-    "size": 22
-  },
-  {
-    "text": "bouw",
-    "size": 22
+    "text": "bouwbedrijf",
+    "size": 21,
+    "category": "ander"
   },
   {
     "text": "bouwwerken",
-    "size": 20
+    "size": 20,
+    "category": "ander"
   },
   {
-    "text": "centre",
-    "size": 18
+    "text": "bouw",
+    "size": 20,
+    "category": "ander"
   },
   {
     "text": "maison",
-    "size": 18
+    "size": 18,
+    "category": "ander"
+  },
+  {
+    "text": "construct",
+    "size": 18,
+    "category": "ander"
+  },
+  {
+    "text": "centre",
+    "size": 17,
+    "category": "ander"
   },
   {
     "text": "musee",
-    "size": 15
+    "size": 15,
+    "category": "ander"
+  },
+  {
+    "text": "bouwonderneming",
+    "size": 14,
+    "category": "ander"
   },
   {
     "text": "amis",
-    "size": 14
-  },
-  {
-    "text": "services",
-    "size": 13
-  },
-  {
-    "text": "art",
-    "size": 13
+    "size": 14,
+    "category": "ander"
   },
   {
     "text": "patrimoine",
-    "size": 13
+    "size": 13,
+    "category": "ander"
   },
   {
-    "text": "château",
-    "size": 12
+    "text": "services",
+    "size": 11,
+    "category": "ander"
   },
   {
     "text": "association",
-    "size": 11
+    "size": 11,
+    "category": "ander"
   },
   {
     "text": "musées",
-    "size": 11
+    "size": 11,
+    "category": "ander"
   },
   {
     "text": "vzw",
-    "size": 11
+    "size": 11,
+    "category": "rechtsvorm"
   },
   {
-    "text": "renovatie",
-    "size": 10
-  },
-  {
-    "text": "johan",
-    "size": 10
+    "text": "château",
+    "size": 11,
+    "category": "ander"
   },
   {
     "text": "d\u0027histoire",
-    "size": 10
+    "size": 10,
+    "category": "ander"
   },
   {
-    "text": "construction",
-    "size": 10
+    "text": "art",
+    "size": 10,
+    "category": "voornaam man"
   },
   {
-    "text": "dakwerken",
-    "size": 10
+    "text": "renovatie",
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "asbl",
-    "size": 9
+    "size": 9,
+    "category": "rechtsvorm"
   },
   {
-    "text": "projects",
-    "size": 9
-  },
-  {
-    "text": "service",
-    "size": 8
+    "text": "construction",
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "peter",
-    "size": 8
+    "size": 8,
+    "category": "voornaam man"
   },
   {
-    "text": "international",
-    "size": 8
-  },
-  {
-    "text": "atelier",
-    "size": 8
-  },
-  {
-    "text": "pierre",
-    "size": 8
+    "text": "johan",
+    "size": 8,
+    "category": "voornaam"
   },
   {
     "text": "belgium",
-    "size": 8
+    "size": 8,
+    "category": "land"
   },
   {
-    "text": "entreprise",
-    "size": 8
+    "text": "dakwerken",
+    "size": 8,
+    "category": "ander"
   },
   {
     "text": "patrick",
-    "size": 7
+    "size": 7,
+    "category": "voornaam man"
   },
   {
     "text": "societe",
-    "size": 7
+    "size": 7,
+    "category": "ander"
+  },
+  {
+    "text": "service",
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "kasteel",
-    "size": 7
-  },
-  {
-    "text": "aannemingen",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "zonen",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "fils",
-    "size": 7
+    "text": "international",
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "culture",
-    "size": 7
+    "text": "pierre",
+    "size": 7,
+    "category": "voornaam"
   },
   {
     "text": "chateau",
-    "size": 7
-  },
-  {
-    "text": "tourisme",
-    "size": 7
-  },
-  {
-    "text": "jan",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "musea",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "co",
-    "size": 7
+    "text": "entreprise",
+    "size": 7,
+    "category": "ander"
+  },
+  {
+    "text": "aannemingen",
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "paul",
-    "size": 6
+    "size": 6,
+    "category": "voornaam man"
   },
   {
     "text": "entreprises",
-    "size": 6
-  },
-  {
-    "text": "wallon",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "dienst",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "marc",
-    "size": 6
+    "text": "atelier",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "building",
-    "size": 6
+    "text": "culture",
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "jan",
+    "size": 6,
+    "category": "voornaam"
   },
   {
     "text": "royale",
-    "size": 6
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "co",
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "vrienden",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "koninklijk",
-    "size": 6
-  },
-  {
-    "text": "gebroeders",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "archeologie",
-    "size": 5
-  },
-  {
-    "text": "groep",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "arts",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "erfgoed",
-    "size": 5
-  },
-  {
-    "text": "luc",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "maes",
-    "size": 5
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "fils",
+    "size": 5,
+    "category": "voornaam man"
+  },
+  {
+    "text": "wallon",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "belgique",
-    "size": 5
-  },
-  {
-    "text": "solutions",
-    "size": 5
+    "size": 5,
+    "category": "land"
   },
   {
     "text": "renovatiewerken",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "d\u0027art",
-    "size": 5
-  },
-  {
-    "text": "bart",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "fondation",
-    "size": 5
-  },
-  {
-    "text": "menuiserie",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "monumentenzorg",
-    "size": 5
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "tourisme",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "ets",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "stedelijk",
-    "size": 5
-  },
-  {
-    "text": "engineering",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "kunst",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "brabant",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "zetel",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "kris",
-    "size": 5
+    "text": "projects",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "archief",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "constructions",
-    "size": 5
+    "text": "gebroeders",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "folklore",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "kunsten",
-    "size": 5
-  },
-  {
-    "text": "woningbouw",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "hans",
-    "size": 4
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "cfe",
-    "size": 4
-  },
-  {
-    "text": "the",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "technics",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "schilderwerken",
-    "size": 4
-  },
-  {
-    "text": "renovation",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "koninklijke",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "design",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "antwerpen",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "geert",
-    "size": 4
+    "size": 4,
+    "category": "voornaam"
   },
   {
     "text": "schone",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "concept",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "dak",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "zoon",
-    "size": 4
+    "text": "luc",
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "den",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "company",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "restauratie",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "pieter",
-    "size": 4
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "interieur",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "regio",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "jacques",
-    "size": 4
+    "text": "bart",
+    "size": 4,
+    "category": "voornaam man"
+  },
+  {
+    "text": "marc",
+    "size": 4,
+    "category": "voornaam man"
+  },
+  {
+    "text": "building",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "schrijnwerkerij",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "archeologiques",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "royal",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "domaine",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "monumentenwacht",
-    "size": 4
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "engineering",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "gent",
-    "size": 4
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "heemschut",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "david",
-    "size": 4
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "nationaal",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "provinciaal",
-    "size": 4
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "kris",
+    "size": 4,
+    "category": "voornaam"
   },
   {
     "text": "fort",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "communal",
-    "size": 4
+    "text": "constructions",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "strabag",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "archeologique",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "namur",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "hainaut",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "bouwt",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "wallonie",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "site",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "restauratiewerken",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "the",
+    "size": 3,
+    "category": "voornaam"
   },
   {
     "text": "vandenbussche",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "renovation",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "institut",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "groep",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "erik",
-    "size": 3
-  },
-  {
-    "text": "eric",
-    "size": 3
-  },
-  {
-    "text": "jardins",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "gallery",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "bruno",
-    "size": 3
-  },
-  {
-    "text": "group",
-    "size": 3
+    "text": "zoon",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "bataille",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "claude",
-    "size": 3
+    "size": 3,
+    "category": "voornaam"
   },
   {
     "text": "mrac",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "d\u0027archéologie",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "espace",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "trading",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "karel",
-    "size": 3
+    "size": 3,
+    "category": "voornaam"
   },
   {
     "text": "archeologisch",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "bezoekerscentrum",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "toitures",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "vereniging",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "simon",
-    "size": 3
-  },
-  {
-    "text": "jean",
-    "size": 3
+    "text": "solutions",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "francaise",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "menuiserie",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "jacques",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "ondernemingen",
-    "size": 3
-  },
-  {
-    "text": "wuyts",
-    "size": 3
-  },
-  {
-    "text": "belgië",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "toerisme",
-    "size": 3
-  },
-  {
-    "text": "yves",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "grand-hornu",
-    "size": 3
-  },
-  {
-    "text": "marcel",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "new",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "and",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "bois",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "huis",
-    "size": 3
-  },
-  {
-    "text": "administratif",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "royaux",
-    "size": 3
-  },
-  {
-    "text": "dedeyne",
-    "size": 3
-  },
-  {
-    "text": "steven",
-    "size": 3
-  },
-  {
-    "text": "frans",
-    "size": 3
-  },
-  {
-    "text": "willemen",
-    "size": 3
-  },
-  {
-    "text": "naert",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "compagnons",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "bruxelles",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "john",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "d\u0027archeologie",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "tradition",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "communal",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "recherches",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "bpc",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "vlaanderen",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "benelux",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "beloeil",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "xavier",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "christophe",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "generale",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "joris",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "village",
-    "size": 3
-  },
-  {
-    "text": "gerard",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "wallonne",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "moderne",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "ter",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "davy",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "abbaye",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "commission",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "archéologique",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "historiques",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "cercle",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "electro",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "société",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "artistique",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "artistes",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "beaux-arts",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "guy",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "protection",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "topfereimuseum",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "bloed",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "tom",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "walter",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "toiture",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "franchimont",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "etablissements",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "touristique",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "immo",
-    "size": 2
-  },
-  {
-    "text": "productions",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "palinckx",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "kristof",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "waterloo",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "arte",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "publique",
-    "size": 2
-  },
-  {
-    "text": "consulting",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "team",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "docx",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "center",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "thijs",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "jardins",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "studio",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "palm",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "verhaeren",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "nederlands",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "chris",
-    "size": 2
+    "text": "bruno",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "sportinfrabouw",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "prov",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "culturelle",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "travel",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "cordeel",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "gasthuis",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "gemeentebedrijf",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "ardebo",
-    "size": 2
-  },
-  {
-    "text": "general",
-    "size": 2
+    "text": "group",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "tervuren",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "demeures",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "erfgoedsite",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "infra",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "firma",
-    "size": 2
-  },
-  {
-    "text": "architecten",
-    "size": 2
-  },
-  {
-    "text": "interior",
-    "size": 2
-  },
-  {
-    "text": "bram",
-    "size": 2
+    "size": 2,
+    "category": "voornaam vrouw"
   },
   {
     "text": "gestion",
-    "size": 2
-  },
-  {
-    "text": "swertvaegher",
-    "size": 2
-  },
-  {
-    "text": "baac",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "baets",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "danny",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "cultuur",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "heilig",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "home",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "pays",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "devos",
-    "size": 2
+    "text": "mario",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "curtius",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "products",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "robert",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "wyckmans",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bert",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "vermeir",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "tuinen",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "edele",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "quality",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "naturelles",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "simon",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "geuns",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "jean",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "atomium",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bati",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "jean-luc",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "communale",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "régie",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "sauvegarde",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "maurice",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "conseil",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "wuyts",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "cvba",
+    "size": 2,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "belgië",
+    "size": 2,
+    "category": "land"
+  },
+  {
+    "text": "verbeke",
+    "size": 2,
+    "category": "ander"
   }
 ]

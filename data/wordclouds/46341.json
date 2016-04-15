@@ -1,1002 +1,1252 @@
 [
   {
     "text": "wine",
-    "size": 44
+    "size": 40,
+    "category": "voornaam"
   },
   {
     "text": "wines",
-    "size": 38
+    "size": 35,
+    "category": "ander"
   },
   {
     "text": "vins",
-    "size": 33
-  },
-  {
-    "text": "food",
-    "size": 32
+    "size": 31,
+    "category": "voornaam man"
   },
   {
     "text": "bvba",
-    "size": 32
-  },
-  {
-    "text": "consulting",
-    "size": 30
+    "size": 27,
+    "category": "rechtsvorm"
   },
   {
     "text": "vin",
-    "size": 27
+    "size": 27,
+    "category": "voornaam man"
+  },
+  {
+    "text": "consulting",
+    "size": 25,
+    "category": "ander"
   },
   {
     "text": "sprl",
-    "size": 27
-  },
-  {
-    "text": "the",
-    "size": 25
-  },
-  {
-    "text": "wijnen",
-    "size": 24
+    "size": 23,
+    "category": "rechtsvorm"
   },
   {
     "text": "vino",
-    "size": 23
+    "size": 22,
+    "category": "voornaam man"
   },
   {
-    "text": "belgium",
-    "size": 20
+    "text": "wijnen",
+    "size": 22,
+    "category": "ander"
+  },
+  {
+    "text": "the",
+    "size": 19,
+    "category": "voornaam"
+  },
+  {
+    "text": "food",
+    "size": 19,
+    "category": "ander"
   },
   {
     "text": "international",
-    "size": 19
+    "size": 18,
+    "category": "ander"
+  },
+  {
+    "text": "belgium",
+    "size": 17,
+    "category": "land"
   },
   {
     "text": "services",
-    "size": 18
-  },
-  {
-    "text": "brouwerij",
-    "size": 17
-  },
-  {
-    "text": "den",
-    "size": 16
+    "size": 16,
+    "category": "ander"
   },
   {
     "text": "group",
-    "size": 15
+    "size": 14,
+    "category": "ander"
+  },
+  {
+    "text": "den",
+    "size": 13,
+    "category": "ander"
   },
   {
     "text": "wijnhuis",
-    "size": 14
+    "size": 13,
+    "category": "ander"
   },
   {
-    "text": "belgian",
-    "size": 13
-  },
-  {
-    "text": "drinks",
-    "size": 13
-  },
-  {
-    "text": "company",
-    "size": 12
-  },
-  {
-    "text": "trading",
-    "size": 12
-  },
-  {
-    "text": "co",
-    "size": 12
-  },
-  {
-    "text": "wijn",
-    "size": 12
+    "text": "brouwerij",
+    "size": 13,
+    "category": "ander"
   },
   {
     "text": "maison",
-    "size": 11
+    "size": 11,
+    "category": "ander"
   },
   {
-    "text": "import",
-    "size": 11
+    "text": "belgian",
+    "size": 11,
+    "category": "ander"
   },
   {
-    "text": "and",
-    "size": 11
+    "text": "co",
+    "size": 11,
+    "category": "ander"
   },
   {
     "text": "cave",
-    "size": 11
+    "size": 10,
+    "category": "ander"
   },
   {
-    "text": "wijnhandel",
-    "size": 10
+    "text": "wijn",
+    "size": 10,
+    "category": "ander"
   },
   {
-    "text": "management",
-    "size": 10
-  },
-  {
-    "text": "nv",
-    "size": 10
-  },
-  {
-    "text": "distribution",
-    "size": 10
-  },
-  {
-    "text": "consult",
-    "size": 9
+    "text": "trading",
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "europe",
-    "size": 9
+    "size": 9,
+    "category": "ander"
   },
   {
-    "text": "wijndomein",
-    "size": 9
-  },
-  {
-    "text": "benelux",
-    "size": 9
-  },
-  {
-    "text": "drankenhandel",
-    "size": 8
-  },
-  {
-    "text": "solutions",
-    "size": 8
-  },
-  {
-    "text": "marc",
-    "size": 8
+    "text": "distribution",
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "brasserie",
-    "size": 8
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "business",
-    "size": 7
+    "text": "company",
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "quality",
-    "size": 7
+    "text": "wijnhandel",
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "whisky",
-    "size": 7
+    "text": "wijndomein",
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "events",
-    "size": 7
+    "text": "import",
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "circle",
-    "size": 7
+    "text": "consult",
+    "size": 7,
+    "category": "ander"
+  },
+  {
+    "text": "marc",
+    "size": 7,
+    "category": "voornaam man"
+  },
+  {
+    "text": "and",
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "casa",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "olivier",
-    "size": 7
+    "text": "drinks",
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "fresh",
-    "size": 7
+    "text": "management",
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "vinum",
-    "size": 7
+    "text": "nv",
+    "size": 7,
+    "category": "rechtsvorm"
   },
   {
-    "text": "concept",
-    "size": 6
+    "text": "benelux",
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "house",
-    "size": 6
+    "text": "drankenhandel",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "gusto",
-    "size": 6
+    "text": "events",
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "circle",
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "vof",
-    "size": 6
-  },
-  {
-    "text": "domaine",
-    "size": 6
-  },
-  {
-    "text": "domein",
-    "size": 6
-  },
-  {
-    "text": "trade",
-    "size": 6
+    "size": 6,
+    "category": "rechtsvorm"
   },
   {
     "text": "traiteur",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "saveurs",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "jan",
-    "size": 6
+    "size": 6,
+    "category": "voornaam"
   },
   {
-    "text": "vini",
-    "size": 6
+    "text": "olivier",
+    "size": 6,
+    "category": "voornaam man"
   },
   {
     "text": "drink",
-    "size": 6
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "vinum",
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "export",
-    "size": 5
-  },
-  {
-    "text": "eric",
-    "size": 5
-  },
-  {
-    "text": "invest",
-    "size": 5
-  },
-  {
-    "text": "bart",
-    "size": 5
-  },
-  {
-    "text": "by",
-    "size": 5
-  },
-  {
-    "text": "terra",
-    "size": 5
-  },
-  {
-    "text": "di",
-    "size": 5
-  },
-  {
-    "text": "el",
-    "size": 5
-  },
-  {
-    "text": "for",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "service",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "pro",
-    "size": 5
+    "text": "house",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "peter",
-    "size": 5
+    "size": 5,
+    "category": "voornaam man"
   },
   {
-    "text": "fine",
-    "size": 5
+    "text": "business",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "shop",
-    "size": 5
+    "text": "whisky",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "projects",
-    "size": 5
+    "text": "solutions",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "bart",
+    "size": 5,
+    "category": "voornaam man"
+  },
+  {
+    "text": "gusto",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "trade",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "domaine",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "vini",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "by",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "château",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "spirit",
-    "size": 4
-  },
-  {
-    "text": "bier",
-    "size": 4
-  },
-  {
-    "text": "luc",
-    "size": 4
-  },
-  {
-    "text": "sevenlemon",
-    "size": 4
-  },
-  {
-    "text": "sapori",
-    "size": 4
-  },
-  {
-    "text": "maxx",
-    "size": 4
-  },
-  {
-    "text": "bulles",
-    "size": 4
-  },
-  {
-    "text": "new",
-    "size": 4
-  },
-  {
-    "text": "transport",
-    "size": 4
-  },
-  {
-    "text": "huis",
-    "size": 4
-  },
-  {
-    "text": "market",
-    "size": 4
-  },
-  {
-    "text": "wim",
-    "size": 4
-  },
-  {
-    "text": "matters",
-    "size": 4
-  },
-  {
-    "text": "ad",
-    "size": 4
-  },
-  {
-    "text": "dirk",
-    "size": 4
-  },
-  {
-    "text": "christophe",
-    "size": 4
-  },
-  {
-    "text": "dranken",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "design",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "bistro",
-    "size": 4
+    "text": "eric",
+    "size": 4,
+    "category": "voornaam man"
+  },
+  {
+    "text": "pro",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "domein",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "luc",
+    "size": 4,
+    "category": "voornaam man"
+  },
+  {
+    "text": "sevenlemon",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "fine",
+    "size": 4,
+    "category": "voornaam vrouw"
   },
   {
     "text": "grands",
-    "size": 4
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "maxx",
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "vincent",
-    "size": 4
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "holding",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "chateau",
-    "size": 4
+    "text": "new",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "cafe",
-    "size": 4
-  },
-  {
-    "text": "taste",
-    "size": 4
-  },
-  {
-    "text": "café",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "art",
-    "size": 4
+    "size": 4,
+    "category": "voornaam man"
   },
   {
-    "text": "gouden",
-    "size": 4
+    "text": "shop",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "ad",
+    "size": 4,
+    "category": "voornaam man"
+  },
+  {
+    "text": "terra",
+    "size": 4,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "di",
+    "size": 4,
+    "category": "voornaam"
   },
   {
     "text": "bio",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "bon",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "express",
-    "size": 4
-  },
-  {
-    "text": "grapes",
-    "size": 4
-  },
-  {
-    "text": "cie",
-    "size": 3
-  },
-  {
-    "text": "dolce",
-    "size": 3
-  },
-  {
-    "text": "inter",
-    "size": 3
-  },
-  {
-    "text": "studio",
-    "size": 3
-  },
-  {
-    "text": "comptoir",
-    "size": 3
-  },
-  {
-    "text": "hotel",
-    "size": 3
-  },
-  {
-    "text": "paul",
-    "size": 3
-  },
-  {
-    "text": "club",
-    "size": 3
-  },
-  {
-    "text": "construct",
-    "size": 3
-  },
-  {
-    "text": "don",
-    "size": 3
-  },
-  {
-    "text": "ferme",
-    "size": 3
-  },
-  {
-    "text": "admin",
-    "size": 3
-  },
-  {
-    "text": "cuvee",
-    "size": 3
-  },
-  {
-    "text": "enoteca",
-    "size": 3
-  },
-  {
-    "text": "brouwers",
-    "size": 3
-  },
-  {
-    "text": "bernard",
-    "size": 3
-  },
-  {
-    "text": "italiani",
-    "size": 3
-  },
-  {
-    "text": "chocolate",
-    "size": 3
-  },
-  {
-    "text": "great",
-    "size": 3
-  },
-  {
-    "text": "chocolat",
-    "size": 3
-  },
-  {
-    "text": "pereira",
-    "size": 3
-  },
-  {
-    "text": "bierhandel",
-    "size": 3
-  },
-  {
-    "text": "steven",
-    "size": 3
-  },
-  {
-    "text": "michel",
-    "size": 3
-  },
-  {
-    "text": "consultancy",
-    "size": 3
-  },
-  {
-    "text": "smet",
-    "size": 3
-  },
-  {
-    "text": "go",
-    "size": 3
-  },
-  {
-    "text": "verlinden",
-    "size": 3
-  },
-  {
-    "text": "it",
-    "size": 3
-  },
-  {
-    "text": "hasselt",
-    "size": 3
-  },
-  {
-    "text": "li",
-    "size": 3
-  },
-  {
-    "text": "philippe",
-    "size": 3
-  },
-  {
-    "text": "délices",
-    "size": 3
-  },
-  {
-    "text": "creations",
-    "size": 3
-  },
-  {
-    "text": "gcv",
-    "size": 3
-  },
-  {
-    "text": "sales",
-    "size": 3
-  },
-  {
-    "text": "link",
-    "size": 3
+    "text": "christophe",
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "distillerie",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "blue",
-    "size": 3
+    "size": 3,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "cie",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "inter",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "dranken",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "laurent",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "concept",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "bier",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "barrel",
-    "size": 3
-  },
-  {
-    "text": "tree",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "beer",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "comptoir",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "hotel",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "paul",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "baron",
-    "size": 3
-  },
-  {
-    "text": "ranson",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "products",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "ferme",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "sapori",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "global",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "invest",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "admin",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "commerce",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "event",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "first",
-    "size": 3
+    "text": "cuvee",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "lambert",
-    "size": 3
+    "text": "enoteca",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "bulles",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "transport",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "taste",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "café",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "spirits",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "goessens",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "bernard",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "gent",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
-    "text": "peeters",
-    "size": 3
+    "text": "chocolate",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "cava",
-    "size": 3
+    "text": "great",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "wim",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "chocolat",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "pereira",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "vdhoreca",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "scs",
-    "size": 3
-  },
-  {
-    "text": "horeca",
-    "size": 3
+    "size": 3,
+    "category": "rechtsvorm"
   },
   {
     "text": "france",
-    "size": 3
+    "size": 3,
+    "category": "voornaam"
   },
   {
-    "text": "alain",
-    "size": 3
+    "text": "michel",
+    "size": 3,
+    "category": "voornaam"
+  },
+  {
+    "text": "consultancy",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "el",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "smet",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "little",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "for",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "verlinden",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "it",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "bruxelles",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "dirk",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "table",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "office",
-    "size": 3
+    "text": "hasselt",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "philippe",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "nature",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "sud",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "moulin",
-    "size": 3
+    "text": "délices",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "express",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "grapes",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "creations",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "namur",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "wheels",
-    "size": 2
+    "text": "gcv",
+    "size": 3,
+    "category": "rechtsvorm"
   },
   {
-    "text": "good",
-    "size": 2
+    "text": "sales",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "bubbles",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "dolce",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "patrick",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "champagnes",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "marius",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "rots",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "guy",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "vignobles",
-    "size": 2
-  },
-  {
-    "text": "top",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "product",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "com",
-    "size": 2
+    "text": "italian",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "goût",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "booze",
-    "size": 2
-  },
-  {
-    "text": "immo",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "kristof",
-    "size": 2
-  },
-  {
-    "text": "marketing",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "medical",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "fagnarde",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "taverne",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "tomaterie",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "studio",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "winebar",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "caves",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "wijngoed",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "creative",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "watertoren",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "italia",
-    "size": 2
+    "size": 2,
+    "category": "voornaam vrouw"
   },
   {
     "text": "das",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "logistics",
-    "size": 2
+    "text": "gilles",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "brewing",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "toscana",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "sevices",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "moniez",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "del",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bistro",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "clos",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "easy",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "willebroek",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "safran",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "impex",
-    "size": 2
-  },
-  {
-    "text": "rahim",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "bacchus",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "planet",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "bleue",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "petit",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "marie",
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "wellens",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "home",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "construct",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "gourmands",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "beverages",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "mario",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "johan",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "diffusion",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "nurse",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "brewery",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "max",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "mail",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "sabay",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "aminata",
-    "size": 2
+    "text": "berk",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
-    "text": "louis",
-    "size": 2
+    "text": "selected",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "vanclooster",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "orange",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "winkel",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "sapore",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "demeyer",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "star",
-    "size": 2
+    "text": "quality",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "christian",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "vignes",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "sommelier",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "vigne",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "atelier",
-    "size": 2
+    "text": "belgique",
+    "size": 2,
+    "category": "land"
   },
   {
     "text": "tobacco",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "brut",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "mp3",
-    "size": 2
+    "text": "boulevard",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "europa",
-    "size": 2
+    "text": "piccola",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "antoine",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "cepages",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "wijnbouw",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "zumbashop",
-    "size": 2
+    "text": "comme",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "lambert",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "petruzzi",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "maya",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "vitis",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "conseil",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "pierre",
-    "size": 2
+    "text": "belgië",
+    "size": 2,
+    "category": "land"
+  },
+  {
+    "text": "inn",
+    "size": 2,
+    "category": "voornaam vrouw"
   },
   {
     "text": "vis",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "brands",
-    "size": 2
+    "text": "placement",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "envies",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "saint",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "damme",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "yves",
-    "size": 2
+    "text": "barrique",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "pegasus",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "production",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "monsieur",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "negoce",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "chateau",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "kurt",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "wijnplaza",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "martin",
-    "size": 2
+    "text": "royal",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "tour",
-    "size": 2
+    "text": "brouwer",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "caulier",
-    "size": 2
+    "text": "glowa",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "engineering",
-    "size": 2
+    "text": "brouwers",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "central",
-    "size": 2
+    "text": "exclusive",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "green",
-    "size": 2
+    "text": "fruits",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "logistic",
-    "size": 2
-  },
-  {
-    "text": "champagnothéque",
-    "size": 2
+    "text": "are",
+    "size": 2,
+    "category": "ander"
   }
 ]

@@ -1,1002 +1,1252 @@
 [
   {
     "text": "hotel",
-    "size": 87
-  },
-  {
-    "text": "bvba",
-    "size": 39
+    "size": 80,
+    "category": "ander"
   },
   {
     "text": "residence",
-    "size": 38
+    "size": 38,
+    "category": "ander"
   },
   {
     "text": "ferme",
-    "size": 38
+    "size": 37,
+    "category": "ander"
   },
   {
     "text": "bed",
-    "size": 33
+    "size": 32,
+    "category": "ander"
   },
   {
-    "text": "the",
-    "size": 28
+    "text": "bvba",
+    "size": 28,
+    "category": "rechtsvorm"
   },
   {
     "text": "breakfast",
-    "size": 28
-  },
-  {
-    "text": "camping",
-    "size": 24
+    "size": 28,
+    "category": "ander"
   },
   {
     "text": "ter",
-    "size": 22
+    "size": 21,
+    "category": "ander"
   },
   {
-    "text": "services",
-    "size": 21
-  },
-  {
-    "text": "villa",
-    "size": 21
+    "text": "the",
+    "size": 20,
+    "category": "voornaam"
   },
   {
     "text": "hof",
-    "size": 20
+    "size": 20,
+    "category": "ander"
+  },
+  {
+    "text": "camping",
+    "size": 19,
+    "category": "ander"
+  },
+  {
+    "text": "villa",
+    "size": 19,
+    "category": "ander"
   },
   {
     "text": "moulin",
-    "size": 20
+    "size": 19,
+    "category": "ander"
+  },
+  {
+    "text": "services",
+    "size": 18,
+    "category": "ander"
   },
   {
     "text": "maison",
-    "size": 18
+    "size": 17,
+    "category": "ander"
   },
   {
     "text": "and",
-    "size": 17
+    "size": 14,
+    "category": "ander"
   },
   {
     "text": "den",
-    "size": 15
-  },
-  {
-    "text": "home",
-    "size": 15
-  },
-  {
-    "text": "huis",
-    "size": 14
+    "size": 13,
+    "category": "ander"
   },
   {
     "text": "hoeve",
-    "size": 14
+    "size": 13,
+    "category": "ander"
   },
   {
-    "text": "sprl",
-    "size": 14
+    "text": "home",
+    "size": 13,
+    "category": "ander"
   },
   {
     "text": "chateau",
-    "size": 13
+    "size": 13,
+    "category": "ander"
   },
   {
     "text": "vieux",
-    "size": 13
+    "size": 13,
+    "category": "ander"
   },
   {
     "text": "restaurant",
-    "size": 13
+    "size": 13,
+    "category": "ander"
+  },
+  {
+    "text": "huis",
+    "size": 12,
+    "category": "ander"
   },
   {
     "text": "nv",
-    "size": 12
-  },
-  {
-    "text": "consulting",
-    "size": 12
+    "size": 11,
+    "category": "rechtsvorm"
   },
   {
     "text": "consult",
-    "size": 11
-  },
-  {
-    "text": "domaine",
-    "size": 11
-  },
-  {
-    "text": "management",
-    "size": 10
+    "size": 10,
+    "category": "ander"
   },
   {
     "text": "philippe",
-    "size": 10
+    "size": 10,
+    "category": "voornaam man"
   },
   {
-    "text": "patrick",
-    "size": 9
+    "text": "sprl",
+    "size": 10,
+    "category": "rechtsvorm"
   },
   {
-    "text": "house",
-    "size": 9
-  },
-  {
-    "text": "grand",
-    "size": 9
-  },
-  {
-    "text": "relais",
-    "size": 9
+    "text": "domaine",
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "auberge",
-    "size": 9
+    "size": 9,
+    "category": "ander"
   },
   {
-    "text": "petit",
-    "size": 9
+    "text": "grand",
+    "size": 8,
+    "category": "ander"
+  },
+  {
+    "text": "relais",
+    "size": 8,
+    "category": "ander"
   },
   {
     "text": "michel",
-    "size": 8
+    "size": 8,
+    "category": "voornaam"
   },
   {
-    "text": "chez",
-    "size": 8
+    "text": "petit",
+    "size": 8,
+    "category": "voornaam man"
   },
   {
     "text": "marie",
-    "size": 8
-  },
-  {
-    "text": "klein",
-    "size": 8
+    "size": 8,
+    "category": "voornaam"
   },
   {
     "text": "concept",
-    "size": 7
+    "size": 7,
+    "category": "ander"
+  },
+  {
+    "text": "house",
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "studio",
-    "size": 7
-  },
-  {
-    "text": "invest",
-    "size": 7
-  },
-  {
-    "text": "marc",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "cottage",
-    "size": 7
-  },
-  {
-    "text": "jardin",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "gite",
-    "size": 7
+    "size": 7,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "guesthouse",
-    "size": 7
+    "text": "klein",
+    "size": 7,
+    "category": "ander"
+  },
+  {
+    "text": "patrick",
+    "size": 6,
+    "category": "voornaam man"
   },
   {
     "text": "centre",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "business",
-    "size": 6
+    "text": "invest",
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "marc",
+    "size": 6,
+    "category": "voornaam man"
   },
   {
     "text": "pierre",
-    "size": 6
-  },
-  {
-    "text": "co",
-    "size": 6
-  },
-  {
-    "text": "ii",
-    "size": 6
-  },
-  {
-    "text": "proficient",
-    "size": 6
+    "size": 6,
+    "category": "voornaam"
   },
   {
     "text": "belle",
-    "size": 6
-  },
-  {
-    "text": "guy",
-    "size": 6
+    "size": 6,
+    "category": "voornaam vrouw"
   },
   {
     "text": "events",
-    "size": 6
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "consulting",
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "chez",
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "jean",
-    "size": 6
+    "size": 6,
+    "category": "voornaam"
+  },
+  {
+    "text": "guesthouse",
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "saint",
-    "size": 6
-  },
-  {
-    "text": "oude",
-    "size": 6
+    "size": 6,
+    "category": "voornaam man"
   },
   {
     "text": "l\u0027auberge",
-    "size": 6
-  },
-  {
-    "text": "jan",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "hostellerie",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "gasthof",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "taverne",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "ecuries",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "caroline",
-    "size": 5
+    "size": 5,
+    "category": "voornaam vrouw"
   },
   {
     "text": "val",
-    "size": 5
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "co",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "terre",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "hilde",
-    "size": 5
-  },
-  {
-    "text": "dirk",
-    "size": 5
+    "text": "management",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "bleu",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "cote",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "blue",
-    "size": 5
-  },
-  {
-    "text": "grote",
-    "size": 5
-  },
-  {
-    "text": "brasserie",
-    "size": 5
+    "size": 5,
+    "category": "voornaam vrouw"
   },
   {
     "text": "huyze",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "gites",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "rouge",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "cafe",
-    "size": 5
-  },
-  {
-    "text": "ann",
-    "size": 5
-  },
-  {
-    "text": "art",
-    "size": 5
+    "text": "oude",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "casa",
-    "size": 5
-  },
-  {
-    "text": "projects",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "bon",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "golf",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "immo",
-    "size": 4
-  },
-  {
-    "text": "geert",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "eric",
-    "size": 4
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "vlies",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "center",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "gîtes",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "parc",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "park",
-    "size": 4
-  },
-  {
-    "text": "paul",
-    "size": 4
+    "text": "business",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "vakantiewoning",
-    "size": 4
-  },
-  {
-    "text": "maan",
-    "size": 4
-  },
-  {
-    "text": "outdoor",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "winning",
-    "size": 4
-  },
-  {
-    "text": "bart",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "damme",
-    "size": 4
-  },
-  {
-    "text": "linde",
-    "size": 4
-  },
-  {
-    "text": "belgium",
-    "size": 4
-  },
-  {
-    "text": "new",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "vzw",
-    "size": 4
+    "size": 4,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "jardin",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "gastenverblijf",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "flanders",
-    "size": 4
+    "text": "ii",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "manoir",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "st",
-    "size": 4
-  },
-  {
-    "text": "nicolas",
-    "size": 4
-  },
-  {
-    "text": "oud",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "witte",
-    "size": 4
-  },
-  {
-    "text": "roses",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "cosy",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "huize",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "service",
-    "size": 4
+    "text": "guy",
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "pkl",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "gastenkamers",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "domein",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "garden",
-    "size": 4
-  },
-  {
-    "text": "beau",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "group",
-    "size": 4
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "grote",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "brasserie",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "repos",
-    "size": 4
-  },
-  {
-    "text": "zon",
-    "size": 4
-  },
-  {
-    "text": "farm",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "pont",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "haras",
-    "size": 4
+    "text": "cafe",
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "resto",
-    "size": 4
+    "text": "ann",
+    "size": 4,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "royal",
-    "size": 4
-  },
-  {
-    "text": "taste",
-    "size": 4
+    "text": "jan",
+    "size": 4,
+    "category": "voornaam"
   },
   {
     "text": "castel",
-    "size": 4
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "art",
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "partners",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "astrid",
-    "size": 4
+    "size": 4,
+    "category": "voornaam vrouw"
   },
   {
     "text": "little",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "château",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "gîte",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "ranch",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "deux",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "place",
-    "size": 4
-  },
-  {
-    "text": "freddy",
-    "size": 3
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "mathieu",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "atlas",
-    "size": 3
-  },
-  {
-    "text": "marketing",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "kasteel",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "source",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "gallery",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "ecurie",
-    "size": 3
+    "text": "park",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "clos",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "club",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "dominique",
-    "size": 3
+    "size": 3,
+    "category": "voornaam"
   },
   {
     "text": "company",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "pays",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "chalet",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "tourelle",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "lefevre",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "outdoor",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "lodge",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "herberg",
-    "size": 3
-  },
-  {
-    "text": "project",
-    "size": 3
-  },
-  {
-    "text": "solutions",
-    "size": 3
+    "text": "bart",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "verbeke",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "yves",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
-    "text": "agro",
-    "size": 3
+    "text": "linde",
+    "size": 3,
+    "category": "voornaam vrouw"
   },
   {
     "text": "vue",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "joseph",
-    "size": 3
+    "text": "belgium",
+    "size": 3,
+    "category": "land"
+  },
+  {
+    "text": "new",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "l\u0027eau",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "bernard",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "poort",
-    "size": 3
-  },
-  {
-    "text": "frituur",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "isabelle",
-    "size": 3
+    "size": 3,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "consultancy",
-    "size": 3
+    "text": "hilde",
+    "size": 3,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "flanders",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "terroir",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "sauna",
-    "size": 3
-  },
-  {
-    "text": "zwarte",
-    "size": 3
+    "text": "dirk",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "one",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "hindryckx",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "joint",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "bruges",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "domus",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "oud",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "roses",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "nord",
-    "size": 3
-  },
-  {
-    "text": "hostel",
-    "size": 3
-  },
-  {
-    "text": "costa",
-    "size": 3
-  },
-  {
-    "text": "joris",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "factory",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "with",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "service",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "chambre",
-    "size": 3
-  },
-  {
-    "text": "koen",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "fruit",
-    "size": 3
-  },
-  {
-    "text": "design",
-    "size": 3
-  },
-  {
-    "text": "sabine",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "jardins",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "time",
-    "size": 3
-  },
-  {
-    "text": "bistro",
-    "size": 3
-  },
-  {
-    "text": "marleen",
-    "size": 3
-  },
-  {
-    "text": "peter",
-    "size": 3
+    "text": "beau",
+    "size": 3,
+    "category": "voornaam"
   },
   {
     "text": "gulden",
-    "size": 3
+    "size": 3,
+    "category": "voornaam vrouw"
   },
   {
     "text": "zoete",
-    "size": 3
-  },
-  {
-    "text": "boucherie",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "d\u0027hotes",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "d\u0027or",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "robert",
-    "size": 3
-  },
-  {
-    "text": "gourmet",
-    "size": 3
-  },
-  {
-    "text": "zee",
-    "size": 3
-  },
-  {
-    "text": "grange",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "agency",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "guzo",
-    "size": 3
+    "text": "zon",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "saveurs",
-    "size": 3
+    "text": "farm",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "haras",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "resto",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "royal",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "sejour",
-    "size": 3
-  },
-  {
-    "text": "café",
-    "size": 3
-  },
-  {
-    "text": "patricia",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "elevage",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "vayamundo",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "petite",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "scs",
-    "size": 3
+    "text": "projects",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "rooms",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "tilleuls",
-    "size": 3
-  },
-  {
-    "text": "kasteelhoeve",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "sources",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "claeys",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "table",
-    "size": 3
-  },
-  {
-    "text": "spa",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "ontbijt",
-    "size": 3
-  },
-  {
-    "text": "nature",
-    "size": 3
-  },
-  {
-    "text": "hill",
-    "size": 3
-  },
-  {
-    "text": "rivage",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "ardenne",
-    "size": 3
-  },
-  {
-    "text": "albert",
-    "size": 3
-  },
-  {
-    "text": "village",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "trois",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "boxus",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "gold",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "orchidee",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "fagnes",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "sans",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "jeanne",
-    "size": 2
+    "size": 2,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "room",
-    "size": 2
+    "text": "freddy",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "rietgors",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "pili",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "jozef",
-    "size": 2
-  },
-  {
-    "text": "tom",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "adagio",
-    "size": 2
-  },
-  {
-    "text": "rose",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "con",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "lac",
-    "size": 2
-  },
-  {
-    "text": "adventure",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "minne",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
-    "text": "landschoot",
-    "size": 2
+    "text": "geert",
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "creation",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "clocher",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "anke",
-    "size": 2
+    "size": 2,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "insurance",
-    "size": 2
+    "text": "marketing",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "anne",
-    "size": 2
+    "text": "pain",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "l\u0027arche",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "part",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "desmedt",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "ecurie",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "comptoir",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "paul",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "pasteur",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "presbytère",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "thomas",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "maan",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "baert",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "louise",
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "loft",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "p\u0027tit",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "seniorie",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bron",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "nieuwe",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "cvba-vso",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "wenceslas",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "project",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "solutions",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "l\u0027aisne",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "coventis",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "simoen",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "tempelhof",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "lotus",
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "eco",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "ailleurs",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "anders",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "vie",
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "equestre",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "sweet",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "els",
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "agro",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "kurt",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "logis",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bureau",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "arnould",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "joseph",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "véronique",
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "martin",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "etienne",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "yannick",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "nest",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "janssens",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "cocoon",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "fields",
+    "size": 2,
+    "category": "ander"
   }
 ]

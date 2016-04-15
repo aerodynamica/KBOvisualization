@@ -1,1002 +1,1252 @@
 [
   {
     "text": "invest",
-    "size": 15
-  },
-  {
-    "text": "management",
-    "size": 12
-  },
-  {
-    "text": "fund",
-    "size": 12
+    "size": 12,
+    "category": "ander"
   },
   {
     "text": "bvba",
-    "size": 11
+    "size": 10,
+    "category": "rechtsvorm"
   },
   {
     "text": "investment",
-    "size": 10
+    "size": 9,
+    "category": "ander"
   },
   {
-    "text": "gimv",
-    "size": 10
+    "text": "management",
+    "size": 9,
+    "category": "ander"
+  },
+  {
+    "text": "fund",
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "consulting",
-    "size": 10
-  },
-  {
-    "text": "adviesbeheer",
-    "size": 10
-  },
-  {
-    "text": "investments",
-    "size": 7
-  },
-  {
-    "text": "capital",
-    "size": 7
+    "size": 8,
+    "category": "ander"
   },
   {
     "text": "finance",
-    "size": 7
-  },
-  {
-    "text": "consult",
-    "size": 7
-  },
-  {
-    "text": "group",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "sprl",
-    "size": 6
+    "size": 6,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "capital",
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "belgium",
-    "size": 6
+    "size": 6,
+    "category": "land"
   },
   {
     "text": "fortis",
-    "size": 6
-  },
-  {
-    "text": "zakenkantoor",
-    "size": 5
-  },
-  {
-    "text": "2016",
-    "size": 5
-  },
-  {
-    "text": "2013",
-    "size": 5
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "international",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "beheer",
-    "size": 5
-  },
-  {
-    "text": "holding",
-    "size": 5
+    "text": "consult",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "fix",
-    "size": 4
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "investments",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "finances",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "services",
-    "size": 4
-  },
-  {
-    "text": "partners",
-    "size": 4
+    "text": "zakenkantoor",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "centea",
-    "size": 4
-  },
-  {
-    "text": "bv",
-    "size": 3
-  },
-  {
-    "text": "gestion",
-    "size": 3
-  },
-  {
-    "text": "ii",
-    "size": 3
-  },
-  {
-    "text": "health",
-    "size": 3
-  },
-  {
-    "text": "industries",
-    "size": 3
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "bureau",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "bnp",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "financial",
-    "size": 3
+    "text": "services",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "immo",
-    "size": 3
-  },
-  {
-    "text": "bank",
-    "size": 3
-  },
-  {
-    "text": "janssens",
-    "size": 3
+    "text": "partners",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "bart",
-    "size": 3
-  },
-  {
-    "text": "comm",
-    "size": 3
-  },
-  {
-    "text": "care",
-    "size": 3
-  },
-  {
-    "text": "smart",
-    "size": 3
-  },
-  {
-    "text": "crelan",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "kantoor",
-    "size": 3
-  },
-  {
-    "text": "asset",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "paribas",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "group",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "argenta",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "jos",
-    "size": 3
-  },
-  {
-    "text": "stijn",
-    "size": 3
+    "text": "holding",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "pool",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "sustainable",
-    "size": 2
+    "text": "gestion",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "litt",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "france",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "2006",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "assurances",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "agentschap",
-    "size": 2
+    "text": "ii",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "assurantia",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "johan",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "world",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "top",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "communication",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "joost",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
-    "text": "cities",
-    "size": 2
-  },
-  {
-    "text": "nv",
-    "size": 2
+    "text": "financial",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "credits",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "consumer",
-    "size": 2
-  },
-  {
-    "text": "b.v",
-    "size": 2
+    "text": "beheer",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "sri",
-    "size": 2
+    "size": 2,
+    "category": "voornaam vrouw"
   },
   {
     "text": "kbc",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "immo",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "conseils",
-    "size": 2
-  },
-  {
-    "text": "buro",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "beobank",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "quality",
-    "size": 2
+    "text": "bank",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "global",
-    "size": 2
-  },
-  {
-    "text": "eventime",
-    "size": 2
-  },
-  {
-    "text": "va",
-    "size": 2
-  },
-  {
-    "text": "consultants",
-    "size": 2
-  },
-  {
-    "text": "verzekeringen",
-    "size": 2
-  },
-  {
-    "text": "bouwwerken",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "europe",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "vendis",
-    "size": 2
-  },
-  {
-    "text": "vectis",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "square",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "multi-asset",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "ing",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "limited",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "cools",
-    "size": 2
-  },
-  {
-    "text": "porrez",
-    "size": 1
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "f.a.celen",
-    "size": 1
-  },
-  {
-    "text": "novi",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "nys",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "meyfroodt",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "opbrouck-nys",
-    "size": 1
-  },
-  {
-    "text": "leasinvest",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "equity",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "fintech",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "branch",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "st\u0027art",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "fond",
-    "size": 1
+    "size": 1,
+    "category": "rechtsvorm"
   },
   {
     "text": "w.a.-iii-participatie",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "dental",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "raf",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "fimabi",
-    "size": 1
-  },
-  {
-    "text": "record",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pigas",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "lloyd",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "calicis",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "redico",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "brion",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "caisse",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "fremicom",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "festival",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "assurfinances",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "heine",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "venture",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "dourte",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "beda",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "dfs",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "planning",
-    "size": 1
-  },
-  {
-    "text": "jolar",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "consultingkantoor",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "exposure",
-    "size": 1
-  },
-  {
-    "text": "triple",
-    "size": 1
-  },
-  {
-    "text": "left",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "truncus",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "asch",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "edi-fis",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tierry",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "aaa",
-    "size": 1
-  },
-  {
-    "text": "bc",
-    "size": 1
-  },
-  {
-    "text": "gimv-agri+",
-    "size": 1
-  },
-  {
-    "text": "makibali",
-    "size": 1
-  },
-  {
-    "text": "commodities",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cleantech",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mijndrukkerij.be",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "belmont",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bontegem",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "lendit",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "crédit",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bv",
+    "size": 1,
+    "category": "rechtsvorm"
   },
   {
     "text": "systems",
-    "size": 1
-  },
-  {
-    "text": "peter",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "holgersson",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mitrimmo",
-    "size": 1
-  },
-  {
-    "text": "buysse",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cb",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "caminco",
-    "size": 1
-  },
-  {
-    "text": "sainte",
-    "size": 1
-  },
-  {
-    "text": "acer",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "financiers",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "imat",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "co",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "madiska",
-    "size": 1
-  },
-  {
-    "text": "trials",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "visc",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "finco",
-    "size": 1
-  },
-  {
-    "text": "biergerie",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "lease",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "desert",
-    "size": 1
-  },
-  {
-    "text": "juno",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "rdt",
-    "size": 1
-  },
-  {
-    "text": "dg",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cynthia",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "liegeoise",
-    "size": 1
-  },
-  {
-    "text": "gunter",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "giaccone",
-    "size": 1
-  },
-  {
-    "text": "babel-labo",
-    "size": 1
-  },
-  {
-    "text": "arkiv",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "labbe",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "andace",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "agence",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "blackrock",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "act",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "campen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "banque",
-    "size": 1
-  },
-  {
-    "text": "baets",
-    "size": 1
-  },
-  {
-    "text": "jvi",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "aperio",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "atic",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "image",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "consultancy",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "risque",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "rex",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "heindryckx",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "européen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "verlee",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "k-immo",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "piedboeuf",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "capricorn",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "consulting/xbs",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "empc",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "flamand",
-    "size": 1
-  },
-  {
-    "text": "raatshoven",
-    "size": 1
-  },
-  {
-    "text": "smet",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "washington",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "cie",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "soboge",
-    "size": 1
-  },
-  {
-    "text": "sonja",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "private",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vnz",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ebvba",
-    "size": 1
+    "size": 1,
+    "category": "rechtsvorm"
   },
   {
     "text": "halcyon",
-    "size": 1
-  },
-  {
-    "text": "schilderwerken",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "2011",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "fp",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vof",
-    "size": 1
+    "size": 1,
+    "category": "rechtsvorm"
   },
   {
     "text": "ethias",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "hendrix",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "2009",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "financière",
-    "size": 1
-  },
-  {
-    "text": "olivier",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "2007",
-    "size": 1
-  },
-  {
-    "text": "alpha",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "smetco",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "patrick",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "company",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "thomas",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "bhe",
-    "size": 1
-  },
-  {
-    "text": "deschepper",
-    "size": 1
-  },
-  {
-    "text": "gucht",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ivo",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "asia",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "anjo-invest",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gp",
-    "size": 1
-  },
-  {
-    "text": "2020",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "reflex",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bhs",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "novic",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "societe",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "alexandru",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "gw",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gooi",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "frademco",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "arlon",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "dmc",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "hl",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "eon",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "futurum",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "financeurope-sj",
-    "size": 1
-  },
-  {
-    "text": "interpack",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "d\u0027energie",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "riet",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "property",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "hick",
-    "size": 1
-  },
-  {
-    "text": "motrading",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "voconstruct",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "watercrest",
-    "size": 1
-  },
-  {
-    "text": "lerofin",
-    "size": 1
-  },
-  {
-    "text": "rotselaar",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "milaya",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "daenen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "troonplaats",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "montagebedrijf",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "inter",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "intel",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "xix-invest",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "aroon",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "omnis",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sogepi",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pascale",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "cmm",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "furnemont",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "univel",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "globis",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dirk",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "laundry",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "stéphane",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "libra",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "luxembourg",
+    "size": 1,
+    "category": "land"
+  },
+  {
+    "text": "maeckelbergh",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hayot",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "kn",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "weert",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "damier",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "health",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hasselt",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "assurrlg",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "elti",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "kretashop",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lb",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bmb",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "louise",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "industries",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "kust",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dungen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "edenadvies",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fannoy",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fine",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "morgan",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "elias",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "west",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "aedbf-belgium",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "all",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "new",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "cpp",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "v-bio",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ambiecie",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hemelaere",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "brass",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "philippe",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "choquet",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "chick",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "nv/sa",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "laplace",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "spechim",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "foxx",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "franklin",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "nv",
+    "size": 1,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "incofin",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "breath",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "managementsservices",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "transform",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vermeulen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "and",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "luxfina",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pire",
+    "size": 1,
+    "category": "ander"
   }
 ]

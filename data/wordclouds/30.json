@@ -1,1002 +1,1252 @@
 [
   {
     "text": "bvba",
-    "size": 105
-  },
-  {
-    "text": "services",
-    "size": 64
-  },
-  {
-    "text": "solutions",
-    "size": 53
-  },
-  {
-    "text": "belgium",
-    "size": 53
+    "size": 54,
+    "category": "rechtsvorm"
   },
   {
     "text": "fietsen",
-    "size": 51
+    "size": 36,
+    "category": "ander"
   },
   {
     "text": "nv",
-    "size": 50
+    "size": 28,
+    "category": "rechtsvorm"
   },
   {
-    "text": "systems",
-    "size": 41
+    "text": "services",
+    "size": 26,
+    "category": "ander"
   },
   {
     "text": "service",
-    "size": 39
-  },
-  {
-    "text": "sprl",
-    "size": 38
-  },
-  {
-    "text": "consulting",
-    "size": 33
-  },
-  {
-    "text": "engineering",
-    "size": 29
-  },
-  {
-    "text": "bike",
-    "size": 26
-  },
-  {
-    "text": "bikes",
-    "size": 24
-  },
-  {
-    "text": "center",
-    "size": 22
+    "size": 25,
+    "category": "ander"
   },
   {
     "text": "aviation",
-    "size": 22
+    "size": 20,
+    "category": "ander"
+  },
+  {
+    "text": "bike",
+    "size": 19,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "belgium",
+    "size": 19,
+    "category": "land"
+  },
+  {
+    "text": "bikes",
+    "size": 19,
+    "category": "ander"
   },
   {
     "text": "garage",
-    "size": 21
-  },
-  {
-    "text": "computer",
-    "size": 20
-  },
-  {
-    "text": "europe",
-    "size": 19
-  },
-  {
-    "text": "international",
-    "size": 19
+    "size": 18,
+    "category": "ander"
   },
   {
     "text": "technics",
-    "size": 18
+    "size": 15,
+    "category": "ander"
   },
   {
-    "text": "consult",
-    "size": 18
+    "text": "center",
+    "size": 14,
+    "category": "ander"
   },
   {
-    "text": "it",
-    "size": 18
-  },
-  {
-    "text": "pc",
-    "size": 18
-  },
-  {
-    "text": "computers",
-    "size": 16
-  },
-  {
-    "text": "group",
-    "size": 16
-  },
-  {
-    "text": "informatique",
-    "size": 15
+    "text": "engineering",
+    "size": 14,
+    "category": "ander"
   },
   {
     "text": "marine",
-    "size": 14
+    "size": 13,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "software",
-    "size": 13
-  },
-  {
-    "text": "the",
-    "size": 12
-  },
-  {
-    "text": "concept",
-    "size": 12
-  },
-  {
-    "text": "den",
-    "size": 12
-  },
-  {
-    "text": "company",
-    "size": 12
-  },
-  {
-    "text": "construct",
-    "size": 12
+    "text": "europe",
+    "size": 13,
+    "category": "ander"
   },
   {
     "text": "schilderwerken",
-    "size": 12
+    "size": 11,
+    "category": "ander"
   },
   {
-    "text": "projects",
-    "size": 12
-  },
-  {
-    "text": "peter",
-    "size": 11
-  },
-  {
-    "text": "technology",
-    "size": 11
-  },
-  {
-    "text": "patrick",
-    "size": 10
-  },
-  {
-    "text": "electronics",
-    "size": 10
-  },
-  {
-    "text": "wim",
-    "size": 10
-  },
-  {
-    "text": "co",
-    "size": 10
-  },
-  {
-    "text": "design",
-    "size": 10
-  },
-  {
-    "text": "repair",
-    "size": 10
-  },
-  {
-    "text": "and",
-    "size": 10
-  },
-  {
-    "text": "shop",
-    "size": 10
+    "text": "company",
+    "size": 10,
+    "category": "ander"
   },
   {
     "text": "wheels",
-    "size": 9
+    "size": 9,
+    "category": "ander"
+  },
+  {
+    "text": "design",
+    "size": 9,
+    "category": "ander"
+  },
+  {
+    "text": "consulting",
+    "size": 9,
+    "category": "ander"
+  },
+  {
+    "text": "group",
+    "size": 9,
+    "category": "ander"
+  },
+  {
+    "text": "den",
+    "size": 9,
+    "category": "ander"
+  },
+  {
+    "text": "construct",
+    "size": 9,
+    "category": "ander"
+  },
+  {
+    "text": "solutions",
+    "size": 9,
+    "category": "ander"
+  },
+  {
+    "text": "repair",
+    "size": 9,
+    "category": "ander"
+  },
+  {
+    "text": "sprl",
+    "size": 9,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "patrick",
+    "size": 8,
+    "category": "voornaam man"
   },
   {
     "text": "sport",
-    "size": 9
+    "size": 8,
+    "category": "ander"
+  },
+  {
+    "text": "international",
+    "size": 8,
+    "category": "ander"
   },
   {
     "text": "bart",
-    "size": 9
-  },
-  {
-    "text": "consultancy",
-    "size": 9
-  },
-  {
-    "text": "aircraft",
-    "size": 9
+    "size": 8,
+    "category": "voornaam man"
   },
   {
     "text": "jan",
-    "size": 9
+    "size": 8,
+    "category": "voornaam"
   },
   {
-    "text": "works",
-    "size": 9
+    "text": "shop",
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "racing",
-    "size": 9
+    "text": "the",
+    "size": 7,
+    "category": "voornaam"
   },
   {
-    "text": "business",
-    "size": 8
+    "text": "aircraft",
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "media",
-    "size": 8
-  },
-  {
-    "text": "transport",
-    "size": 8
-  },
-  {
-    "text": "air",
-    "size": 8
-  },
-  {
-    "text": "delta",
-    "size": 8
-  },
-  {
-    "text": "algemene",
-    "size": 7
-  },
-  {
-    "text": "kristof",
-    "size": 7
-  },
-  {
-    "text": "antwerp",
-    "size": 7
-  },
-  {
-    "text": "atelier",
-    "size": 7
-  },
-  {
-    "text": "green",
-    "size": 7
-  },
-  {
-    "text": "management",
-    "size": 7
-  },
-  {
-    "text": "data",
-    "size": 7
-  },
-  {
-    "text": "global",
-    "size": 7
+    "text": "peter",
+    "size": 7,
+    "category": "voornaam man"
   },
   {
     "text": "motors",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "all",
-    "size": 7
+    "text": "air",
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "yachting",
-    "size": 7
+    "text": "transport",
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "aero",
-    "size": 6
+    "text": "wim",
+    "size": 7,
+    "category": "voornaam man"
   },
   {
-    "text": "maintenance",
-    "size": 6
-  },
-  {
-    "text": "tech",
-    "size": 6
-  },
-  {
-    "text": "3d",
-    "size": 6
-  },
-  {
-    "text": "marc",
-    "size": 6
-  },
-  {
-    "text": "velo",
-    "size": 6
-  },
-  {
-    "text": "digital",
-    "size": 6
-  },
-  {
-    "text": "stefaan",
-    "size": 6
+    "text": "racing",
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "société",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "koen",
-    "size": 6
+    "text": "aero",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "planet",
-    "size": 6
+    "text": "antwerp",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "bert",
-    "size": 6
-  },
-  {
-    "text": "jean",
-    "size": 6
-  },
-  {
-    "text": "pascal",
-    "size": 6
+    "text": "concept",
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "chartering",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "d\u0027exploitation",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "benelux",
-    "size": 6
+    "text": "projects",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "automation",
-    "size": 5
+    "text": "yachting",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "geert",
-    "size": 5
-  },
-  {
-    "text": "studio",
-    "size": 5
-  },
-  {
-    "text": "johan",
-    "size": 5
-  },
-  {
-    "text": "quality",
-    "size": 5
-  },
-  {
-    "text": "logic",
-    "size": 5
-  },
-  {
-    "text": "new",
-    "size": 5
-  },
-  {
-    "text": "web",
-    "size": 5
-  },
-  {
-    "text": "rail",
-    "size": 5
-  },
-  {
-    "text": "diving",
-    "size": 5
-  },
-  {
-    "text": "communication",
-    "size": 5
-  },
-  {
-    "text": "thierry",
-    "size": 5
-  },
-  {
-    "text": "support",
-    "size": 5
-  },
-  {
-    "text": "heli",
-    "size": 5
-  },
-  {
-    "text": "distribution",
-    "size": 5
-  },
-  {
-    "text": "christophe",
-    "size": 5
-  },
-  {
-    "text": "development",
-    "size": 5
-  },
-  {
-    "text": "security",
-    "size": 5
-  },
-  {
-    "text": "electro",
-    "size": 5
+    "text": "maintenance",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "industrie",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "bruno",
-    "size": 5
+    "text": "business",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "soft",
-    "size": 5
+    "text": "global",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "goossens",
-    "size": 5
+    "text": "and",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "solution",
-    "size": 5
+    "text": "diving",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "ict",
-    "size": 5
+    "text": "works",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "nico",
-    "size": 5
+    "text": "stefaan",
+    "size": 5,
+    "category": "voornaam man"
   },
   {
-    "text": "boat",
-    "size": 5
+    "text": "support",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "kris",
-    "size": 5
-  },
-  {
-    "text": "auto",
-    "size": 5
-  },
-  {
-    "text": "technic",
-    "size": 5
-  },
-  {
-    "text": "exell",
-    "size": 5
-  },
-  {
-    "text": "car",
-    "size": 5
-  },
-  {
-    "text": "energy",
-    "size": 4
-  },
-  {
-    "text": "tom",
-    "size": 4
-  },
-  {
-    "text": "productions",
-    "size": 4
-  },
-  {
-    "text": "team",
-    "size": 4
-  },
-  {
-    "text": "marketing",
-    "size": 4
-  },
-  {
-    "text": "eric",
-    "size": 4
-  },
-  {
-    "text": "technologies",
-    "size": 4
-  },
-  {
-    "text": "training",
-    "size": 4
-  },
-  {
-    "text": "trading",
-    "size": 4
-  },
-  {
-    "text": "invest",
-    "size": 4
-  },
-  {
-    "text": "constructies",
-    "size": 4
-  },
-  {
-    "text": "vdb",
-    "size": 4
-  },
-  {
-    "text": "technical",
-    "size": 4
-  },
-  {
-    "text": "fietsatelier",
-    "size": 4
-  },
-  {
-    "text": "kurt",
-    "size": 4
-  },
-  {
-    "text": "belgian",
-    "size": 4
-  },
-  {
-    "text": "boats",
-    "size": 4
-  },
-  {
-    "text": "dinant",
-    "size": 4
-  },
-  {
-    "text": "cv",
-    "size": 4
-  },
-  {
-    "text": "for",
-    "size": 4
-  },
-  {
-    "text": "dirk",
-    "size": 4
-  },
-  {
-    "text": "power",
-    "size": 4
-  },
-  {
-    "text": "mobile",
-    "size": 4
-  },
-  {
-    "text": "pvba",
-    "size": 4
+    "text": "heli",
+    "size": 5,
+    "category": "voornaam"
   },
   {
     "text": "autobedrijf",
-    "size": 4
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "algemene",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "geert",
+    "size": 4,
+    "category": "voornaam"
+  },
+  {
+    "text": "kristof",
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "chris",
-    "size": 4
+    "size": 4,
+    "category": "voornaam"
   },
   {
-    "text": "cofely",
-    "size": 4
+    "text": "johan",
+    "size": 4,
+    "category": "voornaam"
   },
   {
-    "text": "point",
-    "size": 4
-  },
-  {
-    "text": "trans",
-    "size": 4
-  },
-  {
-    "text": "alpha",
-    "size": 4
+    "text": "trading",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "constructie",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "assistance",
-    "size": 4
-  },
-  {
-    "text": "vincent",
-    "size": 4
-  },
-  {
-    "text": "network",
-    "size": 4
+    "text": "atelier",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "stevens",
-    "size": 4
+    "size": 4,
+    "category": "voornaam man"
   },
   {
-    "text": "martens",
-    "size": 4
+    "text": "fietsatelier",
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "fast",
-    "size": 4
+    "text": "kurt",
+    "size": 4,
+    "category": "voornaam man"
   },
   {
-    "text": "rijwielen",
-    "size": 4
+    "text": "boat",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "all",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "ship",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "mobility",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "boot",
-    "size": 4
+    "text": "boats",
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "frédéric",
-    "size": 4
+    "text": "green",
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "alain",
-    "size": 4
+    "text": "velo",
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "parts",
-    "size": 4
+    "text": "co",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "consultancy",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "olivier",
-    "size": 4
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "cycling",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "cycle",
-    "size": 4
-  },
-  {
-    "text": "office",
-    "size": 4
+    "text": "auto",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "constructions",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "carrosserie",
-    "size": 4
-  },
-  {
-    "text": "auto\u0027s",
-    "size": 4
-  },
-  {
-    "text": "xavier",
-    "size": 4
-  },
-  {
-    "text": "solid",
-    "size": 3
+    "text": "car",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "hand",
-    "size": 3
-  },
-  {
-    "text": "techniek",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "tim",
-    "size": 3
+    "size": 3,
+    "category": "voornaam"
   },
   {
-    "text": "stefan",
-    "size": 3
+    "text": "electro",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "traffic",
-    "size": 3
+    "text": "mobile",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "technique",
-    "size": 3
+    "text": "pvba",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "entertainment",
-    "size": 3
+    "text": "tom",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
-    "text": "consultants",
-    "size": 3
-  },
-  {
-    "text": "full",
-    "size": 3
-  },
-  {
-    "text": "house",
-    "size": 3
-  },
-  {
-    "text": "cornelis",
-    "size": 3
-  },
-  {
-    "text": "maison",
-    "size": 3
-  },
-  {
-    "text": "willekens",
-    "size": 3
+    "text": "cofely",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "dcc",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "ltd",
-    "size": 3
-  },
-  {
-    "text": "luc",
-    "size": 3
-  },
-  {
-    "text": "supplies",
-    "size": 3
-  },
-  {
-    "text": "karel",
-    "size": 3
-  },
-  {
-    "text": "interieur",
-    "size": 3
-  },
-  {
-    "text": "mechanics",
-    "size": 3
-  },
-  {
-    "text": "sailing",
-    "size": 3
-  },
-  {
-    "text": "vof",
-    "size": 3
-  },
-  {
-    "text": "bureau",
-    "size": 3
-  },
-  {
-    "text": "ets",
-    "size": 3
-  },
-  {
-    "text": "fabricom",
-    "size": 3
-  },
-  {
-    "text": "rederij",
-    "size": 3
-  },
-  {
-    "text": "black",
-    "size": 3
-  },
-  {
-    "text": "jurgen",
-    "size": 3
-  },
-  {
-    "text": "cycles",
-    "size": 3
-  },
-  {
-    "text": "david",
-    "size": 3
-  },
-  {
-    "text": "electric",
-    "size": 3
-  },
-  {
-    "text": "steven",
-    "size": 3
-  },
-  {
-    "text": "communications",
-    "size": 3
-  },
-  {
-    "text": "willy",
-    "size": 3
-  },
-  {
-    "text": "cp",
-    "size": 3
-  },
-  {
-    "text": "dp",
-    "size": 3
-  },
-  {
-    "text": "jc",
-    "size": 3
-  },
-  {
-    "text": "eddy",
-    "size": 3
-  },
-  {
-    "text": "vandamme",
-    "size": 3
-  },
-  {
-    "text": "plus",
-    "size": 3
-  },
-  {
-    "text": "painting",
-    "size": 3
-  },
-  {
-    "text": "sc",
-    "size": 3
-  },
-  {
-    "text": "sd",
-    "size": 3
-  },
-  {
-    "text": "one",
-    "size": 3
-  },
-  {
-    "text": "to",
-    "size": 3
-  },
-  {
-    "text": "creations",
-    "size": 3
-  },
-  {
-    "text": "frederik",
-    "size": 3
-  },
-  {
-    "text": "wilde",
-    "size": 3
-  },
-  {
-    "text": "pauwels",
-    "size": 3
-  },
-  {
-    "text": "brussels",
-    "size": 3
-  },
-  {
-    "text": "line",
-    "size": 3
-  },
-  {
-    "text": "i.t",
-    "size": 3
-  },
-  {
-    "text": "glenn",
-    "size": 3
-  },
-  {
-    "text": "flight",
-    "size": 3
-  },
-  {
-    "text": "thys",
-    "size": 3
-  },
-  {
-    "text": "with",
-    "size": 3
-  },
-  {
-    "text": "gsi",
-    "size": 3
-  },
-  {
-    "text": "ronny",
-    "size": 3
-  },
-  {
-    "text": "groep",
-    "size": 3
-  },
-  {
-    "text": "maritime",
-    "size": 3
-  },
-  {
-    "text": "light",
-    "size": 3
-  },
-  {
-    "text": "kantoor",
-    "size": 3
-  },
-  {
-    "text": "mertens",
-    "size": 3
-  },
-  {
-    "text": "infra",
-    "size": 3
-  },
-  {
-    "text": "vision",
-    "size": 3
+    "text": "planet",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "michael",
-    "size": 3
+    "size": 3,
+    "category": "voornaam"
   },
   {
-    "text": "print",
-    "size": 3
+    "text": "goossens",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "action",
-    "size": 3
+    "text": "karel",
+    "size": 3,
+    "category": "voornaam"
   },
   {
-    "text": "fils",
-    "size": 3
-  },
-  {
-    "text": "s.a",
-    "size": 3
-  },
-  {
-    "text": "pieter",
-    "size": 3
-  },
-  {
-    "text": "advies",
-    "size": 3
+    "text": "bert",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "offshore",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "decoratiewerken",
-    "size": 3
+    "text": "vincent",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "martens",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "fast",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "port",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "micro",
-    "size": 3
+    "text": "sailing",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "segers",
-    "size": 3
-  },
-  {
-    "text": "body",
-    "size": 3
+    "text": "technical",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "rob",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "fabricom",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "belgian",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "bonne",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "boot",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "dieter",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "cycles",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "rail",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "alain",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "parts",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "management",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "cycle",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "painting",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "composite",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "thierry",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "technology",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "logi-technic",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "frederik",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "distribution",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "xavier",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "power",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "development",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "motion",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "driessche",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "schroven",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "victor",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "aravis",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "glenn",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "flight",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "hans",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "mathias",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "thys",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "strukton",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "airline",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "hendrik",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "with",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "guillaume",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "ronny",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "tog",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "industries",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "etablissements",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "solitaire",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "adventure",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "aerovolare",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "productions",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "michiels",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "team",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "fashion",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "kevin",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "tech",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "maritime",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "cornelis",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "sonaca",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "light",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bruno",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "consult",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "chain",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "gardec",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "onderneming",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "ltd",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "luc",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "electronics",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "you",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "trans",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "hotel",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "landuyt",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "pauw",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "danny",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "alpha",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "buyck",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "supplies",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "restauratie",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bosch",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "solution",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "fils",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "s.a",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "dsd",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "hove",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "eynde",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "roeland",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "pieter",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "fire",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "quality",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "ultralight",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "scooters",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "lieven",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "interieur",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "3d",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "jean",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "constructies",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "hermans",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "assistance",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "speed",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "renovatiewerken",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "marc",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "mechanic",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "mor",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "stealth",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "pascal",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "foundation",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "space",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "dyck",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "herstellingen",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "belgië",
+    "size": 2,
+    "category": "land"
+  },
+  {
+    "text": "braste",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "trade",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bicycle",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "branch",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "building",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "pierre",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "vie",
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "abc",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "mechanics",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "decoratiewerken",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "acm",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "werken",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "loose",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "calamity",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "engine",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "segers",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "jane",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "city",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "longueville",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "new",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "c.p",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "ets",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "toon",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "construction",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "roy",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "nuffel",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "rijwielen",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "art",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "janssens",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "tous",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "borremans",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "huis",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "ardennes",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "niels",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "cars",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "composites",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "freedom",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bouw",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "powergrid",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "frédéric",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "vélo",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "david",
+    "size": 2,
+    "category": "voornaam man"
   }
 ]

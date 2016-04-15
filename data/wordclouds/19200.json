@@ -1,1002 +1,642 @@
 [
   {
     "text": "belgium",
-    "size": 16
-  },
-  {
-    "text": "nv",
-    "size": 12
-  },
-  {
-    "text": "bvba",
-    "size": 12
-  },
-  {
-    "text": "orthopedie",
-    "size": 11
-  },
-  {
-    "text": "sprl",
-    "size": 9
+    "size": 8,
+    "category": "land"
   },
   {
     "text": "bp",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "leather",
-    "size": 5
-  },
-  {
-    "text": "international",
-    "size": 4
-  },
-  {
-    "text": "maroquinerie",
-    "size": 4
-  },
-  {
-    "text": "sellerie",
-    "size": 4
-  },
-  {
-    "text": "energy",
-    "size": 3
-  },
-  {
-    "text": "ineos",
-    "size": 3
-  },
-  {
-    "text": "co",
-    "size": 3
-  },
-  {
-    "text": "schoenmakerij",
-    "size": 3
-  },
-  {
-    "text": "el",
-    "size": 3
-  },
-  {
-    "text": "western",
-    "size": 3
-  },
-  {
-    "text": "company",
-    "size": 3
-  },
-  {
-    "text": "cuir",
-    "size": 3
-  },
-  {
-    "text": "trading",
-    "size": 3
-  },
-  {
-    "text": "ets",
-    "size": 3
-  },
-  {
-    "text": "oil",
-    "size": 3
-  },
-  {
-    "text": "and",
-    "size": 3
-  },
-  {
-    "text": "design",
-    "size": 3
+    "text": "nv",
+    "size": 4,
+    "category": "rechtsvorm"
   },
   {
     "text": "belgian",
-    "size": 3
-  },
-  {
-    "text": "antwerpen",
-    "size": 3
-  },
-  {
-    "text": "antwerp",
-    "size": 3
-  },
-  {
-    "text": "atelier",
-    "size": 3
-  },
-  {
-    "text": "green",
-    "size": 3
-  },
-  {
-    "text": "europe",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "europa",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "centre",
-    "size": 3
+    "text": "antwerp",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "bag",
-    "size": 2
+    "text": "antwerpen",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "galerie",
-    "size": 2
-  },
-  {
-    "text": "schoenen",
-    "size": 2
-  },
-  {
-    "text": "dino\u0027s",
-    "size": 2
-  },
-  {
-    "text": "plant",
-    "size": 2
-  },
-  {
-    "text": "lubes",
-    "size": 2
-  },
-  {
-    "text": "cordonnerie",
-    "size": 2
-  },
-  {
-    "text": "the",
-    "size": 2
-  },
-  {
-    "text": "equestre",
-    "size": 2
-  },
-  {
-    "text": "blue",
-    "size": 2
-  },
-  {
-    "text": "di",
-    "size": 2
-  },
-  {
-    "text": "nathan",
-    "size": 2
-  },
-  {
-    "text": "pvba",
-    "size": 2
-  },
-  {
-    "text": "cordo",
-    "size": 2
-  },
-  {
-    "text": "diffusion",
-    "size": 2
-  },
-  {
-    "text": "spi",
-    "size": 2
-  },
-  {
-    "text": "zadelmakerij",
-    "size": 2
-  },
-  {
-    "text": "total",
-    "size": 2
-  },
-  {
-    "text": "ortho",
-    "size": 2
-  },
-  {
-    "text": "loko",
-    "size": 2
-  },
-  {
-    "text": "chemicals",
-    "size": 2
-  },
-  {
-    "text": "confection",
-    "size": 2
-  },
-  {
-    "text": "sc",
-    "size": 2
-  },
-  {
-    "text": "star",
-    "size": 2
-  },
-  {
-    "text": "fabriek",
-    "size": 2
-  },
-  {
-    "text": "fashion",
-    "size": 2
-  },
-  {
-    "text": "lederwaren",
-    "size": 2
-  },
-  {
-    "text": "solutions",
-    "size": 2
-  },
-  {
-    "text": "shop",
-    "size": 2
-  },
-  {
-    "text": "refining",
-    "size": 2
-  },
-  {
-    "text": "cordonnier",
-    "size": 2
-  },
-  {
-    "text": "technology",
-    "size": 2
-  },
-  {
-    "text": "gent",
-    "size": 2
+    "text": "energy",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "petrochemicals",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "north",
-    "size": 2
+    "text": "plant",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "lubes",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "fabriek",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "depot",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "vds",
-    "size": 2
+    "text": "solutions",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "gert",
-    "size": 2
+    "text": "refining",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "group",
-    "size": 2
+    "text": "total",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "securite",
-    "size": 2
+    "text": "oil",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "clean",
-    "size": 2
-  },
-  {
-    "text": "pelleterie",
-    "size": 1
-  },
-  {
-    "text": "lul",
-    "size": 1
-  },
-  {
-    "text": "projects",
-    "size": 1
-  },
-  {
-    "text": "sandro",
-    "size": 1
-  },
-  {
-    "text": "mauriën",
-    "size": 1
-  },
-  {
-    "text": "ion",
-    "size": 1
-  },
-  {
-    "text": "jonghe",
-    "size": 1
-  },
-  {
-    "text": "den",
-    "size": 1
-  },
-  {
-    "text": "branch",
-    "size": 1
-  },
-  {
-    "text": "interieurstyling",
-    "size": 1
-  },
-  {
-    "text": "veja",
-    "size": 1
-  },
-  {
-    "text": "bar",
-    "size": 1
-  },
-  {
-    "text": "stephane",
-    "size": 1
-  },
-  {
-    "text": "blauwe",
-    "size": 1
-  },
-  {
-    "text": "stralen",
-    "size": 1
-  },
-  {
-    "text": "manufacturing",
-    "size": 1
-  },
-  {
-    "text": "farm",
-    "size": 1
-  },
-  {
-    "text": "delsey",
-    "size": 1
-  },
-  {
-    "text": "mauritius",
-    "size": 1
-  },
-  {
-    "text": "praxair",
-    "size": 1
-  },
-  {
-    "text": "mosselman",
-    "size": 1
-  },
-  {
-    "text": "ter",
-    "size": 1
-  },
-  {
-    "text": "gebrüder",
-    "size": 1
-  },
-  {
-    "text": "ab",
-    "size": 1
-  },
-  {
-    "text": "beckbox",
-    "size": 1
-  },
-  {
-    "text": "snuffel",
-    "size": 1
-  },
-  {
-    "text": "alchemich",
-    "size": 1
-  },
-  {
-    "text": "eyckaert",
-    "size": 1
-  },
-  {
-    "text": "watine",
-    "size": 1
-  },
-  {
-    "text": "chatel-stainier",
-    "size": 1
-  },
-  {
-    "text": "geppetto",
-    "size": 1
-  },
-  {
-    "text": "kwekerij",
-    "size": 1
-  },
-  {
-    "text": "pont",
-    "size": 1
-  },
-  {
-    "text": "plastic",
-    "size": 1
-  },
-  {
-    "text": "chemical",
-    "size": 1
-  },
-  {
-    "text": "cleuren",
-    "size": 1
-  },
-  {
-    "text": "beyerley",
-    "size": 1
-  },
-  {
-    "text": "orthoprotec",
-    "size": 1
-  },
-  {
-    "text": "immortho",
-    "size": 1
-  },
-  {
-    "text": "wilgen",
-    "size": 1
-  },
-  {
-    "text": "electrion",
-    "size": 1
-  },
-  {
-    "text": "handcrafted",
-    "size": 1
-  },
-  {
-    "text": "be",
-    "size": 1
-  },
-  {
-    "text": "centrum",
-    "size": 1
-  },
-  {
-    "text": "independent",
-    "size": 1
-  },
-  {
-    "text": "upholstery",
-    "size": 1
-  },
-  {
-    "text": "c.b.a.o",
-    "size": 1
-  },
-  {
-    "text": "oleon",
-    "size": 1
-  },
-  {
-    "text": "mardi",
-    "size": 1
-  },
-  {
-    "text": "refinery",
-    "size": 1
-  },
-  {
-    "text": "orthotec",
-    "size": 1
-  },
-  {
-    "text": "sogemap",
-    "size": 1
-  },
-  {
-    "text": "cardona",
-    "size": 1
-  },
-  {
-    "text": "liniac",
-    "size": 1
-  },
-  {
-    "text": "martens",
-    "size": 1
-  },
-  {
-    "text": "mind",
-    "size": 1
-  },
-  {
-    "text": "labar",
-    "size": 1
-  },
-  {
-    "text": "watte",
-    "size": 1
-  },
-  {
-    "text": "a-t-elle",
-    "size": 1
-  },
-  {
-    "text": "abc",
-    "size": 1
-  },
-  {
-    "text": "kluber",
-    "size": 1
-  },
-  {
-    "text": "geisler",
-    "size": 1
-  },
-  {
-    "text": "femme",
-    "size": 1
-  },
-  {
-    "text": "citrusconcepts",
-    "size": 1
-  },
-  {
-    "text": "bdcom",
-    "size": 1
-  },
-  {
-    "text": "securiworks",
-    "size": 1
-  },
-  {
-    "text": "kanssas",
-    "size": 1
-  },
-  {
-    "text": "histoires",
-    "size": 1
-  },
-  {
-    "text": "iki-tsu",
-    "size": 1
-  },
-  {
-    "text": "comnamur",
-    "size": 1
-  },
-  {
-    "text": "vlindertje",
-    "size": 1
-  },
-  {
-    "text": "saddlery",
-    "size": 1
-  },
-  {
-    "text": "wivine",
-    "size": 1
-  },
-  {
-    "text": "caniconfex",
-    "size": 1
-  },
-  {
-    "text": "teirlynck",
-    "size": 1
-  },
-  {
-    "text": "cercle",
-    "size": 1
-  },
-  {
-    "text": "m-z-b",
-    "size": 1
-  },
-  {
-    "text": "vln",
-    "size": 1
-  },
-  {
-    "text": "buissonniere",
-    "size": 1
-  },
-  {
-    "text": "sweet",
-    "size": 1
-  },
-  {
-    "text": "rds",
-    "size": 1
-  },
-  {
-    "text": "ryan",
-    "size": 1
-  },
-  {
-    "text": "sourtrai",
-    "size": 1
-  },
-  {
-    "text": "belcardo",
-    "size": 1
-  },
-  {
-    "text": "straps",
-    "size": 1
-  },
-  {
-    "text": "branding",
-    "size": 1
-  },
-  {
-    "text": "devrin",
-    "size": 1
-  },
-  {
-    "text": "brigitte",
-    "size": 1
-  },
-  {
-    "text": "vanquathem",
-    "size": 1
-  },
-  {
-    "text": "intercan",
-    "size": 1
-  },
-  {
-    "text": "crisca",
-    "size": 1
-  },
-  {
-    "text": "claude",
-    "size": 1
-  },
-  {
-    "text": "dv",
-    "size": 1
-  },
-  {
-    "text": "marga",
-    "size": 1
-  },
-  {
-    "text": "sylvie",
-    "size": 1
-  },
-  {
-    "text": "club",
-    "size": 1
-  },
-  {
-    "text": "sint-sauveur",
-    "size": 1
-  },
-  {
-    "text": "strab",
-    "size": 1
-  },
-  {
-    "text": "nouvelta",
-    "size": 1
-  },
-  {
-    "text": "cabrade",
-    "size": 1
-  },
-  {
-    "text": "abes",
-    "size": 1
-  },
-  {
-    "text": "franck",
-    "size": 1
-  },
-  {
-    "text": "roma",
-    "size": 1
-  },
-  {
-    "text": "cadeurop",
-    "size": 1
-  },
-  {
-    "text": "centrale",
-    "size": 1
-  },
-  {
-    "text": "zihla",
-    "size": 1
-  },
-  {
-    "text": "fuels",
-    "size": 1
-  },
-  {
-    "text": "naaiboetiek",
-    "size": 1
-  },
-  {
-    "text": "billa",
-    "size": 1
-  },
-  {
-    "text": "els",
-    "size": 1
-  },
-  {
-    "text": "jemeppe",
-    "size": 1
-  },
-  {
-    "text": "labo",
-    "size": 1
-  },
-  {
-    "text": "w.i",
-    "size": 1
-  },
-  {
-    "text": "shell",
-    "size": 1
-  },
-  {
-    "text": "soles",
-    "size": 1
-  },
-  {
-    "text": "t-motions",
-    "size": 1
-  },
-  {
-    "text": "smet",
-    "size": 1
-  },
-  {
-    "text": "cees",
-    "size": 1
-  },
-  {
-    "text": "little",
-    "size": 1
-  },
-  {
-    "text": "scrl",
-    "size": 1
-  },
-  {
-    "text": "sources",
-    "size": 1
-  },
-  {
-    "text": "siesta",
-    "size": 1
-  },
-  {
-    "text": "united",
-    "size": 1
-  },
-  {
-    "text": "livs",
-    "size": 1
-  },
-  {
-    "text": "biochim",
-    "size": 1
-  },
-  {
-    "text": "vandenborne",
-    "size": 1
-  },
-  {
-    "text": "hoves",
-    "size": 1
-  },
-  {
-    "text": "bioro",
-    "size": 1
-  },
-  {
-    "text": "decor",
-    "size": 1
-  },
-  {
-    "text": "laet",
-    "size": 1
-  },
-  {
-    "text": "mobistar",
-    "size": 1
-  },
-  {
-    "text": "yernaux",
-    "size": 1
-  },
-  {
-    "text": "patrick",
-    "size": 1
-  },
-  {
-    "text": "maria",
-    "size": 1
-  },
-  {
-    "text": "originals",
-    "size": 1
-  },
-  {
-    "text": "sofran",
-    "size": 1
-  },
-  {
-    "text": "lefebvre",
-    "size": 1
-  },
-  {
-    "text": "heyl",
-    "size": 1
-  },
-  {
-    "text": "associes",
-    "size": 1
-  },
-  {
-    "text": "custom",
-    "size": 1
-  },
-  {
-    "text": "vander",
-    "size": 1
-  },
-  {
-    "text": "go",
-    "size": 1
-  },
-  {
-    "text": "verpol",
-    "size": 1
-  },
-  {
-    "text": "label",
-    "size": 1
-  },
-  {
-    "text": "kredietmakelaar",
-    "size": 1
-  },
-  {
-    "text": "machiels",
-    "size": 1
-  },
-  {
-    "text": "stoeterij",
-    "size": 1
-  },
-  {
-    "text": "breed",
-    "size": 1
-  },
-  {
-    "text": "special",
-    "size": 1
-  },
-  {
-    "text": "management",
-    "size": 1
-  },
-  {
-    "text": "opthopedisch",
-    "size": 1
-  },
-  {
-    "text": "reva6sous",
-    "size": 1
-  },
-  {
-    "text": "arsenics",
-    "size": 1
-  },
-  {
-    "text": "pachanca",
-    "size": 1
-  },
-  {
-    "text": "service",
-    "size": 1
-  },
-  {
-    "text": "family",
-    "size": 1
-  },
-  {
-    "text": "gift",
-    "size": 1
-  },
-  {
-    "text": "aconcha",
-    "size": 1
+    "text": "green",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "luton",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "brothers",
-    "size": 1
+    "text": "exxon",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "sanpas",
-    "size": 1
+    "text": "e-ion",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "vers",
-    "size": 1
-  },
-  {
-    "text": "cl/jp",
-    "size": 1
-  },
-  {
-    "text": "hopa",
-    "size": 1
+    "text": "sandro",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "bio",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "demeyere",
-    "size": 1
+    "text": "mol",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "construct",
-    "size": 1
+    "text": "lubrication",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "l\u0027abbaye",
-    "size": 1
+    "text": "ingenieurs",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "b\u0027s",
-    "size": 1
+    "text": "raffinaderij",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "ruitersport",
-    "size": 1
+    "text": "mobil",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "bourrellerie",
-    "size": 1
+    "text": "gent",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
-    "text": "peerd",
-    "size": 1
+    "text": "manufacturing",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "k-do",
-    "size": 1
+    "text": "beroil",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "jane",
-    "size": 1
+    "text": "chemicals",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "espace",
-    "size": 1
+    "text": "a.k",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "digisound",
-    "size": 1
+    "text": "biodiesel",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "praxair",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mosselman",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gebrüder",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "clinch",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "enrobés",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bitumen",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "corporation",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gts",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ertvelde",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "schoten",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "schepens",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lenges",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "olefins",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "kwekerij",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hydromac",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "chemical",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "quinvita",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "processing",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vbg",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hollander",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "cense",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "electrion",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ineos",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "independent",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "liege",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "north",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "js",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "oleon",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "marine",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "refinery",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "handel",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "d.b",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "europe",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "teragri",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "imbema",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "labar",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "kluber",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "proquimetal",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "christophe",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "centre",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gistel",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "co",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "4biofuels",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ascoop",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "cassochrome",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jme",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fuel",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bio-coal",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "intercan",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "smt-luko",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vls-group",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "west",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "borealis",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fina",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "petroleum",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "international",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "waste",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "greencon",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "esso",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "cleton",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "netherlands",
+    "size": 1,
+    "category": "land"
+  },
+  {
+    "text": "wegebo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fuels",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "govi",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "raak",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "p.l.concept",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "shell",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ghent",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "petroplus",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "unitank-g",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "feculerie",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "biochim",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "frix",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bioro",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "car",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "company",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "polymers",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sofran",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "universal",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tokheim",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "associes",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "oresti",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "transport",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "technology",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "terminal",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "oilco",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "luyckx",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pachanca",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "n.v",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ingeo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vriese",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "alco",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tankstorage",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "conseils",
+    "size": 1,
+    "category": "ander"
   }
 ]

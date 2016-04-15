@@ -1,1002 +1,1252 @@
 [
   {
     "text": "productions",
-    "size": 123
+    "size": 88,
+    "category": "ander"
   },
   {
     "text": "the",
-    "size": 66
-  },
-  {
-    "text": "media",
-    "size": 63
-  },
-  {
-    "text": "films",
-    "size": 50
+    "size": 53,
+    "category": "voornaam"
   },
   {
     "text": "production",
-    "size": 44
+    "size": 41,
+    "category": "ander"
   },
   {
-    "text": "bvba",
-    "size": 35
+    "text": "media",
+    "size": 41,
+    "category": "ander"
   },
   {
-    "text": "studio",
-    "size": 29
+    "text": "films",
+    "size": 40,
+    "category": "ander"
   },
   {
     "text": "sprl",
-    "size": 29
+    "size": 24,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "studio",
+    "size": 23,
+    "category": "ander"
+  },
+  {
+    "text": "bvba",
+    "size": 22,
+    "category": "rechtsvorm"
   },
   {
     "text": "video",
-    "size": 21
+    "size": 20,
+    "category": "ander"
   },
   {
     "text": "prod",
-    "size": 19
-  },
-  {
-    "text": "tv",
-    "size": 19
-  },
-  {
-    "text": "producties",
-    "size": 18
-  },
-  {
-    "text": "film",
-    "size": 18
+    "size": 18,
+    "category": "ander"
   },
   {
     "text": "design",
-    "size": 17
+    "size": 15,
+    "category": "ander"
+  },
+  {
+    "text": "film",
+    "size": 15,
+    "category": "ander"
+  },
+  {
+    "text": "tv",
+    "size": 15,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "producties",
+    "size": 14,
+    "category": "ander"
   },
   {
     "text": "consulting",
-    "size": 17
+    "size": 12,
+    "category": "ander"
   },
   {
     "text": "belgium",
-    "size": 16
-  },
-  {
-    "text": "group",
-    "size": 16
-  },
-  {
-    "text": "music",
-    "size": 15
+    "size": 12,
+    "category": "land"
   },
   {
     "text": "management",
-    "size": 14
+    "size": 12,
+    "category": "ander"
   },
   {
-    "text": "entertainment",
-    "size": 13
+    "text": "group",
+    "size": 11,
+    "category": "ander"
   },
   {
     "text": "pictures",
-    "size": 12
+    "size": 10,
+    "category": "ander"
   },
   {
-    "text": "filmfinance",
-    "size": 11
-  },
-  {
-    "text": "events",
-    "size": 11
+    "text": "music",
+    "size": 10,
+    "category": "ander"
   },
   {
     "text": "and",
-    "size": 11
-  },
-  {
-    "text": "jan",
-    "size": 11
+    "size": 10,
+    "category": "ander"
   },
   {
     "text": "be",
-    "size": 10
+    "size": 10,
+    "category": "ander"
   },
   {
     "text": "one",
-    "size": 10
+    "size": 10,
+    "category": "ander"
   },
   {
-    "text": "nicolas",
-    "size": 10
+    "text": "events",
+    "size": 9,
+    "category": "ander"
   },
   {
-    "text": "studios",
-    "size": 10
+    "text": "entertainment",
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "concept",
-    "size": 9
+    "size": 9,
+    "category": "ander"
   },
   {
-    "text": "bert",
-    "size": 9
+    "text": "jan",
+    "size": 9,
+    "category": "voornaam"
   },
   {
-    "text": "motion",
-    "size": 9
+    "text": "studios",
+    "size": 9,
+    "category": "ander"
   },
   {
-    "text": "company",
-    "size": 8
+    "text": "nicolas",
+    "size": 9,
+    "category": "voornaam man"
   },
   {
     "text": "co",
-    "size": 8
-  },
-  {
-    "text": "fly",
-    "size": 8
-  },
-  {
-    "text": "digital",
-    "size": 8
-  },
-  {
-    "text": "to",
-    "size": 8
-  },
-  {
-    "text": "sound",
-    "size": 8
-  },
-  {
-    "text": "peter",
-    "size": 8
-  },
-  {
-    "text": "photography",
-    "size": 8
-  },
-  {
-    "text": "art",
-    "size": 8
-  },
-  {
-    "text": "hans",
-    "size": 7
+    "size": 8,
+    "category": "ander"
   },
   {
     "text": "services",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "invest",
-    "size": 7
+    "text": "photography",
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "nv",
-    "size": 7
+    "text": "fly",
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "pieter",
-    "size": 7
+    "text": "to",
+    "size": 7,
+    "category": "voornaam"
   },
   {
-    "text": "partners",
-    "size": 7
-  },
-  {
-    "text": "tom",
-    "size": 6
+    "text": "motion",
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "creative",
-    "size": 6
-  },
-  {
-    "text": "den",
-    "size": 6
-  },
-  {
-    "text": "thomas",
-    "size": 6
-  },
-  {
-    "text": "by",
-    "size": 6
-  },
-  {
-    "text": "communication",
-    "size": 6
-  },
-  {
-    "text": "philippe",
-    "size": 6
-  },
-  {
-    "text": "gcv",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "vision",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "all",
-    "size": 6
+    "text": "company",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "picture",
-    "size": 5
+    "text": "invest",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "creation",
-    "size": 5
+    "text": "partners",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "bram",
-    "size": 5
+    "text": "by",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "karel",
-    "size": 5
+    "text": "digital",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "solutions",
-    "size": 5
-  },
-  {
-    "text": "stijn",
-    "size": 5
-  },
-  {
-    "text": "visual",
-    "size": 5
-  },
-  {
-    "text": "new",
-    "size": 5
-  },
-  {
-    "text": "black",
-    "size": 5
-  },
-  {
-    "text": "janssens",
-    "size": 5
-  },
-  {
-    "text": "fotografie",
-    "size": 5
-  },
-  {
-    "text": "h-k",
-    "size": 5
-  },
-  {
-    "text": "content",
-    "size": 5
-  },
-  {
-    "text": "it",
-    "size": 5
-  },
-  {
-    "text": "camera",
-    "size": 5
-  },
-  {
-    "text": "no",
-    "size": 5
-  },
-  {
-    "text": "concepts",
-    "size": 5
-  },
-  {
-    "text": "factory",
-    "size": 5
+    "text": "nv",
+    "size": 6,
+    "category": "rechtsvorm"
   },
   {
     "text": "your",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "you",
-    "size": 5
+    "text": "creation",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "michael",
-    "size": 5
+    "text": "bert",
+    "size": 5,
+    "category": "voornaam man"
   },
   {
-    "text": "international",
-    "size": 5
+    "text": "visual",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "global",
-    "size": 5
+    "text": "new",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "apr",
-    "size": 5
+    "text": "art",
+    "size": 5,
+    "category": "voornaam man"
+  },
+  {
+    "text": "janssens",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "niels",
-    "size": 5
+    "size": 5,
+    "category": "voornaam man"
   },
   {
     "text": "moon",
-    "size": 5
+    "size": 5,
+    "category": "voornaam"
   },
   {
-    "text": "cinema",
-    "size": 5
-  },
-  {
-    "text": "works",
-    "size": 5
+    "text": "it",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "didier",
-    "size": 5
+    "size": 5,
+    "category": "voornaam man"
   },
   {
-    "text": "publishing",
-    "size": 5
-  },
-  {
-    "text": "records",
-    "size": 5
+    "text": "sound",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "rubykub",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "good",
-    "size": 4
+    "text": "hans",
+    "size": 4,
+    "category": "voornaam man"
+  },
+  {
+    "text": "picture",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "com",
-    "size": 4
-  },
-  {
-    "text": "geert",
-    "size": 4
-  },
-  {
-    "text": "cut",
-    "size": 4
-  },
-  {
-    "text": "team",
-    "size": 4
-  },
-  {
-    "text": "consult",
-    "size": 4
-  },
-  {
-    "text": "business",
-    "size": 4
-  },
-  {
-    "text": "julien",
-    "size": 4
-  },
-  {
-    "text": "atelier",
-    "size": 4
-  },
-  {
-    "text": "3d",
-    "size": 4
-  },
-  {
-    "text": "99",
-    "size": 4
-  },
-  {
-    "text": "kurt",
-    "size": 4
-  },
-  {
-    "text": "double",
-    "size": 4
-  },
-  {
-    "text": "david",
-    "size": 4
-  },
-  {
-    "text": "jasper",
-    "size": 4
-  },
-  {
-    "text": "communications",
-    "size": 4
-  },
-  {
-    "text": "michel",
-    "size": 4
-  },
-  {
-    "text": "go",
-    "size": 4
-  },
-  {
-    "text": "jo",
-    "size": 4
-  },
-  {
-    "text": "benoit",
-    "size": 4
-  },
-  {
-    "text": "compagnie",
-    "size": 4
-  },
-  {
-    "text": "jeroen",
-    "size": 4
-  },
-  {
-    "text": "thierry",
-    "size": 4
-  },
-  {
-    "text": "distribution",
-    "size": 4
-  },
-  {
-    "text": "christophe",
-    "size": 4
-  },
-  {
-    "text": "line",
-    "size": 4
-  },
-  {
-    "text": "service",
-    "size": 4
-  },
-  {
-    "text": "koen",
-    "size": 4
-  },
-  {
-    "text": "dries",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "feelings",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "light",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "take",
-    "size": 4
+    "text": "consult",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "den",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "peter",
+    "size": 4,
+    "category": "voornaam man"
+  },
+  {
+    "text": "business",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "michael",
+    "size": 4,
+    "category": "voornaam"
+  },
+  {
+    "text": "julien",
+    "size": 4,
+    "category": "voornaam"
+  },
+  {
+    "text": "international",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "3d",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "99",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "agency",
-    "size": 4
-  },
-  {
-    "text": "vincent",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "inc",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "red",
-    "size": 4
+    "text": "stijn",
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "animation",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "air",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "sarah",
-    "size": 4
+    "size": 4,
+    "category": "voornaam"
   },
   {
-    "text": "kapitein",
-    "size": 4
+    "text": "all",
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "street",
-    "size": 4
+    "text": "black",
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "images",
-    "size": 4
+    "text": "fotografie",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "double",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "more",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "frédéric",
-    "size": 4
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "projects",
-    "size": 4
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "cinema",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "communications",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "kris",
-    "size": 4
+    "size": 4,
+    "category": "voornaam"
   },
   {
     "text": "facilities",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "editions",
-    "size": 4
+    "text": "benoit",
+    "size": 4,
+    "category": "voornaam man"
   },
   {
-    "text": "audio",
-    "size": 4
+    "text": "communication",
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "willem",
-    "size": 4
+    "text": "philippe",
+    "size": 4,
+    "category": "voornaam man"
+  },
+  {
+    "text": "no",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "thierry",
+    "size": 4,
+    "category": "voornaam man"
+  },
+  {
+    "text": "records",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "gcv",
+    "size": 4,
+    "category": "rechtsvorm"
   },
   {
     "text": "françois",
-    "size": 4
+    "size": 4,
+    "category": "voornaam man"
   },
   {
-    "text": "joeri",
-    "size": 4
+    "text": "distribution",
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "infinity",
-    "size": 3
+    "text": "christophe",
+    "size": 4,
+    "category": "voornaam man"
   },
   {
-    "text": "kevin",
-    "size": 3
+    "text": "line",
+    "size": 4,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "shoot",
-    "size": 3
-  },
-  {
-    "text": "tech",
-    "size": 3
-  },
-  {
-    "text": "wouter",
-    "size": 3
-  },
-  {
-    "text": "centre",
-    "size": 3
-  },
-  {
-    "text": "2brains",
-    "size": 3
-  },
-  {
-    "text": "right",
-    "size": 3
-  },
-  {
-    "text": "paul",
-    "size": 3
-  },
-  {
-    "text": "club",
-    "size": 3
-  },
-  {
-    "text": "13",
-    "size": 3
-  },
-  {
-    "text": "lieven",
-    "size": 3
-  },
-  {
-    "text": "look",
-    "size": 3
-  },
-  {
-    "text": "bart",
-    "size": 3
-  },
-  {
-    "text": "movies",
-    "size": 3
-  },
-  {
-    "text": "europe",
-    "size": 3
-  },
-  {
-    "text": "pierre",
-    "size": 3
-  },
-  {
-    "text": "nele",
-    "size": 3
-  },
-  {
-    "text": "bureau",
-    "size": 3
-  },
-  {
-    "text": "eye",
-    "size": 3
-  },
-  {
-    "text": "tout",
-    "size": 3
-  },
-  {
-    "text": "bernard",
-    "size": 3
-  },
-  {
-    "text": "plan",
-    "size": 3
-  },
-  {
-    "text": "web",
-    "size": 3
-  },
-  {
-    "text": "grip",
-    "size": 3
-  },
-  {
-    "text": "wim",
-    "size": 3
-  },
-  {
-    "text": "am",
-    "size": 3
-  },
-  {
-    "text": "an",
-    "size": 3
-  },
-  {
-    "text": "fons",
-    "size": 3
-  },
-  {
-    "text": "consultancy",
-    "size": 3
-  },
-  {
-    "text": "el",
-    "size": 3
-  },
-  {
-    "text": "comm.v",
-    "size": 3
-  },
-  {
-    "text": "cock",
-    "size": 3
-  },
-  {
-    "text": "creations",
-    "size": 3
-  },
-  {
-    "text": "claire",
-    "size": 3
-  },
-  {
-    "text": "brussels",
-    "size": 3
-  },
-  {
-    "text": "joris",
-    "size": 3
-  },
-  {
-    "text": "sputnik",
-    "size": 3
-  },
-  {
-    "text": "frames",
-    "size": 3
-  },
-  {
-    "text": "yellow",
-    "size": 3
+    "text": "factory",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "blue",
-    "size": 3
+    "size": 3,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "live",
-    "size": 3
+    "text": "good",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "oscar",
-    "size": 3
+    "text": "service",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "koen",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "bogaert",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "tom",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "laurent",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
-    "text": "pro",
-    "size": 3
+    "text": "geert",
+    "size": 3,
+    "category": "voornaam"
+  },
+  {
+    "text": "cut",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "team",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "kevin",
+    "size": 3,
+    "category": "voornaam"
   },
   {
     "text": "medias",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "happy",
-    "size": 3
+    "text": "centre",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "tree",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "point",
-    "size": 3
+    "text": "you",
+    "size": 3,
+    "category": "voornaam"
   },
   {
-    "text": "dewaele",
-    "size": 3
+    "text": "2brains",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "home",
-    "size": 3
+    "text": "bram",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
-    "text": "heart",
-    "size": 3
+    "text": "paul",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "take",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "karel",
+    "size": 3,
+    "category": "voornaam"
+  },
+  {
+    "text": "pieter",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "13",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "fabrique",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "free",
-    "size": 3
+    "text": "global",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "holding",
-    "size": 3
+    "text": "lieven",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
-    "text": "maarten",
-    "size": 3
+    "text": "atelier",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "pieter-jan",
-    "size": 3
+    "text": "look",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "jens",
-    "size": 3
+    "text": "bart",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "movies",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "europe",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "vincent",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "pierre",
+    "size": 3,
+    "category": "voornaam"
+  },
+  {
+    "text": "kurt",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "nele",
+    "size": 3,
+    "category": "voornaam vrouw"
   },
   {
     "text": "city",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "damien",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "bureau",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "photographe",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "run",
-    "size": 3
+    "text": "tout",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "bernard",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "kapitein",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "street",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "jonathan",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "images",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "david",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "san",
-    "size": 3
+    "size": 3,
+    "category": "voornaam"
   },
   {
     "text": "deckers",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "an",
+    "size": 3,
+    "category": "voornaam"
   },
   {
     "text": "see",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "fons",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "michel",
+    "size": 3,
+    "category": "voornaam"
+  },
+  {
+    "text": "consultancy",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "el",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "alain",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "content",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "go",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "bip",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "sky",
-    "size": 3
+    "size": 3,
+    "category": "voornaam"
   },
   {
-    "text": "alive",
-    "size": 3
+    "text": "comm.v",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "world",
-    "size": 3
+    "text": "compagnie",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "box",
-    "size": 3
+    "text": "jeroen",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "editions",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "concepts",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "audio",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "kim",
-    "size": 3
+    "size": 3,
+    "category": "voornaam"
+  },
+  {
+    "text": "creations",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "willem",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "filip",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "claire",
+    "size": 3,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "brussels",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "jonas",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "joris",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "cat",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "audiovisual",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "trois",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "moose",
-    "size": 2
-  },
-  {
-    "text": "click",
-    "size": 2
+    "text": "frames",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "nozon",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "roll",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "yellow",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "hendrickx",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "kenneth",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "sunset",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "chemisch",
-    "size": 2
-  },
-  {
-    "text": "tim",
-    "size": 2
+    "text": "infinity",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "laurence",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "robyns",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bracke",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "anamorfose",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "mathieu",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "write",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "oscar",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "léonard",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "aert",
-    "size": 2
-  },
-  {
-    "text": "industries",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "sport",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "mountain",
-    "size": 2
+    "text": "buro",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "mute",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "dries",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "harati",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "kitchen",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "arts",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "wereld",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "purple",
-    "size": 2
+    "text": "coster",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "eric",
-    "size": 2
+    "text": "tech",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "unlock",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "pro",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "full",
-    "size": 2
-  },
-  {
-    "text": "pepper",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "videoproductions",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "demaret",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "lambrecht",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "jean-marc",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "wouter",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "happy",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "pur",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "golden",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "tiny",
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "travel",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "small",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "experience",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "day",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "done",
-    "size": 2
+    "size": 2,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "logistics",
-    "size": 2
+    "text": "nathalie",
+    "size": 2,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "lucifer",
-    "size": 2
+    "text": "j.p",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "del",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "prime",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bill",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "denis",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "hotel",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "mind",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "right",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "club",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "wannes",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "dewaele",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "dominique",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "petit",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "thomas",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "tank",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "pixel",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "midnight",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "solo",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "artemix",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "home",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "alexandre",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "action",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "made",
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "mario",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "mad",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "radio",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "heart",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "blanckaert",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "praet",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "make",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "loïc",
+    "size": 2,
+    "category": "voornaam man"
   }
 ]

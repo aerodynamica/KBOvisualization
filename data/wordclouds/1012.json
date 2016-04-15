@@ -1,1002 +1,1252 @@
 [
   {
-    "text": "slagerij",
-    "size": 49
+    "text": "boucherie",
+    "size": 38,
+    "category": "ander"
   },
   {
-    "text": "boucherie",
-    "size": 44
+    "text": "slagerij",
+    "size": 25,
+    "category": "ander"
   },
   {
     "text": "bvba",
-    "size": 24
-  },
-  {
-    "text": "traiteur",
-    "size": 23
-  },
-  {
-    "text": "meat",
-    "size": 17
+    "size": 21,
+    "category": "rechtsvorm"
   },
   {
     "text": "nv",
-    "size": 14
+    "size": 13,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "traiteur",
+    "size": 9,
+    "category": "ander"
+  },
+  {
+    "text": "meat",
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "ferme",
-    "size": 11
-  },
-  {
-    "text": "den",
-    "size": 10
-  },
-  {
-    "text": "food",
-    "size": 9
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "group",
-    "size": 8
+    "size": 8,
+    "category": "ander"
   },
   {
     "text": "chez",
-    "size": 8
-  },
-  {
-    "text": "keurslager",
-    "size": 8
+    "size": 8,
+    "category": "ander"
   },
   {
     "text": "saveurs",
-    "size": 7
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "services",
-    "size": 5
+    "text": "den",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "beenhouwerij",
-    "size": 5
+    "text": "food",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "philippe",
-    "size": 5
+    "size": 5,
+    "category": "voornaam man"
   },
   {
     "text": "sprl",
-    "size": 4
+    "size": 4,
+    "category": "rechtsvorm"
   },
   {
     "text": "loberge",
-    "size": 4
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "services",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "plukon",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "co",
-    "size": 4
-  },
-  {
-    "text": "company",
-    "size": 4
-  },
-  {
-    "text": "didier",
-    "size": 4
-  },
-  {
-    "text": "vleeswaren",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "bart",
-    "size": 4
-  },
-  {
-    "text": "viandes",
-    "size": 4
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "pluimveeslachterij",
-    "size": 4
-  },
-  {
-    "text": "patrick",
-    "size": 3
-  },
-  {
-    "text": "service",
-    "size": 3
-  },
-  {
-    "text": "tom",
-    "size": 3
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "boucher",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "chicken",
-    "size": 3
-  },
-  {
-    "text": "café",
-    "size": 3
-  },
-  {
-    "text": "team",
-    "size": 3
-  },
-  {
-    "text": "cornelis",
-    "size": 3
-  },
-  {
-    "text": "david",
-    "size": 3
-  },
-  {
-    "text": "steven",
-    "size": 3
-  },
-  {
-    "text": "el",
-    "size": 3
+    "text": "company",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "thomas",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
-    "text": "kwaliteitsslagerij",
-    "size": 3
-  },
-  {
-    "text": "home",
-    "size": 3
-  },
-  {
-    "text": "fresh",
-    "size": 3
+    "text": "keurslager",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "dirk",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
-    "text": "vleeshandel",
-    "size": 3
-  },
-  {
-    "text": "maes",
-    "size": 3
-  },
-  {
-    "text": "poulet",
-    "size": 3
+    "text": "didier",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "d\u0027ardenne",
-    "size": 3
-  },
-  {
-    "text": "quality",
-    "size": 3
-  },
-  {
-    "text": "hoeve",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "express",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "gebroeders",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "marc",
-    "size": 3
-  },
-  {
-    "text": "catering",
-    "size": 3
+    "text": "viandes",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "christophe",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "pierre",
-    "size": 2
-  },
-  {
-    "text": "ter",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "jaspaert",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "the",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "production",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "guillaume",
-    "size": 2
+    "text": "patrick",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "service",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "aelter",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "vandecruys",
-    "size": 2
+    "text": "tom",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "groep",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "industries",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "boucherie-charcuterie",
-    "size": 2
-  },
-  {
-    "text": "royal",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "coq",
-    "size": 2
-  },
-  {
-    "text": "belgium",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "all",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "andy",
-    "size": 2
-  },
-  {
-    "text": "ambachtelijke",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "amc",
-    "size": 2
-  },
-  {
-    "text": "pistoleeke",
-    "size": 2
-  },
-  {
-    "text": "keurslagerij",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "martin",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
-    "text": "foods",
-    "size": 2
+    "text": "café",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "geert",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "kristof",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "events",
-    "size": 2
-  },
-  {
-    "text": "roeck",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "kitchen",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "consulting",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "abattoir",
-    "size": 2
-  },
-  {
-    "text": "house",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "pitta",
-    "size": 2
-  },
-  {
-    "text": "martine",
-    "size": 2
-  },
-  {
-    "text": "groene",
-    "size": 2
-  },
-  {
-    "text": "harry",
-    "size": 2
-  },
-  {
-    "text": "volaillerie",
-    "size": 2
-  },
-  {
-    "text": "cooking",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "slager",
-    "size": 2
-  },
-  {
-    "text": "verbinnen",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "maison",
-    "size": 2
-  },
-  {
-    "text": "natuurvlees",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "rené",
-    "size": 2
-  },
-  {
-    "text": "zoon",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "vermeersch",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "mertens",
-    "size": 2
+    "text": "steven",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
-    "text": "comptoir",
-    "size": 2
+    "text": "beenhouwerij",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "horeca",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "el",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "broeck",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "gourmand",
-    "size": 2
-  },
-  {
-    "text": "clubslager",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "dominique",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "olivier",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "gb",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "ii",
-    "size": 2
+    "text": "kwaliteitsslagerij",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "jo",
-    "size": 2
+    "text": "vleeshandel",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "eddy",
-    "size": 2
+    "text": "poulet",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "benoit",
-    "size": 2
-  },
-  {
-    "text": "international",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "daniel",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "servio",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "slagerij-traiteur",
-    "size": 2
+    "text": "vleeswaren",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "quality",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "kippenslachterij",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "lieven",
-    "size": 2
-  },
-  {
-    "text": "belgie",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "kesch",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "hoeve",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "kruishoutem",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "charcutier",
-    "size": 2
-  },
-  {
-    "text": "atelier",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "l\u0027artisan",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "marc",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "catering",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "kesch-doyen",
-    "size": 2
-  },
-  {
-    "text": "delicatessen",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "bouillon",
-    "size": 2
-  },
-  {
-    "text": "filip",
-    "size": 2
-  },
-  {
-    "text": "steen",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "olen",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "wildhandel",
-    "size": 2
-  },
-  {
-    "text": "sebastien",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "vincent",
-    "size": 2
-  },
-  {
-    "text": "albert",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "fonteyne",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "mangetout",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "wild",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "thilbert",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "wittouck",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "plumes",
-    "size": 1
-  },
-  {
-    "text": "tdv",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "arthisan",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "citadelle",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "lapere",
-    "size": 1
-  },
-  {
-    "text": "ruelle",
-    "size": 1
-  },
-  {
-    "text": "dutch",
-    "size": 1
-  },
-  {
-    "text": "nieuw",
-    "size": 1
-  },
-  {
-    "text": "raf",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "poor",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cemak",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "totaal",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "haala",
-    "size": 1
-  },
-  {
-    "text": "tek",
-    "size": 1
-  },
-  {
-    "text": "melicatessen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "k.r.d",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "maarten",
-    "size": 1
-  },
-  {
-    "text": "rooden",
-    "size": 1
+    "text": "ter",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "noun",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "barbelicious",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "braekeveld",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pont",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "fieremans",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "nollens",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "fatih",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "boris",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "niles",
-    "size": 1
-  },
-  {
-    "text": "serkoni",
-    "size": 1
-  },
-  {
-    "text": "welvaart",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "versmarkt",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "centrum",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "peersman",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "plumco",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "berghe",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "goraya",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "brugs",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gms",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "hans",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "renmans",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bouche",
-    "size": 1
-  },
-  {
-    "text": "knotwilg",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "piet",
-    "size": 1
-  },
-  {
-    "text": "yektam",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "almanaar",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "yilhus",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "connect",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "weirt",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "berghaus",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gadisseur",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "kroket",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "dell\u0027anno",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mannaerts",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "oishii",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "montoise",
-    "size": 1
-  },
-  {
-    "text": "delhaize",
-    "size": 1
-  },
-  {
-    "text": "triangel",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "havermans",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vermes",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "marnik",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "reyhan",
-    "size": 1
-  },
-  {
-    "text": "renders",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "gilain",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "tanjïa",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "d.s.c",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "good",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "benedikt",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "samson",
-    "size": 1
-  },
-  {
-    "text": "norfolk",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "coprosain",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tim",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "berger",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "tip",
-    "size": 1
-  },
-  {
-    "text": "dapper",
-    "size": 1
-  },
-  {
-    "text": "verfijnde",
-    "size": 1
-  },
-  {
-    "text": "nusse",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pan",
-    "size": 1
-  },
-  {
-    "text": "stefan",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cornelissen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cims",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "declerck",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "heindryckx",
-    "size": 1
-  },
-  {
-    "text": "bernaerts",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "adl",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "schildermans",
-    "size": 1
-  },
-  {
-    "text": "els",
-    "size": 1
-  },
-  {
-    "text": "cholito",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "hairstyle",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "despina",
-    "size": 1
-  },
-  {
-    "text": "arnimex",
-    "size": 1
-  },
-  {
-    "text": "yves",
-    "size": 1
-  },
-  {
-    "text": "keurslager-traiteur",
-    "size": 1
-  },
-  {
-    "text": "l\u0027amuse",
-    "size": 1
-  },
-  {
-    "text": "douane",
-    "size": 1
-  },
-  {
-    "text": "sano",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "boetiek",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vishuis",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cis",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "lancker",
-    "size": 1
-  },
-  {
-    "text": "laer",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vol",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "prisma",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "laet",
-    "size": 1
-  },
-  {
-    "text": "pasta",
-    "size": 1
-  },
-  {
-    "text": "huize",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "darche",
-    "size": 1
-  },
-  {
-    "text": "goeminne",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "kasap",
-    "size": 1
-  },
-  {
-    "text": "colonel",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tataroglu",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pluimvee",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "desmet",
-    "size": 1
-  },
-  {
-    "text": "ivo",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "lincy",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "j.brabants",
-    "size": 1
+    "text": "vanden",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mathieu",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "deerlijk",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "snauwaert",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "violette",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "montjoie",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "voorschoten",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "marechal",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vandewalle",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "distrubution",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "derynck",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "schelkens",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "guillaume",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "vercruyce",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "marche",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "salaisons",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "manguette-cornet",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "rik",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "aurelien",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "ourodenberg",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "rio",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "cruysveld",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "kurt",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "inter",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "buslot",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "meertens",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "loliland",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "corbeille",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "koen",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "queen",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "institut",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "boutchi",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "kelly",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "top",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "peer",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "pasana",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "delaide",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gvr",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hollo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "verlaeckt",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vandecruys",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "haut",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "frietshop",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vercammen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "damien",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "lindenhof",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vtm",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gofflot",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "klaasen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bobo",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "royal",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "boucherie-charcuterie-traiteur",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jambon",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "com",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "con",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "body",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lac",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "all@keurslager",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "elias",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "parochiaal",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "maasland",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "belgium",
+    "size": 1,
+    "category": "land"
+  },
+  {
+    "text": "volys",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tempa",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "avenne-ooigem",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "new",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "chickenwest",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ney",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ets",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pego",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ambachtelijke",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ellatf",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "decock",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gout",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hostijn",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "kipke",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "arnould",
+    "size": 1,
+    "category": "voornaam man"
   }
 ]

@@ -1,1002 +1,1252 @@
 [
   {
     "text": "residentie",
-    "size": 18
-  },
-  {
-    "text": "ter",
-    "size": 14
+    "size": 16,
+    "category": "ander"
   },
   {
     "text": "résidence",
-    "size": 14
+    "size": 14,
+    "category": "ander"
+  },
+  {
+    "text": "ter",
+    "size": 12,
+    "category": "ander"
   },
   {
     "text": "vzw",
-    "size": 12
+    "size": 12,
+    "category": "rechtsvorm"
   },
   {
     "text": "serviceflats",
-    "size": 10
+    "size": 10,
+    "category": "ander"
   },
   {
     "text": "wzc",
-    "size": 9
-  },
-  {
-    "text": "zorgcentrum",
-    "size": 9
-  },
-  {
-    "text": "res",
-    "size": 7
-  },
-  {
-    "text": "service",
-    "size": 7
-  },
-  {
-    "text": "woon",
-    "size": 7
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "rusthuis",
-    "size": 7
+    "size": 7,
+    "category": "ander"
+  },
+  {
+    "text": "res",
+    "size": 7,
+    "category": "ander"
+  },
+  {
+    "text": "service",
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "home",
-    "size": 6
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "invest",
-    "size": 6
+    "text": "zorgcentrum",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "residence",
-    "size": 5
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "invest",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "paola",
-    "size": 4
-  },
-  {
-    "text": "flats",
-    "size": 4
+    "size": 4,
+    "category": "voornaam vrouw"
   },
   {
     "text": "bvba",
-    "size": 4
+    "size": 4,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "flats",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "hof",
-    "size": 3
-  },
-  {
-    "text": "acis",
-    "size": 3
-  },
-  {
-    "text": "wzc/sf",
-    "size": 3
-  },
-  {
-    "text": "domaine",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "sf",
-    "size": 3
+    "size": 3,
+    "category": "rechtsvorm"
   },
   {
     "text": "services",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "woon",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "résidence-services",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "acis",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "wzc/sf",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "domaine",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "princesse",
-    "size": 3
+    "size": 3,
+    "category": "voornaam vrouw"
   },
   {
     "text": "projects",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "zorg",
-    "size": 2
-  },
-  {
-    "text": "care-ion",
-    "size": 2
-  },
-  {
-    "text": "cercle",
-    "size": 2
-  },
-  {
-    "text": "maalbeek",
-    "size": 2
-  },
-  {
-    "text": "seigneurie",
-    "size": 2
-  },
-  {
-    "text": "lakendal",
-    "size": 2
-  },
-  {
-    "text": "management",
-    "size": 2
-  },
-  {
-    "text": "repos",
-    "size": 2
-  },
-  {
-    "text": "serviceresidentie",
-    "size": 2
-  },
-  {
-    "text": "a.l.p.a",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "nieuwe",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "rc",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "care-ion",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "gaerveld",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "hermione",
-    "size": 2
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "cercle",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "maalbeek",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "serviceflat",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "seigneurie",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "green",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "jardin",
-    "size": 2
+    "text": "lakendal",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "residenties",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "jardins",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "management",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "repos",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "care",
-    "size": 2
-  },
-  {
-    "text": "consult",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "vivaldi",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "rustoord",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "zandberg",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "serviceresidentie",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "kaai",
-    "size": 2
-  },
-  {
-    "text": "rust",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "asbl",
-    "size": 2
+    "size": 2,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "a.l.p.a",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "assistentiewoningen",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "trois",
-    "size": 1
-  },
-  {
-    "text": "wittouck",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vastgoed",
-    "size": 1
-  },
-  {
-    "text": "serviceflatgebouw",
-    "size": 1
-  },
-  {
-    "text": "strée",
-    "size": 1
-  },
-  {
-    "text": "picardie",
-    "size": 1
-  },
-  {
-    "text": "den",
-    "size": 1
-  },
-  {
-    "text": "parmentier",
-    "size": 1
-  },
-  {
-    "text": "wyngaert",
-    "size": 1
-  },
-  {
-    "text": "bruisbeke",
-    "size": 1
-  },
-  {
-    "text": "domuscura",
-    "size": 1
-  },
-  {
-    "text": "meeren",
-    "size": 1
-  },
-  {
-    "text": "ten",
-    "size": 1
-  },
-  {
-    "text": "ménil",
-    "size": 1
-  },
-  {
-    "text": "koningshof",
-    "size": 1
-  },
-  {
-    "text": "schryvershof",
-    "size": 1
-  },
-  {
-    "text": "diga",
-    "size": 1
-  },
-  {
-    "text": "senior",
-    "size": 1
-  },
-  {
-    "text": "pont",
-    "size": 1
-  },
-  {
-    "text": "seniorco",
-    "size": 1
-  },
-  {
-    "text": "peckius",
-    "size": 1
-  },
-  {
-    "text": "kimmer",
-    "size": 1
-  },
-  {
-    "text": "leupeheem",
-    "size": 1
-  },
-  {
-    "text": "taxandria",
-    "size": 1
-  },
-  {
-    "text": "overbeke",
-    "size": 1
-  },
-  {
-    "text": "doux",
-    "size": 1
-  },
-  {
-    "text": "voortberg",
-    "size": 1
-  },
-  {
-    "text": "investments",
-    "size": 1
-  },
-  {
-    "text": "lelie",
-    "size": 1
-  },
-  {
-    "text": "gregoor",
-    "size": 1
-  },
-  {
-    "text": "golf",
-    "size": 1
-  },
-  {
-    "text": "iii-co",
-    "size": 1
-  },
-  {
-    "text": "stay@home",
-    "size": 1
-  },
-  {
-    "text": "santé",
-    "size": 1
-  },
-  {
-    "text": "tgm",
-    "size": 1
-  },
-  {
-    "text": "clipsen",
-    "size": 1
-  },
-  {
-    "text": "weyvelt",
-    "size": 1
-  },
-  {
-    "text": "ruyswyck",
-    "size": 1
-  },
-  {
-    "text": "leie",
-    "size": 1
-  },
-  {
-    "text": "terrasses",
-    "size": 1
-  },
-  {
-    "text": "leiedam",
-    "size": 1
-  },
-  {
-    "text": "janniot",
-    "size": 1
-  },
-  {
-    "text": "co",
-    "size": 1
-  },
-  {
-    "text": "creche",
-    "size": 1
-  },
-  {
-    "text": "providentia",
-    "size": 1
-  },
-  {
-    "text": "wivina",
-    "size": 1
-  },
-  {
-    "text": "gangske",
-    "size": 1
-  },
-  {
-    "text": "pagode",
-    "size": 1
-  },
-  {
-    "text": "under",
-    "size": 1
-  },
-  {
-    "text": "facet",
-    "size": 1
-  },
-  {
-    "text": "arches",
-    "size": 1
-  },
-  {
-    "text": "ingrid",
-    "size": 1
-  },
-  {
-    "text": "fleuri",
-    "size": 1
-  },
-  {
-    "text": "riben",
-    "size": 1
-  },
-  {
-    "text": "dg",
-    "size": 1
-  },
-  {
-    "text": "reinelde",
-    "size": 1
-  },
-  {
-    "text": "rénovation",
-    "size": 1
-  },
-  {
-    "text": "bloemen",
-    "size": 1
-  },
-  {
-    "text": "phenix",
-    "size": 1
-  },
-  {
-    "text": "aleph",
-    "size": 1
-  },
-  {
-    "text": "l\u0027automne",
-    "size": 1
-  },
-  {
-    "text": "brba",
-    "size": 1
-  },
-  {
-    "text": "ines",
-    "size": 1
-  },
-  {
-    "text": "bleuk",
-    "size": 1
-  },
-  {
-    "text": "larenshof",
-    "size": 1
-  },
-  {
-    "text": "fleuris",
-    "size": 1
-  },
-  {
-    "text": "shc",
-    "size": 1
-  },
-  {
-    "text": "militza",
-    "size": 1
-  },
-  {
-    "text": "smet",
-    "size": 1
-  },
-  {
-    "text": "cg\u0027s",
-    "size": 1
-  },
-  {
-    "text": "raoul",
-    "size": 1
-  },
-  {
-    "text": "dorpe",
-    "size": 1
-  },
-  {
-    "text": "vof",
-    "size": 1
-  },
-  {
-    "text": "fox",
-    "size": 1
-  },
-  {
-    "text": "miles",
-    "size": 1
-  },
-  {
-    "text": "fv",
-    "size": 1
-  },
-  {
-    "text": "iuvo",
-    "size": 1
-  },
-  {
-    "text": "accordage",
-    "size": 1
-  },
-  {
-    "text": "lac-spa",
-    "size": 1
-  },
-  {
-    "text": "brem",
-    "size": 1
-  },
-  {
-    "text": "huize",
-    "size": 1
-  },
-  {
-    "text": "yernee",
-    "size": 1
-  },
-  {
-    "text": "hooghvelt",
-    "size": 1
-  },
-  {
-    "text": "ridgi",
-    "size": 1
-  },
-  {
-    "text": "henri",
-    "size": 1
-  },
-  {
-    "text": "saint-georges",
-    "size": 1
-  },
-  {
-    "text": "vondelhof",
-    "size": 1
-  },
-  {
-    "text": "myra",
-    "size": 1
-  },
-  {
-    "text": "sesmara",
-    "size": 1
-  },
-  {
-    "text": "vuurse",
-    "size": 1
-  },
-  {
-    "text": "toekomst",
-    "size": 1
-  },
-  {
-    "text": "armonea",
-    "size": 1
-  },
-  {
-    "text": "d\u0027italie",
-    "size": 1
-  },
-  {
-    "text": "linde",
-    "size": 1
-  },
-  {
-    "text": "hovenier",
-    "size": 1
-  },
-  {
-    "text": "seniotel",
-    "size": 1
-  },
-  {
-    "text": "westduin",
-    "size": 1
-  },
-  {
-    "text": "gezondheid",
-    "size": 1
-  },
-  {
-    "text": "poldervliet",
-    "size": 1
-  },
-  {
-    "text": "vrienden",
-    "size": 1
-  },
-  {
-    "text": "heydehof",
-    "size": 1
-  },
-  {
-    "text": "pays",
-    "size": 1
-  },
-  {
-    "text": "vlamme",
-    "size": 1
-  },
-  {
-    "text": "leopold",
-    "size": 1
-  },
-  {
-    "text": "focus",
-    "size": 1
-  },
-  {
-    "text": "hope",
-    "size": 1
-  },
-  {
-    "text": "drion",
-    "size": 1
-  },
-  {
-    "text": "notelaar",
-    "size": 1
-  },
-  {
-    "text": "do-ation",
-    "size": 1
-  },
-  {
-    "text": "heiberg",
-    "size": 1
-  },
-  {
-    "text": "dicava",
-    "size": 1
-  },
-  {
-    "text": "ruben",
-    "size": 1
-  },
-  {
-    "text": "property",
-    "size": 1
-  },
-  {
-    "text": "wyckhuyse",
-    "size": 1
-  },
-  {
-    "text": "frère",
-    "size": 1
-  },
-  {
-    "text": "wingerd",
-    "size": 1
-  },
-  {
-    "text": "coudenberg",
-    "size": 1
-  },
-  {
-    "text": "ii",
-    "size": 1
-  },
-  {
-    "text": "lage",
-    "size": 1
-  },
-  {
-    "text": "regenboog",
-    "size": 1
-  },
-  {
-    "text": "ir",
-    "size": 1
-  },
-  {
-    "text": "lavondel",
-    "size": 1
-  },
-  {
-    "text": "loriers",
-    "size": 1
-  },
-  {
-    "text": "amideus",
-    "size": 1
-  },
-  {
-    "text": "vrv",
-    "size": 1
-  },
-  {
-    "text": "cantecroy",
-    "size": 1
-  },
-  {
-    "text": "copropriétaires",
-    "size": 1
-  },
-  {
-    "text": "zonnesteen",
-    "size": 1
-  },
-  {
-    "text": "résidences",
-    "size": 1
-  },
-  {
-    "text": "alfons",
-    "size": 1
-  },
-  {
-    "text": "interseniors",
-    "size": 1
-  },
-  {
-    "text": "elsdonck",
-    "size": 1
-  },
-  {
-    "text": "ka",
-    "size": 1
-  },
-  {
-    "text": "aethrae",
-    "size": 1
-  },
-  {
-    "text": "beauprez",
-    "size": 1
-  },
-  {
-    "text": "adagio",
-    "size": 1
-  },
-  {
-    "text": "houtland",
-    "size": 1
-  },
-  {
-    "text": "millegem",
-    "size": 1
-  },
-  {
-    "text": "maeckelbergh",
-    "size": 1
-  },
-  {
-    "text": "walle",
-    "size": 1
-  },
-  {
-    "text": "prinses",
-    "size": 1
-  },
-  {
-    "text": "verzorgingstehuis",
-    "size": 1
-  },
-  {
-    "text": "floralies",
-    "size": 1
-  },
-  {
-    "text": "lindenhof",
-    "size": 1
-  },
-  {
-    "text": "seaflower",
-    "size": 1
-  },
-  {
-    "text": "groote",
-    "size": 1
-  },
-  {
-    "text": "clairière",
-    "size": 1
-  },
-  {
-    "text": "salve",
-    "size": 1
-  },
-  {
-    "text": "d\u0027animation",
-    "size": 1
-  },
-  {
-    "text": "franki",
-    "size": 1
-  },
-  {
-    "text": "wmbm",
-    "size": 1
-  },
-  {
-    "text": "host",
-    "size": 1
-  },
-  {
-    "text": "zorgwonen",
-    "size": 1
-  },
-  {
-    "text": "belgium",
-    "size": 1
-  },
-  {
-    "text": "always",
-    "size": 1
-  },
-  {
-    "text": "new",
-    "size": 1
-  },
-  {
-    "text": "l\u0027autre",
-    "size": 1
-  },
-  {
-    "text": "isamo",
-    "size": 1
-  },
-  {
-    "text": "acacias",
-    "size": 1
-  },
-  {
-    "text": "eden",
-    "size": 1
-  },
-  {
-    "text": "aquamarijn",
-    "size": 1
-  },
-  {
-    "text": "shcs",
-    "size": 1
-  },
-  {
-    "text": "séniorie",
-    "size": 1
-  },
-  {
-    "text": "groepspraktijk",
-    "size": 1
-  },
-  {
-    "text": "woon-en",
-    "size": 1
-  },
-  {
-    "text": "cos.care",
-    "size": 1
-  },
-  {
-    "text": "hamoir",
-    "size": 1
-  },
-  {
-    "text": "service-residentie",
-    "size": 1
-  },
-  {
-    "text": "nv",
-    "size": 1
-  },
-  {
-    "text": "verde",
-    "size": 1
-  },
-  {
-    "text": "d\u0027accueil",
-    "size": 1
-  },
-  {
-    "text": "volk",
-    "size": 1
-  },
-  {
-    "text": "consulting//fabrilis",
-    "size": 1
-  },
-  {
-    "text": "and",
-    "size": 1
-  },
-  {
-    "text": "construction",
-    "size": 1
-  },
-  {
-    "text": "alternatief",
-    "size": 1
-  },
-  {
-    "text": "keyhof",
-    "size": 1
-  },
-  {
-    "text": "seniorie",
-    "size": 1
-  },
-  {
-    "text": "ewa",
-    "size": 1
-  },
-  {
-    "text": "berghuys",
-    "size": 1
-  },
-  {
-    "text": "verzorgingscentrum",
-    "size": 1
-  },
-  {
-    "text": "petronela",
-    "size": 1
-  },
-  {
-    "text": "h.o.p",
-    "size": 1
-  },
-  {
-    "text": "aines",
-    "size": 1
-  },
-  {
-    "text": "prekerijhof",
-    "size": 1
-  },
-  {
-    "text": "boonaert",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pres",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "serviceflatgebouw",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "strée",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "amaryllis",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "picardie",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "a.s.r.s",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "den",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "parmentier",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "wyngaert",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "domuscura",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "leuven",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mathilde",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "molenberg",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bois",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "westerhauwe",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "kesterberg",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ten",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "seviga",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "franchimontoise",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ménil",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "koningshof",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "schryvershof",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "chartreuse",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dorpsmolen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "château",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "trianon",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hemelrijck",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "diga",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "senior",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pont",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "seniorco",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "d\u0027un",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "peckius",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "groenveld",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "smeedsehof",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mogro",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "wand",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mechelse",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "kimmer",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "leupeheem",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "taxandria",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "overbeke",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "meeuwen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "doux",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "cocagne",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "elisabeth",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "association",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "voortberg",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "investments",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "plantijn",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "messidor",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lelie",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "golf",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "berkenhof",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "stay@home",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "santé",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "d\u0027astrid",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "clipsen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "weyvelt",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "michelange",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "ruyswyck",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bejaardenzorg",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "consulting",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "amig",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "leie",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "terrasses",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "leiedam",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "janniot",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "co",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "creche",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "seniorsactivity",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "providentia",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "aarschot",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "roeselare",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vivisenior",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "partners",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "wivina",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "tralans",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mayflower",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pauline",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "amis",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gangske",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pagode",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "under",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "aldea",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "facet",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tichelhof",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "arches",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ingrid",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "fleuri",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "riben",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dg",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "garnet",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "rénovation",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bloemen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "marygo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "atc",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "berkven",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "phenix",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vier",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "@artevelde",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gezondheids-en",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "aleph",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "l\u0027automne",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "broel",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "palace",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "brba",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ines",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "zeegalm",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "suites",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bleuk",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "larenshof",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "wommelgheem",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fleuris",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "seniorplaza",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mozaïek",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "joséphine",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "militza",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "rooierheide",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "smet",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "cg\u0027s",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "putkapelle",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "raoul",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "huis",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "knocke",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dorpe",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "brug",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "poort",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vof",
+    "size": 1,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "fox",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "miles",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "fv",
+    "size": 1,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "iuvo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "paracur",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "accordage",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lac-spa",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "brem",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "huize",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "yernee",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hooghvelt",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ridgi",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "populierenhof",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "noordduin",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "henri",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "saint-georges",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jardin",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "europ",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vondelhof",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "myra",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "sesmara",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "arcade",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "toekomst",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "armonea",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "d\u0027italie",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "linde",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "hovenier",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "seniotel",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "westduin",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "curaedis",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gezondheid",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "poldervliet",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vrienden",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "heydehof",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "brugge",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vlierbeke",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "binnenhof",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pays",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "leopold",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "focus",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "larivière",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hope",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "drion",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "put",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "senior-services",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vrucht",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "notelaar",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "do-ation",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "heiberg",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jouvence",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dicava",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ruben",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "property",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "frère",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "coudenberg",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "westpoort",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ii",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "zilverhof",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tempelhof",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "regenboog",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "abri-klavertje",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lavondel",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "loriers",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "nederlands",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "amideus",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "rema",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "laarsveld",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "venne",
+    "size": 1,
+    "category": "ander"
   }
 ]

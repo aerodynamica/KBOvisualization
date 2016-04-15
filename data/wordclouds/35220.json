@@ -1,1002 +1,1252 @@
 [
   {
-    "text": "bvba",
-    "size": 10
-  },
-  {
-    "text": "energy",
-    "size": 8
+    "text": "secteur",
+    "size": 8,
+    "category": "ander"
   },
   {
     "text": "belgium",
-    "size": 8
-  },
-  {
-    "text": "secteur",
-    "size": 8
-  },
-  {
-    "text": "exploitation",
-    "size": 6
-  },
-  {
-    "text": "npg",
-    "size": 6
+    "size": 7,
+    "category": "land"
   },
   {
     "text": "power",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "centre",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "sprl",
-    "size": 5
-  },
-  {
-    "text": "energie",
-    "size": 4
+    "text": "exploitation",
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "sector",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "entreprise",
-    "size": 3
+    "text": "sprl",
+    "size": 4,
+    "category": "rechtsvorm"
   },
   {
-    "text": "scrl",
-    "size": 3
-  },
-  {
-    "text": "nv",
-    "size": 3
-  },
-  {
-    "text": "biogas",
-    "size": 3
+    "text": "bvba",
+    "size": 4,
+    "category": "rechtsvorm"
   },
   {
     "text": "compressiestation",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "invest",
-    "size": 3
+    "text": "energy",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "entreprise",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "energie",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "scrl",
+    "size": 3,
+    "category": "rechtsvorm"
   },
   {
     "text": "gas",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "abrégé",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "merksem",
-    "size": 2
-  },
-  {
-    "text": "operateur",
-    "size": 2
-  },
-  {
-    "text": "construct",
-    "size": 2
-  },
-  {
-    "text": "guillaume",
-    "size": 2
-  },
-  {
-    "text": "fuel",
-    "size": 2
-  },
-  {
-    "text": "tri",
-    "size": 2
-  },
-  {
-    "text": "reseaux",
-    "size": 2
-  },
-  {
-    "text": "total",
-    "size": 2
-  },
-  {
-    "text": "and",
-    "size": 2
-  },
-  {
-    "text": "construction",
-    "size": 2
-  },
-  {
-    "text": "ores",
-    "size": 2
-  },
-  {
-    "text": "antwerpen",
-    "size": 2
+    "text": "nv",
+    "size": 3,
+    "category": "rechtsvorm"
   },
   {
     "text": "eandis",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "chauffage",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "plafonnage",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "benelux",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "merksem",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "operateur",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "devis",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "services",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "solutions",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "d\u0027energies",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "wauters",
-    "size": 2
+    "text": "npg",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "marc",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
-    "text": "terrassements",
-    "size": 2
+    "text": "construct",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "guillaume",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "lng",
-    "size": 2
-  },
-  {
-    "text": "vandezande",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "zeebrugge",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "fuel",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "essent",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "reseaux",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "and",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "ores",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "clean",
-    "size": 2
-  },
-  {
-    "text": "wego",
-    "size": 1
-  },
-  {
-    "text": "projects",
-    "size": 1
-  },
-  {
-    "text": "s.p.a",
-    "size": 1
-  },
-  {
-    "text": "sandro",
-    "size": 1
-  },
-  {
-    "text": "s.p.e",
-    "size": 1
-  },
-  {
-    "text": "syngas",
-    "size": 1
-  },
-  {
-    "text": "egl",
-    "size": 1
-  },
-  {
-    "text": "spie",
-    "size": 1
-  },
-  {
-    "text": "branch",
-    "size": 1
-  },
-  {
-    "text": "parmentier",
-    "size": 1
-  },
-  {
-    "text": "trefpunt",
-    "size": 1
-  },
-  {
-    "text": "polonaises",
-    "size": 1
-  },
-  {
-    "text": "claus",
-    "size": 1
-  },
-  {
-    "text": "liquide",
-    "size": 1
-  },
-  {
-    "text": "c.c.f",
-    "size": 1
-  },
-  {
-    "text": "vip",
-    "size": 1
-  },
-  {
-    "text": "timech",
-    "size": 1
-  },
-  {
-    "text": "huberator",
-    "size": 1
-  },
-  {
-    "text": "debrinco",
-    "size": 1
-  },
-  {
-    "text": "agri-math",
-    "size": 1
-  },
-  {
-    "text": "wins",
-    "size": 1
-  },
-  {
-    "text": "d\u0027antheit",
-    "size": 1
-  },
-  {
-    "text": "nrgfin",
-    "size": 1
-  },
-  {
-    "text": "prima",
-    "size": 1
-  },
-  {
-    "text": "upgrade",
-    "size": 1
-  },
-  {
-    "text": "courant",
-    "size": 1
-  },
-  {
-    "text": "voghel",
-    "size": 1
-  },
-  {
-    "text": "loenhout",
-    "size": 1
-  },
-  {
-    "text": "compression",
-    "size": 1
-  },
-  {
-    "text": "frank",
-    "size": 1
-  },
-  {
-    "text": "pirson",
-    "size": 1
-  },
-  {
-    "text": "lombard",
-    "size": 1
-  },
-  {
-    "text": "biofors",
-    "size": 1
-  },
-  {
-    "text": "investments",
-    "size": 1
-  },
-  {
-    "text": "br",
-    "size": 1
-  },
-  {
-    "text": "c.r.c",
-    "size": 1
-  },
-  {
-    "text": "farming",
-    "size": 1
-  },
-  {
-    "text": "pevotherm",
-    "size": 1
-  },
-  {
-    "text": "mind",
-    "size": 1
-  },
-  {
-    "text": "business",
-    "size": 1
-  },
-  {
-    "text": "ppsp",
-    "size": 1
-  },
-  {
-    "text": "co",
-    "size": 1
-  },
-  {
-    "text": "the",
-    "size": 1
-  },
-  {
-    "text": "franz",
-    "size": 1
-  },
-  {
-    "text": "barnisca",
-    "size": 1
-  },
-  {
-    "text": "r.c.p",
-    "size": 1
-  },
-  {
-    "text": "bel-facade",
-    "size": 1
-  },
-  {
-    "text": "meublier",
-    "size": 1
-  },
-  {
-    "text": "da",
-    "size": 1
-  },
-  {
-    "text": "deco",
-    "size": 1
-  },
-  {
-    "text": "bee",
-    "size": 1
-  },
-  {
-    "text": "silva",
-    "size": 1
-  },
-  {
-    "text": "di",
-    "size": 1
-  },
-  {
-    "text": "lejeune",
-    "size": 1
-  },
-  {
-    "text": "turbo",
-    "size": 1
-  },
-  {
-    "text": "brigitte",
-    "size": 1
-  },
-  {
-    "text": "flawal",
-    "size": 1
-  },
-  {
-    "text": "baba",
-    "size": 1
-  },
-  {
-    "text": "dt",
-    "size": 1
-  },
-  {
-    "text": "claude",
-    "size": 1
-  },
-  {
-    "text": "france",
-    "size": 1
-  },
-  {
-    "text": "michel",
-    "size": 1
-  },
-  {
-    "text": "gorriquer",
-    "size": 1
-  },
-  {
-    "text": "lelièvre",
-    "size": 1
-  },
-  {
-    "text": "mines",
-    "size": 1
-  },
-  {
-    "text": "alain",
-    "size": 1
-  },
-  {
-    "text": "bocholt",
-    "size": 1
-  },
-  {
-    "text": "c-link",
-    "size": 1
-  },
-  {
-    "text": "energio",
-    "size": 1
-  },
-  {
-    "text": "technics",
-    "size": 1
-  },
-  {
-    "text": "biofer",
-    "size": 1
-  },
-  {
-    "text": "ochain",
-    "size": 1
-  },
-  {
-    "text": "fortum",
-    "size": 1
-  },
-  {
-    "text": "compostering",
-    "size": 1
-  },
-  {
-    "text": "dominique",
-    "size": 1
-  },
-  {
-    "text": "olivier",
-    "size": 1
-  },
-  {
-    "text": "pcf",
-    "size": 1
-  },
-  {
-    "text": "electrabel",
-    "size": 1
-  },
-  {
-    "text": "associés",
-    "size": 1
-  },
-  {
-    "text": "patrick",
-    "size": 1
-  },
-  {
-    "text": "company",
-    "size": 1
-  },
-  {
-    "text": "thomas",
-    "size": 1
-  },
-  {
-    "text": "bree",
-    "size": 1
-  },
-  {
-    "text": "eni",
-    "size": 1
-  },
-  {
-    "text": "pilot",
-    "size": 1
-  },
-  {
-    "text": "mobile",
-    "size": 1
-  },
-  {
-    "text": "metrans",
-    "size": 1
-  },
-  {
-    "text": "duruisseau",
-    "size": 1
-  },
-  {
-    "text": "vanden",
-    "size": 1
-  },
-  {
-    "text": "dornob",
-    "size": 1
-  },
-  {
-    "text": "lillo-menger",
-    "size": 1
-  },
-  {
-    "text": "service",
-    "size": 1
-  },
-  {
-    "text": "pétrole",
-    "size": 1
-  },
-  {
-    "text": "defaux",
-    "size": 1
-  },
-  {
-    "text": "mire",
-    "size": 1
-  },
-  {
-    "text": "adrien",
-    "size": 1
-  },
-  {
-    "text": "retelet/group",
-    "size": 1
-  },
-  {
-    "text": "interventiecentrum",
-    "size": 1
-  },
-  {
-    "text": "bio",
-    "size": 1
-  },
-  {
-    "text": "bio-gas",
-    "size": 1
-  },
-  {
-    "text": "biomegawatt",
-    "size": 1
-  },
-  {
-    "text": "riel",
-    "size": 1
-  },
-  {
-    "text": "bade",
-    "size": 1
-  },
-  {
-    "text": "antargaz",
-    "size": 1
-  },
-  {
-    "text": "regate",
-    "size": 1
-  },
-  {
-    "text": "renewable",
-    "size": 1
-  },
-  {
-    "text": "avicole",
-    "size": 1
-  },
-  {
-    "text": "frisolar",
-    "size": 1
-  },
-  {
-    "text": "netronis",
-    "size": 1
-  },
-  {
-    "text": "helevoet",
-    "size": 1
-  },
-  {
-    "text": "entreprises",
-    "size": 1
-  },
-  {
-    "text": "grepobel",
-    "size": 1
-  },
-  {
-    "text": "air",
-    "size": 1
-  },
-  {
-    "text": "flotille",
-    "size": 1
-  },
-  {
-    "text": "souwens",
-    "size": 1
-  },
-  {
-    "text": "tom",
-    "size": 1
-  },
-  {
-    "text": "smp",
-    "size": 1
-  },
-  {
-    "text": "freson",
-    "size": 1
-  },
-  {
-    "text": "grace-hollogne",
-    "size": 1
-  },
-  {
-    "text": "vangheluwe",
-    "size": 1
-  },
-  {
-    "text": "mat",
-    "size": 1
-  },
-  {
-    "text": "motokaiser",
-    "size": 1
-  },
-  {
-    "text": "pumps",
-    "size": 1
-  },
-  {
-    "text": "groep",
-    "size": 1
-  },
-  {
-    "text": "cassochrome",
-    "size": 1
-  },
-  {
-    "text": "industries",
-    "size": 1
-  },
-  {
-    "text": "dungen",
-    "size": 1
-  },
-  {
-    "text": "s-a",
-    "size": 1
-  },
-  {
-    "text": "sibiom",
-    "size": 1
-  },
-  {
-    "text": "maritiem",
-    "size": 1
-  },
-  {
-    "text": "body",
-    "size": 1
-  },
-  {
-    "text": "tuinderij",
-    "size": 1
-  },
-  {
-    "text": "roger",
-    "size": 1
-  },
-  {
-    "text": "scoot-phil",
-    "size": 1
-  },
-  {
-    "text": "jvdh-system",
-    "size": 1
-  },
-  {
-    "text": "mg",
-    "size": 1
-  },
-  {
-    "text": "picard",
-    "size": 1
-  },
-  {
-    "text": "agro-energiek",
-    "size": 1
-  },
-  {
-    "text": "fomes",
-    "size": 1
-  },
-  {
-    "text": "builaert",
-    "size": 1
-  },
-  {
-    "text": "loonwerk",
-    "size": 1
-  },
-  {
-    "text": "philippe",
-    "size": 1
-  },
-  {
-    "text": "plus",
-    "size": 1
-  },
-  {
-    "text": "merlin",
-    "size": 1
-  },
-  {
-    "text": "beeckman",
-    "size": 1
-  },
-  {
-    "text": "noble",
-    "size": 1
-  },
-  {
-    "text": "r.d.h.i",
-    "size": 1
-  },
-  {
-    "text": "eenmanszaak",
-    "size": 1
-  },
-  {
-    "text": "infrax",
-    "size": 1
-  },
-  {
-    "text": "zelzate",
-    "size": 1
-  },
-  {
-    "text": "fruit",
-    "size": 1
-  },
-  {
-    "text": "mest",
-    "size": 1
-  },
-  {
-    "text": "erwin",
-    "size": 1
-  },
-  {
-    "text": "magasin",
-    "size": 1
-  },
-  {
-    "text": "toitures-sanit-chauffage",
-    "size": 1
-  },
-  {
-    "text": "verda",
-    "size": 1
-  },
-  {
-    "text": "oil",
-    "size": 1
-  },
-  {
-    "text": "a.i.e.g",
-    "size": 1
-  },
-  {
-    "text": "biezen",
-    "size": 1
-  },
-  {
-    "text": "elinun",
-    "size": 1
-  },
-  {
-    "text": "algemene",
-    "size": 1
-  },
-  {
-    "text": "wetteren",
-    "size": 1
-  },
-  {
-    "text": "terrassement/m-l-z",
-    "size": 1
-  },
-  {
-    "text": "cse-tech",
-    "size": 1
-  },
-  {
-    "text": "control",
-    "size": 1
-  },
-  {
-    "text": "bert",
-    "size": 1
-  },
-  {
-    "text": "b.v",
-    "size": 1
-  },
-  {
-    "text": "r.m.j",
-    "size": 1
-  },
-  {
-    "text": "perspectives",
-    "size": 1
-  },
-  {
-    "text": "activities",
-    "size": 1
-  },
-  {
-    "text": "jjdl",
-    "size": 1
-  },
-  {
-    "text": "tankstorage",
-    "size": 1
-  },
-  {
-    "text": "eynde",
-    "size": 1
-  },
-  {
-    "text": "geronimo",
-    "size": 1
-  },
-  {
-    "text": "collignon",
-    "size": 1
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "a-gas",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "wego",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "devamat",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "easy-life",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "etienne",
-    "size": 1
+    "text": "projects",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "s.p.a",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "euphony",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "belgian",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sandro",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "s.p.e",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "alltech",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "syngas",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "antwerpen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "egl",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "fobelets",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "spie",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "branch",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "trefpunt",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "polonaises",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "f.e.t",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "houthoofdt",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "claus",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "w.o.m",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "jan",
-    "size": 1
+    "text": "liquide",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "bois",
-    "size": 1
+    "text": "c.c.f",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pmu",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vip",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "timech",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "huberator",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "debrinco",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "agri-math",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vcenergy",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "compostage",
-    "size": 1
+    "text": "wins",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "d\u0027antheit",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "prima",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "courant",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "voghel",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "rudy",
-    "size": 1
-  },
-  {
-    "text": "duferco",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "extergy",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "oli",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "winksele",
-    "size": 1
-  },
-  {
-    "text": "jean-pierre",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "constructions",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "dries",
-    "size": 1
+    "text": "loenhout",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "compression",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "frank",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "motor",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "français",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "marine",
-    "size": 1
+    "text": "lombard",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "investments",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "elexys",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "br",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "m-plus",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "c.r.c",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "porte",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pevotherm",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "biomass",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "star",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "belgie",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "consulting",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ppsp",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "co",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "the",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "gheorghe",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "franz",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "gasopslagstation",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "barnisca",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "r.c.p",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bel-facade",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jdp",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ask",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tunning",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "meublier",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "seraing",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "polish",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "da",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "luminus",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "d\u0027exploitation",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "medical",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "deco",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bee",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "silva",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "di",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "lejeune",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "turbo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "groeven",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "brigitte",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "yansenne",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "claude",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "icm",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dumar",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "illimited",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "france",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "michel",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "jemappes",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "c.m.t",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fawaylec",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gorriquer",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lelièvre",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "batiskel",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "energieen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vc",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "verhuurcenter",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mines",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "alain",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "bocholt",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jupille",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vl",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "c-link",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "technics",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jumet",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "biofer",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bemij",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "herstal",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sébastien",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "ochain",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "draux",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "unitank-g",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "c.gen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "deloyer",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "house",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dominique",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "kestens",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "olivier",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "pcf",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "central",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "electrabel",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fakkel",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sogegaz",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "elugie",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dervaux",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "patrick",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "company",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ardennaises",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gaz",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "eni",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "anderlecht",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "eifel-energie",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pilot",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "center",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jean-luc",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "milmort",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lillo-menger",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jurgen",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "we-power",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pgnig",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jardins",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "service",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "brugge",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pétrole",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "defaux",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mire",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "scholt",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pirard",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "retelet/group",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sveltec",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "interventiecentrum",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bio",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "terrassements",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lutimmo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "rasetta",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gent",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "nicolas",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "frigo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "administratif",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "administratie",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "biomegawatt",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "m.d",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "westgas",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "elbeek",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "genk",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "iscs",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sportoase",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "zuun",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "enerad",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bade",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "pogc",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "antargaz",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "regate",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "renewable",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "avicole",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hydratech",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "netronis",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "helevoet",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sainte-marie",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tecoma",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "entreprises",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "groene",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "noppe",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "t.s.g",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "air",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "iztc",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bouwwerken",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "souwens",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tom",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "smp",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "safalec",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lpa",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "grace-hollogne",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vangheluwe",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dison",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "aqualec",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mat",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "la-centrale",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "groep",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "site",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jaraver",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ieper",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "cassochrome",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "advenso",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "industries",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jéronimo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "eurafrican",
+    "size": 1,
+    "category": "ander"
   }
 ]

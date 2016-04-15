@@ -1,1002 +1,1252 @@
 [
   {
     "text": "apotheek",
-    "size": 197
+    "size": 62,
+    "category": "ander"
   },
   {
     "text": "pharmacie",
-    "size": 75
+    "size": 60,
+    "category": "ander"
   },
   {
     "text": "pharma",
-    "size": 46
-  },
-  {
-    "text": "bvba",
-    "size": 26
+    "size": 31,
+    "category": "ander"
   },
   {
     "text": "belgium",
-    "size": 14
+    "size": 13,
+    "category": "land"
   },
   {
     "text": "nv",
-    "size": 13
+    "size": 11,
+    "category": "rechtsvorm"
   },
   {
     "text": "farma",
-    "size": 10
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "sprl",
-    "size": 7
-  },
-  {
-    "text": "janssen",
-    "size": 6
-  },
-  {
-    "text": "laboratoires",
-    "size": 5
-  },
-  {
-    "text": "lindeboom",
-    "size": 5
-  },
-  {
-    "text": "den",
-    "size": 5
+    "size": 5,
+    "category": "rechtsvorm"
   },
   {
     "text": "international",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "pfizer",
-    "size": 4
+    "text": "janssen",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "anne",
-    "size": 4
-  },
-  {
-    "text": "group",
-    "size": 4
+    "text": "bvba",
+    "size": 5,
+    "category": "rechtsvorm"
   },
   {
     "text": "manufacturing",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "products",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "benelux",
-    "size": 4
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "laboratoires",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "europe",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "willems",
-    "size": 4
+    "text": "den",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "pfizer",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "service",
-    "size": 3
-  },
-  {
-    "text": "healthcare",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "biologicals",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "chemicals",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "apotheke",
-    "size": 3
-  },
-  {
-    "text": "consulting",
-    "size": 3
-  },
-  {
-    "text": "consult",
-    "size": 3
-  },
-  {
-    "text": "peeters",
-    "size": 3
-  },
-  {
-    "text": "ucb",
-    "size": 3
-  },
-  {
-    "text": "laboratoire",
-    "size": 3
-  },
-  {
-    "text": "devos",
-    "size": 3
-  },
-  {
-    "text": "invest",
-    "size": 3
-  },
-  {
-    "text": "solutions",
-    "size": 3
+    "text": "anne",
+    "size": 3,
+    "category": "voornaam"
   },
   {
     "text": "life",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "marc",
-    "size": 3
+    "text": "lindeboom",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "boiron",
-    "size": 3
+    "text": "consult",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "development",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "katrien",
-    "size": 3
-  },
-  {
-    "text": "pierre",
-    "size": 2
-  },
-  {
-    "text": "vie",
-    "size": 2
-  },
-  {
-    "text": "declercq",
-    "size": 2
-  },
-  {
-    "text": "abc",
-    "size": 2
-  },
-  {
-    "text": "acid",
-    "size": 2
-  },
-  {
-    "text": "beirnaert",
-    "size": 2
-  },
-  {
-    "text": "houba",
-    "size": 2
-  },
-  {
-    "text": "glaxosmithkline",
-    "size": 2
-  },
-  {
-    "text": "alphar",
-    "size": 2
-  },
-  {
-    "text": "menschaert",
-    "size": 2
-  },
-  {
-    "text": "panorama",
-    "size": 2
-  },
-  {
-    "text": "virginie",
-    "size": 2
-  },
-  {
-    "text": "jan",
-    "size": 2
-  },
-  {
-    "text": "apr",
-    "size": 2
-  },
-  {
-    "text": "creation",
-    "size": 2
-  },
-  {
-    "text": "services",
-    "size": 2
-  },
-  {
-    "text": "cauwenbergh",
-    "size": 2
-  },
-  {
-    "text": "diagnostics",
-    "size": 2
-  },
-  {
-    "text": "medical",
-    "size": 2
-  },
-  {
-    "text": "primrose",
-    "size": 2
-  },
-  {
-    "text": "sulferic",
-    "size": 2
-  },
-  {
-    "text": "wolfs",
-    "size": 2
-  },
-  {
-    "text": "daele",
-    "size": 2
-  },
-  {
-    "text": "technologies",
-    "size": 2
-  },
-  {
-    "text": "laboratoria",
-    "size": 2
-  },
-  {
-    "text": "pharmaceuticals",
-    "size": 2
-  },
-  {
-    "text": "jardins",
-    "size": 2
-  },
-  {
-    "text": "stockman",
-    "size": 2
-  },
-  {
-    "text": "innis",
-    "size": 2
-  },
-  {
-    "text": "wallez",
-    "size": 2
-  },
-  {
-    "text": "centre",
-    "size": 2
-  },
-  {
-    "text": "ingelheim",
-    "size": 2
-  },
-  {
-    "text": "nathalie",
-    "size": 2
-  },
-  {
-    "text": "ghlin",
-    "size": 2
-  },
-  {
-    "text": "vroome",
-    "size": 2
-  },
-  {
-    "text": "vanoverschelde",
-    "size": 2
-  },
-  {
-    "text": "vanoost",
-    "size": 2
+    "text": "laboratoire",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "pharmaceutica",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "will-pharma",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "frank",
-    "size": 2
+    "text": "vie",
+    "size": 2,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "isabelle",
-    "size": 2
+    "text": "declercq",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "apoteek",
-    "size": 2
+    "text": "abc",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "therapeutics",
-    "size": 2
-  },
-  {
-    "text": "hilde",
-    "size": 2
+    "text": "acid",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "bach",
-    "size": 2
+    "size": 2,
+    "category": "voornaam vrouw"
   },
   {
     "text": "marie",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
-    "text": "bio",
-    "size": 2
+    "text": "houba",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "glaxosmithkline",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "healthcare",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "health",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "alphar",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "vandamme",
-    "size": 2
-  },
-  {
-    "text": "karen",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "xpress",
-    "size": 2
-  },
-  {
-    "text": "phoenix",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "regeneration",
-    "size": 2
-  },
-  {
-    "text": "delta",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "animal",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "creation",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "apotheke",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "délices",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "services",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "diagnostics",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "primrose",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "sulferic",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "technologies",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "laboratories",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "ruyck",
-    "size": 2
+    "text": "laboratoria",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "pharmaceuticals",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "jardins",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "keshe",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "zwaenepoel",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "rode",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "foundation",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "distribution",
-    "size": 2
+    "text": "centre",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "kruis",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "regenesys",
-    "size": 2
+    "text": "ucb",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "scientific",
-    "size": 2
+    "text": "ingelheim",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "vincent",
-    "size": 2
+    "text": "group",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "ghlin",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "seps",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "havaux",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "estetra",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "6fit",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "komboefarma",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "medeor",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "orthopaedics",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "medgenix",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "catalent",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "christel",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "bioindustry",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lut",
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "branch",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "govers",
-    "size": 1
+    "text": "ontspanning",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sambre",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "farmalia",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "nadine",
-    "size": 1
+    "text": "hipra",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "raf",
-    "size": 1
+    "text": "beer",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
-    "text": "innogreen",
-    "size": 1
-  },
-  {
-    "text": "pharmactiv",
-    "size": 1
-  },
-  {
-    "text": "vin",
-    "size": 1
-  },
-  {
-    "text": "vennootschap",
-    "size": 1
+    "text": "kleinbegin",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "biologics",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "souffle",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "alchemich",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ag",
+    "size": 1,
+    "category": "rechtsvorm"
   },
   {
     "text": "qualenica",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "afdeling",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "unipharm",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "debremme",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vegetalement",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "delpierre",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "degudap",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "be.pharbel-manufacturing",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vetpharm",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "belgilux",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gmed",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "plant",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "raskin",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "niali",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "beldiphar",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lynn",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "compagny",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "frank",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "ganser",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "independent",
-    "size": 1
+    "text": "markri-farma",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pirson",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "be.pharbel",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "centrum",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sonnet",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "berghe",
-    "size": 1
+    "text": "mioh",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "hans",
-    "size": 1
+    "text": "herborist",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "liégeois",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vandemoortele",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "maryfar",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "helena",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "vitafiore",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bellco",
-    "size": 1
-  },
-  {
-    "text": "3spharma",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "medicaspec",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "niemegeers",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "trieux",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "santarelli",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "peter",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "duran",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
-    "text": "rahmani-bijot",
-    "size": 1
+    "text": "vita",
+    "size": 1,
+    "category": "voornaam"
   },
   {
-    "text": "scheirelinck",
-    "size": 1
-  },
-  {
-    "text": "knotwilg",
-    "size": 1
-  },
-  {
-    "text": "groof",
-    "size": 1
+    "text": "apoteek",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "@apotheker",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "ducastel",
-    "size": 1
+    "text": "h.b",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "besins",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ophtalmo",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "linked",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "snykers-lahaut",
-    "size": 1
+    "text": "innovation",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "brandt",
-    "size": 1
+    "text": "courouble",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "saint",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "gilmard",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vetria",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "alexion",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "belgiue",
-    "size": 1
-  },
-  {
-    "text": "tongelen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pied",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vanderbeken",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "agraphyt",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "the",
-    "size": 1
-  },
-  {
-    "text": "vlierden",
-    "size": 1
-  },
-  {
-    "text": "alfabio",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "walco",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "isa",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "pharmabouge",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pringels",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "delagaye",
-    "size": 1
+    "text": "spécialités",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mzougui",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "therapeutics",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "di",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "herborista",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "troonbeeckx-schoofs",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "corpus",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jansen",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "rijckaert",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bosquet",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "clippel",
-    "size": 1
+    "text": "contrel",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "beaute",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tannhauser",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "medinvest",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "enzybel",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "novalon",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "medicanimalia",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "remedia",
-    "size": 1
-  },
-  {
-    "text": "elf",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "hummelen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "dafyto",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sint-pieters",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "huys-van",
-    "size": 1
+    "text": "centrale",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "revalidatiecentrum",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hilde",
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "european",
-    "size": 1
-  },
-  {
-    "text": "rydant",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "chr",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gpv",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "keypharm",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "deba",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "strange",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "vanhuysse",
-    "size": 1
-  },
-  {
-    "text": "depoorter-desterke",
-    "size": 1
+    "text": "watergenoegens",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "verstraete",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "plant\u0027arome-pharm\u0027arome",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "adx",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "zoetis",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "pharmacy",
-    "size": 1
+    "text": "aquilon",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "emc",
-    "size": 1
+    "text": "michaël",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
-    "text": "zoranderskruidenpreparaten",
-    "size": 1
+    "text": "flora\u0027ine",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "klavertje",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "broeck",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cie",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "maisha",
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "mithra",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "valkenborg",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "production",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pharmaneuroboost",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "leni",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "farmaflex",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "herbosch",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "sara",
-    "size": 1
+    "text": "o.r.a.o",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "delphine",
-    "size": 1
+    "text": "h3",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "acke",
-    "size": 1
+    "text": "hond",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "patrick",
-    "size": 1
+    "text": "atoms",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "lecocq",
-    "size": 1
+    "text": "gezondheidsconsulente",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vanschoenwinkel",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "coriandre",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "olivier",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "schein",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "petit",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "alpha",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "associés",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pharmancia",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "liefhooghe",
-    "size": 1
+    "text": "gc",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "prince",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "unda",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "wimmertingen",
-    "size": 1
+    "text": "tartiner",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "biopharma",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "familie",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "allgor",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "kris",
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "haren",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vander",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "davigo",
-    "size": 1
+    "text": "beecham",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "blondeel",
-    "size": 1
+    "text": "mohery",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "machiels",
-    "size": 1
+    "text": "grand",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "coekaerts",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "agri",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "citypharma",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "nesar",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mathieu",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "henry",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "chapelle-willem",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "heirbaut",
-    "size": 1
+    "text": "jacobsfruit",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "clinckspoor",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "luyten",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "farmaline",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "shanti-aum",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "family",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gsk",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "verzele",
-    "size": 1
+    "text": "expert",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "helsunade",
-    "size": 1
+    "text": "theraxess",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "baeskens",
-    "size": 1
+    "text": "hp",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "uyttersprot",
-    "size": 1
+    "text": "bio",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "devos",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "flagey",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "v/h",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "poloriva",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "xade",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "riet",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "berend",
-    "size": 1
-  },
-  {
-    "text": "phareeclo",
-    "size": 1
+    "text": "courtmans",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "lieve",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "maeijens",
-    "size": 1
-  },
-  {
-    "text": "nar",
-    "size": 1
-  },
-  {
-    "text": "bulteel",
-    "size": 1
-  },
-  {
-    "text": "nat",
-    "size": 1
-  },
-  {
-    "text": "kathelijn",
-    "size": 1
-  },
-  {
-    "text": "medini",
-    "size": 1
-  },
-  {
-    "text": "lievens",
-    "size": 1
-  },
-  {
-    "text": "medax",
-    "size": 1
-  },
-  {
-    "text": "pfe",
-    "size": 1
+    "text": "lucebert",
+    "size": 1,
+    "category": "ander"
   }
 ]

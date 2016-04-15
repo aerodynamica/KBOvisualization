@@ -1,1002 +1,1252 @@
 [
   {
     "text": "klussenier",
-    "size": 48
+    "size": 48,
+    "category": "ander"
   },
   {
     "text": "bvba",
-    "size": 30
+    "size": 26,
+    "category": "rechtsvorm"
   },
   {
     "text": "belgium",
-    "size": 22
-  },
-  {
-    "text": "nv",
-    "size": 19
+    "size": 21,
+    "category": "land"
   },
   {
     "text": "engineering",
-    "size": 18
-  },
-  {
-    "text": "services",
-    "size": 16
+    "size": 15,
+    "category": "ander"
   },
   {
     "text": "systems",
-    "size": 16
+    "size": 13,
+    "category": "ander"
+  },
+  {
+    "text": "nv",
+    "size": 13,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "services",
+    "size": 12,
+    "category": "ander"
   },
   {
     "text": "international",
-    "size": 15
+    "size": 11,
+    "category": "ander"
   },
   {
     "text": "consulting",
-    "size": 13
+    "size": 10,
+    "category": "ander"
   },
   {
     "text": "solutions",
-    "size": 12
-  },
-  {
-    "text": "europe",
-    "size": 11
-  },
-  {
-    "text": "service",
-    "size": 10
-  },
-  {
-    "text": "automation",
-    "size": 8
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "electro",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "sprl",
-    "size": 7
+    "text": "automation",
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "co",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "optiek",
-    "size": 7
+    "text": "europe",
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "technics",
-    "size": 6
-  },
-  {
-    "text": "instruments",
-    "size": 6
-  },
-  {
-    "text": "electronics",
-    "size": 6
-  },
-  {
-    "text": "energy",
-    "size": 5
+    "text": "service",
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "the",
-    "size": 5
+    "size": 5,
+    "category": "voornaam"
   },
   {
-    "text": "design",
-    "size": 5
+    "text": "technics",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "usine",
-    "size": 5
+    "text": "sprl",
+    "size": 5,
+    "category": "rechtsvorm"
   },
   {
-    "text": "medical",
-    "size": 5
+    "text": "electronics",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "peter",
-    "size": 5
-  },
-  {
-    "text": "benelux",
-    "size": 5
-  },
-  {
-    "text": "carriere",
-    "size": 4
+    "size": 5,
+    "category": "voornaam man"
   },
   {
     "text": "and",
-    "size": 4
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "design",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "medical",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "instruments",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "cofely",
-    "size": 4
-  },
-  {
-    "text": "david",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "management",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "control",
-    "size": 4
+    "text": "optiek",
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "bart",
-    "size": 4
+    "text": "benelux",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "energy",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "technical",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "patrick",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "tom",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "biologicals",
-    "size": 3
-  },
-  {
-    "text": "algemene",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "fabricom",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "belgian",
-    "size": 3
-  },
-  {
-    "text": "jan",
-    "size": 3
-  },
-  {
-    "text": "research",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "industrie",
-    "size": 3
-  },
-  {
-    "text": "lixhe",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "optique",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "group",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "luc",
-    "size": 3
-  },
-  {
-    "text": "den",
-    "size": 3
-  },
-  {
-    "text": "soft",
-    "size": 3
+    "text": "david",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "kris",
-    "size": 3
+    "size": 3,
+    "category": "voornaam"
   },
   {
     "text": "home",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "it",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "sartorius",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "johan",
-    "size": 3
+    "size": 3,
+    "category": "voornaam"
   },
   {
     "text": "technology",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "bart",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "christophe",
-    "size": 3
-  },
-  {
-    "text": "development",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "joris",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "ion",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "standard",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "controls",
-    "size": 2
-  },
-  {
-    "text": "labs",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "cie",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "exia",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "glaxosmithkline",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "industries",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "tacho",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "vwr",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "industrial",
-    "size": 2
+    "text": "algemene",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "renovatie",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "geert",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "jan",
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "a.e",
-    "size": 2
-  },
-  {
-    "text": "marine",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "devis",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "docx",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "research",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "erik",
-    "size": 2
-  },
-  {
-    "text": "technologies",
-    "size": 2
-  },
-  {
-    "text": "rwa",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "jules",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "jurgen",
-    "size": 2
-  },
-  {
-    "text": "andré",
-    "size": 2
-  },
-  {
-    "text": "consult",
-    "size": 2
-  },
-  {
-    "text": "bouw",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "servi-lab",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "elec",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "water",
-    "size": 2
-  },
-  {
-    "text": "amano",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "electric",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "entreprise",
-    "size": 2
+    "text": "den",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "soft",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "at",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "steven",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "bs",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "instrumentatie",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "consultancy",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "vision",
-    "size": 2
-  },
-  {
-    "text": "danny",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "company",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "thomas",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "wellens",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "advanced",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "elektronika",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "john",
-    "size": 2
-  },
-  {
-    "text": "opticiens",
-    "size": 2
-  },
-  {
-    "text": "trading",
-    "size": 2
-  },
-  {
-    "text": "didier",
-    "size": 2
-  },
-  {
-    "text": "holcim",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "s.a",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "decius",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "recycling",
-    "size": 2
-  },
-  {
-    "text": "elektriciteitswerken",
-    "size": 2
+    "text": "control",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "elektrotechniek",
-    "size": 2
-  },
-  {
-    "text": "pieter",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "vermeir",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "sud",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "global",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "associates",
-    "size": 2
-  },
-  {
-    "text": "belgique",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "metering",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "lecatecs",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "conttech",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "keshe",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "foundation",
-    "size": 2
-  },
-  {
-    "text": "ondernemingen",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "c.a.e",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "development",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "scientific",
-    "size": 2
-  },
-  {
-    "text": "stevens",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "joeri",
-    "size": 2
-  },
-  {
-    "text": "prevad",
-    "size": 1
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "ledlook",
-    "size": 1
-  },
-  {
-    "text": "devconsult",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "klym",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sensar",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "aduplom",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "integrator",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "acdc",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "branch",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "building",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "techserv",
-    "size": 1
-  },
-  {
-    "text": "ccs",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tec",
-    "size": 1
-  },
-  {
-    "text": "camms",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "germay",
-    "size": 1
-  },
-  {
-    "text": "videlco",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "thermal",
-    "size": 1
-  },
-  {
-    "text": "lecoutere",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tolutions",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "huapi",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "erkens",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ipe",
-    "size": 1
-  },
-  {
-    "text": "chrigabo",
-    "size": 1
-  },
-  {
-    "text": "gle",
-    "size": 1
-  },
-  {
-    "text": "gaurain",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "solic",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ruud",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "jenacake",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "i.t",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "davy",
-    "size": 1
-  },
-  {
-    "text": "teknostix",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "syspeo",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "innovations",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "newco",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "yvan",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "cds",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "morpho",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "warming",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "c.s.v",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "codivex",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "jema",
-    "size": 1
-  },
-  {
-    "text": "binnenbepleistering",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "sunglass",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "centrum",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sof@tech",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "berghe",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gms",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "nanomegas",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "keysence",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gold",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "elektroplan",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bellco",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "teleservice",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "optisquare",
-    "size": 1
-  },
-  {
-    "text": "antwoordapparaat.be",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "groof",
-    "size": 1
-  },
-  {
-    "text": "piet",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "connect",
-    "size": 1
-  },
-  {
-    "text": "martens",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "orthoban",
-    "size": 1
-  },
-  {
-    "text": "abb",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "audition",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "labar",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "brands",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "flavour",
-    "size": 1
-  },
-  {
-    "text": "olanthen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "conrad",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "acec",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "verreydt",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "fabritius",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vlf",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "marnix",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "robben",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "blue",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "arcange",
-    "size": 1
-  },
-  {
-    "text": "grond",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "perquy",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "arch",
-    "size": 1
-  },
-  {
-    "text": "mohamed",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bfp-electronics",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mitutoyo",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "witronic",
-    "size": 1
-  },
-  {
-    "text": "artois",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "grammer",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "adilson",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "nina",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "gpe",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "achrom",
-    "size": 1
-  },
-  {
-    "text": "peske",
-    "size": 1
-  },
-  {
-    "text": "mi-sense",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "declerck",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "werken",
-    "size": 1
-  },
-  {
-    "text": "infintica",
-    "size": 1
-  },
-  {
-    "text": "european",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gps",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sp-ex",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "els",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "labo",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "verstraete",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "yves",
-    "size": 1
-  },
-  {
-    "text": "steenackers",
-    "size": 1
-  },
-  {
-    "text": "emc",
-    "size": 1
+    "text": "labs",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "safetylock",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "hydro-norm",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sani",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "a.i.r.t",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "microtechnix",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "valkenborg",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "rutherberg",
-    "size": 1
-  },
-  {
-    "text": "vof",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "lens",
-    "size": 1
-  },
-  {
-    "text": "krejatief",
-    "size": 1
-  },
-  {
-    "text": "demuynck",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "pce",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "laser",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "biosensource",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "nieuwlandt",
-    "size": 1
-  },
-  {
-    "text": "hendrik",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "eng",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "andira",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "fresco",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "desmet",
-    "size": 1
+    "text": "proteomics",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pozyx",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vanden",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jaeger",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "procestechniek",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "braeckmans",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "micro",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "wauthier",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "engilico",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "carsoft",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "realizer",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "chrometra",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gsd",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "argg",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gsi",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gsk",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "observator",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "atlas",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "kobold",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "focus",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "complétude",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ags",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fisher",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "e.e",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "peternet",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "kurt",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "flow",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "m2wave",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "warrens",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "stedim",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "s-flows",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "h.f.group",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "coppens",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "nesco",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "intec",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "winnen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "soltratech",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "aic",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "cmi",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dectronic",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ankersmid",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "medec",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "duval",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vse",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "toc",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "air",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "iextens",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "antarctiq",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "cadi",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "alfons",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "iza",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "aesg",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "electronic",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "verobo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "nite",
+    "size": 1,
+    "category": "ander"
   }
 ]

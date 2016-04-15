@@ -1,826 +1,802 @@
 [
   {
-    "text": "services",
-    "size": 5
-  },
-  {
     "text": "nv",
-    "size": 4
+    "size": 4,
+    "category": "rechtsvorm"
   },
   {
-    "text": "automation",
-    "size": 3
-  },
-  {
-    "text": "projects",
-    "size": 2
+    "text": "services",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "roeve",
-    "size": 2
-  },
-  {
-    "text": "bourg",
-    "size": 2
-  },
-  {
-    "text": "printing",
-    "size": 2
-  },
-  {
-    "text": "cv",
-    "size": 2
-  },
-  {
-    "text": "solutions",
-    "size": 2
-  },
-  {
-    "text": "technics",
-    "size": 2
-  },
-  {
-    "text": "technical",
-    "size": 2
-  },
-  {
-    "text": "all-tech",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "europe",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bourg",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "printing",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "cv",
+    "size": 2,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "automation",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "c.p",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "bvba",
-    "size": 2
-  },
-  {
-    "text": "electronics",
-    "size": 1
-  },
-  {
-    "text": "adesko",
-    "size": 1
-  },
-  {
-    "text": "vierstraete",
-    "size": 1
-  },
-  {
-    "text": "kantooruitrusting",
-    "size": 1
-  },
-  {
-    "text": "den",
-    "size": 1
-  },
-  {
-    "text": "corrugated",
-    "size": 1
-  },
-  {
-    "text": "fit",
-    "size": 1
-  },
-  {
-    "text": "armelec",
-    "size": 1
-  },
-  {
-    "text": "c.s.b",
-    "size": 1
-  },
-  {
-    "text": "mekatec",
-    "size": 1
-  },
-  {
-    "text": "leo",
-    "size": 1
-  },
-  {
-    "text": "manufacturing",
-    "size": 1
-  },
-  {
-    "text": "welding",
-    "size": 1
-  },
-  {
-    "text": "engenering",
-    "size": 1
-  },
-  {
-    "text": "demarsin",
-    "size": 1
-  },
-  {
-    "text": "benelux",
-    "size": 1
-  },
-  {
-    "text": "venture",
-    "size": 1
-  },
-  {
-    "text": "amplification",
-    "size": 1
-  },
-  {
-    "text": "heinen",
-    "size": 1
-  },
-  {
-    "text": "constructions",
-    "size": 1
-  },
-  {
-    "text": "viscon",
-    "size": 1
-  },
-  {
-    "text": "f.a.i.s",
-    "size": 1
-  },
-  {
-    "text": "idna",
-    "size": 1
-  },
-  {
-    "text": "arto",
-    "size": 1
-  },
-  {
-    "text": "be",
-    "size": 1
-  },
-  {
-    "text": "prepress",
-    "size": 1
-  },
-  {
-    "text": "mic",
-    "size": 1
-  },
-  {
-    "text": "denis",
-    "size": 1
-  },
-  {
-    "text": "graphix",
-    "size": 1
-  },
-  {
-    "text": "marini",
-    "size": 1
-  },
-  {
-    "text": "investments",
-    "size": 1
-  },
-  {
-    "text": "vansevanant",
-    "size": 1
-  },
-  {
-    "text": "sh",
-    "size": 1
-  },
-  {
-    "text": "graphic",
-    "size": 1
-  },
-  {
-    "text": "lauwers",
-    "size": 1
-  },
-  {
-    "text": "meyer",
-    "size": 1
-  },
-  {
-    "text": "constructie",
-    "size": 1
-  },
-  {
-    "text": "hespe",
-    "size": 1
-  },
-  {
-    "text": "elmacon",
-    "size": 1
-  },
-  {
-    "text": "mechanics",
-    "size": 1
-  },
-  {
-    "text": "janssens",
-    "size": 1
-  },
-  {
-    "text": "rotsaert",
-    "size": 1
-  },
-  {
-    "text": "tc",
-    "size": 1
-  },
-  {
-    "text": "asc",
-    "size": 1
-  },
-  {
-    "text": "r2w",
-    "size": 1
-  },
-  {
-    "text": "i.g.s",
-    "size": 1
-  },
-  {
-    "text": "baumont.ing",
-    "size": 1
-  },
-  {
-    "text": "pulp",
-    "size": 1
-  },
-  {
-    "text": "e.n.d",
-    "size": 1
-  },
-  {
-    "text": "industriemontage",
-    "size": 1
-  },
-  {
-    "text": "rapid",
-    "size": 1
-  },
-  {
-    "text": "n-ice",
-    "size": 1
-  },
-  {
-    "text": "corpus",
-    "size": 1
-  },
-  {
-    "text": "acm",
-    "size": 1
-  },
-  {
-    "text": "key-rapid",
-    "size": 1
-  },
-  {
-    "text": "qst",
-    "size": 1
-  },
-  {
-    "text": "inducon",
-    "size": 1
-  },
-  {
-    "text": "things",
-    "size": 1
-  },
-  {
-    "text": "bolting",
-    "size": 1
-  },
-  {
-    "text": "tromblon",
-    "size": 1
-  },
-  {
-    "text": "vemo",
-    "size": 1
-  },
-  {
-    "text": "nelson",
-    "size": 1
-  },
-  {
-    "text": "engineering",
-    "size": 1
-  },
-  {
-    "text": "d.k.s",
-    "size": 1
-  },
-  {
-    "text": "ramac",
-    "size": 1
-  },
-  {
-    "text": "grafitroniks",
-    "size": 1
-  },
-  {
-    "text": "verpakkingen",
-    "size": 1
-  },
-  {
-    "text": "belga",
-    "size": 1
-  },
-  {
-    "text": "support",
-    "size": 1
-  },
-  {
-    "text": "rutherberg",
-    "size": 1
-  },
-  {
-    "text": "production",
-    "size": 1
-  },
-  {
-    "text": "mach",
-    "size": 1
-  },
-  {
-    "text": "mecadesign",
-    "size": 1
-  },
-  {
-    "text": "fleurinvest",
-    "size": 1
-  },
-  {
-    "text": "f.service",
-    "size": 1
-  },
-  {
-    "text": "techni-seri",
-    "size": 1
-  },
-  {
-    "text": "htc",
-    "size": 1
-  },
-  {
-    "text": "jgs",
-    "size": 1
-  },
-  {
-    "text": "renartec",
-    "size": 1
-  },
-  {
-    "text": "avt",
-    "size": 1
-  },
-  {
-    "text": "metalldesign",
-    "size": 1
-  },
-  {
-    "text": "adressing",
-    "size": 1
-  },
-  {
-    "text": "atka",
-    "size": 1
-  },
-  {
-    "text": "himrey",
-    "size": 1
-  },
-  {
-    "text": "mobile",
-    "size": 1
-  },
-  {
-    "text": "gbc",
-    "size": 1
-  },
-  {
-    "text": "packaging",
-    "size": 1
-  },
-  {
-    "text": "bhs",
-    "size": 1
-  },
-  {
-    "text": "bart",
-    "size": 1
-  },
-  {
-    "text": "mathieu",
-    "size": 1
-  },
-  {
-    "text": "pvba",
-    "size": 1
-  },
-  {
-    "text": "dmd",
-    "size": 1
-  },
-  {
-    "text": "lambrecht",
-    "size": 1
-  },
-  {
-    "text": "print-rapid",
-    "size": 1
-  },
-  {
-    "text": "laswerken",
-    "size": 1
+    "size": 2,
+    "category": "rechtsvorm"
   },
   {
     "text": "technomatis",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "projects",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cryogen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "dabitec",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "kantooruitrusting",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mechanical",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pro-technics",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "construct",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "callosum",
-    "size": 1
+    "text": "den",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "gevaert",
-    "size": 1
+    "text": "fit",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "armelec",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "c.s.b",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mekatec",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "leo",
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "vervisch",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mema",
-    "size": 1
-  },
-  {
-    "text": "baud",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "wauthy",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "engenering",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "rycke",
-    "size": 1
-  },
-  {
-    "text": "metal",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "constructiewerken",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "all-tech",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "benelux",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "alme",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "printrix",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "macheti",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "amplification",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "chris",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "heinen",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mecanique",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "constructions",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "viscon",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "f.a.i.s",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "idna",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "machinery",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "arto",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "be",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "works",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "prepress",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "enterprise",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "jp",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mic",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "n.n.b",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "denis",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "graphix",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "angelo",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "marini",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "frecom",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "investments",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tools",
-    "size": 1
-  },
-  {
-    "text": "bg-contracting",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "punch",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "finishing",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "nick",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "vansevanant",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sh",
+    "size": 1,
+    "category": "rechtsvorm"
   },
   {
     "text": "electronic",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "steve",
-    "size": 1
+    "text": "graphic",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lauwers",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "meyer",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "votech",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sprl",
-    "size": 1
+    "size": 1,
+    "category": "rechtsvorm"
   },
   {
-    "text": "wilde",
-    "size": 1
+    "text": "hespe",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "agro-x",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "machinebouw",
-    "size": 1
+    "text": "elmacon",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mechanics",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "janssens",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tc",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "asc",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "d.z",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "postermatic",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "r2w",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "lefevre",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "industries",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "afgekort",
-    "size": 1
+    "text": "i.g.s",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "baumont.ing",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "hameco",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "metaalconstructie",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "e.n.d",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "industriel",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "industriemontage",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cobra",
-    "size": 1
-  },
-  {
-    "text": "chadi",
-    "size": 1
-  },
-  {
-    "text": "onderhoud",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "nivo",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "precision",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "rogers",
-    "size": 1
+    "text": "rapid",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "n-ice",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "screen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "r-technics",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "key-rapid",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "roosen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "maison",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "inducon",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "things",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bolting",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mh",
-    "size": 1
-  },
-  {
-    "text": "kwante",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ridder",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "walravens",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "international",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "belgium",
-    "size": 1
+    "size": 1,
+    "category": "land"
   },
   {
     "text": "group",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tromblon",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mr",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vemo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "solutions",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "w-to",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tumag",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "venergie",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "fisheye",
-    "size": 1
+    "text": "d.k.s",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ramac",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "grafitroniks",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "nc",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "beesiness",
-    "size": 1
+    "text": "verpakkingen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "belga",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "technics",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "support",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cofely",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "heri",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "rutherberg",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "production",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mach",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "nelipak",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "paper",
-    "size": 1
+    "text": "fleurinvest",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "f.service",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "techni-seri",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bouvan",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "vermeulen",
-    "size": 1
+    "text": "htc",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "and",
-    "size": 1
+    "text": "jgs",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "renartec",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "wim",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
-    "text": "matco",
-    "size": 1
+    "text": "avt",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "metalldesign",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "adressing",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "technic",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "locomat",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "lima",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "maatschappij",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "fabricom",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "team1",
-    "size": 1
+    "text": "himrey",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "peirsman",
-    "size": 1
+    "text": "mobile",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tiem",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "clean",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "efesto",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "j.p.g.-verpakkingen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "redant",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mathieu",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "pvba",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "steegen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "print-rapid",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "machines",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "eynde",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "laswerken",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "maintenance",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   }
 ]

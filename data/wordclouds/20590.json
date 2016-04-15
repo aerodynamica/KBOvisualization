@@ -1,1002 +1,1252 @@
 [
   {
     "text": "belgium",
-    "size": 32
+    "size": 26,
+    "category": "land"
   },
   {
     "text": "nv",
-    "size": 18
-  },
-  {
-    "text": "europe",
-    "size": 13
+    "size": 15,
+    "category": "rechtsvorm"
   },
   {
     "text": "chemicals",
-    "size": 11
+    "size": 11,
+    "category": "ander"
+  },
+  {
+    "text": "europe",
+    "size": 11,
+    "category": "ander"
   },
   {
     "text": "international",
-    "size": 10
-  },
-  {
-    "text": "photography",
-    "size": 7
+    "size": 10,
+    "category": "ander"
   },
   {
     "text": "the",
-    "size": 6
+    "size": 6,
+    "category": "voornaam"
   },
   {
-    "text": "benelux",
-    "size": 6
-  },
-  {
-    "text": "bvba",
-    "size": 5
+    "text": "photography",
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "sprl",
-    "size": 4
+    "size": 4,
+    "category": "rechtsvorm"
   },
   {
     "text": "industries",
-    "size": 4
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "benelux",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "fotografie",
-    "size": 4
-  },
-  {
-    "text": "studio",
-    "size": 4
-  },
-  {
-    "text": "products",
-    "size": 4
-  },
-  {
-    "text": "ineos",
-    "size": 3
-  },
-  {
-    "text": "photo",
-    "size": 3
-  },
-  {
-    "text": "materials",
-    "size": 3
-  },
-  {
-    "text": "mason",
-    "size": 3
-  },
-  {
-    "text": "biologicals",
-    "size": 3
-  },
-  {
-    "text": "media",
-    "size": 3
-  },
-  {
-    "text": "design",
-    "size": 3
-  },
-  {
-    "text": "jar",
-    "size": 3
-  },
-  {
-    "text": "art",
-    "size": 3
-  },
-  {
-    "text": "engineering",
-    "size": 3
-  },
-  {
-    "text": "imaging",
-    "size": 3
-  },
-  {
-    "text": "concept",
-    "size": 3
-  },
-  {
-    "text": "green",
-    "size": 3
-  },
-  {
-    "text": "carbon",
-    "size": 3
-  },
-  {
-    "text": "consult",
-    "size": 3
-  },
-  {
-    "text": "emulco",
-    "size": 3
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "chemical",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "advanced",
-    "size": 3
+    "text": "photo",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "made",
-    "size": 3
+    "text": "products",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "mason",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "biologicals",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "kodak",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "design",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "bert",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
-    "text": "branch",
-    "size": 2
+    "text": "jar",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "visual",
-    "size": 2
+    "text": "art",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
-    "text": "blue",
-    "size": 2
+    "text": "engineering",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "acid",
-    "size": 2
+    "text": "concept",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "production",
-    "size": 2
+    "text": "green",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "service",
-    "size": 2
+    "text": "studio",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "kurt",
-    "size": 2
+    "text": "carbon",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "glaxosmithkline",
-    "size": 2
-  },
-  {
-    "text": "motif",
-    "size": 2
-  },
-  {
-    "text": "all",
-    "size": 2
-  },
-  {
-    "text": "and",
-    "size": 2
-  },
-  {
-    "text": "productions",
-    "size": 2
-  },
-  {
-    "text": "belgian",
-    "size": 2
-  },
-  {
-    "text": "consulting",
-    "size": 2
-  },
-  {
-    "text": "black",
-    "size": 2
-  },
-  {
-    "text": "services",
-    "size": 2
-  },
-  {
-    "text": "diagnostics",
-    "size": 2
-  },
-  {
-    "text": "sulferic",
-    "size": 2
-  },
-  {
-    "text": "pro",
-    "size": 2
-  },
-  {
-    "text": "polymer",
-    "size": 2
-  },
-  {
-    "text": "fujifilm",
-    "size": 2
-  },
-  {
-    "text": "bouwchemie",
-    "size": 2
-  },
-  {
-    "text": "luc",
-    "size": 2
+    "text": "emulco",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "projects",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "visual",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "systems",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "co",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "blue",
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "acid",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "materials",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "company",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "management",
-    "size": 2
+    "text": "service",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "trading",
-    "size": 2
+    "text": "advanced",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "b.v",
-    "size": 2
+    "text": "kurt",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "made",
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "glaxosmithkline",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "motif",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "all",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "media",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "and",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "productions",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "chimie",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "regeneration",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "belgian",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "aerts",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "black",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "services",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "diagnostics",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "pharma",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "sulferic",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "solutions",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "pro",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "imaging",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "polymer",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "lawter",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "keshe",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "fujifilm",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "oplichter",
-    "size": 2
-  },
-  {
-    "text": "north",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "foundation",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "consult",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "chemie",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "sales",
-    "size": 2
+    "text": "bouwchemie",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "development",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "bvba",
+    "size": 2,
+    "category": "rechtsvorm"
   },
   {
     "text": "cleaning",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "performance",
-    "size": 2
+    "text": "luc",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "seaport",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "electronics",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "zologie",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ashland",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "your",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "kiss",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "den",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "branch",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lux",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "eurogentec",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "diamko",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "advance",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "marca",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hipra",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "drukpunt",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "victor",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "exclusief",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "eline",
-    "size": 1
+    "text": "manufacturing",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "farm",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tek",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "desbos",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "you",
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "mosselman",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ter",
-    "size": 1
-  },
-  {
-    "text": "seru",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "avia",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ac",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "agrilot",
-    "size": 1
-  },
-  {
-    "text": "frames",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "biologics",
-    "size": 1
-  },
-  {
-    "text": "ipm",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vergauwe",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fertikal",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "phae",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "active",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "natalie",
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "analysis",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "radermecker",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "timac",
-    "size": 1
+    "text": "firma",
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "be.pharbel-manufacturing",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "polyplast",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "michelman",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "antiquités",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "moore",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "greidonus",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "aaron",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "soek",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "clarijs",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gedaa",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "electrion",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "technisch",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ineos",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "compagny",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "kingspan",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "centrum",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "be.pharbel",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "denis",
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "imprifab.com",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jsr",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bizprint",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "meersschaert",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "waas",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "agorimco",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "concept-image",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gold",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bram",
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "bellco",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "d8",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "grass",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "by",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "m-dash",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "headline",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "lights",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "dname-it",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "indigo-media",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "innovation",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "alaris",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "flavour",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "recinco",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bdf",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ch",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "smartchim",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pointmedia",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "wisenose",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "cp",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "rossum",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "awesome",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "jens",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "durieu",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pollie",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "coninck",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "renaud",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "codima",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "standard",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "spécialités",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mzougui",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "cgh",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "senses",
-    "size": 1
-  },
-  {
-    "text": "damme",
-    "size": 1
+    "text": "sabali",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "rénovation",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "asaert",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ghiant",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fleurs",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "wos",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "rsansfin",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "enzybel",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "klaassen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "thielemans-de",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "pam",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "soldi",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "organics",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "alinel",
-    "size": 1
+    "text": "image",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "maelen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "consultancy",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "journey",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "femke",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "european",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "el",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "keni",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "neef",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "inceptua",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "labo",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dewaele",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "nils",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "p.noir",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "reclamedesign",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "p.t.b.-compaktuna",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "filers",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "chem-lab-analytical",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "tecsen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "smet",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "maisha",
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "trust",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "greenseal",
-    "size": 1
-  },
-  {
-    "text": "private",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ascend",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "production",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "for",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "kassas",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "delphine",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "cis",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
-    "text": "agro",
-    "size": 1
+    "text": "straticell",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "zilt",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "lommel",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "adira",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "propur",
-    "size": 1
+    "text": "co-koen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "wetlands",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fx",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "auto-electro",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "redascendant",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gc",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "human",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "concept.m",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "meulen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "biosciences",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "practical",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "associes",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "go",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "beecham",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "blondeel",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "mediatraining",
-    "size": 1
+    "text": "grand",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vandepopeliere",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "killed",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "societe",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "nesar",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "agri",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "p-photography",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "patine",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "print",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "stickerparadijs",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "addi-tech",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "micro",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "cheez",
-    "size": 1
+    "text": "management",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "microbiofuel",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "icspert",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "chrometra",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vandepoel",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "r.a.p",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "reservoir",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fort",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dme",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gsk",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "cre8",
-    "size": 1
+    "text": "expert",
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "agr",
-    "size": 1
+    "text": "saraya",
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "sarex",
-    "size": 1
-  },
-  {
-    "text": "eltochem",
-    "size": 1
-  },
-  {
-    "text": "biomegawatt",
-    "size": 1
-  },
-  {
-    "text": "e.f",
-    "size": 1
-  },
-  {
-    "text": "wizzwizz",
-    "size": 1
-  },
-  {
-    "text": "phytos",
-    "size": 1
-  },
-  {
-    "text": "decisia",
-    "size": 1
-  },
-  {
-    "text": "gavic",
-    "size": 1
-  },
-  {
-    "text": "korneel",
-    "size": 1
-  },
-  {
-    "text": "cmc",
-    "size": 1
-  },
-  {
-    "text": "hollander",
-    "size": 1
-  },
-  {
-    "text": "narcol",
-    "size": 1
-  },
-  {
-    "text": "cemminerals",
-    "size": 1
-  },
-  {
-    "text": "wendy",
-    "size": 1
-  },
-  {
-    "text": "cell",
-    "size": 1
-  },
-  {
-    "text": "healthcare",
-    "size": 1
-  },
-  {
-    "text": "hoorebeke",
-    "size": 1
-  },
-  {
-    "text": "tom",
-    "size": 1
-  },
-  {
-    "text": "erc",
-    "size": 1
-  },
-  {
-    "text": "electronic",
-    "size": 1
-  },
-  {
-    "text": "symebel",
-    "size": 1
-  },
-  {
-    "text": "meadow",
-    "size": 1
-  },
-  {
-    "text": "lycops",
-    "size": 1
-  },
-  {
-    "text": "in-liner",
-    "size": 1
-  },
-  {
-    "text": "cpac",
-    "size": 1
-  },
-  {
-    "text": "product",
-    "size": 1
-  },
-  {
-    "text": "millibeter",
-    "size": 1
-  },
-  {
-    "text": "infoproconseil",
-    "size": 1
-  },
-  {
-    "text": "belux",
-    "size": 1
-  },
-  {
-    "text": "foliaworx",
-    "size": 1
-  },
-  {
-    "text": "58elephants",
-    "size": 1
-  },
-  {
-    "text": "ge-ka",
-    "size": 1
-  },
-  {
-    "text": "callens",
-    "size": 1
-  },
-  {
-    "text": "braine",
-    "size": 1
-  },
-  {
-    "text": "jai-research",
-    "size": 1
-  },
-  {
-    "text": "arcanes",
-    "size": 1
-  },
-  {
-    "text": "air-sec",
-    "size": 1
-  },
-  {
-    "text": "vagebond",
-    "size": 1
-  },
-  {
-    "text": "trinseo",
-    "size": 1
-  },
-  {
-    "text": "laurent",
-    "size": 1
-  },
-  {
-    "text": "pim",
-    "size": 1
-  },
-  {
-    "text": "laurens",
-    "size": 1
-  },
-  {
-    "text": "sophie\u0027s",
-    "size": 1
-  },
-  {
-    "text": "b.b.c.i",
-    "size": 1
-  },
-  {
-    "text": "cpi",
-    "size": 1
-  },
-  {
-    "text": "ets",
-    "size": 1
-  },
-  {
-    "text": "tekenbureau",
-    "size": 1
-  },
-  {
-    "text": "helios",
-    "size": 1
-  },
-  {
-    "text": "woods",
-    "size": 1
-  },
-  {
-    "text": "solitaire",
-    "size": 1
-  },
-  {
-    "text": "pardon",
-    "size": 1
-  },
-  {
-    "text": "govi",
-    "size": 1
-  },
-  {
-    "text": "toon",
-    "size": 1
-  },
-  {
-    "text": "ghent",
-    "size": 1
-  },
-  {
-    "text": "cetprobel",
-    "size": 1
-  },
-  {
-    "text": "exactement",
-    "size": 1
-  },
-  {
-    "text": "s.k.i",
-    "size": 1
-  },
-  {
-    "text": "jeldan",
-    "size": 1
-  },
-  {
-    "text": "aerosols",
-    "size": 1
-  },
-  {
-    "text": "effective",
-    "size": 1
-  },
-  {
-    "text": "sarco",
-    "size": 1
-  },
-  {
-    "text": "lebak",
-    "size": 1
-  },
-  {
-    "text": "energizer",
-    "size": 1
-  },
-  {
-    "text": "edialux-formulex",
-    "size": 1
-  },
-  {
-    "text": "anc",
-    "size": 1
-  },
-  {
-    "text": "land",
-    "size": 1
-  },
-  {
-    "text": "construction",
-    "size": 1
-  },
-  {
-    "text": "lmpeq",
-    "size": 1
-  },
-  {
-    "text": "smithkline",
-    "size": 1
-  },
-  {
-    "text": "coating",
-    "size": 1
-  },
-  {
-    "text": "locomat",
-    "size": 1
-  },
-  {
-    "text": "textiles-4-u",
-    "size": 1
-  },
-  {
-    "text": "dilly",
-    "size": 1
-  },
-  {
-    "text": "scheler",
-    "size": 1
-  },
-  {
-    "text": "stickerparadise",
-    "size": 1
-  },
-  {
-    "text": "industrial",
-    "size": 1
-  },
-  {
-    "text": "pineapple",
-    "size": 1
+    "text": "globalyeast",
+    "size": 1,
+    "category": "ander"
   }
 ]

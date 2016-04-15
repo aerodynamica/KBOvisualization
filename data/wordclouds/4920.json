@@ -1,1002 +1,1252 @@
 [
   {
     "text": "logistics",
-    "size": 19
+    "size": 16,
+    "category": "ander"
   },
   {
     "text": "transport",
-    "size": 16
+    "size": 11,
+    "category": "ander"
   },
   {
     "text": "bvba",
-    "size": 13
-  },
-  {
-    "text": "belgium",
-    "size": 11
+    "size": 10,
+    "category": "rechtsvorm"
   },
   {
     "text": "services",
-    "size": 9
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "trans",
-    "size": 7
-  },
-  {
-    "text": "nv",
-    "size": 7
+    "text": "belgium",
+    "size": 8,
+    "category": "land"
   },
   {
     "text": "rail",
-    "size": 7
-  },
-  {
-    "text": "benelux",
-    "size": 6
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "europe",
-    "size": 6
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "nv",
+    "size": 6,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "benelux",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "trans",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "logistique",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "international",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "depot",
-    "size": 4
-  },
-  {
-    "text": "stsi",
-    "size": 3
-  },
-  {
-    "text": "management",
-    "size": 3
-  },
-  {
-    "text": "service",
-    "size": 3
-  },
-  {
-    "text": "sprl",
-    "size": 3
-  },
-  {
-    "text": "proxilog",
-    "size": 3
-  },
-  {
-    "text": "proxitrans",
-    "size": 3
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "cargo",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "consulting",
-    "size": 3
+    "text": "management",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "belgië",
-    "size": 3
+    "text": "sprl",
+    "size": 3,
+    "category": "rechtsvorm"
   },
   {
-    "text": "sea",
-    "size": 2
+    "text": "proxilog",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "european",
-    "size": 2
-  },
-  {
-    "text": "wandre",
-    "size": 2
-  },
-  {
-    "text": "handling",
-    "size": 2
-  },
-  {
-    "text": "vtg",
-    "size": 2
-  },
-  {
-    "text": "all",
-    "size": 2
-  },
-  {
-    "text": "recycling",
-    "size": 2
-  },
-  {
-    "text": "pl",
-    "size": 2
+    "text": "proxitrans",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "pt",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "sea",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "consulting",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "european",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "wandre",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "wierde",
-    "size": 2
-  },
-  {
-    "text": "forwarding",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "sys",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "distri",
-    "size": 2
+    "text": "service",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "sd-products",
-    "size": 2
+    "text": "handling",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "namur",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "road",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "postnl",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "puurs",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "feluy",
-    "size": 2
-  },
-  {
-    "text": "gmbh",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "line",
-    "size": 2
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "belgië",
+    "size": 2,
+    "category": "land"
   },
   {
     "text": "transports",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "projects",
-    "size": 1
-  },
-  {
-    "text": "tdr",
-    "size": 1
-  },
-  {
-    "text": "fordeyn",
-    "size": 1
-  },
-  {
-    "text": "den",
-    "size": 1
-  },
-  {
-    "text": "vestiging",
-    "size": 1
-  },
-  {
-    "text": "maasdal",
-    "size": 1
-  },
-  {
-    "text": "e-llis",
-    "size": 1
-  },
-  {
-    "text": "blauwe",
-    "size": 1
-  },
-  {
-    "text": "danajo",
-    "size": 1
-  },
-  {
-    "text": "moving",
-    "size": 1
-  },
-  {
-    "text": "you",
-    "size": 1
-  },
-  {
-    "text": "groot",
-    "size": 1
-  },
-  {
-    "text": "combo",
-    "size": 1
-  },
-  {
-    "text": "carriers",
-    "size": 1
-  },
-  {
-    "text": "infra",
-    "size": 1
-  },
-  {
-    "text": "entreprise",
-    "size": 1
-  },
-  {
-    "text": "snel-transporten",
-    "size": 1
-  },
-  {
-    "text": "b-logistics",
-    "size": 1
-  },
-  {
-    "text": "sotiaux",
-    "size": 1
-  },
-  {
-    "text": "eurogas",
-    "size": 1
-  },
-  {
-    "text": "jema",
-    "size": 1
-  },
-  {
-    "text": "wine",
-    "size": 1
-  },
-  {
-    "text": "mega",
-    "size": 1
-  },
-  {
-    "text": "1000",
-    "size": 1
-  },
-  {
-    "text": "arba-management",
-    "size": 1
-  },
-  {
-    "text": "castralog",
-    "size": 1
-  },
-  {
-    "text": "peter",
-    "size": 1
-  },
-  {
-    "text": "landrain",
-    "size": 1
-  },
-  {
-    "text": "buysse",
-    "size": 1
-  },
-  {
-    "text": "torquetum",
-    "size": 1
-  },
-  {
-    "text": "connect",
-    "size": 1
-  },
-  {
-    "text": "martens",
-    "size": 1
-  },
-  {
-    "text": "gestof",
-    "size": 1
-  },
-  {
-    "text": "ch",
-    "size": 1
-  },
-  {
-    "text": "dhl",
-    "size": 1
-  },
-  {
-    "text": "kenneth",
-    "size": 1
-  },
-  {
-    "text": "co",
-    "size": 1
-  },
-  {
-    "text": "tvsl",
-    "size": 1
-  },
-  {
-    "text": "crossrail",
-    "size": 1
-  },
-  {
-    "text": "sprint",
-    "size": 1
-  },
-  {
-    "text": "eko",
-    "size": 1
-  },
-  {
-    "text": "huyvaert",
-    "size": 1
-  },
-  {
-    "text": "red",
-    "size": 1
-  },
-  {
-    "text": "dt",
-    "size": 1
-  },
-  {
-    "text": "spanlux",
-    "size": 1
-  },
-  {
-    "text": "sylvia",
-    "size": 1
-  },
-  {
-    "text": "waasland",
-    "size": 1
-  },
-  {
-    "text": "shipping",
-    "size": 1
-  },
-  {
-    "text": "gyselinck",
-    "size": 1
-  },
-  {
-    "text": "aycek",
-    "size": 1
-  },
-  {
-    "text": "train",
-    "size": 1
-  },
-  {
-    "text": "hozon",
-    "size": 1
-  },
-  {
-    "text": "area",
-    "size": 1
-  },
-  {
-    "text": "vijfde",
-    "size": 1
-  },
-  {
-    "text": "zonen",
-    "size": 1
-  },
-  {
-    "text": "amatran",
-    "size": 1
-  },
-  {
-    "text": "titan-80",
-    "size": 1
-  },
-  {
-    "text": "dewulf",
-    "size": 1
-  },
-  {
-    "text": "jing\u0027s",
-    "size": 1
-  },
-  {
-    "text": "technics",
-    "size": 1
-  },
-  {
-    "text": "smet",
-    "size": 1
-  },
-  {
-    "text": "ebvba",
-    "size": 1
-  },
-  {
-    "text": "jr-trans",
-    "size": 1
-  },
-  {
-    "text": "for",
-    "size": 1
-  },
-  {
-    "text": "anaco",
-    "size": 1
-  },
-  {
-    "text": "warehousing",
-    "size": 1
-  },
-  {
-    "text": "dks",
-    "size": 1
-  },
-  {
-    "text": "company",
-    "size": 1
-  },
-  {
-    "text": "lines",
-    "size": 1
-  },
-  {
-    "text": "belbois",
-    "size": 1
-  },
-  {
-    "text": "just",
-    "size": 1
-  },
-  {
-    "text": "société",
-    "size": 1
-  },
-  {
-    "text": "gl",
-    "size": 1
-  },
-  {
-    "text": "kavelaars",
-    "size": 1
-  },
-  {
-    "text": "jongeneel",
-    "size": 1
-  },
-  {
-    "text": "naert",
-    "size": 1
-  },
-  {
-    "text": "transservice",
-    "size": 1
-  },
-  {
-    "text": "print",
-    "size": 1
-  },
-  {
-    "text": "freeway",
-    "size": 1
-  },
-  {
-    "text": "agm",
-    "size": 1
-  },
-  {
-    "text": "tmb",
-    "size": 1
-  },
-  {
-    "text": "construct",
-    "size": 1
-  },
-  {
-    "text": "renokri",
-    "size": 1
-  },
-  {
-    "text": "number",
-    "size": 1
-  },
-  {
-    "text": "ketelslegers",
-    "size": 1
-  },
-  {
-    "text": "diving",
-    "size": 1
-  },
-  {
-    "text": "zozo",
-    "size": 1
-  },
-  {
-    "text": "représentation",
-    "size": 1
-  },
-  {
-    "text": "gondrand",
-    "size": 1
-  },
-  {
-    "text": "sina-roca",
-    "size": 1
-  },
-  {
-    "text": "nadeem\u0027s",
-    "size": 1
-  },
-  {
-    "text": "julien",
-    "size": 1
-  },
-  {
-    "text": "q-vlaanderen",
-    "size": 1
-  },
-  {
-    "text": "e.c.d",
-    "size": 1
-  },
-  {
-    "text": "ups",
-    "size": 1
-  },
-  {
-    "text": "john",
-    "size": 1
-  },
-  {
-    "text": "fsh",
-    "size": 1
-  },
-  {
-    "text": "frères",
-    "size": 1
-  },
-  {
-    "text": "trading",
-    "size": 1
-  },
-  {
-    "text": "köse",
-    "size": 1
-  },
-  {
-    "text": "weedfree",
-    "size": 1
-  },
-  {
-    "text": "world",
-    "size": 1
-  },
-  {
-    "text": "steve",
-    "size": 1
-  },
-  {
-    "text": "c.f.i",
-    "size": 1
-  },
-  {
-    "text": "grondwerken",
-    "size": 1
-  },
-  {
-    "text": "delvaux",
-    "size": 1
-  },
-  {
-    "text": "hasselt",
-    "size": 1
-  },
-  {
-    "text": "internationaal",
-    "size": 1
-  },
-  {
-    "text": "mbg",
-    "size": 1
-  },
-  {
-    "text": "centraal",
-    "size": 1
-  },
-  {
-    "text": "machine",
-    "size": 1
-  },
-  {
-    "text": "esd",
-    "size": 1
-  },
-  {
-    "text": "afgekort",
-    "size": 1
-  },
-  {
-    "text": "muhammed",
-    "size": 1
-  },
-  {
-    "text": "royal",
-    "size": 1
-  },
-  {
-    "text": "mekatra",
-    "size": 1
-  },
-  {
-    "text": "mca",
-    "size": 1
-  },
-  {
-    "text": "dagevos",
-    "size": 1
-  },
-  {
-    "text": "kmg-services",
-    "size": 1
-  },
-  {
-    "text": "kunsttransport",
-    "size": 1
-  },
-  {
-    "text": "md",
-    "size": 1
-  },
-  {
-    "text": "mattheessen",
-    "size": 1
-  },
-  {
-    "text": "etablissements",
-    "size": 1
-  },
-  {
-    "text": "maasland",
-    "size": 1
-  },
-  {
-    "text": "bat-euro-trans-expo",
-    "size": 1
-  },
-  {
-    "text": "modo",
-    "size": 1
-  },
-  {
-    "text": "marcel",
-    "size": 1
-  },
-  {
-    "text": "koffie",
-    "size": 1
-  },
-  {
-    "text": "despriet",
-    "size": 1
-  },
-  {
-    "text": "megalog",
-    "size": 1
-  },
-  {
-    "text": "ghent",
-    "size": 1
-  },
-  {
-    "text": "h.essers",
-    "size": 1
-  },
-  {
-    "text": "verlaine",
-    "size": 1
-  },
-  {
-    "text": "handsome",
-    "size": 1
-  },
-  {
-    "text": "dsv",
-    "size": 1
-  },
-  {
-    "text": "railport",
-    "size": 1
-  },
-  {
-    "text": "transciterne",
-    "size": 1
-  },
-  {
-    "text": "media",
-    "size": 1
-  },
-  {
-    "text": "vb-tra",
-    "size": 1
-  },
-  {
-    "text": "beheer",
-    "size": 1
-  },
-  {
-    "text": "and",
-    "size": 1
-  },
-  {
-    "text": "ibarge",
-    "size": 1
-  },
-  {
-    "text": "dena",
-    "size": 1
-  },
-  {
-    "text": "loir",
-    "size": 1
-  },
-  {
-    "text": "b.k",
-    "size": 1
-  },
-  {
-    "text": "algemene",
-    "size": 1
-  },
-  {
-    "text": "alca",
-    "size": 1
-  },
-  {
-    "text": "cross",
-    "size": 1
-  },
-  {
-    "text": "synergies",
-    "size": 1
-  },
-  {
-    "text": "nortraffic",
-    "size": 1
-  },
-  {
-    "text": "xpedys",
-    "size": 1
-  },
-  {
-    "text": "poltuk",
-    "size": 1
-  },
-  {
-    "text": "tts",
-    "size": 1
-  },
-  {
-    "text": "dcig",
-    "size": 1
-  },
-  {
-    "text": "ldm",
-    "size": 1
-  },
-  {
-    "text": "melatra",
-    "size": 1
+    "text": "pl",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "boeking",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "projects",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tdr",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "reizen",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fordeyn",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "belgian",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "lifthing",
-    "size": 1
-  },
-  {
-    "text": "antwerpen",
-    "size": 1
-  },
-  {
-    "text": "dulco",
-    "size": 1
+    "text": "vestiging",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "gino",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
-    "text": "famitrans",
-    "size": 1
+    "text": "maasdal",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "publi-log",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "e-llis",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ligam",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "renty",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
-    "text": "concordimo",
-    "size": 1
+    "text": "blauwe",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "danajo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "moving",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "you",
+    "size": 1,
+    "category": "voornaam"
   },
   {
     "text": "blomme",
-    "size": 1
-  },
-  {
-    "text": "kelst",
-    "size": 1
+    "size": 1,
+    "category": "voornaam vrouw"
   },
   {
     "text": "s3",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "13",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ironworld7",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "carriers",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "infra",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vara",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "rail-trans",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "quality",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sto",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "kukaj",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "entreprise",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "luikersteenweg",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "snel-transporten",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "rj",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "b-logistics",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sotiaux",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "eurogas",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "e.v.a.a",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "vanthournout",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "actions",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jema",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "mega",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "sunrise",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "permanente",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "docord",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ficoma",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "g3-shipping",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "castralog",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "xplj",
-    "size": 1
-  },
-  {
-    "text": "skyfor",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "mio",
-    "size": 1
+    "size": 1,
+    "category": "voornaam"
   },
   {
-    "text": "fienes",
-    "size": 1
+    "text": "peter",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "landrain",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "torquetum",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "connect",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "martens",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gestof",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "claes",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
   },
   {
     "text": "labas/t-shirt",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "star",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ch",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "belgie",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dhl",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "a.a.a",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "team",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "nest",
-    "size": 1
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "co",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tvsl",
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "glasbreuk",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "velde",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "ewals",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "intermodal",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "bud",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "asf",
-    "size": 1
+    "size": 1,
+    "category": "ander"
   },
   {
     "text": "2g",
-    "size": 1
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gouden",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "almetra",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "décisions",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "pharma",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jdw",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "zapata",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "insurance",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fragapane",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "crossrail",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sprint",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "invest",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "donati",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "eko",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dimex",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "diadem",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "huyvaert",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "express",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dennis",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "red",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "spanlux",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "waasland",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "shipping",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gyselinck",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "rapidflex",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "aycek",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "train",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vandatax",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ats",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "verbiest",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "degandt",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "solutions",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "zonen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "amatran",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "titan-80",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dewulf",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "sproloo",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jing\u0027s",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "revatec",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "technics",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mireille",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "ebvba",
+    "size": 1,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "boom",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mmg",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jr-trans",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "for",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "anaco",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "swanflor",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "safegarden",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "forwarding",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "warehousing",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "assistance",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "trainsport",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "bimatra",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "châtelet",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "company",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lines",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "belbois",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "société",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gl",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "française",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gebroeders",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "kc.logistic",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "overloop",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "naert",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "transservice",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "print",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "logistic",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dn-logistics",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jfdw",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "distri",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "freeway",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "container",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "agm",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tmb",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "construct",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ketelslegers",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gens",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "traf",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "représentation",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gondrand",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "essers",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dany",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "artifex",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "apollo",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "chris",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "julien",
+    "size": 1,
+    "category": "voornaam"
+  },
+  {
+    "text": "q-vlaanderen",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "e.c.d",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "tsbc",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ups",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "frituur",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fsh",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "frères",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "jango",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "regiorail",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "care",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "trafiqurail",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "trading",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "navonus",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "freight",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "köse",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "poloskei",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "gangadhara",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "koerier",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "weedfree",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "world",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "eurostar",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "steve",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "xavier",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "manul",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "c.f.i",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "grondwerken",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lemar",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "delvaux",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "l.k",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "vtg",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "hasselt",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "great",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "internationaal",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "schoefs",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "site",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mbg",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "centraal",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "esd",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "fravertrans",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "afgekort",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "muhammed",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "royal",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "d.l.t",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "cobra",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "landbouw",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "mekatra",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ecd",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lambert",
+    "size": 1,
+    "category": "voornaam man"
+  },
+  {
+    "text": "railtraxx",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "ledi",
+    "size": 1,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "sales",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "lanaken",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "dagevos",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "kmg-services",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "thamseku",
+    "size": 1,
+    "category": "ander"
+  },
+  {
+    "text": "minnaard",
+    "size": 1,
+    "category": "ander"
   }
 ]

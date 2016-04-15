@@ -1,1002 +1,1252 @@
 [
   {
     "text": "bvba",
-    "size": 157
+    "size": 141,
+    "category": "rechtsvorm"
   },
   {
     "text": "nv",
-    "size": 71
+    "size": 68,
+    "category": "rechtsvorm"
   },
   {
     "text": "international",
-    "size": 66
-  },
-  {
-    "text": "trading",
-    "size": 50
+    "size": 59,
+    "category": "ander"
   },
   {
     "text": "jewels",
-    "size": 46
+    "size": 45,
+    "category": "ander"
+  },
+  {
+    "text": "trading",
+    "size": 39,
+    "category": "ander"
   },
   {
     "text": "belgium",
-    "size": 45
+    "size": 37,
+    "category": "land"
   },
   {
     "text": "fashion",
-    "size": 42
-  },
-  {
-    "text": "the",
-    "size": 35
+    "size": 32,
+    "category": "ander"
   },
   {
     "text": "diamonds",
-    "size": 33
-  },
-  {
-    "text": "jewellery",
-    "size": 32
-  },
-  {
-    "text": "juwelen",
-    "size": 32
+    "size": 31,
+    "category": "ander"
   },
   {
     "text": "bijouterie",
-    "size": 30
+    "size": 30,
+    "category": "ander"
   },
   {
-    "text": "co",
-    "size": 29
+    "text": "jewellery",
+    "size": 29,
+    "category": "ander"
+  },
+  {
+    "text": "juwelen",
+    "size": 29,
+    "category": "ander"
+  },
+  {
+    "text": "the",
+    "size": 25,
+    "category": "voornaam"
   },
   {
     "text": "design",
-    "size": 29
+    "size": 25,
+    "category": "ander"
   },
   {
-    "text": "company",
-    "size": 28
-  },
-  {
-    "text": "sprl",
-    "size": 28
-  },
-  {
-    "text": "gold",
-    "size": 27
+    "text": "co",
+    "size": 24,
+    "category": "ander"
   },
   {
     "text": "group",
-    "size": 27
+    "size": 24,
+    "category": "ander"
   },
   {
-    "text": "consulting",
-    "size": 24
+    "text": "sprl",
+    "size": 24,
+    "category": "rechtsvorm"
   },
   {
-    "text": "and",
-    "size": 24
+    "text": "gold",
+    "size": 23,
+    "category": "ander"
   },
   {
     "text": "bijoux",
-    "size": 22
+    "size": 22,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "company",
+    "size": 22,
+    "category": "ander"
   },
   {
     "text": "diamond",
-    "size": 22
-  },
-  {
-    "text": "services",
-    "size": 21
-  },
-  {
-    "text": "diffusion",
-    "size": 21
+    "size": 21,
+    "category": "voornaam man"
   },
   {
     "text": "new",
-    "size": 21
+    "size": 20,
+    "category": "ander"
   },
   {
     "text": "time",
-    "size": 20
+    "size": 20,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "art",
-    "size": 19
+    "text": "diffusion",
+    "size": 19,
+    "category": "ander"
   },
   {
-    "text": "atelier",
-    "size": 18
+    "text": "consulting",
+    "size": 18,
+    "category": "ander"
   },
   {
-    "text": "juwelier",
-    "size": 17
+    "text": "and",
+    "size": 18,
+    "category": "ander"
   },
   {
-    "text": "antwerp",
-    "size": 16
-  },
-  {
-    "text": "by",
-    "size": 16
-  },
-  {
-    "text": "or",
-    "size": 16
+    "text": "services",
+    "size": 16,
+    "category": "ander"
   },
   {
     "text": "boutique",
-    "size": 16
+    "size": 16,
+    "category": "ander"
+  },
+  {
+    "text": "or",
+    "size": 15,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "juwelier",
+    "size": 15,
+    "category": "ander"
+  },
+  {
+    "text": "atelier",
+    "size": 14,
+    "category": "ander"
+  },
+  {
+    "text": "by",
+    "size": 14,
+    "category": "ander"
+  },
+  {
+    "text": "antwerp",
+    "size": 13,
+    "category": "ander"
+  },
+  {
+    "text": "art",
+    "size": 13,
+    "category": "voornaam man"
   },
   {
     "text": "beauty",
-    "size": 16
-  },
-  {
-    "text": "jewelry",
-    "size": 15
-  },
-  {
-    "text": "europe",
-    "size": 14
-  },
-  {
-    "text": "service",
-    "size": 14
-  },
-  {
-    "text": "optiek",
-    "size": 13
-  },
-  {
-    "text": "ets",
-    "size": 13
-  },
-  {
-    "text": "trade",
-    "size": 13
+    "size": 13,
+    "category": "voornaam vrouw"
   },
   {
     "text": "watch",
-    "size": 12
+    "size": 12,
+    "category": "ander"
   },
   {
-    "text": "maison",
-    "size": 12
+    "text": "jewelry",
+    "size": 12,
+    "category": "ander"
   },
   {
     "text": "import",
-    "size": 12
+    "size": 12,
+    "category": "ander"
+  },
+  {
+    "text": "service",
+    "size": 12,
+    "category": "ander"
+  },
+  {
+    "text": "trade",
+    "size": 12,
+    "category": "ander"
+  },
+  {
+    "text": "ets",
+    "size": 11,
+    "category": "ander"
   },
   {
     "text": "nails",
-    "size": 12
-  },
-  {
-    "text": "silver",
-    "size": 12
-  },
-  {
-    "text": "benelux",
-    "size": 12
-  },
-  {
-    "text": "concept",
-    "size": 11
-  },
-  {
-    "text": "business",
-    "size": 11
-  },
-  {
-    "text": "di",
-    "size": 11
-  },
-  {
-    "text": "house",
-    "size": 10
+    "size": 11,
+    "category": "ander"
   },
   {
     "text": "studio",
-    "size": 10
+    "size": 10,
+    "category": "ander"
+  },
+  {
+    "text": "europe",
+    "size": 10,
+    "category": "ander"
   },
   {
     "text": "juweliers",
-    "size": 10
+    "size": 10,
+    "category": "ander"
   },
   {
     "text": "pvba",
-    "size": 10
+    "size": 10,
+    "category": "ander"
   },
   {
-    "text": "yes",
-    "size": 10
+    "text": "silver",
+    "size": 10,
+    "category": "voornaam man"
   },
   {
-    "text": "home",
-    "size": 10
-  },
-  {
-    "text": "d\u0027or",
-    "size": 10
-  },
-  {
-    "text": "gifts",
-    "size": 10
+    "text": "house",
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "center",
-    "size": 9
+    "size": 9,
+    "category": "ander"
   },
   {
-    "text": "consult",
-    "size": 9
+    "text": "maison",
+    "size": 9,
+    "category": "ander"
   },
   {
-    "text": "den",
-    "size": 9
+    "text": "optiek",
+    "size": 9,
+    "category": "ander"
   },
   {
-    "text": "an",
-    "size": 9
+    "text": "di",
+    "size": 9,
+    "category": "voornaam"
   },
   {
     "text": "euro",
-    "size": 9
-  },
-  {
-    "text": "creations",
-    "size": 9
-  },
-  {
-    "text": "boetiek",
-    "size": 9
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "coiffure",
-    "size": 9
+    "size": 9,
+    "category": "ander"
+  },
+  {
+    "text": "d\u0027or",
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "jewel",
-    "size": 9
+    "size": 9,
+    "category": "voornaam"
   },
   {
     "text": "free",
-    "size": 9
+    "size": 9,
+    "category": "voornaam"
+  },
+  {
+    "text": "gifts",
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "shop",
-    "size": 9
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "gems",
-    "size": 9
-  },
-  {
-    "text": "projects",
-    "size": 9
-  },
-  {
-    "text": "world",
-    "size": 9
-  },
-  {
-    "text": "express",
-    "size": 9
-  },
-  {
-    "text": "hair",
-    "size": 9
-  },
-  {
-    "text": "export",
-    "size": 8
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "marketing",
-    "size": 8
+    "size": 8,
+    "category": "ander"
+  },
+  {
+    "text": "concept",
+    "size": 8,
+    "category": "ander"
+  },
+  {
+    "text": "business",
+    "size": 8,
+    "category": "ander"
   },
   {
     "text": "invest",
-    "size": 8
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "pearl",
-    "size": 8
-  },
-  {
-    "text": "huis",
-    "size": 8
-  },
-  {
-    "text": "for",
-    "size": 8
-  },
-  {
-    "text": "no",
-    "size": 8
-  },
-  {
-    "text": "distribution",
-    "size": 8
-  },
-  {
-    "text": "blue",
-    "size": 8
+    "text": "creations",
+    "size": 8,
+    "category": "ander"
   },
   {
     "text": "vincent",
-    "size": 8
-  },
-  {
-    "text": "cosmetics",
-    "size": 8
+    "size": 8,
+    "category": "voornaam man"
   },
   {
     "text": "parfumerie",
-    "size": 8
+    "size": 8,
+    "category": "ander"
   },
   {
     "text": "watches",
-    "size": 8
+    "size": 8,
+    "category": "ander"
   },
   {
     "text": "cash",
-    "size": 8
+    "size": 8,
+    "category": "ander"
+  },
+  {
+    "text": "benelux",
+    "size": 8,
+    "category": "ander"
+  },
+  {
+    "text": "express",
+    "size": 8,
+    "category": "ander"
+  },
+  {
+    "text": "hair",
+    "size": 8,
+    "category": "ander"
+  },
+  {
+    "text": "export",
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "top",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "golden",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "dominique",
-    "size": 7
-  },
-  {
-    "text": "star",
-    "size": 7
+    "text": "den",
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "vof",
-    "size": 7
+    "size": 7,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "pearl",
+    "size": 7,
+    "category": "voornaam vrouw"
   },
   {
     "text": "joaillerie",
-    "size": 7
-  },
-  {
-    "text": "versato",
-    "size": 7
-  },
-  {
-    "text": "outlet",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "be",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "hasselt",
-    "size": 7
+    "text": "no",
+    "size": 7,
+    "category": "ander"
+  },
+  {
+    "text": "distribution",
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "line",
-    "size": 7
+    "size": 7,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "corporation",
-    "size": 7
+    "text": "blue",
+    "size": 7,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "you",
-    "size": 7
+    "text": "boetiek",
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "peter",
-    "size": 7
-  },
-  {
-    "text": "products",
-    "size": 7
-  },
-  {
-    "text": "s.a",
-    "size": 7
+    "text": "home",
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "belgie",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "retail",
-    "size": 7
-  },
-  {
-    "text": "mode",
-    "size": 7
-  },
-  {
-    "text": "care",
-    "size": 7
+    "text": "cosmetics",
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "achat",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "goudsmederij",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "patrick",
-    "size": 6
+    "size": 6,
+    "category": "voornaam man"
   },
   {
     "text": "rose",
-    "size": 6
+    "size": 6,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "immo",
-    "size": 6
+    "text": "consult",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "gallery",
-    "size": 6
+    "text": "dominique",
+    "size": 6,
+    "category": "voornaam"
   },
   {
     "text": "discount",
-    "size": 6
-  },
-  {
-    "text": "bart",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "belgian",
-    "size": 6
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "huis",
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "outlet",
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "an",
+    "size": 6,
+    "category": "voornaam"
   },
   {
     "text": "terre",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "diamant",
-    "size": 6
-  },
-  {
-    "text": "accessoires",
-    "size": 6
-  },
-  {
-    "text": "prestige",
-    "size": 6
+    "size": 6,
+    "category": "voornaam"
   },
   {
     "text": "electro",
-    "size": 6
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "corporation",
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "circle",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "agency",
-    "size": 6
+    "text": "peter",
+    "size": 6,
+    "category": "voornaam man"
+  },
+  {
+    "text": "s.a",
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "network",
-    "size": 6
-  },
-  {
-    "text": "royal",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "all",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "moda",
-    "size": 6
-  },
-  {
-    "text": "ann",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "amway",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "style",
-    "size": 6
+    "text": "projects",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "office",
-    "size": 6
+    "text": "world",
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "immo",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "geert",
-    "size": 5
+    "size": 5,
+    "category": "voornaam"
   },
   {
     "text": "joaillier",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "centre",
-    "size": 5
-  },
-  {
-    "text": "promotions",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "luc",
-    "size": 5
+    "size": 5,
+    "category": "voornaam man"
   },
   {
     "text": "construct",
-    "size": 5
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "star",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "look",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "marc",
-    "size": 5
-  },
-  {
-    "text": "antiques",
-    "size": 5
+    "size": 5,
+    "category": "voornaam man"
   },
   {
     "text": "yves",
-    "size": 5
-  },
-  {
-    "text": "super",
-    "size": 5
-  },
-  {
-    "text": "classic",
-    "size": 5
-  },
-  {
-    "text": "toys",
-    "size": 5
+    "size": 5,
+    "category": "voornaam man"
   },
   {
     "text": "andre",
-    "size": 5
+    "size": 5,
+    "category": "voornaam man"
   },
   {
     "text": "wim",
-    "size": 5
+    "size": 5,
+    "category": "voornaam man"
   },
   {
     "text": "cv",
-    "size": 5
+    "size": 5,
+    "category": "rechtsvorm"
   },
   {
     "text": "salon",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "flanders",
-    "size": 5
+    "text": "for",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "management",
-    "size": 5
+    "text": "accessoires",
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "perle",
-    "size": 5
-  },
-  {
-    "text": "it",
-    "size": 5
-  },
-  {
-    "text": "belle",
-    "size": 5
-  },
-  {
-    "text": "antwerpen",
-    "size": 5
+    "text": "prestige",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "d\u0027oro",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "wellness",
-    "size": 5
-  },
-  {
-    "text": "point",
-    "size": 5
+    "text": "you",
+    "size": 5,
+    "category": "voornaam"
   },
   {
     "text": "import-export",
-    "size": 5
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "products",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "fine",
-    "size": 5
+    "size": 5,
+    "category": "voornaam vrouw"
   },
   {
     "text": "belgique",
-    "size": 5
+    "size": 5,
+    "category": "land"
   },
   {
     "text": "hobby",
-    "size": 5
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "royal",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "mode",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "b.v.b.a",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "deco",
-    "size": 5
+    "text": "style",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "alain",
-    "size": 5
+    "size": 5,
+    "category": "voornaam man"
   },
   {
-    "text": "box",
-    "size": 5
+    "text": "office",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "passion",
-    "size": 5
-  },
-  {
-    "text": "elegance",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "paris",
-    "size": 5
-  },
-  {
-    "text": "willems",
-    "size": 5
+    "size": 5,
+    "category": "voornaam"
   },
   {
     "text": "wisara\u0027s",
-    "size": 4
-  },
-  {
-    "text": "productions",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "eric",
-    "size": 4
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "clem",
-    "size": 4
+    "size": 4,
+    "category": "voornaam man"
+  },
+  {
+    "text": "gallery",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "enterprise",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "dona",
-    "size": 4
+    "size": 4,
+    "category": "voornaam"
+  },
+  {
+    "text": "promotions",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "logistics",
-    "size": 4
-  },
-  {
-    "text": "ltd",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "comptoir",
-    "size": 4
-  },
-  {
-    "text": "investments",
-    "size": 4
-  },
-  {
-    "text": "alexandre",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "caroline",
-    "size": 4
-  },
-  {
-    "text": "seven",
-    "size": 4
+    "size": 4,
+    "category": "voornaam vrouw"
   },
   {
     "text": "solutions",
-    "size": 4
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "antiques",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "love",
-    "size": 4
+    "size": 4,
+    "category": "voornaam"
   },
   {
     "text": "maxi",
-    "size": 4
-  },
-  {
-    "text": "pierre",
-    "size": 4
-  },
-  {
-    "text": "selection",
-    "size": 4
+    "size": 4,
+    "category": "voornaam vrouw"
   },
   {
     "text": "eva",
-    "size": 4
+    "size": 4,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "super",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "classic",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "toys",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "katty",
-    "size": 4
+    "size": 4,
+    "category": "voornaam vrouw"
   },
   {
     "text": "horlogerie",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "isabelle",
-    "size": 4
+    "size": 4,
+    "category": "voornaam vrouw"
   },
   {
     "text": "ds",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "michel",
-    "size": 4
+    "text": "flanders",
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "consultancy",
-    "size": 4
-  },
-  {
-    "text": "jo",
-    "size": 4
+    "text": "perle",
+    "size": 4,
+    "category": "voornaam vrouw"
   },
   {
     "text": "enterprises",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "bella",
-    "size": 4
-  },
-  {
-    "text": "so",
-    "size": 4
-  },
-  {
-    "text": "one",
-    "size": 4
+    "text": "belle",
+    "size": 4,
+    "category": "voornaam vrouw"
   },
   {
     "text": "vg",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "life",
-    "size": 4
-  },
-  {
-    "text": "witte",
-    "size": 4
-  },
-  {
-    "text": "nord",
-    "size": 4
-  },
-  {
-    "text": "brussels",
-    "size": 4
-  },
-  {
-    "text": "factory",
-    "size": 4
-  },
-  {
-    "text": "koen",
-    "size": 4
-  },
-  {
-    "text": "sabine",
-    "size": 4
-  },
-  {
-    "text": "things",
-    "size": 4
-  },
-  {
-    "text": "chic",
-    "size": 4
-  },
-  {
-    "text": "sandra",
-    "size": 4
-  },
-  {
-    "text": "vision",
-    "size": 4
-  },
-  {
-    "text": "just",
-    "size": 4
+    "text": "point",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "asia",
-    "size": 4
-  },
-  {
-    "text": "hong",
-    "size": 4
+    "size": 4,
+    "category": "voornaam vrouw"
   },
   {
     "text": "fils",
-    "size": 4
-  },
-  {
-    "text": "global",
-    "size": 4
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "jean",
-    "size": 4
-  },
-  {
-    "text": "zen",
-    "size": 4
+    "size": 4,
+    "category": "voornaam"
   },
   {
     "text": "etablissement",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "nico",
-    "size": 4
+    "size": 4,
+    "category": "voornaam"
+  },
+  {
+    "text": "agency",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "zoë",
-    "size": 4
+    "size": 4,
+    "category": "voornaam"
   },
   {
-    "text": "city",
-    "size": 4
+    "text": "retail",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "ann",
+    "size": 4,
+    "category": "voornaam vrouw"
   },
   {
     "text": "exclusive",
-    "size": 4
-  },
-  {
-    "text": "nail",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "alex",
-    "size": 4
-  },
-  {
-    "text": "kids",
-    "size": 4
-  },
-  {
-    "text": "partners",
-    "size": 4
+    "size": 4,
+    "category": "voornaam"
   },
   {
     "text": "more",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "entreprise",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "france",
-    "size": 4
-  },
-  {
-    "text": "olivier",
-    "size": 4
+    "size": 4,
+    "category": "voornaam"
   },
   {
     "text": "vogue",
-    "size": 4
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "box",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "recycling",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "leuven",
-    "size": 4
-  },
-  {
-    "text": "kapsalon",
-    "size": 4
+    "text": "elegance",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "limited",
-    "size": 4
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "willems",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "infinity",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "inter",
-    "size": 3
-  },
-  {
-    "text": "lingerie",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "meubelen",
-    "size": 3
-  },
-  {
-    "text": "piercing",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "distributeur",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "sport",
-    "size": 3
-  },
-  {
-    "text": "night",
-    "size": 3
-  },
-  {
-    "text": "claes",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "prix",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "carat",
-    "size": 3
-  },
-  {
-    "text": "consultants",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "schoonheidsinstituut",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "creative",
-    "size": 3
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "ltd",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "easy",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "investments",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "henri",
+    "size": 3,
+    "category": "voornaam"
+  },
+  {
+    "text": "maat",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "alexandre",
+    "size": 3,
+    "category": "voornaam"
+  },
+  {
+    "text": "johan",
+    "size": 3,
+    "category": "voornaam"
+  },
+  {
+    "text": "louise",
+    "size": 3,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "mano",
+    "size": 3,
+    "category": "voornaam"
+  },
+  {
+    "text": "seven",
+    "size": 3,
+    "category": "voornaam"
+  },
+  {
+    "text": "bart",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "jacques",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "maya",
+    "size": 3,
+    "category": "voornaam"
+  },
+  {
+    "text": "francis",
+    "size": 3,
+    "category": "voornaam"
+  },
+  {
+    "text": "selection",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "strass",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "sweet",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "linea",
+    "size": 3,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "linda",
+    "size": 3,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "marcel",
+    "size": 3,
+    "category": "voornaam"
+  },
+  {
+    "text": "quartz",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "lederwaren",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "handelsonderneming",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "eagle",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "david",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "galerie",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "galerij",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "partner",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "michel",
+    "size": 3,
+    "category": "voornaam"
+  },
+  {
+    "text": "go",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "management",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "promotion",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "perla",
+    "size": 3,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "divine",
+    "size": 3,
+    "category": "voornaam"
+  },
+  {
+    "text": "metal",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "argent",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "it",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "hasselt",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "mc",
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "mm",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "plus",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "swarovski",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "l\u0027atelier",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "bella",
+    "size": 3,
+    "category": "voornaam"
+  },
+  {
+    "text": "sc",
+    "size": 3,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "so",
+    "size": 3,
+    "category": "voornaam"
+  },
+  {
+    "text": "one",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "to",
+    "size": 3,
+    "category": "voornaam"
+  },
+  {
+    "text": "pure",
+    "size": 3,
+    "category": "ander"
+  },
+  {
+    "text": "life",
+    "size": 3,
+    "category": "ander"
   }
 ]

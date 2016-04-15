@@ -1,1002 +1,1252 @@
 [
   {
     "text": "music",
-    "size": 130
+    "size": 121,
+    "category": "ander"
   },
   {
     "text": "sound",
-    "size": 28
+    "size": 22,
+    "category": "ander"
   },
   {
     "text": "the",
-    "size": 23
-  },
-  {
-    "text": "bvba",
-    "size": 21
-  },
-  {
-    "text": "productions",
-    "size": 19
+    "size": 19,
+    "category": "voornaam"
   },
   {
     "text": "shop",
-    "size": 18
+    "size": 18,
+    "category": "ander"
   },
   {
-    "text": "studio",
-    "size": 16
+    "text": "bvba",
+    "size": 17,
+    "category": "rechtsvorm"
   },
   {
     "text": "librairie",
-    "size": 16
-  },
-  {
-    "text": "services",
-    "size": 14
+    "size": 15,
+    "category": "ander"
   },
   {
     "text": "piano\u0027s",
-    "size": 14
+    "size": 14,
+    "category": "ander"
+  },
+  {
+    "text": "productions",
+    "size": 13,
+    "category": "ander"
   },
   {
     "text": "center",
-    "size": 13
+    "size": 13,
+    "category": "ander"
+  },
+  {
+    "text": "studio",
+    "size": 13,
+    "category": "ander"
   },
   {
     "text": "atelier",
-    "size": 13
-  },
-  {
-    "text": "guitar",
-    "size": 12
+    "size": 12,
+    "category": "ander"
   },
   {
     "text": "musique",
-    "size": 12
+    "size": 12,
+    "category": "ander"
   },
   {
     "text": "muziekhandel",
-    "size": 12
+    "size": 12,
+    "category": "ander"
   },
   {
     "text": "pianos",
-    "size": 11
-  },
-  {
-    "text": "belgium",
-    "size": 11
+    "size": 11,
+    "category": "ander"
   },
   {
     "text": "nv",
-    "size": 11
-  },
-  {
-    "text": "consulting",
-    "size": 10
-  },
-  {
-    "text": "light",
-    "size": 10
+    "size": 11,
+    "category": "rechtsvorm"
   },
   {
     "text": "international",
-    "size": 10
+    "size": 10,
+    "category": "ander"
+  },
+  {
+    "text": "guitar",
+    "size": 10,
+    "category": "ander"
+  },
+  {
+    "text": "belgium",
+    "size": 10,
+    "category": "land"
   },
   {
     "text": "piano",
-    "size": 10
+    "size": 10,
+    "category": "ander"
   },
   {
     "text": "cash",
-    "size": 10
+    "size": 10,
+    "category": "ander"
+  },
+  {
+    "text": "services",
+    "size": 9,
+    "category": "ander"
   },
   {
     "text": "key",
-    "size": 10
+    "size": 9,
+    "category": "voornaam man"
   },
   {
-    "text": "solutions",
-    "size": 9
-  },
-  {
-    "text": "sprl",
-    "size": 9
-  },
-  {
-    "text": "records",
-    "size": 9
-  },
-  {
-    "text": "service",
-    "size": 8
-  },
-  {
-    "text": "design",
-    "size": 8
-  },
-  {
-    "text": "group",
-    "size": 8
+    "text": "light",
+    "size": 8,
+    "category": "ander"
   },
   {
     "text": "lutherie",
-    "size": 8
+    "size": 8,
+    "category": "ander"
+  },
+  {
+    "text": "solutions",
+    "size": 8,
+    "category": "ander"
   },
   {
     "text": "media",
-    "size": 8
+    "size": 8,
+    "category": "ander"
   },
   {
-    "text": "electro",
-    "size": 7
-  },
-  {
-    "text": "arts",
-    "size": 7
-  },
-  {
-    "text": "concept",
-    "size": 7
-  },
-  {
-    "text": "marc",
-    "size": 7
-  },
-  {
-    "text": "guitars",
-    "size": 7
+    "text": "service",
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "and",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
     "text": "art",
-    "size": 7
+    "size": 7,
+    "category": "voornaam man"
   },
   {
     "text": "luthier",
-    "size": 7
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "entertainment",
-    "size": 6
+    "text": "records",
+    "size": 7,
+    "category": "ander"
   },
   {
-    "text": "pro",
-    "size": 6
+    "text": "electro",
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "design",
+    "size": 6,
+    "category": "ander"
+  },
+  {
+    "text": "arts",
+    "size": 6,
+    "category": "ander"
   },
   {
     "text": "maison",
-    "size": 6
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "electronics",
-    "size": 6
+    "text": "marc",
+    "size": 6,
+    "category": "voornaam man"
   },
   {
-    "text": "peter",
-    "size": 6
+    "text": "guitars",
+    "size": 6,
+    "category": "ander"
   },
   {
-    "text": "pieter",
-    "size": 6
-  },
-  {
-    "text": "publishing",
-    "size": 6
-  },
-  {
-    "text": "drums",
-    "size": 5
+    "text": "sprl",
+    "size": 6,
+    "category": "rechtsvorm"
   },
   {
     "text": "disco",
-    "size": 5
-  },
-  {
-    "text": "patrick",
-    "size": 5
-  },
-  {
-    "text": "tom",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "lib",
-    "size": 5
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "pro",
+    "size": 5,
+    "category": "ander"
+  },
+  {
+    "text": "concept",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "video",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "consult",
-    "size": 5
-  },
-  {
-    "text": "den",
-    "size": 5
-  },
-  {
-    "text": "company",
-    "size": 5
+    "text": "electronics",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "thomas",
-    "size": 5
+    "size": 5,
+    "category": "voornaam man"
   },
   {
     "text": "musica",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "boekhandel",
-    "size": 5
-  },
-  {
-    "text": "all",
-    "size": 5
-  },
-  {
-    "text": "jan",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "janssens",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "import",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "instruments",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "bar",
-    "size": 5
-  },
-  {
-    "text": "co",
-    "size": 5
-  },
-  {
-    "text": "dirk",
-    "size": 5
+    "text": "publishing",
+    "size": 5,
+    "category": "ander"
   },
   {
     "text": "store",
-    "size": 5
+    "size": 5,
+    "category": "ander"
   },
   {
-    "text": "express",
-    "size": 5
-  },
-  {
-    "text": "pvba",
-    "size": 4
+    "text": "patrick",
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "musical",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "geert",
-    "size": 4
+    "text": "entertainment",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "consulting",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "house",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "converters",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "creative",
-    "size": 4
+    "text": "group",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "crescendo",
-    "size": 4
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "den",
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "peter",
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "2000",
-    "size": 4
+    "size": 4,
+    "category": "ander"
+  },
+  {
+    "text": "company",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "discount",
-    "size": 4
-  },
-  {
-    "text": "bart",
-    "size": 4
-  },
-  {
-    "text": "percussion",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "production",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "united",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "vof",
-    "size": 4
+    "size": 4,
+    "category": "rechtsvorm"
+  },
+  {
+    "text": "all",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "new",
-    "size": 4
-  },
-  {
-    "text": "philip",
-    "size": 4
-  },
-  {
-    "text": "projects",
-    "size": 4
-  },
-  {
-    "text": "steven",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "systems",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
-    "text": "it",
-    "size": 4
-  },
-  {
-    "text": "philippe",
-    "size": 4
+    "text": "co",
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "benelux",
-    "size": 4
+    "size": 4,
+    "category": "ander"
   },
   {
     "text": "sc",
-    "size": 4
+    "size": 4,
+    "category": "rechtsvorm"
   },
   {
     "text": "rock",
-    "size": 4
+    "size": 4,
+    "category": "voornaam man"
   },
   {
     "text": "joris",
-    "size": 4
+    "size": 4,
+    "category": "voornaam man"
   },
   {
-    "text": "your",
-    "size": 3
+    "text": "drums",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "stefan",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
-    "text": "technics",
-    "size": 3
-  },
-  {
-    "text": "live",
-    "size": 3
+    "text": "pvba",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "koen",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
+  },
+  {
+    "text": "tom",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "top",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "press",
-    "size": 3
+    "text": "geert",
+    "size": 3,
+    "category": "voornaam"
   },
   {
     "text": "creneau",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "claes",
-    "size": 3
-  },
-  {
-    "text": "tech",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "klank",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "chris",
-    "size": 3
+    "size": 3,
+    "category": "voornaam"
   },
   {
     "text": "adams",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
-    "text": "computer",
-    "size": 3
+    "text": "consult",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "point",
-    "size": 3
-  },
-  {
-    "text": "elektro",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "record",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "denis",
-    "size": 3
+    "size": 3,
+    "category": "voornaam"
   },
   {
     "text": "club",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "custom",
-    "size": 3
-  },
-  {
-    "text": "muziek",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "boutique",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "products",
-    "size": 3
-  },
-  {
-    "text": "steve",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "maes",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "vermeulen",
-    "size": 3
-  },
-  {
-    "text": "hout",
-    "size": 3
-  },
-  {
-    "text": "troc.com",
-    "size": 3
-  },
-  {
-    "text": "mama",
-    "size": 3
-  },
-  {
-    "text": "advies",
-    "size": 3
-  },
-  {
-    "text": "flying",
-    "size": 3
-  },
-  {
-    "text": "europe",
-    "size": 3
-  },
-  {
-    "text": "vincent",
-    "size": 3
-  },
-  {
-    "text": "stijn",
-    "size": 3
+    "text": "pieter",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "trade",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "farm",
-    "size": 3
+    "text": "percussion",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "cine",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "always",
-    "size": 3
+    "text": "philip",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "bernard",
-    "size": 3
-  },
-  {
-    "text": "huis",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "edition",
-    "size": 3
-  },
-  {
-    "text": "way",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "play",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "gent",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "gert",
-    "size": 3
+    "size": 3,
+    "category": "voornaam"
   },
   {
     "text": "diem",
-    "size": 3
+    "size": 3,
+    "category": "voornaam vrouw"
   },
   {
-    "text": "discobar",
-    "size": 3
+    "text": "bar",
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "dj",
-    "size": 3
+    "text": "steven",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "michel",
-    "size": 3
+    "size": 3,
+    "category": "voornaam"
   },
   {
     "text": "fi",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "for",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "hi",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "john",
-    "size": 3
+    "text": "it",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "amba",
-    "size": 3
+    "size": 3,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "philippe",
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "daniel",
-    "size": 3
+    "size": 3,
+    "category": "voornaam"
   },
   {
     "text": "disc",
-    "size": 3
-  },
-  {
-    "text": "box",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "editions",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "l\u0027atelier",
-    "size": 3
-  },
-  {
-    "text": "audio",
-    "size": 3
-  },
-  {
-    "text": "one",
-    "size": 3
+    "text": "express",
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "euro",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
     "text": "filip",
-    "size": 3
+    "size": 3,
+    "category": "voornaam man"
   },
   {
     "text": "dagbladhandel",
-    "size": 3
+    "size": 3,
+    "category": "ander"
   },
   {
-    "text": "factory",
-    "size": 3
-  },
-  {
-    "text": "guitares",
-    "size": 2
+    "text": "your",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "hans",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "hand",
-    "size": 2
-  },
-  {
-    "text": "information",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "tim",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "pap",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "cie",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "boetiek",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "nanouchi",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "folia",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "mobile",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "pianoservice",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "music-box",
-    "size": 2
-  },
-  {
-    "text": "africa",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "renovation",
-    "size": 2
-  },
-  {
-    "text": "guy",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "violins",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "etablissements",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "land",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "muziekinstrumenten",
-    "size": 2
-  },
-  {
-    "text": "antwerpen",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "kristof",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
-    "text": "events",
-    "size": 2
+    "text": "press",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "brocante",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "two",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "bokken",
-    "size": 2
-  },
-  {
-    "text": "team",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "clap",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "antwerp",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "fashion",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "kevin",
-    "size": 2
-  },
-  {
-    "text": "school",
-    "size": 2
+    "text": "tech",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "rgb-led",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "olufsen",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "jacob",
-    "size": 2
+    "text": "creative",
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "smart",
-    "size": 2
+    "text": "computer",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "werner",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "prod",
-    "size": 2
-  },
-  {
-    "text": "beat",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "workshop",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "parc",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "luc",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "eusfp",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "actidel",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "hotel",
-    "size": 2
-  },
-  {
-    "text": "business",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "accordeon",
-    "size": 2
-  },
-  {
-    "text": "vision",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "knokke",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "dominique",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "petit",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "alpha",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "marie",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "just",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "henri",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "troc",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "maene",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "solo",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "home",
-    "size": 2
-  },
-  {
-    "text": "print",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "goossens",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "engelen",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "muziek",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "johan",
-    "size": 2
-  },
-  {
-    "text": "trading",
-    "size": 2
-  },
-  {
-    "text": "klaas",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "marly",
-    "size": 2
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "steve",
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "forward",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "blazers",
-    "size": 2
-  },
-  {
-    "text": "snowman",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "heart",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "groove",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
-    "text": "best",
-    "size": 2
+    "text": "vermeulen",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "troc.com",
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "bert",
-    "size": 2
-  },
-  {
-    "text": "online",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "bang",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "band",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "mama",
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "tiger",
-    "size": 2
-  },
-  {
-    "text": "rudy",
-    "size": 2
-  },
-  {
-    "text": "33",
-    "size": 2
+    "size": 2,
+    "category": "voornaam man"
   },
   {
     "text": "simon",
-    "size": 2
-  },
-  {
-    "text": "open",
-    "size": 2
+    "size": 2,
+    "category": "voornaam"
   },
   {
     "text": "muziekhuis",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "belgique",
-    "size": 2
-  },
-  {
-    "text": "invest",
-    "size": 2
+    "size": 2,
+    "category": "land"
   },
   {
     "text": "project",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "l\u0027artisan",
-    "size": 2
-  },
-  {
-    "text": "wood",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "look",
-    "size": 2
-  },
-  {
-    "text": "internet",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "recording",
-    "size": 2
+    "size": 2,
+    "category": "ander"
   },
   {
     "text": "twin",
-    "size": 2
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "steen",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "nico",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "europe",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "alexander",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "winter",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "vincent",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "track",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "stijn",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "sophie",
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "hands",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "opus",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "pierre",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "farm",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "matthias",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "sonorisation",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "benjamin",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "linda",
+    "size": 2,
+    "category": "voornaam vrouw"
+  },
+  {
+    "text": "kurt",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "cardinaels",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "orgues",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "always",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "brass",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "tony",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "noton",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "amb",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "tunes",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "belgian",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "jan",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "soundsystem",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "huis",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "elpee",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "street",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "muziekcentrale",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "way",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "casa",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "dieter",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "eldi",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "peeters",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "used",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "elec",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "jos",
+    "size": 2,
+    "category": "voornaam"
+  },
+  {
+    "text": "loisirs",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "david",
+    "size": 2,
+    "category": "voornaam man"
+  },
+  {
+    "text": "electric",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "projects",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "ak",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "entreprise",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "fono",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "dj",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "hautrive",
+    "size": 2,
+    "category": "ander"
+  },
+  {
+    "text": "party",
+    "size": 2,
+    "category": "ander"
   }
 ]
