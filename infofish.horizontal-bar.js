@@ -16,7 +16,7 @@ function juridicalForms() {
 
         //data = getTop(data);
         var scale = d3.scale.linear()
-                .domain( d3.extent(data, function(d) { return d.count; }) )
+                .domain([0, d3.max(data, function(d) { return d.count; })] )
                 .range([0,500]);
 
          var bar = barchart.selectAll("g")
