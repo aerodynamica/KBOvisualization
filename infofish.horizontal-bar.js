@@ -19,70 +19,26 @@ function juridicalForms() {
                 .domain([0, d3.max(data, function(d) { return d.count; })] )
                 .range([0,500]);
 
-         var bar = barchart.selectAll("g")
-             .data(data);
-     
-     
-     
-        var enter = bar
-                .enter()
-                .append("g")
-                .attr("transform", function (d, i) {
-                    return "translate(0," + i * barHeight + ")";
-                });
-                
-         
-        enter.append("rect")
-                .attr("width", function (d) {
-                    return scale(d.count);
-                })
-                .attr("height", barHeight - 1)
-                .attr("class", "bar")
-                .style("fill", color)
-                .append("svg:title")
-                .text(function (d) {
-                    return "Companies: " + d.count + "\nCompany form: " + d.form;
-                });
-                
-        
-          enter.append("text")
+          var bar = barchart.selectAll("g")
+             .data(data)
+           .enter().append("g")
+             .attr("transform", function(d, i) { return "translate(0," + i * barHeight + ")"; });
+
+         bar.append("rect")
+             .attr("width", function(d) { return scale(d.count); })
+             .attr("height", barHeight - 1)
+             .attr("class", "bar")
+             .style("fill", color)
+             .append("svg:title")
+             .text(function(d) { return "Companies: "+d.count+"\nCompany form: "+d.form; });
+
+         bar.append("text")
              .attr("x", function(d) { return 0; })
              .attr("y", barHeight / 2)
              .attr("dy", ".35em")
              .text(function(d) { return d.form+" ("+d.count+")"; })
              .append("svg:title")
              .text(function(d) { return "Companies: "+d.count+"\nCompany form: "+d.form; });
-     
-     
-     
-       var update = bar
-               .transition()
-                .duration(300)
-                .attr("transform", function (d, i) {
-                    return "translate(0," + i * barHeight + ")";
-                });
-                
-        update.select("rect")  
-                .transition()
-                .duration(300)
-                .attr("width", function (d) {
-                    return scale(d.count);
-                })
-                .select("svg:title")
-                .text(function (d) {
-                    return "Companies: " + d.count + "\nCompany form: " + d.form;
-                });
-                
-        update.select("text")
-                .attr("x", function(d) { return 0; })
-             .text(function(d) { return d.form+" ("+d.count+")"; })
-             .select("svg:title")
-             .text(function(d) { return "Companies: "+d.count+"\nCompany form: "+d.form; });
-                    
-       
-            
-     
-        bar.exit().remove();
 
                
              
