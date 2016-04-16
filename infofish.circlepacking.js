@@ -34,7 +34,7 @@
 
      var tip = d3.tip()
          .attr('class', 'd3-tip')
-         .html(function(d) { return d.Description; });
+         .html(function(d) { return "<em>"+d.Description +"</em></br>"+d.nbEstablishments+" vestigingseenheden"; });
 
      svg.call(tip);
 

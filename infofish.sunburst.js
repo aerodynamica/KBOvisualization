@@ -27,7 +27,7 @@ var mainGroup = svg.append("g")
         .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 var partition = d3.layout.partition()
         .value(function (d) {
-            return 1;
+            return d.nbEstablishments;
         });
 
 var arc = d3.svg.arc()
@@ -140,7 +140,7 @@ d3.json("activitiesAug.json", function (error, root) {
     }
     // Fade all but the current sequence, and show it in the breadcrumb trail.
     function mouseover(d) {
-        tip.html(d.Description);
+        tip.html("<em>"+d.Description+"</em></br>"+d.nbEstablishments.toLocaleString()+" vestigingseenheden");
         tip.show();
 
         var percentage = (100 * d.value / totalSize).toPrecision(3);
@@ -168,7 +168,7 @@ d3.json("activitiesAug.json", function (error, root) {
         tip.show();
     }
     function mouseout(d) {
-
+        tip.hide();
     }
     // Restore everything to full opacity when moving off the visualization.
     function mouseleave(d) {
