@@ -7,7 +7,8 @@
  var cwidth = (typeof width !== 'undefined')? width : window.innerWidth/4 - 50;
  var cheight = (typeof height !== 'undefined')? height : window.innerWidth/4 - 50;
 
-var fill = d3.scale.category20();
+var currentActivity;
+var maxWords = 100;
 
 var catDict = d3.map();
 catDict.set("voornaam man",d3.rgb("#1f77b4"));
@@ -81,9 +82,10 @@ function wordCloud() {
         //The outside world will need to call this function, so make it part
         // of the wordCloud return value.
         update: function(words) {
-            //words = words.filter(isValidWord);
             
-            words = words.slice(0,100);
+            words = words.filter(isValidWord);
+            
+            words = words.slice(0,maxWords);
 
             var scale = d3.scale.linear()
                     .domain(d3.extent(words,function(d) { return d.size; }))
@@ -103,21 +105,19 @@ function wordCloud() {
 }
 
 function updateCloud(activity){
-    d3.json("data/wordclouds/"+activity+".json", function (error, names) {
+    currentActivity = activity;
+    d3.json("data/wordclouds/"+activity+".json", function (error, words) {
         if (error)
             throw error;
-        wordcloud.update(names);
+        wordcloud.update(words);
     });
 }
 
 function isValidWord(word) {
-    invalidwords = ["bvba","nv","sa","sprl","vzw","asbl"];
-    return !(invalidwords.indexOf(word.text) > -1);
+    return catVis.get(word.category);
 }
 
-function getColorByCategory(category){
-    return fill(0);
-}
+
 
 function drawWordCloudLegend() {
     // Dimensions of legend item: width, height, spacing, radius of rounded rect.
@@ -146,6 +146,9 @@ function drawWordCloudLegend() {
             .attr("height", li.h)
             .style("fill", function (d) {
                 return catDict.get(d);
+            })
+            .on("click",function (d) {
+               toggleCategory(d);
             });
     g.append("svg:text")
             .attr("x", li.w / 2)
@@ -154,5 +157,14 @@ function drawWordCloudLegend() {
             .attr("text-anchor", "middle")
             .text(function (d) {
                 return d;
+            })
+            .on("click",function (d) {
+               toggleCategory(d);
             });
+}
+
+function toggleCategory(cat){
+    var current = catVis.get(cat);
+    catVis.set(cat,!current);
+    updateCloud(currentActivity);
 }
