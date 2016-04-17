@@ -89,7 +89,7 @@ function wordCloud() {
 
             var scale = d3.scale.linear()
                     .domain(d3.extent(words,function(d) { return d.size; }))
-                    .range([15,100]);
+                    .range([15,60]);
 
             d3.layout.cloud().size([cwidth, cheight])
                 .words(words)
@@ -136,20 +136,30 @@ function drawWordCloudLegend() {
             .append("svg:g")
             .attr("transform", function (d, i) {
                 return "translate(0," + i* (li.h+li.s) + ")";
-            });
+            })
+            .style("opacity", function(d){
+                return catVis.get(d) ? 1 : 0.3;
+                }
+                )
+                .on("click", function (d) {
+                    d3.select(this).style("opacity", function(d){
+                            return catVis.get(d) ? 0.3 : 1;
+                    });
+                    toggleCategory(d);
+                });
+                
     g.append("svg:rect")
-            .attr("rx", li.r)
-            .attr("ry", li.r)
-            .attr("width", function (d) {
+                .attr("rx", li.r)
+                .attr("ry", li.r)
+                .attr("width", function (d) {
                 return li.w;
-            })
-            .attr("height", li.h)
-            .style("fill", function (d) {
+                })
+                .attr("height", li.h)
+                .style("fill", function (d) {
                 return catDict.get(d);
-            })
-            .on("click",function (d) {
-               toggleCategory(d);
-            });
+                });
+                
+                
     g.append("svg:text")
             .attr("x", li.w / 2)
             .attr("y", li.h / 2)
@@ -157,14 +167,11 @@ function drawWordCloudLegend() {
             .attr("text-anchor", "middle")
             .text(function (d) {
                 return d;
-            })
-            .on("click",function (d) {
-               toggleCategory(d);
             });
 }
 
 function toggleCategory(cat){
-    var current = catVis.get(cat);
+    var current = catVis.get(cat);  
     catVis.set(cat,!current);
     updateCloud(currentActivity);
 }
