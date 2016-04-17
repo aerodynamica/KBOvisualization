@@ -17,6 +17,13 @@ catDict.set("rechtsvorm",d3.rgb("#ff7f0e"));
 catDict.set("land",d3.rgb("#2ca02c"));
 catDict.set("ander",d3.rgb("#7f7f7f"));
 
+var catVis = d3.map();
+catVis.set("voornaam man",true);
+catVis.set("voornaam vrouw",true);
+catVis.set("voornaam",true);
+catVis.set("rechtsvorm",false);
+catVis.set("land",true);
+catVis.set("ander",true);
 
 
 
@@ -30,6 +37,8 @@ function wordCloud() {
         .attr("height", cheight)
         .append("g")
         .attr("transform", "translate("+cwidth/2+","+cheight/2+")");
+
+
 
     //Draw the word cloud
     function draw(words) {
@@ -89,7 +98,6 @@ function wordCloud() {
                 .on("end", draw)
                 .start();
         
-            drawWordCloudLegend();
         }
     }
 }
