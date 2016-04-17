@@ -5,8 +5,8 @@
 
  // Dimensions of sunburst.
  // Check if variables already defined somewhere, otherwise default value
- var width = (typeof width !== 'undefined')? width : window.innerWidth/2 - 50;
- var height = (typeof height !== 'undefined')? height : window.innerWidth/2 - 50;
+ var width = (typeof width !== 'undefined')? width : window.innerWidth/2 - 100;
+ var height = (typeof height !== 'undefined')? height : window.innerWidth/2 - 100;
 var radius = (Math.min(width, height) / 2) - 10;
 
 // Breadcrumb dimensions: width, height, spacing, width of tip/tail.

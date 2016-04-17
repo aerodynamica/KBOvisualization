@@ -4,13 +4,25 @@
  */
 
  // Check if variables already defined somewhere, otherwise default value
- var cwidth = (typeof width !== 'undefined')? width : window.innerWidth/2 - 100;
- var cheight = (typeof height !== 'undefined')? height : window.innerWidth/2 - 100;
+ var cwidth = (typeof width !== 'undefined')? width : window.innerWidth/4 - 50;
+ var cheight = (typeof height !== 'undefined')? height : window.innerWidth/4 - 50;
+
+var fill = d3.scale.category20();
+
+var catDict = d3.map();
+catDict.set("voornaam man",d3.rgb("#1f77b4"));
+catDict.set("voornaam vrouw",d3.rgb("#e377c2"));
+catDict.set("voornaam",d3.rgb("#8177bb"));
+catDict.set("rechtsvorm",d3.rgb("#ff7f0e"));
+catDict.set("land",d3.rgb("#2ca02c"));
+catDict.set("ander",d3.rgb("#7f7f7f"));
+
+
+
 
 // Encapsulate the word cloud functionality
 function wordCloud() {
 
-    var fill = d3.scale.category20c();
 
     //Construct the word cloud's SVG element
     var svg = d3.select("#wordcloud").append("svg")
@@ -28,7 +40,7 @@ function wordCloud() {
         cloud.enter()
             .append("text")
             .style("font-family", "Impact")
-            .style("fill", function(d) { return fill(d.category); })
+            .style("fill", function(d) { return catDict.get(d.category); })
             .attr("text-anchor", "middle")
             .attr('font-size', 1)
             .text(function(d) { return d.text; });
@@ -61,6 +73,8 @@ function wordCloud() {
         // of the wordCloud return value.
         update: function(words) {
             //words = words.filter(isValidWord);
+            
+            words = words.slice(0,100);
 
             var scale = d3.scale.linear()
                     .domain(d3.extent(words,function(d) { return d.size; }))
@@ -74,6 +88,8 @@ function wordCloud() {
                 .fontSize(function(d) { return scale(d.size); })
                 .on("end", draw)
                 .start();
+        
+            drawWordCloudLegend();
         }
     }
 }
@@ -89,4 +105,46 @@ function updateCloud(activity){
 function isValidWord(word) {
     invalidwords = ["bvba","nv","sa","sprl","vzw","asbl"];
     return !(invalidwords.indexOf(word.text) > -1);
+}
+
+function getColorByCategory(category){
+    return fill(0);
+}
+
+function drawWordCloudLegend() {
+    // Dimensions of legend item: width, height, spacing, radius of rounded rect.
+    var li = {
+        w: 120, h: 30, s: 3, r: 3
+    };
+    var legend = d3.select("#wordCloudLegend")
+            .append("svg:svg")
+            .attr("width", (li.w + li.s) * 2)
+            .attr("height", (li.h + li.s) * catDict.size());
+    
+    
+    var g = legend.selectAll("g")
+            .data(catDict.keys())
+            .enter()
+            .append("svg:g")
+            .attr("transform", function (d, i) {
+                return "translate(0," + i* (li.h+li.s) + ")";
+            });
+    g.append("svg:rect")
+            .attr("rx", li.r)
+            .attr("ry", li.r)
+            .attr("width", function (d) {
+                return li.w;
+            })
+            .attr("height", li.h)
+            .style("fill", function (d) {
+                return catDict.get(d);
+            });
+    g.append("svg:text")
+            .attr("x", li.w / 2)
+            .attr("y", li.h / 2)
+            .attr("dy", "0.35em")
+            .attr("text-anchor", "middle")
+            .text(function (d) {
+                return d;
+            });
 }

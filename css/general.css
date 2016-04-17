@@ -116,6 +116,11 @@ a.active,
     width: 50%;
 }
 
+#wordCloudLegend {
+    float:left;
+}
+
+
 /* Zoomable Circle Packing */
 .node { cursor: pointer; }
 
