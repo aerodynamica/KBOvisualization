@@ -33,27 +33,9 @@
     <!-- Javascript -->
     <script src="http://d3js.org/d3.v3.min.js"></script>
     <script src="libraries/d3.tip.js"></script>
-	<script>
-		function decompress(){
-			var xmlhttp = new XMLHttpRequest();
-			var url = "data/entities_reform3.json";
 
-			xmlhttp.onreadystatechange = function() {
-				if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
-					var myArr = JSON.parse(xmlhttp.responseText);
-					myFunction(myArr);
-				}
-			};
-			xmlhttp.open("GET", url, true);
-			xmlhttp.send();
-		}
-		
-		function myFunction(data){
-			console.log(data);
-		}
-	</script>
   </head>
-  <body id="page-top" onload="decompress()">
+  <body id="page-top">
       <nav class="navbar navbar-default navbar-fixed-top">
           <div class="container">
               <!-- Brand and toggle get grouped for better mobile display -->
@@ -88,12 +70,12 @@
 
 <!-- Main content -->
      <div class="container-fluid" id="content">
-        <div class="content-title container" style="display:none;">
+        <div class="content-title container-fluid" style="margin-right:-15px;margin-left: -15px;background: #E3E5EB;">
             <div class="row">
                 <div class="col-sm-9 col-xs-12">
-                    <h2>Main Vis</h2>
+                        <div id="sequence"></div>
                 </div>
-                <div class="col-sm-3 hidden-xs" style="margin-top: 15px;">
+                <div class="col-sm-3 hidden-xs" style="margin-top: 8px;">
                     <div class="input-group">
                       <input type="text" class="form-control" placeholder="Search for...">
                       <span class="input-group-btn">
@@ -105,42 +87,58 @@
         </div>
         <!-- Visualisation -->
         <div class="row">
-            <!-- Wordclouds -->
-            <div id="wordcloud" class="col-xs-6">
-                <script src="libraries/d3.layout.cloud.js"></script>
-                <script src="infofish.wordcloud.js"></script>
-                <script>
-                    var wordcloud = wordCloud();
-                    updateCloud("root");
+            <div class="container-fluid col-xs-6">
+                <div class="row">
+                    <!-- Wordclouds -->
+                    <div id="wordcloud" class="col-xs-12">
+                        <script src="libraries/d3.layout.cloud.js"></script>
+                        <script src="infofish.wordcloud.js"></script>
+                        <script>
+                            var wordcloud = wordCloud();
+                            updateCloud("root");
 
-                </script>
-                <div id="wordCloudLegend">
-                    <script>
-                       drawWordCloudLegend();
-                    </script>
+                        </script>
+                        <div id="wordCloudLegend">
+                            <script>drawWordCloudLegend();</script>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+
+                        <!-- top juridical forms -->
+                        <script src="infofish.horizontal-bar.js"></script>
+                        <script>
+                        var juridicalForms = juridicalForms();
+                            updateBars("root", "steelblue");
+                        </script>
+                        <h4 class="blocktitle"> Top 5 rechtsvormen</h4>
+                        <div id="barchart">
+                        </div>
+
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+
+                        <!-- top juridical forms -->
+                        <script src="infofish.yearbars.js"></script>
+                        <script>
+                        var barChartYears = barChartYears();
+                            updateYearBars("root", "steelblue");
+                        </script>
+                        <h4 class="blocktitle">Oprichtingsdata</h4>
+                        <div id="barchart2">
+                        </div>
+
+                    </div>
                 </div>
             </div>
 
             <!-- Zoomable Circle Packing -->
             <div id="sunburst" class="navigation col-xs-6">
-                <div id="sequence"></div>
                 <div id="chart"></div>
                 <script src="infofish.sunburst.js"></script>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-sm-11">
-
-                <!-- top juridical forms -->
-                <script src="infofish.horizontal-bar.js"></script>
-                <script>
-                var juridicalForms = juridicalForms();
-                    updateBars("root", "steelblue");
-                </script>
-                <h4> Top 5 Juridical Forms</h4>
-                <div id="barchart">
-                </div>
-
             </div>
         </div>
       <div class="row">

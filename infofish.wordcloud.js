@@ -82,9 +82,9 @@ function wordCloud() {
         //The outside world will need to call this function, so make it part
         // of the wordCloud return value.
         update: function(words) {
-            
+
             words = words.filter(isValidWord);
-            
+
             words = words.slice(0,maxWords);
 
             var scale = d3.scale.linear()
@@ -99,7 +99,7 @@ function wordCloud() {
                 .fontSize(function(d) { return scale(d.size); })
                 .on("end", draw)
                 .start();
-        
+
         }
     }
 }
@@ -128,8 +128,7 @@ function drawWordCloudLegend() {
             .append("svg:svg")
             .attr("width", (li.w + li.s) * 2)
             .attr("height", (li.h + li.s) * catDict.size());
-    
-    
+
     var g = legend.selectAll("g")
             .data(catDict.keys())
             .enter()
@@ -147,7 +146,7 @@ function drawWordCloudLegend() {
                     });
                     toggleCategory(d);
                 });
-                
+
     g.append("svg:rect")
                 .attr("rx", li.r)
                 .attr("ry", li.r)
@@ -155,23 +154,24 @@ function drawWordCloudLegend() {
                 return li.w;
                 })
                 .attr("height", li.h)
+                .style("cursor", "pointer")
                 .style("fill", function (d) {
-                return catDict.get(d);
+                    return catDict.get(d);
                 });
-                
-                
+
     g.append("svg:text")
             .attr("x", li.w / 2)
             .attr("y", li.h / 2)
             .attr("dy", "0.35em")
             .attr("text-anchor", "middle")
+            .style("cursor", "pointer")
             .text(function (d) {
                 return d;
             });
 }
 
 function toggleCategory(cat){
-    var current = catVis.get(cat);  
+    var current = catVis.get(cat);
     catVis.set(cat,!current);
     updateCloud(currentActivity);
 }
