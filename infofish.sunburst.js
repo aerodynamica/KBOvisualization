@@ -3,11 +3,34 @@
  *
  */
 
- // Dimensions of sunburst.
- // Check if variables already defined somewhere, otherwise default value
- var width = (typeof width !== 'undefined')? width : window.innerWidth/2 - 100;
- var height = (typeof height !== 'undefined')? height : window.innerWidth/2 - 100;
+// Dimensions of sunburst.
+// Check if variables already defined somewhere, otherwise default value
+var width = (typeof width !== 'undefined')? width : window.innerWidth/2 - 100;
+var height = (typeof height !== 'undefined')? height : window.innerWidth/2 - 100;
 var radius = (Math.min(width, height) / 2) - 10;
+
+var sectorDictSunburst = d3.map();
+sectorDictSunburst.set("A",d3.rgb("#98df8a"));
+sectorDictSunburst.set("B",d3.rgb("#aec7e8"));
+sectorDictSunburst.set("C",d3.rgb("#7f7f7f"));
+sectorDictSunburst.set("D",d3.rgb("#ffbb78"));
+sectorDictSunburst.set("E",d3.rgb("#2ca02c"));
+sectorDictSunburst.set("F",d3.rgb("#1f77b4"));
+sectorDictSunburst.set("G",d3.rgb("#d62728"));
+sectorDictSunburst.set("H",d3.rgb("#ff9896"));
+sectorDictSunburst.set("I",d3.rgb("#9467bd"));
+sectorDictSunburst.set("J",d3.rgb("#c5b0d5"));
+sectorDictSunburst.set("K",d3.rgb("#8c564b"));
+sectorDictSunburst.set("L",d3.rgb("#c49c94"));
+sectorDictSunburst.set("M",d3.rgb("#e377c2"));
+sectorDictSunburst.set("N",d3.rgb("#f7b6d2"));
+sectorDictSunburst.set("O",d3.rgb("#ff7f0e"));
+sectorDictSunburst.set("P",d3.rgb("#c7c7c7"));
+sectorDictSunburst.set("Q",d3.rgb("#bcbd22"));
+sectorDictSunburst.set("R",d3.rgb("#dbdb8d"));
+sectorDictSunburst.set("S",d3.rgb("#17becf"));
+sectorDictSunburst.set("T",d3.rgb("#9edae5"));
+sectorDictSunburst.set("V",d3.rgb("#843c39"));
 
 // Breadcrumb dimensions: width, height, spacing, width of tip/tail.
 var b = { w: 75, h: 30, s: 3, t: 10};
@@ -94,7 +117,7 @@ d3.json("activitiesAug.json", function (error, root) {
                 if(typeof d.parent === 'undefined')
                     return "#ffffff";
                 else if(d.parent.Code == "root") {
-                    d.Color = color(d.Code);
+					d.Color = sectorDictSunburst.get(d.Code);
                     return d.Color;
                 } else {
                     if(d.depth %2 == 0)
@@ -290,7 +313,7 @@ function updateBreadcrumbs(nodeArray, percentageString, click) {
                 if(typeof d.parent === 'undefined')
                     return "#E3E5EB";
                 else if(d.parent.Code == "root") {
-                    d.Color = color(d.Code);
+                    d.Color = sectorDictSunburst.get(d.Code);
                     return d.Color;
                 } else {
                     if(d.depth %2 == 0)
