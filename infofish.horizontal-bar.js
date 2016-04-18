@@ -30,23 +30,20 @@ function juridicalForms() {
              .attr("class", "bar")
              .style("fill", color)
              .append("svg:title")
-             .text(function(d) { return "Companies: "+d.count+"\nCompany form: "+d.form; });
+             .text(function(d) { return "Vestigingseenheden: "+d.count+"\nBedrijfsvorm: "+d.form; });
 
          bar.append("text")
              .attr("x", function(d) { return 0; })
              .attr("y", barHeight / 2)
              .attr("dy", ".35em")
-             .text(function(d) { return d.form+" ("+d.count+")"; })
+             .attr("transform", "translate(" + 5 + ", 0)")
+             .text(function(d) {
+                 var maxlength = width/7
+                 if(d.form.length > maxlength)
+                    return d.form.slice(0, maxlength)+"... ("+d.count+")";
+                  return d.form+" ("+d.count+")"; })
              .append("svg:title")
-             .text(function(d) { return "Companies: "+d.count+"\nCompany form: "+d.form; });
-
-               
-             
-
-         
-     
-        
-
+             .text(function(d) { return "Vestigingseenheden: "+d.count+"\nBedrijfsvorm: "+d.form; });
     };
 
     return {
