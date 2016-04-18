@@ -84,6 +84,8 @@ d3.json("activitiesAug.json", function (error, root) {
     color.domain(root.children.length);
     // make sure this is done after setting the domain
     drawLegend();
+    updateBreadcrumbs([root], "", click);
+
     var path = mainGroup.datum(root).selectAll("path")
             .data(partition.nodes)
             .enter().append("path")
@@ -129,6 +131,7 @@ d3.json("activitiesAug.json", function (error, root) {
     function click(d) {
         updateCloud(d.Code);
         updateBars(d.Code, d.Color);
+        updateYearBars(d.Code, d.Color);
         node = d;
         isChanging = true;
         path.transition()
@@ -137,6 +140,8 @@ d3.json("activitiesAug.json", function (error, root) {
                 .each("end", function () {
                     isChanging = false;
                 });
+        var sequenceArray = getAncestors(d);
+        updateBreadcrumbs(sequenceArray, "", self);
     }
     // Fade all but the current sequence, and show it in the breadcrumb trail.
     function mouseover(d) {
@@ -153,7 +158,7 @@ d3.json("activitiesAug.json", function (error, root) {
         //d3.select("#explanation")
         //	.style("visibility", "");
         var sequenceArray = getAncestors(d);
-        updateBreadcrumbs(sequenceArray, percentageString);
+        updateBreadcrumbs(sequenceArray, percentageString, click);
         // Fade all the segments.
         d3.selectAll("path")
                 .style("opacity", 0.3);
@@ -180,7 +185,7 @@ d3.json("activitiesAug.json", function (error, root) {
                 percentageString = "< 0.1%";
             }
             var sequenceArray = getAncestors(node);
-            updateBreadcrumbs(sequenceArray, percentageString);
+            updateBreadcrumbs(sequenceArray, percentageString, click);
             // Deactivate all segments during transition.
             d3.selectAll("path").on("mouseover", null);
             // Transition each segment to full opacity and then reactivate it.
@@ -265,8 +270,9 @@ function breadcrumbPoints(d, i) {
     return points.join(" ");
 }
 // Update the breadcrumb trail to show the current sequence and percentage.
-function updateBreadcrumbs(nodeArray, percentageString) {
+function updateBreadcrumbs(nodeArray, percentageString, click) {
     // Data join; key function combines name and depth (= position in sequence).
+    var lastClicked = "";
     var g = d3.select("#trail")
             .selectAll("g")
             .data(nodeArray, function (d) {
@@ -275,11 +281,14 @@ function updateBreadcrumbs(nodeArray, percentageString) {
     // Add breadcrumb and label for entering nodes.
     var entering = g.enter().append("svg:g");
     entering.append("svg:polygon")
-            .attr("points", breadcrumbPoints)
+            .attr("points", function(d, i){
+                return (typeof d.parent === 'undefined')? "0,0 25,0 35,15 25,30 0,30" : breadcrumbPoints(d, i);
+            })
+            .style("cursor", "pointer")
             .style("fill", function (d) {
                 //return color(d.Code);
                 if(typeof d.parent === 'undefined')
-                    return "#ffffff";
+                    return "#E3E5EB";
                 else if(d.parent.Code == "root") {
                     d.Color = color(d.Code);
                     return d.Color;
@@ -291,22 +300,35 @@ function updateBreadcrumbs(nodeArray, percentageString) {
                     }
                     return d.Color;
                 }
-            });
+            })
+            .on("click", click)
+            .append("svg:title")
+            .text(function(d){return d.Description;});
+
     entering.append("svg:text")
             .attr("x", (b.w + b.t) / 2)
             .attr("y", b.h / 2)
             .attr("dy", "0.35em")
             .attr("text-anchor", "middle")
+            .style("cursor", "pointer")
+            .style("fill", function(d,i){return d3.rgb((typeof d.parent === 'undefined')? "#333" : "#fff");})
             .text(function (d) {
-                return d.Code;
-            });
+                return (typeof d.parent === 'undefined')? "Alle secties" : d.Code;
+            }).on("click", click)
+            .append("svg:title")
+            .text(function(d){return d.Description;});
     // Set position for entering and updating nodes.
     g.attr("transform", function (d, i) {
-        return "translate(" + i * (b.w + b.s) + ", 0)";
+        if(typeof d.parent === 'undefined') return "translate(" + 0 + ", 10)";
+        //if(typeof d.parent == 'root') return "translate(" + 27 + ", 10)";
+        return "translate(" + (27 + i * (b.w + b.s) )+ ", 10)";
     });
+
+    //d3.select("#trail").append("g").attr("id", "#endlabel");
     // Remove exiting nodes.
     g.exit().remove();
     // Now move and update the percentage at the end.
+
     d3.select("#trail").select("#endlabel")
             .attr("x", (nodeArray.length + 0.5) * (b.w + b.s))
             .attr("y", b.h / 2)
@@ -326,6 +348,7 @@ function getAncestors(node) {
         path.unshift(current);
         current = current.parent;
     }
+    path.unshift(current);
     return path;
 }
 function drawLegend() {
@@ -335,7 +358,7 @@ function drawLegend() {
     };
     var rootChildren = node.children;
     var legend = d3.select("#legend")
-            .append("svg:svg")
+            .append("svg")
             .attr("width", (li.w + li.s) * 2)
             .attr("height", (li.h + li.s) * rootChildren.length);
     var g = legend.selectAll("g")
@@ -345,21 +368,21 @@ function drawLegend() {
             .attr("transform", function (d, i) {
                 return "translate(" + (i % 2) * (li.w + li.s) + "," + ((i / 2) | 0) * (li.h + li.s) + ")";
             });
-    g.append("svg:rect")
+    g.append("rect")
             .attr("rx", li.r)
             .attr("ry", li.r)
             .attr("width", li.w)
             .attr("height", li.h)
             .style("fill", function (d) {
                 return color(d.Code);
-            });
-    g.append("svg:text")
+            }).on("click", function(){console.log("click");});
+    g.append("text")
             .attr("x", li.w / 2)
             .attr("y", li.h / 2)
             .attr("dy", "0.35em")
             .attr("text-anchor", "middle")
             .text(function (d) {
-                return d.Code;
+                return "sadas"+d.Code;
             });
 }
 function toggleLegend() {
@@ -373,3 +396,8 @@ function toggleLegend() {
 function capitalizeFirstLetter(string) {
     return string.charAt(0).toUpperCase() + string.slice(1);
 }
+
+d3.selection.prototype.last = function() {
+  var last = this.size() - 1;
+  return d3.select(this[0][last]);
+};
