@@ -109,15 +109,18 @@ a.active,
     background: #333333;
     color: #ffffff;
 }*/
-
+.blocktitle {
+	border-bottom: 1px solid #333;
+	width: 90%;
+}
 #wordcloud, #bubble, .navigation {
     margin-top: 20px;
     float:left;
-    width: 50%;
 }
 
 #wordCloudLegend {
     float:left;
+	margin-left: 5px;
 }
 
 
