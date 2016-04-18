@@ -82,8 +82,10 @@ function wordCloud() {
         //The outside world will need to call this function, so make it part
         // of the wordCloud return value.
         update: function(words) {
-
-            words = words.filter(isValidWord);
+            var start = new Date().getTime();
+            
+            var stop = new Date().getTime();
+            console.log("filtered words cloud in "+(stop-start)+" ms");
 
             words = words.slice(0,maxWords);
 
@@ -99,6 +101,9 @@ function wordCloud() {
                 .fontSize(function(d) { return scale(d.size); })
                 .on("end", draw)
                 .start();
+        
+            var stop = new Date().getTime();
+            console.log("updated word cloud in "+(stop-start)+" ms");
 
         }
     }
