@@ -4,7 +4,7 @@
  */
 
  // Check if variables already defined somewhere, otherwise default value
- var cwidth = (typeof width !== 'undefined')? width : window.innerWidth/4 - 50;
+ var cwidth = (typeof width !== 'undefined')? width : window.innerWidth/2 - 100;
  var cheight = (typeof height !== 'undefined')? height : window.innerWidth/4 - 50;
 
 var currentActivity;
@@ -131,8 +131,8 @@ function drawWordCloudLegend() {
     };
     var legend = d3.select("#wordCloudLegend")
             .append("svg:svg")
-            .attr("width", (li.w + li.s) * 2)
-            .attr("height", (li.h + li.s) * catDict.size());
+            .attr("width", li.w)
+            .attr("height", (li.h + li.s) * catDict.size() -li.s);
 
     var g = legend.selectAll("g")
             .data(catDict.keys())

@@ -90,16 +90,21 @@
             <div class="container-fluid col-xs-6">
                 <div class="row">
                     <!-- Wordclouds -->
-                    <div id="wordcloud" class="col-xs-12">
+                    <div id="wordcloudAndLegend" class="col-xs-12">
                         <script src="libraries/d3.layout.cloud.js"></script>
                         <script src="infofish.wordcloud.js"></script>
-                        <script>
-                            var wordcloud = wordCloud();
-                            updateCloud("root");
+                        <div id="wordcloud">
+                            <script>
+                                var wordcloud = wordCloud();
+                                updateCloud("root");
 
-                        </script>
-                        <div id="wordCloudLegend">
-                            <script>drawWordCloudLegend();</script>
+                            </script>
+                        </div>
+                        <div class="dropdown">
+                            <button class="dropbtn"></button>
+                            <div id="wordCloudLegend" class="dropdown-content">
+                                <script>drawWordCloudLegend();</script>
+                            </div>
                         </div>
                     </div>
                 </div>
