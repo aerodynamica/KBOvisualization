@@ -84,6 +84,8 @@ function wordCloud() {
         update: function(words) {
             var start = new Date().getTime();
             
+            words = words.filter(isValidWord);
+            
             var stop = new Date().getTime();
             console.log("filtered words cloud in "+(stop-start)+" ms");
 
