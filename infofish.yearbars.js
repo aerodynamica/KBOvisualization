@@ -3,7 +3,7 @@ function barChartYears() {
     var margin = {top: 20, right: 20, bottom: 30, left: 0},
         bwidth = window.innerWidth/2 - 100 - margin.left - margin.right; //500 - margin.left - margin.right,
         bheight = 250 - margin.top - margin.bottom,
-        parseDate = d3.time.format("%-m-%Y").parse;
+        parseDate = d3.time.format("%Y").parse;
 
     function draw(data, color) {
 
@@ -11,8 +11,8 @@ function barChartYears() {
 /*
 var tmp = [];
 data.forEach(function(d){
-    var key = d.month.split('-')[1];
-    tmp[key] = (tmp[key] > 0)? tmp[key] + d.count : d.count
+    var key = d.year.split('-')[1];
+    tmp[key] = (tmp[key] > 0)? tmp[key] + d.entCount : d.entCount
 });
 ddd = []; // reset data
 tmp.forEach(function(i,v){
@@ -22,11 +22,11 @@ console.log(ddd);
 */
     d3.select("#barchart2").html("");
     var x = d3.time.scale()
-        .domain([parseDate(data[0].month), d3.time.day.offset(parseDate(data[data.length - 1].month), 1)])
+        .domain([parseDate(data[0].year), d3.time.day.offset(parseDate(data[data.length - 1].year), 1)])
         .rangeRound([0, bwidth - margin.left - margin.right]);
 
     var y = d3.scale.linear()
-        .domain([0, d3.max(data, function(d) { return d.count; })])
+        .domain([0, d3.max(data, function(d) { return d.entCount; })])
         .range([bheight - margin.top - margin.bottom, 0]);
 
     var xAxis = d3.svg.axis()
@@ -49,14 +49,14 @@ console.log(ddd);
         .data(data)
       .enter().append('rect')
         .style("fill", color)
-        .attr('x', function(d) { return x(parseDate(d.month)); })
-        .attr('y', function(d) { return bheight - margin.top - margin.bottom - (bheight - margin.top - margin.bottom - y(d.count)) })
+        .attr('x', function(d) { return x(parseDate(d.year)); })
+        .attr('y', function(d) { return bheight - margin.top - margin.bottom - (bheight - margin.top - margin.bottom - y(d.entCount)) })
         .attr('width', function(d){
             return (data.length > 2000)? 3 : 10;
             })
-        .attr('height', function(d) { return bheight - margin.top - margin.bottom - y(d.count) })
+        .attr('height', function(d) { return bheight - margin.top - margin.bottom - y(d.entCount) })
         .append("svg:title")
-        .text(function(d) { return "Opgericht op " + d.month + "\nVestigingseenheden: "+d.count; });
+        .text(function(d) { return "Opgericht op " + d.year + "\nVestigingseenheden: "+d.entCount; });
 
     svg.append('g')
         .attr('class', 'x axis')
