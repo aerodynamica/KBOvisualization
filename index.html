@@ -33,9 +33,11 @@
     <!-- Javascript -->
     <script src="https://d3js.org/d3.v3.min.js"></script>
     <script src="libraries/d3.tip.js"></script>
-
   </head>
   <body id="page-top">
+	  <script>
+		var sunburstFilter = decodeURIComponent((new RegExp('[?|&]sunburstfilter=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||"root";;
+	  </script>
       <nav class="navbar navbar-default navbar-fixed-top">
           <div class="container">
               <!-- Brand and toggle get grouped for better mobile display -->
@@ -99,8 +101,7 @@
                         <div id="wordcloud">
                             <script>
                                 var wordcloud = wordCloud();
-                                updateCloud("root");
-
+                                updateCloud(sunburstFilter);
                             </script>
                         </div>
                         <div class="dropdown">
@@ -118,7 +119,7 @@
                         <script src="infofish.horizontal-bar.js"></script>
                         <script>
                         var juridicalForms = juridicalForms();
-                            updateBars("root", "steelblue");
+                            updateBars(sunburstFilter, "steelblue");
                         </script>
                         <h4 class="blocktitle"> Top 5 rechtsvormen</h4>
                         <div id="barchart">
@@ -133,7 +134,7 @@
                         <script src="infofish.yearbars.js"></script>
                         <script>
                         var barChartYears = barChartYears();
-                            updateYearBars("root", "steelblue");
+                            updateYearBars(sunburstFilter, "steelblue");
                         </script>
                         <h4 class="blocktitle">Oprichtingsdata</h4>
                         <div id="barchart2">

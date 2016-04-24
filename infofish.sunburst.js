@@ -77,7 +77,8 @@ var node;
 d3.json("activitiesAug.json", function (error, root) {
     if (error)
         throw error;
-    node = root;
+	
+	node = root;
     // Bounding circle underneath the sunburst, to make it easier to detect
     // when the mouse leaves the parent g.
     mainGroup.append("svg:circle")
@@ -151,6 +152,12 @@ d3.json("activitiesAug.json", function (error, root) {
     d3.select("#container").on("mouseleave", mouseleave);
     // Get total size of the tree = value of root node from partition.
     totalSize = path.node().__data__.value;
+	
+	path.each(function(d){
+		if(sunburstFilter == d.Code)
+			click(d);
+	})
+	
     function click(d) {
         updateCloud(d.Code);
         updateBars(d.Code, d.Color);
