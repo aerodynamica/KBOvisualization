@@ -74,6 +74,7 @@ var isChanging = false;
 
 // Keep track of the node that is currently being displayed as the root.
 var node;
+var path;
 d3.json("activitiesAug.json", function (error, root) {
     if (error)
         throw error;
@@ -108,9 +109,9 @@ d3.json("activitiesAug.json", function (error, root) {
     color.domain(root.children.length);
     // make sure this is done after setting the domain
     drawLegend();
-    updateBreadcrumbs([root], "", click);
+    updateBreadcrumbs([root], "", sunburstClick);
 
-    var path = mainGroup.datum(root).selectAll("path")
+    path = mainGroup.datum(root).selectAll("path")
             .data(partition.nodes)
             .enter().append("path")
             .attr("d", arc)
@@ -146,7 +147,7 @@ d3.json("activitiesAug.json", function (error, root) {
             .on("mouseover",mouseover)
             .on("mouseout", mouseout)
             .on("mousemove", mousemove)
-            .on("click", click)
+            .on("click", sunburstClick)
             .each(stash);
     // Add the mouseleave handler to the bounding circle.
     d3.select("#container").on("mouseleave", mouseleave);
@@ -155,24 +156,9 @@ d3.json("activitiesAug.json", function (error, root) {
 	
 	path.each(function(d){
 		if(sunburstFilter == d.Code)
-			click(d);
+			sunburstClick(d);
 	})
 	
-    function click(d) {
-        updateCloud(d.Code);
-        updateBars(d.Code, d.Color);
-        updateYearBars(d.Code, d.Color);
-        node = d;
-        isChanging = true;
-        path.transition()
-                .duration(500)
-                .attrTween("d", arcTweenZoom(d))
-                .each("end", function () {
-                    isChanging = false;
-                });
-        var sequenceArray = getAncestors(d);
-        updateBreadcrumbs(sequenceArray, "", self);
-    }
     // Fade all but the current sequence, and show it in the breadcrumb trail.
     function mouseover(d) {
         tip.html("<em>"+d.Description+"</em></br>"+d.nbEstablishments.toLocaleString()+" vestigingseenheden");
@@ -188,7 +174,7 @@ d3.json("activitiesAug.json", function (error, root) {
         //d3.select("#explanation")
         //	.style("visibility", "");
         var sequenceArray = getAncestors(d);
-        updateBreadcrumbs(sequenceArray, percentageString, click);
+        updateBreadcrumbs(sequenceArray, percentageString, sunburstClick);
         // Fade all the segments.
         d3.selectAll("path")
                 .style("opacity", 0.3);
@@ -215,7 +201,7 @@ d3.json("activitiesAug.json", function (error, root) {
                 percentageString = "< 0.1%";
             }
             var sequenceArray = getAncestors(node);
-            updateBreadcrumbs(sequenceArray, percentageString, click);
+            updateBreadcrumbs(sequenceArray, percentageString, sunburstClick);
             // Deactivate all segments during transition.
             d3.selectAll("path").on("mouseover", null);
             // Transition each segment to full opacity and then reactivate it.
@@ -233,6 +219,23 @@ d3.json("activitiesAug.json", function (error, root) {
         }
     }
 });
+
+function sunburstClick(d) {
+	updateCloud(d.Code);
+	updateBars(d.Code, d.Color);
+	updateYearBars(d.Code, d.Color);
+	node = d;
+	isChanging = true;
+	path.transition()
+			.duration(500)
+			.attrTween("d", arcTweenZoom(d))
+			.each("end", function () {
+				isChanging = false;
+			});
+	var sequenceArray = getAncestors(d);
+	updateBreadcrumbs(sequenceArray, "", self);
+}
+
 // Setup for switching data: stash the old values for transition.
 function stash(d) {
     d.x0 = d.x;
