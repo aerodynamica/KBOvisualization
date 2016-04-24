@@ -7,7 +7,7 @@ function barChartYears() {
 
     function draw(data, color) {
 
-//Reform data to only year
+
 /*
 var tmp = [];
 data.forEach(function(d){
@@ -75,6 +75,13 @@ console.log(ddd);
      d3.json("data/startdates/"+activity+".json", function (error, data) {
          if (error)
              throw error;
+
+         // Check only dates after 1900
+         for(var i = data.length - 1; i >= 0; i--) {
+            if(data[i].year < 1900) {
+               data.splice(i, 1);
+            }
+        }
          barChartYears.update(data, color);
      });
  }
