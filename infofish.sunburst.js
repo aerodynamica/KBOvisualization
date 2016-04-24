@@ -157,13 +157,23 @@ d3.json("activitiesAug.json", function (error, root) {
 	var sectorArray = [];
 	
 	path.each(function(d){
-		if(sunburstFilter == d.Code)
-			sunburstClick(d);
-		sectorArray.push({id: d.Code, text: d.Description});
+		sectorArray.push({id: d.Code, text: d.Description + " - " + d.Code});
 	});
 	
-	$(".js-example-data-array").select2({
+	$("#sectorSearch").select2({
 		data: sectorArray
+	});
+	$("#sectorSearch").on("select2:select", function (e) {
+		var searchFor = e.params.data.id;
+		path.each(function(d){
+		if(d.Code == searchFor)
+			sunburstClick(d);
+		});
+	});
+	
+	path.each(function(d){
+		if(sunburstFilter == d.Code)
+			sunburstClick(d);
 	});
 	
     // Fade all but the current sequence, and show it in the breadcrumb trail.
@@ -241,6 +251,11 @@ function sunburstClick(d) {
 			});
 	var sequenceArray = getAncestors(d);
 	updateBreadcrumbs(sequenceArray, "", self);
+	
+	//change search bar
+	$("#sectorSearch").select2().val(d.Code).trigger("change");;
+	
+	//change url in address
 	window.history.replaceState({"pageTitle":"InfoFish - Visualisation"},"", "?sunburstfilter=" + d.Code);
 }
 
