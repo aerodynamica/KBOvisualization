@@ -234,6 +234,7 @@ function sunburstClick(d) {
 			});
 	var sequenceArray = getAncestors(d);
 	updateBreadcrumbs(sequenceArray, "", self);
+	window.history.pushState({"html":"html","pageTitle":"InfoFish - Visualisation"},"", "?sunburstfilter=" + d.Code);
 }
 
 // Setup for switching data: stash the old values for transition.

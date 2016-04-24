@@ -84,7 +84,7 @@
                 </div>
                 <div class="col-sm-3 hidden-xs" style="margin-top: 8px;">
                     <div class="input-group">
-                      <input id="searchForm" type="text" class="form-control" placeholder="Search for...">
+                      <input id="searchForm" oninput="changeSearchResults()" onkeydown="checkForEnter(event)" type="text" class="form-control" placeholder="Search for...">
                       <span class="input-group-btn">
                         <button class="btn btn-default" type="button" onclick="searchForSector()">Go!</button>
                       </span>
