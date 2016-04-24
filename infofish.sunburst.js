@@ -157,7 +157,7 @@ d3.json("activitiesAug.json", function (error, root) {
 	path.each(function(d){
 		if(sunburstFilter == d.Code)
 			sunburstClick(d);
-	})
+	});
 	
     // Fade all but the current sequence, and show it in the breadcrumb trail.
     function mouseover(d) {
@@ -234,7 +234,7 @@ function sunburstClick(d) {
 			});
 	var sequenceArray = getAncestors(d);
 	updateBreadcrumbs(sequenceArray, "", self);
-	window.history.pushState({"html":"html","pageTitle":"InfoFish - Visualisation"},"", "?sunburstfilter=" + d.Code);
+	window.history.replaceState({"pageTitle":"InfoFish - Visualisation"},"", "?sunburstfilter=" + d.Code);
 }
 
 // Setup for switching data: stash the old values for transition.
