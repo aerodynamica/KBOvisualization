@@ -29,12 +29,16 @@
     <!-- Stylesheets -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous"/>
     <link rel="stylesheet" type="text/css" href="css/general.css"/>
+	<link rel="stylesheet" type="text/css" href="css/select2.min.css"/>
 
     <!-- Javascript -->
     <script src="https://d3js.org/d3.v3.min.js"></script>
     <script src="libraries/d3.tip.js"></script>
 	
 	<script src="./infofish.search.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+	<script src="js/select2.full.min.js"></script>
+
   </head>
   <body id="page-top">
 	  <script>
@@ -84,11 +88,13 @@
                 </div>
                 <div class="col-sm-3 hidden-xs" style="margin-top: 8px;">
                     <div class="input-group">
-                      <input id="searchForm" oninput="changeSearchResults()" onkeydown="checkForEnter(event)" type="text" class="form-control" placeholder="Search for...">
+                      <!--<input id="searchForm" oninput="changeSearchResults()" onkeydown="checkForEnter(event)" type="text" class="form-control" placeholder="Search for...">
 					  <datalist id="sectors"></datalist>
                       <span class="input-group-btn">
                         <button class="btn btn-default" type="button" onclick="searchForSector()">Go!</button>
                       </span>
+					  -->
+					  <select id="sectorSearch" class="js-example-data-array form-control" onchange="searchForSector()"></select>
                     </div><!-- /input-group -->
                 </div>
             </div>

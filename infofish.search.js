@@ -1,5 +1,6 @@
 function searchForSector(){
-	var searchFor = document.getElementById("searchForm").value;
+	var sectorSelect = document.getElementById("sectorSearch");
+	var searchFor = sectorSelect.options[sectorSelect.selectedIndex].text;
 	path.each(function(d){
 		if(d.Description == searchFor)
 			sunburstClick(d);
@@ -7,7 +8,6 @@ function searchForSector(){
 }
 
 function changeSearchResults(){
-	var searchFor = document.getElementById("searchForm").value.toLowerCase();
 	var sectors = [];
 	var regex = new RegExp(searchFor+".*");
 	path.each(function(d){

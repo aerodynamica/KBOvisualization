@@ -154,9 +154,16 @@ d3.json("activitiesAug.json", function (error, root) {
     // Get total size of the tree = value of root node from partition.
     totalSize = path.node().__data__.value;
 	
+	var sectorArray = [];
+	
 	path.each(function(d){
 		if(sunburstFilter == d.Code)
 			sunburstClick(d);
+		sectorArray.push({id: d.Code, text: d.Description});
+	});
+	
+	$(".js-example-data-array").select2({
+		data: sectorArray
 	});
 	
     // Fade all but the current sequence, and show it in the breadcrumb trail.
