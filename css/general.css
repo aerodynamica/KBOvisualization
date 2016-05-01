@@ -158,6 +158,282 @@ a.active,
     display: block;
 }
 
+/* Belgian Map */
+.counties {
+  fill: none;
+}
+
+.states {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+}
+
+.q0-9 { fill:rgb(247,251,255); }
+.q1-9 { fill:rgb(222,235,247); }
+.q2-9 { fill:rgb(198,219,239); }
+.q3-9 { fill:rgb(158,202,225); }
+.q4-9 { fill:rgb(107,174,214); }
+.q5-9 { fill:rgb(66,146,198); }
+.q6-9 { fill:rgb(33,113,181); }
+.q7-9 { fill:rgb(8,81,156); }
+.q8-9 { fill:rgb(8,48,107); }
+
+.scaleAndTitle {
+  vertical-align: top;
+  padding: 2px 12px;
+}
+
+.scaleAndTitle h2 {
+  font-family: "Noto Serif", serif;
+  font-size: 24px;
+  line-height: 28px;
+  margin-bottom: 4px;
+  color: #2c3a78;
+}
+
+.scaleAndTitle p.scaleUnit {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 13px;
+  padding-bottom: 3px;
+  font-weight: bold;
+}
+
+.swatch {
+  display: inline-block;
+  width: 25px;
+  height: 20px;
+  margin-right: -4px;
+}
+
+.swatch span {
+  display: inline-block;
+  font-family: "Droid Sans Mono";
+  font-size: 12px;
+  position: relative;
+  top: 100%;
+  left: 0;
+  width: 200%;
+  text-align: center;
+}
+
+.sharing {
+  position: absolute;
+  top: 0;
+  right: 6px;
+  height: 100%;
+}
+
+.sharing span {
+  width: 32px;
+  height: 100%;
+  display: inline-block;
+  padding: 0 6px;
+  border-left: 1px solid #e3d7c4;
+}
+
+.sharing span i {
+  font-size: 28px;
+  color: #777;
+  line-height: 100px;
+}
+/* Main */
+
+#belmap {
+  position: relative;
+  padding-right: 12px;
+  /*border: 1px solid #ddd;*/
+  cursor: pointer;
+}
+
+#belmap svg {
+  overflow: hidden;
+}
+.scaleAndTitle { margin-top: -50px; margin-bottom: 50px;}
+
+#buttons {
+  position: absolute;
+  right: -3px;
+  top: -96px;
+}
+
+#buttons p {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  margin-bottom: 3px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+#buttons div {
+  float: left;
+  width: 102px;
+  margin-right: 7px;
+}
+
+#buttons span {
+  display: inline-block;
+  width: 50px;
+  padding: 8px;
+  text-align: center;
+  font-family: "Droid Sans Mono", sans-serif;
+  font-size: 23px;
+  border: 1px solid #999;
+  border-left-width: 0;
+  background-color: #fff;
+}
+
+#buttons span[data-aspect="v"] {
+  border-left-width: 1px;
+  border-right-color: #ccc;
+  margin-right: -4px;
+}
+
+#buttons span.hover {
+  background-color: #b5ada3;
+  color: #fff;
+}
+
+#buttons span.active {
+  background-color: #84807c;
+  color: #fff;
+}
+
+#search {
+  position: absolute;
+  top: 2%;
+  z-index: 5;
+  width: 100%;
+  pointer-events: none;
+}
+
+#search > div {
+    width: 520px;
+    max-width: 98%;
+    margin: 0 auto;
+  background-color: white;
+    border: 1px solid #e3d7c4;
+    font-family: "Roboto Condensed", sans-serif;
+    pointer-events: all;
+    cursor: default;
+}
+
+#search > div > * {
+  width: 402px;
+  max-width: 98%;
+  margin: 0 auto !important;
+  padding: 0 8px;
+}
+
+#search h1 {
+  font-family: "Noto Serif", serif;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: bold;
+  color: #2c3a78;
+  padding-top: 10px;
+}
+
+#search p.intro {
+  padding: 10px 8px 18px 8px;
+}
+
+#townSearch input {
+  width: 100%;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 16px;
+  padding: 10px 0px 10px 10px;
+  border: 1px solid #e3d7c4;
+  background-color: #fdfcfb;
+}
+
+#search div.promo {
+  width: 100%;
+  max-width: 9999px;
+  min-height: 76px;
+  margin-top: 18px !important;
+  background-color: #faeede;
+  border-top: 1px solid #e3d7c4;
+}
+
+#search div.promo p {
+  margin: 0 auto;
+  padding: 12px 8px;
+  font-size: 15px;
+  max-width: 360px;
+}
+
+#search div.promo p img {
+  float: left;
+  width: 80px;
+  margin-top: -20px;
+  margin-right: 12px;
+}
+
+#search div.promo a {
+  font-weight: bold;
+  color: #2c3a78;
+  pointer-events: all;
+}
+
+#zoomOut {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 19px;
+  text-transform: uppercase;
+  background-color: rgba(44, 59, 120, 0.8);
+  color: white;
+  padding: 6px;
+  width: 130px;
+  position: absolute;
+  right: 3px;
+  top: 3px;
+  cursor: pointer;
+  display: none;
+}
+
+#zoomOut i {
+  margin-right: 6px;
+}
+
+/* Borders */
+.gemeentegrens {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 0.25;
+  stroke-linejoin: round;
+}
+
+.provinciegrens {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 1.5;
+  stroke-linejoin: round;
+}
+
+.landsgrens {
+  fill: none;
+  stroke: #888;
+  stroke-width: 1.5;
+  stroke-linejoin: round;
+}
+
+.zoomed {
+  stroke: #444;
+  stroke-width: 1.25;
+  stroke-linejoin: round;
+}
+
+/* Legend */
+.c0 { fill:#398258; background-color: #398258; }
+.c1 { fill:#6f9c63; background-color:#6f9c63;}
+.c2 { fill:#81b160; background-color:#81b160;}
+.c3 { fill:#afd360; background-color:#afd360;}
+.c4 { fill:#e3a03a; background-color:#e3a03a;}
+.c5 { fill:#e77c4a; background-color:#e77c4a;}
+.c6 { fill:#da5239; background-color:#da5239;}
+.c7 { fill:#bd4934; background-color:#bd4934;}
+.noinfo { fill: #888; background-color: #888;}
 
 
 
