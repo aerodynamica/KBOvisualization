@@ -162,10 +162,7 @@ function drawBelgianMap() {
 					.attr('class', function(d) {
 						var total = 0;
                         if(dataByNis.get(d.id) !==undefined) {
-    						if(dataFactor == "est")
-    							total = dataByNis.get(d.id).est;
-    						else if(dataFactor == "ent")
-    							total = dataByNis.get(d.id).ent;
+    						total = (dataFactor == "est")? dataByNis.get(d.id).est : dataByNis.get(d.id).ent;
                         }
 						//If at least 1 company, color
 						var fillClass = dataByNis.get(d.id) !==undefined && total > 0? entitiesValue(total) : 'noinfo';
@@ -182,10 +179,9 @@ function drawBelgianMap() {
 				belmap.selectAll('.gemeente')
 					.style("fill", function(d){
 						var total = 0;
-						if(dataFactor == "est")
-							total = dataByNis.get(d.id).est;
-						else if(dataFactor == "ent")
-							total = dataByNis.get(d.id).ent;
+                        if(dataByNis.get(d.id) !==undefined) {
+    						total = (dataFactor == "est")? dataByNis.get(d.id).est : dataByNis.get(d.id).ent;
+                        }
 						return colorScale(dataByNis.get(d.id)?log10(total):0);
 					});
 			}
