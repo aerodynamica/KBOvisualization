@@ -18,4 +18,4 @@ Visualisation demo: http://aerodynamica.github.io/KBOvisualization/
   (http://aerodynamica.github.io/KBOvisualization/?sunburstfilter=96022)
 - "Landschapsverzorning" or gardening companies contain mainly male names and a lot of dutch names (even though construct is the most common name)
  (http://aerodynamica.github.io/KBOvisualization/?sunburstfilter=81300)
-
+- West-vlaanderen is the textile production corner of Belgium. It is an export product, which we can see in the term "Belgium" that is often placed in their company names. And because the company ages are in average older, we can spot older terms like "gebroeders" (http://aerodynamica.github.io/KBOvisualization/?sunburstfilter=13100)
