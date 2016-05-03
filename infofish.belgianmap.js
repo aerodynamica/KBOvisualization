@@ -69,7 +69,10 @@ function drawBelgianMap() {
         .range(d3.range(8).map(function (i) { return "c" + i; }));
 		
 	var scaleFactor;
+	var normalizePerPopulation = 10000.0;
+	var normalizePerSquaredKM = 10.0;
 	var normalisationFactor;
+	var dataFactor;
 
     function drawMap(bel, error, firstDraw) {
 
@@ -90,14 +93,22 @@ function drawBelgianMap() {
         .on('click', function(d) {zoomGemeente(d.id) })
          .append("svg:title")
             .text(function(d) {
-                var establish = dataByNis.get(d.id) !==undefined? dataByNis.get(d.id).est : "0";
+                var establish = 0;
+				var establishText = "";
+				if(dataFactor == "est"){
+					establish = dataByNis.get(d.id) !==undefined? dataByNis.get(d.id).est : "0";
+					establishText = "vestigingseenheden";
+				}else if(dataFactor == "ent"){
+					establish = dataByNis.get(d.id) !==undefined? dataByNis.get(d.id).ent : "0";
+					establishText = "ondernemingen";
+				}
 				var text = "";
 				if(normalisationFactor == "normal")
-					text = nis2gemeente[d.id+""].name+" heeft "+establish+" establishments";
+					text = nis2gemeente[d.id+""].name+" heeft "+establish+" " + establishText;
 				else if(normalisationFactor == "population")
-					text = nis2gemeente[d.id+""].name+" heeft "+establish+" establishments per 10000 inwoners";
+					text = nis2gemeente[d.id+""].name+" heeft "+establish+" " + establishText + " per " + normalizePerPopulation + " inwoners";
 				else if(normalisationFactor == "area")
-					text = nis2gemeente[d.id+""].name+" heeft "+establish+" establishments per 10 vierkante km";
+					text = nis2gemeente[d.id+""].name+" heeft "+establish+" " + establishText + " per " + normalizePerSquaredKM + " vierkante km";
                 return text;
             });
         //.on('mouseover', function(d) { if(!zoomed) updateDetails(d.id); });
@@ -149,8 +160,13 @@ function drawBelgianMap() {
 			if(scaleFactor == "linear"){
 				 belmap.selectAll('.gemeente')
 					.attr('class', function(d) {
+						var total = 0;
+						if(dataFactor == "est")
+							total = dataByNis.get(d.id).est;
+						else if(dataFactor == "ent")
+							total = dataByNis.get(d.id).ent;
 						//If at least 1 company, color
-						var fillClass = dataByNis.get(d.id) !==undefined && dataByNis.get(d.id).est > 0? entitiesValue(dataByNis.get(d.id).est) : 'noinfo';
+						var fillClass = dataByNis.get(d.id) !==undefined && total > 0? entitiesValue(total) : 'noinfo';
 						//if(currentView=='hv') var fillClass = dataByNis.get(d.id).hv!='-' ? huizenValue(dataByNis.get(d.id).hv) : 'noinfo';
 						return(fillClass+' gemeente');
 					});
@@ -163,7 +179,12 @@ function drawBelgianMap() {
 					
 				belmap.selectAll('.gemeente')
 					.style("fill", function(d){
-						return colorScale(dataByNis.get(d.id)?log10(dataByNis.get(d.id).est):0);
+						var total = 0;
+						if(dataFactor == "est")
+							total = dataByNis.get(d.id).est;
+						else if(dataFactor == "ent")
+							total = dataByNis.get(d.id).ent;
+						return colorScale(dataByNis.get(d.id)?log10(total):0);
 					});
 			}
 
@@ -261,6 +282,14 @@ function drawBelgianMap() {
 				}
 			}	
 			
+			//check which data to use
+			radios = document.getElementsByName( "belmap-data" );
+			for( i = 0; i < radios.length; i++ ) {
+				if( radios[i].checked ) {
+					dataFactor = radios[i].value;
+				}
+			}	
+			
 			//d3.select("#colorLegendLowText")
 			//	.text(min);
 				
@@ -268,30 +297,27 @@ function drawBelgianMap() {
 			//	.text(max);
 			
 			if(normalisationFactor == "normal"){
-				max = d3.max(data, function(d) { return d.estCount; });
-				min = d3.min(data, function(d) { return d.estCount; });
+				max = d3.max(data, function(d) { return (dataFactor == "est")? d.estCount : d.entCount; });
+				min = d3.min(data, function(d) { return (dataFactor == "est")? d.estCount : d.entCount; });
 				
 				data.forEach(function(d) {
 					dataByNis.set(d.nis, {ent: d.entCount, est: d.estCount}); // Entities and establishments
 				});
 			}else if(normalisationFactor == "population"){
-				max = d3.max(data, function(d) { return d.estCount / (nis2gemeente[d.nis].inw / 10000.0); });
-				min = d3.min(data, function(d) { return d.estCount / (nis2gemeente[d.nis].inw / 10000.0); });
+				max = d3.max(data, function(d) { return (dataFactor == "est")? d.estCount / (nis2gemeente[d.nis].inw / normalizePerPopulation) : (d.entCount / (nis2gemeente[d.nis].inw / normalizePerPopulation)); });
+				min = d3.min(data, function(d) { return(dataFactor == "est")? d.estCount / (nis2gemeente[d.nis].inw / normalizePerPopulation) : (d.entCount / (nis2gemeente[d.nis].inw / normalizePerPopulation)); });
 				
 				data.forEach(function(d) {
-					dataByNis.set(d.nis, {ent: d.entCount / (nis2gemeente[d.nis].inw / 10000.0), est: d.estCount / (nis2gemeente[d.nis].inw / 10000.0)}); // Entities and establishments
+					dataByNis.set(d.nis, {ent: d.entCount / (nis2gemeente[d.nis].inw / normalizePerPopulation), est: d.estCount / (nis2gemeente[d.nis].inw / normalizePerPopulation)}); // Entities and establishments
 				});
 			}else if(normalisationFactor == "area"){
-				max = d3.max(data, function(d) { return d.estCount / (nis2gemeente[d.nis].opp / 10); });
-				min = d3.min(data, function(d) { return d.estCount / (nis2gemeente[d.nis].opp / 10); });
+				max = d3.max(data, function(d) { return (dataFactor == "est")? (d.estCount / (nis2gemeente[d.nis].opp / normalizePerSquaredKM)) : (d.entCount / (nis2gemeente[d.nis].opp / normalizePerSquaredKM)); });
+				min = d3.min(data, function(d) { return (dataFactor == "est")? (d.estCount / (nis2gemeente[d.nis].opp / normalizePerSquaredKM)) : (d.entCount / (nis2gemeente[d.nis].opp / normalizePerSquaredKM)); });
 				
 				data.forEach(function(d) {
-					dataByNis.set(d.nis, {ent: d.entCount / (nis2gemeente[d.nis].opp / 10), est: d.estCount / (nis2gemeente[d.nis].opp / 10)}); // Entities and establishments
+					dataByNis.set(d.nis, {ent: d.entCount / (nis2gemeente[d.nis].opp / normalizePerSquaredKM), est: d.estCount / (nis2gemeente[d.nis].opp / normalizePerSquaredKM)}); // Entities and establishments
 				});
 			}
-			
-			console.log(min);
-			console.log(max);
 			
 			/*var entityValueBreaks = [];
 			for(i = 1; i <= max; i+=Math.log(max/7)) {

@@ -167,13 +167,17 @@
               <!-- Belgian Map -->
               <div  id="main">
 				<div>
+					Data</br>
+					<input id="belmap-est" type="radio" name="belmap-data" value="est" checked/><label for="belmap-est"><i>Vestigingseenheden</i></label>
+					<input id="belmap-ent" type="radio" name="belmap-data" value="ent"/><label for="belmap-ent"><i>Ondernemingen</i></label>
+					</br>
 					Scale</br>
 					<input id="belmap-linear" type="radio" name="belmap-scale" value="linear" checked/><label for="belmap-linear"><i>Lineair</i></label>
 					<input id="belmap-logarithmic" type="radio" name="belmap-scale" value="logarithmic"/><label for="belmap-logarithmic"><i>Logaritmisch</i></label>
 					</br>
 					Normalizatie
 					</br>
-					<input id="belmap-normal" type="radio" name="belmap-normalize" value="normal" checked/><label for="belmap-normal"><i>Aantal vestigingseenheden</i></label>
+					<input id="belmap-normal" type="radio" name="belmap-normalize" value="normal" checked/><label for="belmap-normal"><i>Totaal</i></label>
 					<input id="belmap-population" type="radio" name="belmap-normalize" value="population"/><label for="belmap-population"><i>Per aantal inwoners</i></label>
 					<input id="belmap-area" type="radio" name="belmap-normalize" value="area"/><label for="belmap-area"><i>Per oppervlakte</i></label>
 				</div>
@@ -216,6 +220,11 @@
 						redrawMap(sunburstFilter, true);
 					});
 				d3.selectAll("[name=belmap-normalize]")
+					.on("change", function(){
+						sunburstFilter = decodeURIComponent((new RegExp('[?|&]sunburstfilter=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||"root";
+						redrawMap(sunburstFilter, true);
+					});
+				d3.selectAll("[name=belmap-data]")
 					.on("change", function(){
 						sunburstFilter = decodeURIComponent((new RegExp('[?|&]sunburstfilter=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||"root";
 						redrawMap(sunburstFilter, true);
