@@ -161,10 +161,12 @@ function drawBelgianMap() {
 				 belmap.selectAll('.gemeente')
 					.attr('class', function(d) {
 						var total = 0;
-						if(dataFactor == "est")
-							total = dataByNis.get(d.id).est;
-						else if(dataFactor == "ent")
-							total = dataByNis.get(d.id).ent;
+                        if(dataByNis.get(d.id) !==undefined) {
+    						if(dataFactor == "est")
+    							total = dataByNis.get(d.id).est;
+    						else if(dataFactor == "ent")
+    							total = dataByNis.get(d.id).ent;
+                        }
 						//If at least 1 company, color
 						var fillClass = dataByNis.get(d.id) !==undefined && total > 0? entitiesValue(total) : 'noinfo';
 						//if(currentView=='hv') var fillClass = dataByNis.get(d.id).hv!='-' ? huizenValue(dataByNis.get(d.id).hv) : 'noinfo';
