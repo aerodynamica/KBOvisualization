@@ -67,6 +67,9 @@ function drawBelgianMap() {
     entitiesValue = d3.scale.threshold()
         .domain(entityValueBreaks)
         .range(d3.range(8).map(function (i) { return "c" + i; }));
+		
+	var scaleFactor;
+	var normalisationFactor;
 
     function drawMap(bel, error, firstDraw) {
 
@@ -88,7 +91,14 @@ function drawBelgianMap() {
          .append("svg:title")
             .text(function(d) {
                 var establish = dataByNis.get(d.id) !==undefined? dataByNis.get(d.id).est : "0";
-                return nis2gemeente[d.id+""].name+" heeft "+establish+" establishments";
+				var text = "";
+				if(normalisationFactor == "normal")
+					text = nis2gemeente[d.id+""].name+" heeft "+establish+" establishments";
+				else if(normalisationFactor == "population")
+					text = nis2gemeente[d.id+""].name+" heeft "+establish+" establishments per 10000 inwoners";
+				else if(normalisationFactor == "area")
+					text = nis2gemeente[d.id+""].name+" heeft "+establish+" establishments per 10 vierkante km";
+                return text;
             });
         //.on('mouseover', function(d) { if(!zoomed) updateDetails(d.id); });
 
@@ -135,25 +145,30 @@ function drawBelgianMap() {
 	}
 
     function fillMap(firstDraw) {
-		var heatmapColors = ["#398258", "#bd4934"];
 		
-		var colorScale = d3.scale.linear()
-			.domain([log10(min), log10(max)])
-			.range(heatmapColors);
-			
-        belmap.selectAll('.gemeente')
-        .attr('class', function(d) {
-            //If at least 1 company, color
-            var fillClass = dataByNis.get(d.id) !==undefined && dataByNis.get(d.id).est > 0? entitiesValue(dataByNis.get(d.id).est) : 'noinfo';
-            //if(currentView=='hv') var fillClass = dataByNis.get(d.id).hv!='-' ? huizenValue(dataByNis.get(d.id).hv) : 'noinfo';
-            return(fillClass+' gemeente');
-        });
-			/*.style("fill", function(d){
-				return colorScale(dataByNis.get(d.id)?log10(dataByNis.get(d.id).est):0);
-			});*/
+			if(scaleFactor == "linear"){
+				 belmap.selectAll('.gemeente')
+					.attr('class', function(d) {
+						//If at least 1 company, color
+						var fillClass = dataByNis.get(d.id) !==undefined && dataByNis.get(d.id).est > 0? entitiesValue(dataByNis.get(d.id).est) : 'noinfo';
+						//if(currentView=='hv') var fillClass = dataByNis.get(d.id).hv!='-' ? huizenValue(dataByNis.get(d.id).hv) : 'noinfo';
+						return(fillClass+' gemeente');
+					});
+			}else if(scaleFactor == "logarithmic"){
+				var heatmapColors = ["#398258", "#bd4934"];
+				
+				var colorScale = d3.scale.linear()
+					.domain([log10(min), log10(max)])
+					.range(heatmapColors);
+					
+				belmap.selectAll('.gemeente')
+					.style("fill", function(d){
+						return colorScale(dataByNis.get(d.id)?log10(dataByNis.get(d.id).est):0);
+					});
+			}
 
-        d3.select('.gemeente#nis'+currentZoom).classed('zoomed', true);
-        if(firstDraw) updateScale();
+			d3.select('.gemeente#nis'+currentZoom).classed('zoomed', true);
+			if(firstDraw) updateScale();		
     }
 
     function zoomGemeente(nis) {
@@ -230,33 +245,68 @@ function drawBelgianMap() {
         d3.json("data/municipalities/"+activity+".json", function (error, data) {
             if (error)
                 throw error;
-            max = d3.max(data, function(d) { return d.estCount; });
-			min = d3.min(data, function(d) { return d.estCount; });
 			
-			d3.select("#colorLegendLowText")
-				.text(min);
+			var radios = document.getElementsByName( "belmap-scale" );
+			for( i = 0; i < radios.length; i++ ) {
+				if( radios[i].checked ) {
+					scaleFactor = radios[i].value;
+				}
+			}
+			
+			//check which normalisation factor to use
+			radios = document.getElementsByName( "belmap-normalize" );
+			for( i = 0; i < radios.length; i++ ) {
+				if( radios[i].checked ) {
+					normalisationFactor = radios[i].value;
+				}
+			}	
+			
+			//d3.select("#colorLegendLowText")
+			//	.text(min);
 				
-			d3.select("#colorLegendHighText")
-				.text(max);
+			//d3.select("#colorLegendHighText")
+			//	.text(max);
 			
-            data.forEach(function(d) {
-                dataByNis.set(d.nis, {ent: d.entCount, est: d.estCount}); // Entities and establishments
-            });
+			if(normalisationFactor == "normal"){
+				max = d3.max(data, function(d) { return d.estCount; });
+				min = d3.min(data, function(d) { return d.estCount; });
+				
+				data.forEach(function(d) {
+					dataByNis.set(d.nis, {ent: d.entCount, est: d.estCount}); // Entities and establishments
+				});
+			}else if(normalisationFactor == "population"){
+				max = d3.max(data, function(d) { return d.estCount / (nis2gemeente[d.nis].inw / 10000.0); });
+				min = d3.min(data, function(d) { return d.estCount / (nis2gemeente[d.nis].inw / 10000.0); });
+				
+				data.forEach(function(d) {
+					dataByNis.set(d.nis, {ent: d.entCount / (nis2gemeente[d.nis].inw / 10000.0), est: d.estCount / (nis2gemeente[d.nis].inw / 10000.0)}); // Entities and establishments
+				});
+			}else if(normalisationFactor == "area"){
+				max = d3.max(data, function(d) { return d.estCount / (nis2gemeente[d.nis].opp / 10); });
+				min = d3.min(data, function(d) { return d.estCount / (nis2gemeente[d.nis].opp / 10); });
+				
+				data.forEach(function(d) {
+					dataByNis.set(d.nis, {ent: d.entCount / (nis2gemeente[d.nis].opp / 10), est: d.estCount / (nis2gemeente[d.nis].opp / 10)}); // Entities and establishments
+				});
+			}
+			
+			console.log(min);
+			console.log(max);
+			
+			/*var entityValueBreaks = [];
+			for(i = 1; i <= max; i+=Math.log(max/7)) {
+				entityValueBreaks.push(Math.floor(i));
+			}*/
+			entitiesValue = d3.scale.quantize()
+				//.domain(entityValueBreaks)
+				.domain([min,max])
+				.range(d3.range(8).map(function (i) { return "c" + i; }));
 
-            /*var entityValueBreaks = [];
-            for(i = 1; i <= max; i+=Math.log(max/7)) {
-                entityValueBreaks.push(Math.floor(i));
-            }*/
-            entitiesValue = d3.scale.quantize()
-                //.domain(entityValueBreaks)
-                .domain([min,max])
-                .range(d3.range(8).map(function (i) { return "c" + i; }));
+			updateScale(entitiesValue);
 
-            updateScale(entitiesValue);
-
-            /* Load the TopoJSON data */
-            d3.json('data/bel.json', function(d) {drawMap(d, firstDraw);});
-        });
+			/* Load the TopoJSON data */
+			d3.json('data/bel.json', function(d) {drawMap(d, firstDraw);});
+		});
     }
 
     return {

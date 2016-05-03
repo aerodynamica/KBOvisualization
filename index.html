@@ -45,7 +45,7 @@
   </head>
   <body id="page-top">
 	  <script>
-		var sunburstFilter = decodeURIComponent((new RegExp('[?|&]sunburstfilter=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||"root";;
+		var sunburstFilter = decodeURIComponent((new RegExp('[?|&]sunburstfilter=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||"root";
 	  </script>
       <nav class="navbar navbar-default navbar-fixed-top">
           <div class="container">
@@ -166,6 +166,17 @@
 
               <!-- Belgian Map -->
               <div  id="main">
+				<div>
+					Scale</br>
+					<input id="belmap-linear" type="radio" name="belmap-scale" value="linear" checked/><label for="belmap-linear"><i>Lineair</i></label>
+					<input id="belmap-logarithmic" type="radio" name="belmap-scale" value="logarithmic"/><label for="belmap-logarithmic"><i>Logaritmisch</i></label>
+					</br>
+					Normalizatie
+					</br>
+					<input id="belmap-normal" type="radio" name="belmap-normalize" value="normal" checked/><label for="belmap-normal"><i>Aantal vestigingseenheden</i></label>
+					<input id="belmap-population" type="radio" name="belmap-normalize" value="population"/><label for="belmap-population"><i>Per aantal inwoners</i></label>
+					<input id="belmap-area" type="radio" name="belmap-normalize" value="area"/><label for="belmap-area"><i>Per oppervlakte</i></label>
+				</div>
                 <div id="belmap" style="position: relative; width: 520px; height: 420px;"></div>
                 <div class="scaleAndTitle">
                   <div class="scale">
@@ -183,9 +194,32 @@
                   <br/>
                 </div>
             </div>
+			<!--
+			<svg id="colorLegend" height="150" width="500">
+				<defs>
+					<linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+						<stop offset="0%" style="stop-color:#398258;stop-opacity:1" />
+						<stop offset="100%" style="stop-color:#bd4934;stop-opacity:1" />
+					</linearGradient>
+				</defs>
+				<rect x="100" y="20" width="300" height="25" fill="url(#grad1)" />
+				<text id="colorLegendLowText" x="40" y="38" font-family="sans-serif" font-size="15px" fill="red"></text>
+				<text id="colorLegendHighText" x="420" y="38" font-family="sans-serif" font-size="15px" fill="red"></text>
+			</svg>
+			-->
             <script>
                 var belgianMap = new drawBelgianMap();
                 redrawMap(sunburstFilter, true);
+				d3.selectAll("[name=belmap-scale]")
+					.on("change", function(){
+						sunburstFilter = decodeURIComponent((new RegExp('[?|&]sunburstfilter=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||"root";
+						redrawMap(sunburstFilter, true);
+					});
+				d3.selectAll("[name=belmap-normalize]")
+					.on("change", function(){
+						sunburstFilter = decodeURIComponent((new RegExp('[?|&]sunburstfilter=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||"root";
+						redrawMap(sunburstFilter, true);
+					});
             </script>
             </div>
         </div>

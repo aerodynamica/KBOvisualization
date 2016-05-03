@@ -115,6 +115,7 @@ d3.json("activitiesAug.json", function (error, root) {
             .data(partition.nodes)
             .enter().append("path")
             .attr("d", arc)
+			.attr("class", "sunburstpath")
             .style("fill", function (d) {
                 if(typeof d.parent === 'undefined')
                     return "#ffffff";
@@ -144,11 +145,14 @@ d3.json("activitiesAug.json", function (error, root) {
                     return d.Color;
                 }*/
             })
-            .on("mouseover",mouseover)
-            .on("mouseout", mouseout)
-            .on("mousemove", mousemove)
-            .on("click", sunburstClick)
             .each(stash);
+			
+	d3.selectAll(".sunburstpath")
+		.on("mouseover",mouseover)
+		.on("mouseout", mouseout)
+		.on("mousemove", mousemove)
+		.on("click", sunburstClick)
+	
     // Add the mouseleave handler to the bounding circle.
     d3.select("#container").on("mouseleave", mouseleave);
     // Get total size of the tree = value of root node from partition.
@@ -193,10 +197,10 @@ d3.json("activitiesAug.json", function (error, root) {
         var sequenceArray = getAncestors(d);
         updateBreadcrumbs(sequenceArray, percentageString, sunburstClick);
         // Fade all the segments.
-        d3.selectAll("path")
+        d3.selectAll(".sunburstpath")
                 .style("opacity", 0.3);
         // Then highlight only those that are an ancestor of the current segment.
-        svg.selectAll("path")
+        svg.selectAll(".sunburstpath")
                 .filter(function (node) {
                     return (sequenceArray.indexOf(node) >= 0);
                 })
@@ -220,9 +224,9 @@ d3.json("activitiesAug.json", function (error, root) {
             var sequenceArray = getAncestors(node);
             updateBreadcrumbs(sequenceArray, percentageString, sunburstClick);
             // Deactivate all segments during transition.
-            d3.selectAll("path").on("mouseover", null);
+            d3.selectAll(".sunburstpath").on("mouseover", null);
             // Transition each segment to full opacity and then reactivate it.
-            d3.selectAll("path")
+            d3.selectAll(".sunburstpath")
                     .transition()
                     .duration(500)
                     .style("opacity", 1)
@@ -241,6 +245,8 @@ function sunburstClick(d) {
 	updateCloud(d.Code);
 	updateBars(d.Code, d.Color);
 	updateYearBars(d.Code, d.Color);
+	redrawMap(d.Code, true);
+	
 	node = d;
 	isChanging = true;
 	path.transition()
