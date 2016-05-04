@@ -1,8 +1,8 @@
 function barChartYears() {
 
-    var margin = {top: 20, right: 20, bottom: 30, left: 0},
-        bwidth = window.innerWidth/2 - 100 - margin.left - margin.right; //500 - margin.left - margin.right,
-        bheight = 250 - margin.top - margin.bottom,
+    var margin = {top: 10, right: 20, bottom: 30, left: 20},
+        bwidth = window.innerWidth/2 - margin.left - margin.right; //500 - margin.left - margin.right,
+        bheight = 200 - margin.top - margin.bottom,
         parseDate = d3.time.format("%Y").parse;
 
     function draw(data, color) {
@@ -51,8 +51,8 @@ console.log(ddd);
         .style("fill", color)
         .attr('x', function(d) { return x(parseDate(d.year)); })
         .attr('y', function(d) { return bheight - margin.top - margin.bottom - (bheight - margin.top - margin.bottom - y(d.entCount)) })
-        .attr('width', function(d){
-            return (data.length > 2000)? 3 : 10;
+        .attr('width', function(d){   
+            return (bwidth - margin.left - margin.right)/(data[data.length - 1].year-data[0].year+1)-1;
             })
         .attr('height', function(d) { return bheight - margin.top - margin.bottom - y(d.entCount) })
         .append("svg:title")
