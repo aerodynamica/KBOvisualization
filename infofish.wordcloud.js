@@ -5,7 +5,7 @@
 
  // Check if variables already defined somewhere, otherwise default value
  var cwidth = (typeof width !== 'undefined')? width : window.innerWidth/2 - 100;
- var cheight = (typeof height !== 'undefined')? height : window.innerWidth/4 - 50;
+ var cheight = (typeof height !== 'undefined')? height : window.innerWidth/4 - 250;
 
 var currentActivity;
 var maxWords = 100;
@@ -87,7 +87,7 @@ function wordCloud() {
             words = words.filter(isValidWord);
             
             var stop = new Date().getTime();
-            console.log("filtered words cloud in "+(stop-start)+" ms");
+            //console.log("filtered words cloud in "+(stop-start)+" ms");
 
             words = words.slice(0,maxWords);
 
@@ -105,7 +105,7 @@ function wordCloud() {
                 .start();
         
             var stop = new Date().getTime();
-            console.log("updated word cloud in "+(stop-start)+" ms");
+            //console.log("updated word cloud in "+(stop-start)+" ms");
 
         }
     }

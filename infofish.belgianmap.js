@@ -12,7 +12,8 @@ function drawBelgianMap() {
     });
 
     var screenWidth = 1000;
-    var mapWidth = 500;
+    var margin = {top: 20, right: 20, bottom: 30, left: 20};
+    var mapWidth = window.innerWidth/4 - margin.left - margin.right;
 	
 	var min;
 	var max;
