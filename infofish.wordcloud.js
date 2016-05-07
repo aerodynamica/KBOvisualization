@@ -48,7 +48,7 @@ function wordCloud() {
                 
         var tip = d3.tip()
          .attr('class', 'd3-tip')
-         .html(function(d) { return "categorie: "+d.category+"</br>aantal: TODO";/*+d.count.toLocaleString();*/ })
+         .html(function(d) { return "categorie: "+d.category+"</br>aantal: "+d.count.toLocaleString(); })
          .direction('e')
          .offset([0,10]);
 
