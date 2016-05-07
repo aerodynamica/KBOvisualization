@@ -48,7 +48,7 @@ function wordCloud() {
                 
         var tip = d3.tip()
          .attr('class', 'd3-tip')
-         .html(function(d) { return "categorie: "+d.category+"</br>aantal: TODO" })
+         .html(function(d) { return "categorie: "+d.category+"</br>aantal: TODO";/*+d.count.toLocaleString();*/ })
          .direction('e')
          .offset([0,10]);
 
@@ -102,7 +102,7 @@ function wordCloud() {
             words = words.slice(0,maxWords);
 
             var scale = d3.scale.linear()
-                    .domain(d3.extent(words,function(d) { return d.size; }))
+                    .domain(d3.extent(words,function(d) { return d.count; }))
                     .range([15,60]);
 
             d3.layout.cloud().size([cwidth, cheight])
@@ -110,7 +110,7 @@ function wordCloud() {
                 .padding(5)
                 .rotate(0)
                 .font("Impact")
-                .fontSize(function(d) { return scale(d.size); })
+                .fontSize(function(d) { return scale(d.count); })
                 .on("end", draw)
                 .start();
         

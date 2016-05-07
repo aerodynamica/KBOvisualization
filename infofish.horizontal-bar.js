@@ -10,7 +10,7 @@ function juridicalForms() {
     
 
     function draw(data, color) {
-         var start = new Date().getTime();
+         //var start = new Date().getTime();
         
         data.sort(function(a, b) { return b.count - a.count; });
         //data.sort(function(a,b) {return (a.count < b.count) ? 1 : 0;} );
@@ -26,11 +26,11 @@ function juridicalForms() {
         
          var tip = d3.tip()
          .attr('class', 'd3-tip')
-         .html(function(d) { return "Aantal ondernemingen: "+d.count+"</br>Rechtsvorm: "+d.form;})
+         .html(function(d) { return "Aantal ondernemingen: "+d.count.toLocaleString()+"</br>Rechtsvorm: "+d.form;})
          .direction('e')
          .offset([0,10]);
 
-        barchart.call(tip);
+        
                            
 
         var scale = d3.scale.linear()
@@ -43,6 +43,8 @@ function juridicalForms() {
              .data(data, function(d) {return d.form;});
             /* .transition().duration(1000)*/
              
+          
+          barchart.call(tip);
           
           bar.transition().duration(1000)
              .attr("transform", function(d, i) { return "translate(0," + i * barHeight + ")"; });   
@@ -83,8 +85,6 @@ function juridicalForms() {
             .attr("height", barHeight - 1)
              .attr("class", "bar")
              .style("fill", color);
-             /*.append("svg:title")
-             .text(function(d) { return "Vestigingseenheden: "+d.count+"\nBedrijfsvorm: "+d.form; });*/
      
          enter.append("text")
              .attr("x",0)
@@ -94,10 +94,8 @@ function juridicalForms() {
              .text(function(d) {
                  var maxlength = width/7
                  if(d.form.length > maxlength)
-                    return d.form.slice(0, maxlength)+"... ("+d.count+")";
-                  return d.form+" ("+d.count+")"; });
-            /* .append("svg:title")
-             .text(function(d) { return "Vestigingseenheden: "+d.count+"\nBedrijfsvorm: "+d.form; });*/
+                    return d.form.slice(0, maxlength)+"... ("+d.count.toLocaleString()+")";
+                  return d.form+" ("+d.count.toLocaleString()+")"; });
         
         
         
@@ -105,9 +103,9 @@ function juridicalForms() {
      
         bar.exit().remove();
         
-        var stop = new Date().getTime();
+        //var stop = new Date().getTime();
         
-        console.log("drew bar chart in "+(stop-start)+" ms");
+        //console.log("drew bar chart in "+(stop-start)+" ms");
         
        
      

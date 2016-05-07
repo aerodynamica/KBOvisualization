@@ -88,7 +88,8 @@ d3.json("activitiesAug.json", function (error, root) {
 
     //tooltip
     var tip = d3.tip()
-    .attr('class', 'd3-tip');
+    .attr('class', 'd3-tip')
+    .offset([-7,0]);
 
     svg.call(tip);
     // For efficiency, filter nodes to keep only those large enough to see.
@@ -250,7 +251,7 @@ function sunburstClick(d) {
 	node = d;
 	isChanging = true;
 	path.transition()
-			.duration(500)
+			.duration(800)
 			.attrTween("d", arcTweenZoom(d))
 			.each("end", function () {
 				isChanging = false;

@@ -181,13 +181,13 @@ a.active,
     right: 0;
     background-color: white;
     overflow: visible;
+    padding: 15px;
 }
 
 
 
 .dropdown2:hover .dropdown-content2 {
     display: block;
-    padding: 3px;
 }
 
 /* Belgian Map */
@@ -592,6 +592,7 @@ g.tooltip:not(.css) { fill:currentColor; }
 
 #chart path {
   stroke: #fff;
+  cursor:pointer;
 }
 
 #explanation {

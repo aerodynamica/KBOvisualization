@@ -1,7 +1,7 @@
 var entitiesValue = function(){};
 function drawBelgianMap() {
-
-
+    
+    
     /* Handlebars */
     Handlebars.registerHelper('euro', function(amount) {
         return amount;
@@ -76,24 +76,16 @@ function drawBelgianMap() {
 	var dataFactor;
 
     function drawMap(bel, error, firstDraw) {
+         var start = new Date().getTime();
 
         /* Prepare the map and the necessary functions */
         gemeentes = topojson.feature(bel, bel.objects.gemeentes);
         projection = d3.geo.mercator().center([4.48,50.525]).scale(width*15).translate([width / 2, height / 2]);
         path = d3.geo.path().projection(projection);
-
-        /* Draw the towns */
-        g.selectAll('.gemeente')
-        .data(gemeentes.features)
-        .enter()
-        .append('path')
-        .attr('d', path)
-        .attr('class', 'gemeente')
-        .attr('id', function(d) { return('nis'+d.id);})
-        .attr('dummy', function(d,i) { featureByNis.set(d.id, i) })
-        .on('click', function(d) {zoomGemeente(d.id) })
-         .append("svg:title")
-            .text(function(d) {
+        
+        var tip = d3.tip()
+         .attr('class', 'd3-tip')
+         .html(function(d) { 
                 var establish = 0;
 				var establishText = "";
 				if(dataFactor == "est"){
@@ -105,13 +97,29 @@ function drawBelgianMap() {
 				}
 				var text = "";
 				if(normalisationFactor == "normal")
-					text = nis2gemeente[d.id+""].name+" heeft "+establish+" " + establishText;
+					text = nis2gemeente[d.id+""].name+" heeft "+establish.toLocaleString()+" " + establishText;
 				else if(normalisationFactor == "population")
-					text = nis2gemeente[d.id+""].name+" heeft "+establish+" " + establishText + " per " + normalizePerPopulation + " inwoners";
+					text = nis2gemeente[d.id+""].name+" heeft "+Math.round(establish).toLocaleString()+" " + establishText + " per " + normalizePerPopulation.toLocaleString() + " inwoners";
 				else if(normalisationFactor == "area")
-					text = nis2gemeente[d.id+""].name+" heeft "+establish+" " + establishText + " per " + normalizePerSquaredKM + " vierkante km";
+					text = nis2gemeente[d.id+""].name+" heeft "+Math.round(establish).toLocaleString()+" " + establishText + " per " + normalizePerSquaredKM.toLocaleString() + " km²";
                 return text;
-            });
+            })
+         .direction('n');
+
+        svg.call(tip);
+
+        /* Draw the towns */
+        g.selectAll('.gemeente')
+        .data(gemeentes.features)
+        .enter()
+        .append('path')
+        .attr('d', path)
+        .attr('class', 'gemeente')
+        .attr('id', function(d) { return('nis'+d.id);})
+        .attr('dummy', function(d,i) { featureByNis.set(d.id, i) })
+        .on('click', function(d) {zoomGemeente(d.id) })
+        .on("mouseover", tip.show)
+        .on("mouseout", tip.hide);
         //.on('mouseover', function(d) { if(!zoomed) updateDetails(d.id); });
 
         /* Draw the different borders */
@@ -147,6 +155,10 @@ function drawBelgianMap() {
 
         /* Fill/color the map */
         fillMap(firstDraw);
+        
+         var stop = new Date().getTime();
+        
+        console.log("drew map in "+(stop-start)+" ms");
     }
 	
 	function log10(value){
@@ -342,7 +354,10 @@ function drawBelgianMap() {
 }
 
 function redrawMap(activity, firstDraw){
+   
 	$("#belmap").html('');
 	belgianMap = new drawBelgianMap();
 	belgianMap.update(activity, firstDraw);
+        
+       
 }
