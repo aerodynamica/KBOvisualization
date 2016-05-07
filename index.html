@@ -142,22 +142,28 @@
                     <div  id="main" class="col-sm-6">
                     
                       
-                      <div class="dropdown2">
+                      <div id="buttons" class="dropdown2">
                         <button class="dropbtnGear"></button>
                         <div id="mapRadioButtons" class="dropdown-content2">
-                            Data</br>
-                            <input id="belmap-est" type="radio" name="belmap-data" value="est" checked/><label for="belmap-est"><i>Vestigingseenheden</i></label>
-                            <input id="belmap-ent" type="radio" name="belmap-data" value="ent"/><label for="belmap-ent"><i>Ondernemingen</i></label>
+                            <span>Data</span>
                             </br>
-                            Scale</br>
-                            <input id="belmap-linear" type="radio" name="belmap-scale" value="linear" checked/><label for="belmap-linear"><i>Lineair</i></label>
-                            <input id="belmap-logarithmic" type="radio" name="belmap-scale" value="logarithmic"/><label for="belmap-logarithmic"><i>Logaritmisch</i></label>
+                            <input id="belmap-est" class="css-checkbox" type="radio" name="belmap-data" value="est" checked/><label class="css-label" for="belmap-est"><i>Vestigingseenheden</i></label>
                             </br>
-                            Normalizatie
+                            <input id="belmap-ent" class="css-checkbox" type="radio" name="belmap-data" value="ent"/><label class="css-label" for="belmap-ent"><i>Ondernemingen</i></label>
                             </br>
-                            <input id="belmap-normal" type="radio" name="belmap-normalize" value="normal" checked/><label for="belmap-normal"><i>Totaal</i></label>
-                            <input id="belmap-population" type="radio" name="belmap-normalize" value="population"/><label for="belmap-population"><i>Per aantal inwoners</i></label>
-                            <input id="belmap-area" type="radio" name="belmap-normalize" value="area"/><label for="belmap-area"><i>Per oppervlakte</i></label>
+                            <span>Schaal</span>
+                            </br>
+                            <input id="belmap-linear" class="css-checkbox" type="radio" name="belmap-scale" value="linear" checked/><label class="css-label" for="belmap-linear"><i>Lineair</i></label>
+                            </br>
+                            <input id="belmap-logarithmic" class="css-checkbox" type="radio" name="belmap-scale" value="logarithmic"/><label class="css-label" for="belmap-logarithmic"><i>Logaritmisch</i></label>
+                            </br>
+                            <span>Normalisatie</span>
+                            </br>
+                            <input id="belmap-normal" class="css-checkbox" type="radio" name="belmap-normalize" value="normal" checked/><label class="css-label" for="belmap-normal"><i>Totaal</i></label>
+                            </br>
+                            <input id="belmap-population" class="css-checkbox" type="radio" name="belmap-normalize" value="population"/><label class="css-label" for="belmap-population"><i>Per aantal inwoners</i></label>
+                            </br>
+                            <input id="belmap-area" class="css-checkbox" type="radio" name="belmap-normalize" value="area"/><label class="css-label" for="belmap-area"><i>Per oppervlakte</i></label>
                         </div>
                      </div>
                         <div id="belmap"></div>

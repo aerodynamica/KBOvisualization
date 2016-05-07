@@ -16,13 +16,21 @@ function juridicalForms() {
         //data.sort(function(a,b) {return (a.count < b.count) ? 1 : 0;} );
         var data = data.slice(0, nbForms);
 
-        var barchart = d3.select("#barchart svg")
+        var barchart = d3.select("#barchart svg");
                 
         if(barchart.empty()){
             d3.select("#barchart").append("svg")
                             .attr("width", width)
                             .attr("height", barHeight * nbForms);
         }
+        
+         var tip = d3.tip()
+         .attr('class', 'd3-tip')
+         .html(function(d) { return "Aantal ondernemingen: "+d.count+"</br>Rechtsvorm: "+d.form;})
+         .direction('e')
+         .offset([0,10]);
+
+        barchart.call(tip);
                            
 
         var scale = d3.scale.linear()
@@ -65,7 +73,9 @@ function juridicalForms() {
         var enter = bar.enter().append("g");
                        
         enter/*.transition().duration(1000)*/
-                        .attr("transform", function(d, i) { return "translate(0," + i * barHeight + ")"; });
+                        .attr("transform", function(d, i) { return "translate(0," + i * barHeight + ")"; })
+                .on("mouseover", tip.show)
+              .on("mouseout", tip.hide);
                         
         enter.append("rect")   
             /* .transition().duration(1000)*/

@@ -45,6 +45,14 @@ function wordCloud() {
     function draw(words) {
         var cloud = svg.selectAll("g text")
                         .data(words, function(d) { return d.text; });
+                
+        var tip = d3.tip()
+         .attr('class', 'd3-tip')
+         .html(function(d) { return "categorie: "+d.category+"</br>aantal: TODO" })
+         .direction('e')
+         .offset([0,10]);
+
+        svg.call(tip);
 
         //Entering words
         cloud.enter()
@@ -53,7 +61,9 @@ function wordCloud() {
             .style("fill", function(d) { return catDict.get(d.category); })
             .attr("text-anchor", "middle")
             .attr('font-size', 1)
-            .text(function(d) { return d.text; });
+            .text(function(d) { return d.text; })
+            .on("mouseover", tip.show)
+              .on("mouseout", tip.hide);
 
         //Entering and existing words
         cloud.transition()
@@ -98,7 +108,7 @@ function wordCloud() {
             d3.layout.cloud().size([cwidth, cheight])
                 .words(words)
                 .padding(5)
-                .rotate(0) //function() { return ~~(Math.random() * 2) * 45; })
+                .rotate(0)
                 .font("Impact")
                 .fontSize(function(d) { return scale(d.size); })
                 .on("end", draw)

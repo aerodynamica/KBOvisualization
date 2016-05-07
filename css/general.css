@@ -187,11 +187,6 @@ a.active,
 
 .dropdown2:hover .dropdown-content2 {
     display: block;
-}
-
-#mapRadioButtons{
-    width: 300px;
-    float: none;
     padding: 3px;
 }
 
@@ -287,54 +282,46 @@ a.active,
   overflow: hidden;
 }
 
-#buttons {
-  position: absolute;
-  right: -3px;
-  top: -96px;
-}
+/*Radio Buttons*/
 
-#buttons p {
-  font-family: "Roboto Condensed", sans-serif;
-  font-size: 13px;
-  font-weight: bold;
-  margin-bottom: 3px;
-  text-transform: uppercase;
-  text-align: center;
-}
-
-#buttons div {
-  float: left;
-  width: 102px;
-  margin-right: 7px;
-}
 
 #buttons span {
-  display: inline-block;
-  width: 50px;
-  padding: 8px;
-  text-align: center;
-  font-family: "Droid Sans Mono", sans-serif;
   font-size: 23px;
-  border: 1px solid #999;
-  border-left-width: 0;
-  background-color: #fff;
 }
 
-#buttons span[data-aspect="v"] {
-  border-left-width: 1px;
-  border-right-color: #ccc;
-  margin-right: -4px;
+input[type=radio].css-checkbox {
+    position:absolute; z-index:-1000; left:-1000px; overflow: hidden; clip: rect(0 0 0 0); height:1px; width:1px; margin:-1px; padding:0; border:0;
 }
 
-#buttons span.hover {
-  background-color: #b5ada3;
-  color: #fff;
+input[type=radio].css-checkbox + label.css-label {
+    padding-left:21px;
+    height:16px; 
+    display:inline-block;
+    line-height:16px;
+    background-repeat:no-repeat;
+    background-position: 0 0;
+    font-size:16px;
+    vertical-align:middle;
+    cursor:pointer;
+
 }
 
-#buttons span.active {
-  background-color: #84807c;
-  color: #fff;
+input[type=radio].css-checkbox:checked + label.css-label {
+    background-position: 0 -16px;
 }
+label.css-label {
+    background-image:url(http://csscheckbox.com/checkboxes/u/csscheckbox_cce337a3f8bb55521f55ec55906db31e.png);
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+
+
+
 
 #search {
   position: absolute;
@@ -490,22 +477,13 @@ a.active,
 }
 
 .d3-tip {
-  text-align: center;
   font-size: 1.2em;
   padding: 12px;
   background: rgba(0,0,0,0.7);
   color: #fff;
   border-radius: 2px;
   pointer-events: none;
-  z-index: 1;
-  /*
-  line-height: 1;
-  font-weight: bold;
-  padding: 12px;
-  background: rgba(0, 0, 0, 0.5);
-  color: #fff;
-  border-radius: 2px;
-  pointer-events: none;*/
+  
 }
 
 /* Creates a small triangle extender for the tooltip */
