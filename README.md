@@ -29,8 +29,9 @@ Visualisation demo: http://aerodynamica.github.io/KBOvisualization/
 (http://aerodynamica.github.io/KBOvisualization/?sunburstfilter=71111)
 
 ### Startdata
-- 
-
+- De meeste vestigingseenheden binnen 'Serviceflats voor ouderen' zijn jong. Door de vergrijzing? (http://localhost/KBOvisualization/index.html?sunburstfilter=87302)
+- Het grootste deel van de vestigingseenheden binnen 'uitgeverijen van computerspellen' zijn pas gestart na 2007.
+(http://aerodynamica.github.io/KBOvisualization/?sunburstfilter=5821)
 
 ### Algemeen
 
