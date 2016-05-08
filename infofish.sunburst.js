@@ -248,7 +248,7 @@ function sunburstClick(d) {
 
         // Update other charts
     	updateCloud(d.Code);
-    	//updateBars(d.Code, d.Color);
+    	updateBars(d.Code, d.Color);
     	updateYearBars(d.Code, d.Color);
     	redrawMap(d.Code, true);
     	
