@@ -167,7 +167,7 @@ a.active,
 }
 #chart {
     text-align: center;
-    margin-top: 15px;
+    margin-top: 0px;
     background: #ffffff url('../img/infofish-info.png') center center no-repeat;
 }
 
@@ -501,6 +501,7 @@ label.css-label {
     margin-top: 15px;
     /*border-left: rgba(0,0,0,0.2) 1px dashed;*/
 }
+.sunburstpath {cursor: pointer;}
 
 .tooltip {
     pointer-events:none; /*let mouse events pass through*/

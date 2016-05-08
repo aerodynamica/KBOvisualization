@@ -71,11 +71,35 @@ function drawBelgianMap() {
 	var dataFactor;
 
     function drawMap(bel, error, firstDraw) {
-
         /* Prepare the map and the necessary functions */
         gemeentes = topojson.feature(bel, bel.objects.gemeentes);
         projection = d3.geo.mercator().center([4.48,50.525]).scale(width*15).translate([width / 2, height / 2]);
         path = d3.geo.path().projection(projection);
+
+        var tip = d3.tip()
+                    .attr('class', 'd3-tip')
+                    .html(function(d) { 
+                        var establish = 0;
+                        var establishText = "";
+                        if(dataFactor == "est"){
+                            establish = dataByNis.get(d.id) !==undefined? dataByNis.get(d.id).est : "0";
+                            establishText = "vestigingseenheden";
+                        }else if(dataFactor == "ent"){
+                            establish = dataByNis.get(d.id) !==undefined? dataByNis.get(d.id).ent : "0";
+                            establishText = "ondernemingen";
+                        }
+                        var text = "";
+                        if(normalisationFactor == "normal")
+                            text = nis2gemeente[d.id+""].name+" heeft "+establish.toLocaleString()+" " + establishText;
+                        else if(normalisationFactor == "population")
+                            text = nis2gemeente[d.id+""].name+" heeft "+Math.round(establish).toLocaleString()+" " + establishText + " per " + normalizePerPopulation.toLocaleString() + " inwoners";
+                        else if(normalisationFactor == "area")
+                            text = nis2gemeente[d.id+""].name+" heeft "+Math.round(establish).toLocaleString()+" " + establishText + " per " + normalizePerSquaredKM.toLocaleString() + " km<sup>2</sup>";
+                        return text;
+                    })
+                    .direction('n');
+        
+        svg.call(tip);
 
         /* Draw the towns */
         g.selectAll('.gemeente')
@@ -87,26 +111,9 @@ function drawBelgianMap() {
         .attr('id', function(d) { return('nis'+d.id);})
         .attr('dummy', function(d,i) { featureByNis.set(d.id, i) })
         .on('click', function(d) {zoomGemeente(d.id) })
-         .append("svg:title")
-            .text(function(d) {
-                var establish = 0;
-				var establishText = "";
-				if(dataFactor == "est"){
-					establish = dataByNis.get(d.id) !==undefined? dataByNis.get(d.id).est : "0";
-					establishText = "vestigingseenheden";
-				}else if(dataFactor == "ent"){
-					establish = dataByNis.get(d.id) !==undefined? dataByNis.get(d.id).ent : "0";
-					establishText = "ondernemingen";
-				}
-				var text = "";
-				if(normalisationFactor == "normal")
-					text = nis2gemeente[d.id+""].name+" heeft "+establish+" " + establishText;
-				else if(normalisationFactor == "population")
-					text = nis2gemeente[d.id+""].name+" heeft "+establish+" " + establishText + " per " + normalizePerPopulation + " inwoners";
-				else if(normalisationFactor == "area")
-					text = nis2gemeente[d.id+""].name+" heeft "+establish+" " + establishText + " per " + normalizePerSquaredKM + " vierkante km";
-                return text;
-            });
+        .on("mouseover", tip.show)
+        .on("mouseout", tip.hide);
+        
         //.on('mouseover', function(d) { if(!zoomed) updateDetails(d.id); });
 
         /* Draw the different borders */
