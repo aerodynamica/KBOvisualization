@@ -9,6 +9,8 @@ Data source: http://economie.fgov.be/nl/ondernemingen/KBO/#.Vwo7bPmLSbh
 Visualisation demo: http://aerodynamica.github.io/KBOvisualization/
 
 ## Trends we noticed
+
+### Wordcloud
 - "Frituur" is the most common word in small restaurants
   (http://aerodynamica.github.io/KBOvisualization/?sunburstfilter=56102)
 - Antwerp is still the diamond city in Belgium (and probably Europe)
@@ -18,4 +20,19 @@ Visualisation demo: http://aerodynamica.github.io/KBOvisualization/
   (http://aerodynamica.github.io/KBOvisualization/?sunburstfilter=96022)
 - "Landschapsverzorning" or gardening companies contain mainly male names and a lot of dutch names (even though construct is the most common name)
  (http://aerodynamica.github.io/KBOvisualization/?sunburstfilter=81300)
+
+
+### Rechtsvormen
+- Notarissen kiezen het vaakst voor een Burgerlijke vennootschap onder vorm van besloten vennootschap met beperkte aanpsrakelijkheid.
+(http://aerodynamica.github.io/KBOvisualization/?sunburstfilter=69102)
+- Als je als Bouwarchitect start kan het interessant zijn om voor een Burgerlijke vennootschap onder vorm van besloten vennootschap met beperkte aanpsrakelijkheid te starten ipv een BVBA, die minder populair is.
+(http://aerodynamica.github.io/KBOvisualization/?sunburstfilter=71111)
+
+### Startdata
+- 
+
+
+### Algemeen
+
 - West-vlaanderen is the textile production corner of Belgium. It is an export product, which we can see in the term "Belgium" that is often placed in their company names. And because the company ages are in average older, we can spot older terms like "gebroeders" (http://aerodynamica.github.io/KBOvisualization/?sunburstfilter=13100)
+- ...
