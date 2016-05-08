@@ -88,7 +88,8 @@ d3.json("activitiesAug.json", function (error, root) {
 
     //tooltip
     var tip = d3.tip()
-        .attr('class', 'd3-tip');
+        .attr('class', 'd3-tip')
+        .offset([-8,0]);
 
     svg.call(tip);
     // For efficiency, filter nodes to keep only those large enough to see.
