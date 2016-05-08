@@ -323,28 +323,10 @@ function drawBelgianMap() {
             if (error)
                 throw error;
 			
-			var radios = document.getElementsByName( "belmap-scale" );
-			for( i = 0; i < radios.length; i++ ) {
-				if( radios[i].checked ) {
-					scaleFactor = radios[i].value;
-				}
-			}
-			
-			//check which normalisation factor to use
-			radios = document.getElementsByName( "belmap-normalize" );
-			for( i = 0; i < radios.length; i++ ) {
-				if( radios[i].checked ) {
-					normalisationFactor = radios[i].value;
-				}
-			}	
-			
-			//check which data to use
-			radios = document.getElementsByName( "belmap-data" );
-			for( i = 0; i < radios.length; i++ ) {
-				if( radios[i].checked ) {
-					dataFactor = radios[i].value;
-				}
-			}	
+            // Check the selected values in map settings
+			scaleFactor = $("[name=belmap-scale]:checked").val();
+			normalisationFactor = $("[name=belmap-normalize]:checked").val();
+            dataFactor = $("[name=belmap-data]:checked").val();
 			
 			//d3.select("#colorLegendLowText")
 			//	.text(min);

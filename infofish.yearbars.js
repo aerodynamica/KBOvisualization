@@ -28,12 +28,15 @@ function barChartYears() {
         .scale(y)
         .orient('left');
 
-    var svg = d3.select('#barchart2').append('svg')
-        .attr('class', 'chart')
-        .attr('width', bwidth)
-        .attr('height', bheight)
-        .append('g')
-        .attr('transform', 'translate(' + margin.left + ', ' + margin.top + ')');
+    var svg = d3.select("#barchart2 svg");
+    if(svg.empty()) {
+        svg = d3.select('#barchart2').append('svg')
+            .attr('class', 'chart')
+            .attr('width', bwidth)
+            .attr('height', bheight)
+            .append('g')
+            .attr('transform', 'translate(' + margin.left + ', ' + margin.top + ')');
+    }
 
     // Hover tip message    
     var tip = d3.tip()
@@ -49,7 +52,6 @@ function barChartYears() {
         .direction('n');
       
     svg.call(tip);
-
 
     svg.selectAll('.chart')
         .data(data)

@@ -12,7 +12,7 @@ function juridicalForms() {
         
         // Dynamically change the title
         if(data.length < 1) 
-            $("#barchart").prev().find("span").html("Onbekende berijfsvorm");
+            $("#barchart").prev().find("span").html("Geen bekende berijfsvormen");
         else if(data.length < 2) 
             $("#barchart").prev().find("span").html("Enige bedrijfsvorm");
         else if(data.length < 5) 
@@ -23,11 +23,13 @@ function juridicalForms() {
         var data = data.slice(0, nbForms);
 
         // Start building barchart
-        $("#barchart").html('');
-        var barchart = d3.select("#barchart")
+        var barchart = d3.select("#barchart svg");
+        if(barchart.empty()) {
+            barchart = d3.select("#barchart")
                          .append("svg")
                          .attr("width", width)
-                         .attr("height", barHeight * nbForms);;
+                         .attr("height", barHeight * nbForms);
+        }
 
         // Hover tip message    
         var tip = d3.tip()
@@ -46,6 +48,19 @@ function juridicalForms() {
         var bar = barchart.selectAll("g")
              .data(data, function(d) {return d.form;});
 
+
+        bar.transition().duration(1000)     
+            .attr("transform", function(d, i) { return "translate(5," + i * barHeight + ")"; });         
+          
+        bar.select("rect")      
+            .transition().duration(1000) 
+            .attr("width", function(d) { return scale(d.count); })     
+            .style("fill", color);      
+          
+        bar.select("text")    
+            .text(function(d, i) {
+                 return (i+1).toLocaleString()+". "+afkorting(d.form);
+              });
    
         var enter = bar.enter().append("g");    
         enter.attr("transform", function(d, i) { return "translate(5," + i * barHeight + ")"; });            
@@ -54,8 +69,6 @@ function juridicalForms() {
              .attr("height", barHeight - 1)
              .attr("class", "bar")
              .style("fill", color);
-             /*.on("mouseover", tip.show)
-             .on("mouseout", tip.hide);*/
         
          enter.append("text")
              .attr("x",0)
@@ -63,20 +76,7 @@ function juridicalForms() {
              .attr("dy", ".35em")
              .attr("transform", "translate(" + 0 + ", 0)")
              .text(function(d, i) {
-                 var afkorting = d.form
-                                  .replace("met", "")
-                                  .replace("onder de vorm van", "q")
-                                  .replace("onder vorm van", "q")
-                                  .replace("RSZ", "x")
-                                  .replace(" van", "")
-                                  .replace(" of", "")
-                                  .match(/\b(\w)/g);
-                    if(afkorting.length > 1)
-                        afkorting = afkorting.join('').replace("q", " ").replace("x", " RSZ ").toUpperCase();
-                    else 
-                        afkorting = afkorting[0]
-                 var index = (i+1).toLocaleString()+". ";
-                 return index+afkorting;
+                 return (i+1).toLocaleString()+". "+afkorting(d.form);
               })
              .on("mouseover", tip.show)
              .on("mouseout", tip.hide);
@@ -84,6 +84,21 @@ function juridicalForms() {
         bar.exit().remove();
      
     };
+
+    function afkorting(input) {
+        var afk = input
+                  .replace("met", "")
+                  .replace("onder de vorm van", "q")
+                  .replace("onder vorm van", "q")
+                  .replace("RSZ", "x")
+                  .replace(" van", "")
+                  .replace(" of", "")
+                  .match(/\b(\w)/g);
+        if(afk.length > 1)
+            return afk.join('').replace("q", " ").replace("x", " RSZ ").toUpperCase();
+        else 
+            return afk[0]
+    }
 
     return {
         update : function(data, color) {
