@@ -6,7 +6,7 @@ function barChartYears() {
         parseDate = d3.time.format("%Y").parse;
 
     function draw(data, color) {
-
+        if(typeof color === 'undefined') color = "#233140";
 
 /*
 var tmp = [];
@@ -19,7 +19,7 @@ tmp.forEach(function(i,v){
     ddd.push({"year": v, "count":i})
 });
 console.log(ddd);
-*/    
+*/
     d3.select("#barchart2").html("");
     var x = d3.time.scale()
         .domain([parseDate(data[0].year), d3.time.day.offset(parseDate(data[data.length - 1].year), 1)])
@@ -45,14 +45,6 @@ console.log(ddd);
       .append('g')
         .attr('transform', 'translate(' + margin.left + ', ' + margin.top + ')');
 
-    var tip = d3.tip()
-         .attr('class', 'd3-tip')
-         .html(function(d) { return "Opgericht in " + d.year + "</br>Vestigingseenheden: "+d.entCount.toLocaleString();})
-         .direction('e')
-         .offset([0,10]);
-
-        svg.call(tip);
-
     svg.selectAll('.chart')
         .data(data)
       .enter().append('rect')
@@ -63,12 +55,8 @@ console.log(ddd);
             return (bwidth - margin.left - margin.right)/(data[data.length - 1].year-data[0].year+1)-1;
             })
         .attr('height', function(d) { return bheight - margin.top - margin.bottom - y(d.entCount) })
-        .on("mouseover", tip.show)
-        .on("mouseout", tip.hide);
-       /* .append("svg:title")
+        .append("svg:title")
         .text(function(d) { return "Opgericht op " + d.year + "\nVestigingseenheden: "+d.entCount; });
-*/
-    
 
     svg.append('g')
         .attr('class', 'x axis')
