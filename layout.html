@@ -80,6 +80,7 @@
       </nav>
 
 <!-- Main content -->
+     <!-- Sequences, title and search -->
      <div class="container-fluid" id="content">
         <div class="content-title container-fluid" style="margin-right:-15px;margin-left: -15px;background: #E9E9E9;">
             <div class="row">
@@ -103,16 +104,23 @@
                 </div>
             </div>
         </div>
-        <!-- Visualisation -->
-        <div class="row" id="maincontent">
-            <div class="container-fluid col-xs-6">
+      </div>
+      <!-- /Sequences, title and search -->
 
+      <!-- Visualisation -->
+      <div class="container-fluid">
+        <div class="row" id="maincontent">
+            <!-- Left column -->
+            <div class="col-md-6 col-sm-12 col-xs-12">
+
+                <!-- Wordcloud -->
                 <div class="row">
-                    <!-- Wordcloud -->
                     <div id="wordcloudAndLegend" class="col-xs-12 vis-section">
+                        <!-- Wordcloud Legend -->
                         <i class="fa fa-filter fa-2x pull-right" id="wordCloudFilter"></i>
                         <ul id="wordCloudLegend" class="pull-right" style="display:none;">
                         </ul>
+                        <!-- /Wordcloud Legend -->
 
                         <script src="libraries/d3.layout.cloud.js"></script>
                         <script src="infofish.wordcloud_2.js"></script>
@@ -127,7 +135,9 @@
                         </div>
                     </div>
                 </div>
-                
+                <!-- /Wordcloud -->
+
+                <!-- Belgian Heatmap -->
                 <div class="row">
                     <!--<div class="col-sm-6" >
 
@@ -174,6 +184,8 @@
                       </div>
                       
                     </div>
+
+                    <!-- Heatmap right-info bar and settings -->
                     <div class="col-sm-6">
                       <div id="globalinfo">
                         <h4><span>Top 5 provincies</span></h4>
@@ -188,17 +200,26 @@
                         <div class="infobody">
                         </div>
                       </div>
+
+                      <!-- Heatmap settings -->
                       <div id="mapsettings" style="display:none;">
                         <h4><span>Data</span></h4>
-                          <input id="belmap-est" type="radio" class="css-checkbox" name="belmap-data" value="est" checked/><label class="css-label" for="belmap-est"><i>Vestigingseenheden</i></label>
-                          &nbsp;&nbsp;<input id="belmap-ent" class="css-checkbox" type="radio" name="belmap-data" value="ent"/><label class="css-label" for="belmap-ent"><i>Ondernemingen</i></label>
+                          <input id="belmap-est" type="radio" class="css-checkbox" name="belmap-data" value="est" checked/>
+                           <label class="css-label" for="belmap-est">Vestigingseenheden</label>
+                          <input id="belmap-ent" class="css-checkbox" type="radio" name="belmap-data" value="ent"/>
+                           <label class="css-label" for="belmap-ent">Ondernemingen</label>
                         <br/><br/><h4><span>Schaal</span></h4>
-                          <input id="belmap-linear" type="radio" class="css-checkbox" name="belmap-scale" value="linear" checked/><label class="css-label"for=" " for="belmap-linear"><i>Lineair</i></label>
-                          &nbsp;&nbsp;<input id="belmap-logarithmic" class="css-checkbox" type="radio" name="belmap-scale" value="logarithmic"/><label class="css-label" for="belmap-logarithmic"><i>Logaritmisch</i></label>
+                          <input id="belmap-linear" type="radio" class="css-checkbox" name="belmap-scale" value="linear" checked/>
+                           <label class="css-label"for="belmap-linear" for="belmap-linear">Lineair</label>
+                          <input id="belmap-logarithmic" class="css-checkbox" type="radio" name="belmap-scale" value="logarithmic"/>
+                           <label class="css-label" for="belmap-logarithmic">Logaritmisch</label>
                         <br/><br/><h4><span>Normalizatie</span></h4>
-                          <input id="belmap-normal" type="radio" class="css-checkbox" name="belmap-normalize" value="normal" checked/><label class="css-label" for="belmap-normal"><i>Totaal</i></label>
-                          &nbsp;&nbsp;<input id="belmap-population" class="css-checkbox" type="radio" name="belmap-normalize" value="population"/><label class="css-label" for="belmap-population"><i>Per aantal inwoners</i></label>
-                          &nbsp;&nbsp;<input id="belmap-area" type="radio" class="css-checkbox" name="belmap-normalize" value="area"/><label class="css-label" for="belmap-area"><i>Per oppervlakte</i></label>
+                          <input id="belmap-normal" type="radio" class="css-checkbox" name="belmap-normalize" value="normal" checked/>
+                           <label class="css-label" for="belmap-normal">Totaal</label>
+                          <input id="belmap-population" class="css-checkbox" type="radio" name="belmap-normalize" value="population"/>
+                           <label class="css-label" for="belmap-population">Per aantal inwoners</label>
+                          <input id="belmap-area" type="radio" class="css-checkbox" name="belmap-normalize" value="area"/>
+                           <label class="css-label" for="belmap-area">Per oppervlakte</label>
                           <script>
                             var belgianMap = new drawBelgianMap();
                             redrawMap(sunburstFilter, true);
@@ -219,15 +240,16 @@
                                     });
                           </script>
                       </div>
+                      <!-- /Heatmap settings -->
                     </div>
+                    <!-- /Heatmap right-info bar and settings -->
                   </div>
-
-
                 </div>
+                <!-- /Belgian Heatmap -->
                 
+                <!-- Startdata barchart -->
                 <div class="row">
                     <div class="col-sm-12 vis-section">
-                        <!-- top juridical forms -->
                         <script src="infofish.yearbars.js"></script>
                         <script>
                         var barChartYears = barChartYears();
@@ -237,21 +259,27 @@
                         <div id="barchart2"></div>
                     </div>
                 </div>
+                <!-- /Startdata barchart -->
                 
             </div>
+            <!-- /Left column -->
             
-            <div class="col-xs-6"> <!-- Right column -->
+            <!-- Right column -->
+            <div class="col-md-6 col-sm-12 col-xs-12"> 
               <!-- Sunburst -->
               <div id="sunburst" class="navigation vis-section">
                 <!--<h4><span>Handelsactiviteiten</span></h4>-->
                 <div id="chart"></div>
                 <script src="infofish.sunburst_2.js"></script>
               </div>
-            </div>
+              <!-- /Sunburst -->
 
+            </div>
+            <!-- /Right column -->
               
         </div>
     </div>
+    <!-- /Visualisation -->
 
     <!-- Footer -->
     <footer>
@@ -263,7 +291,9 @@
             </div>
         </div>
     </footer>
+    <!-- /Footer -->
 
+  <!-- Belgian heatmap scale template -->
   <script id="scaleTpl" type="text/x-handlebars-template">
     <div class="scale">
       <p class="scaleUnit">{{scaleUnit}}</p>
@@ -280,7 +310,7 @@
       </p>
     </div>
   </script>
-
+  <!-- /Belgian heatmap scale template -->
 
   </body>
 </html>
