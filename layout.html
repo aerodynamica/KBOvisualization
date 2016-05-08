@@ -139,21 +139,7 @@
 
                 <!-- Belgian Heatmap -->
                 <div class="row">
-                    <!--<div class="col-sm-6" >
-
-                        <!-- top juridical forms
-                        <script src="infofish.horizontal-bar.js"></script>
-                        <script>
-                        var juridicalForms = juridicalForms();
-                            updateBars(sunburstFilter, "steelblue");
-                        </script>
-                        <h4 class="blocktitle"> Top 12 rechtsvormen</h4>
-                        <div id="barchart">
-                        </div>
-
-                    </div>
-                    <!-- Belgian Map -->
-
+                  <!-- Belgian Map -->
                   <div class="col-xs-12 vis-section">
                     <script type="text/javascript">
                       $(document).on('click', "#map-edit", function() {
@@ -194,6 +180,15 @@
                         <h4><span>Regionale verdeling</span></h4>
                         <ul id="gew">
                         </ul>
+                        <!-- top juridical forms -->
+                        <script src="infofish.horizontal-bar.js"></script>
+                        <script>
+                        var juridicalForms = juridicalForms();
+                            updateBars(sunburstFilter, "#999");
+                        </script>
+                        <h4><span>Top 5 rechtsvormen</span></h4>
+                        <div id="barchart"></div>
+
                       </div>
                       <div id="cityinfo" style="display:none;">
                         <h4 id=cityname><span></span></h4>
@@ -223,21 +218,12 @@
                           <script>
                             var belgianMap = new drawBelgianMap();
                             redrawMap(sunburstFilter, true);
-                            d3.selectAll("[name=belmap-scale]")
-                                    .on("change", function(){
-                                            sunburstFilter = decodeURIComponent((new RegExp('[?|&]sunburstfilter=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||"root";
-                                            redrawMap(sunburstFilter, true);
-                                    });
-                            d3.selectAll("[name=belmap-normalize]")
-                                    .on("change", function(){
-                                            sunburstFilter = decodeURIComponent((new RegExp('[?|&]sunburstfilter=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||"root";
-                                            redrawMap(sunburstFilter, true);
-                                    });
-                            d3.selectAll("[name=belmap-data]")
-                                    .on("change", function(){
-                                            sunburstFilter = decodeURIComponent((new RegExp('[?|&]sunburstfilter=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||"root";
-                                            redrawMap(sunburstFilter, true);
-                                    });
+                            d3.selectAll("[name=belmap-scale], [name=belmap-normalize], [name=belmap-data]")
+                              .on("change", function(){
+                                      sunburstFilter = decodeURIComponent((new RegExp('[?|&]sunburstfilter=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||"root";
+                                      redrawMap(sunburstFilter, true);
+                                      updateYearBars(undefined, undefined, $("[name=belmap-data]:checked").val());
+                              });
                           </script>
                       </div>
                       <!-- /Heatmap settings -->
@@ -253,7 +239,7 @@
                         <script src="infofish.yearbars.js"></script>
                         <script>
                         var barChartYears = barChartYears();
-                            updateYearBars(sunburstFilter, "#233140");
+                            updateYearBars(sunburstFilter, "#999");
                         </script>
                         <h4><span>Oprichtingsdata</span></h4>
                         <div id="barchart2"></div>

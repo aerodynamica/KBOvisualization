@@ -591,6 +591,7 @@ g.tooltip:not(.css) { fill:currentColor; }
 
 
 /** Barchart **/
+#barchart svg {margin-left: 20px;}
 .bar {
 	fill: steelblue;
   }
