@@ -1,3 +1,5 @@
+var currentView = "est";
+
 function barChartYears() {
 
     var margin = {top: 10, right: 20, bottom: 30, left: 20},
@@ -6,27 +8,15 @@ function barChartYears() {
         parseDate = d3.time.format("%Y").parse;
 
     function draw(data, color) {
-        if(typeof color === 'undefined') color = "#233140";
+        if(typeof color === 'undefined') color = "#999";
 
-/*
-var tmp = [];
-data.forEach(function(d){
-    var key = d.year.split('-')[1];
-    tmp[key] = (tmp[key] > 0)? tmp[key] + d.entCount : d.entCount
-});
-ddd = []; // reset data
-tmp.forEach(function(i,v){
-    ddd.push({"year": v, "count":i})
-});
-console.log(ddd);
-*/
     d3.select("#barchart2").html("");
     var x = d3.time.scale()
         .domain([parseDate(data[0].year), d3.time.day.offset(parseDate(data[data.length - 1].year), 1)])
         .rangeRound([0, bwidth - margin.left - margin.right]);
 
     var y = d3.scale.linear()
-        .domain([0, d3.max(data, function(d) { return d.entCount; })])
+        .domain([0, d3.max(data, function(d) { return currentView=="est"? d.estCount : d.entCount; })])
         .range([bheight - margin.top - margin.bottom, 0]);
 
     var xAxis = d3.svg.axis()
@@ -48,7 +38,12 @@ console.log(ddd);
     // Hover tip message    
     var tip = d3.tip()
         .attr('class', 'd3-tip')
-        .html(function(d) { return "Opgericht in " + d.year + "<br/>Vestigingseenheden: "+d.entCount.toLocaleString();})
+        .html(function(d) { 
+            if(currentView=="est")
+                return "Opgericht in " + d.year + "<br/>Vestigingseenheden: "+d.estCount.toLocaleString();
+            else
+                return "Opgericht in " + d.year + "<br/>Ondernemingen: "+d.entCount.toLocaleString();
+        })
         .direction('e')
         .offset([0,10])
         .direction('n');
@@ -61,11 +56,11 @@ console.log(ddd);
         .enter().append('rect')
         .style("fill", color)
         .attr('x', function(d) { return x(parseDate(d.year)); })
-        .attr('y', function(d) { return bheight - margin.top - margin.bottom - (bheight - margin.top - margin.bottom - y(d.entCount)) })
+        .attr('y', function(d) { return bheight - margin.top - margin.bottom - (bheight - margin.top - margin.bottom - y(currentView=="est"?d.estCount : d.entCount)) })
         .attr('width', function(d){   
             return (bwidth - margin.left - margin.right)/(data[data.length - 1].year-data[0].year+1)-1;
             })
-        .attr('height', function(d) { return bheight - margin.top - margin.bottom - y(d.entCount) })
+        .attr('height', function(d) { return bheight - margin.top - margin.bottom - y(currentView=="est"?d.estCount : d.entCount) })
         .on("mouseover", tip.show)
         .on("mouseout", tip.hide);
 
@@ -81,18 +76,24 @@ console.log(ddd);
         }
     };
 }
+var currActivity = "root",
+    currColor = "#999";
 
- function updateYearBars(activity, color){
-     d3.json("data/startdates/"+activity+".json", function (error, data) {
-         if (error)
-             throw error;
+function updateYearBars(activity, color, current_view) {
+    currentView = (typeof current_view == "undefined")? currentView : current_view;
+    currColor = (typeof color == "undefined")? currColor : color;
+    currActivity = (typeof activity == "undefined")? currActivity : activity;
 
-         // Check only dates after 1900
-         for(var i = data.length - 1; i >= 0; i--) {
+    d3.json("data/startdates/"+currActivity+".json", function (error, data) {
+        if (error)
+            throw error;
+
+        // Check only dates after 1900
+        for(var i = data.length - 1; i >= 0; i--) {
             if(data[i].year < 1900) {
                data.splice(i, 1);
             }
         }
-         barChartYears.update(data, color);
-     });
- }
+        barChartYears.update(data, currColor);
+    });
+}
