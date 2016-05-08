@@ -1,7 +1,11 @@
 var entitiesValue = function(){};
+// Load in gemeenten info - outside of function because it should only be loaded once
+// Contains: Niscode (nis), Name (name), zipcode (zip), gewest (gew), provincie (pro), total population (inw), total area in km^2(opp)
+var nis2gemeente;
+d3.json('data/gemeenten.json', function(data) {nis2gemeente = data;});
 function drawBelgianMap() {
-    
-    
+
+
     /* Handlebars */
     Handlebars.registerHelper('euro', function(amount) {
         return amount;
@@ -17,12 +21,7 @@ function drawBelgianMap() {
 	
 	var min;
 	var max;
-    /*
-    if(screenWidth>1006) { // 17px scrollbars!
-        mapWidth = $('#main').width()-12;
-    } else {
-        mapWidth = $('#main').width();
-    }*/
+
 
     $('#belmap').css('width', mapWidth);
 
@@ -41,10 +40,6 @@ function drawBelgianMap() {
     /* Maps to keep data about towns */
     //var nisByName = d3.map();
     var dataByNis = d3.map();
-    // Load in gemeenten info
-    // Contains: Niscode (nis), Name (name), zipcode (zip), total population (inw), total area in km^2(opp)
-    var nis2gemeente;
-    d3.json('data/gemeenten.json', function(data) {nis2gemeente = data;});
 
     /* Prepare the svg we'll use throughout */
     var belmap = d3.select('#belmap')
@@ -76,37 +71,11 @@ function drawBelgianMap() {
 	var dataFactor;
 
     function drawMap(bel, error, firstDraw) {
-         var start = new Date().getTime();
 
         /* Prepare the map and the necessary functions */
         gemeentes = topojson.feature(bel, bel.objects.gemeentes);
         projection = d3.geo.mercator().center([4.48,50.525]).scale(width*15).translate([width / 2, height / 2]);
         path = d3.geo.path().projection(projection);
-        
-        var tip = d3.tip()
-         .attr('class', 'd3-tip')
-         .html(function(d) { 
-                var establish = 0;
-				var establishText = "";
-				if(dataFactor == "est"){
-					establish = dataByNis.get(d.id) !==undefined? dataByNis.get(d.id).est : "0";
-					establishText = "vestigingseenheden";
-				}else if(dataFactor == "ent"){
-					establish = dataByNis.get(d.id) !==undefined? dataByNis.get(d.id).ent : "0";
-					establishText = "ondernemingen";
-				}
-				var text = "";
-				if(normalisationFactor == "normal")
-					text = nis2gemeente[d.id+""].name+" heeft "+establish.toLocaleString()+" " + establishText;
-				else if(normalisationFactor == "population")
-					text = nis2gemeente[d.id+""].name+" heeft "+Math.round(establish).toLocaleString()+" " + establishText + " per " + normalizePerPopulation.toLocaleString() + " inwoners";
-				else if(normalisationFactor == "area")
-					text = nis2gemeente[d.id+""].name+" heeft "+Math.round(establish).toLocaleString()+" " + establishText + " per " + normalizePerSquaredKM.toLocaleString() + " km²";
-                return text;
-            })
-         .direction('n');
-
-        svg.call(tip);
 
         /* Draw the towns */
         g.selectAll('.gemeente')
@@ -118,8 +87,26 @@ function drawBelgianMap() {
         .attr('id', function(d) { return('nis'+d.id);})
         .attr('dummy', function(d,i) { featureByNis.set(d.id, i) })
         .on('click', function(d) {zoomGemeente(d.id) })
-        .on("mouseover", tip.show)
-        .on("mouseout", tip.hide);
+         .append("svg:title")
+            .text(function(d) {
+                var establish = 0;
+				var establishText = "";
+				if(dataFactor == "est"){
+					establish = dataByNis.get(d.id) !==undefined? dataByNis.get(d.id).est : "0";
+					establishText = "vestigingseenheden";
+				}else if(dataFactor == "ent"){
+					establish = dataByNis.get(d.id) !==undefined? dataByNis.get(d.id).ent : "0";
+					establishText = "ondernemingen";
+				}
+				var text = "";
+				if(normalisationFactor == "normal")
+					text = nis2gemeente[d.id+""].name+" heeft "+establish+" " + establishText;
+				else if(normalisationFactor == "population")
+					text = nis2gemeente[d.id+""].name+" heeft "+establish+" " + establishText + " per " + normalizePerPopulation + " inwoners";
+				else if(normalisationFactor == "area")
+					text = nis2gemeente[d.id+""].name+" heeft "+establish+" " + establishText + " per " + normalizePerSquaredKM + " vierkante km";
+                return text;
+            });
         //.on('mouseover', function(d) { if(!zoomed) updateDetails(d.id); });
 
         /* Draw the different borders */
@@ -155,10 +142,6 @@ function drawBelgianMap() {
 
         /* Fill/color the map */
         fillMap(firstDraw);
-        
-         var stop = new Date().getTime();
-        
-        console.log("drew map in "+(stop-start)+" ms");
     }
 	
 	function log10(value){
@@ -227,10 +210,29 @@ function drawBelgianMap() {
                 + "scale(" + .35 / Math.max((bounds[1][0] - bounds[0][0]) / width, (bounds[1][1] - bounds[0][1]) / height) + ")"
                 + "translate(" + -(bounds[1][0] + bounds[0][0]) / 2 + "," + -(bounds[1][1] + bounds[0][1]) / 2 + ")");
         }
+
+        // Show extra info on the zoomed city
+            // Contains: Niscode (nis), Name (name), zipcode (zip), gewest (gew), provincie (pro), total population (inw), total area in km^2(opp)
+
+        var gem = nis2gemeente[nis];
+        $("#cityname span").html(gem.name)
+        $("#cityinfo div").html('');
+        $("#cityinfo div").append("NIS code: "+nis+"<br/>");
+        $("#cityinfo div").append("Postcode: "+gem.zip+"<br/>");
+        $("#cityinfo div").append("Provincie: "+gem.pro+"<br/>");
+        $("#cityinfo div").append("Gewest: "+gem.gew+"<br/>");
+        $("#cityinfo div").append("<hr/>");
+        $("#cityinfo div").append("Bevolkingsaantal: "+gem.inw+"<br/>");
+        $("#cityinfo div").append("Oppervlakte: "+gem.opp+"km<sup>2</sup><br/>");
+        $("#cityinfo div").append("Bevolkingsdichtheid: "+(gem.inw/gem.opp).toFixed(2)+" inwoners per km<sup>2</sup>");
+        $("#cityinfo").slideDown();
+        $("#mapsettings").slideUp();
+        $("#globalinfo").slideUp();
+
+        $("#zoomOut").show();
     }
 
     function reZoom(nis) {
-
         zoomed=true;
         $('#zoomOut').show();
 
@@ -241,10 +243,18 @@ function drawBelgianMap() {
             + "translate(" + -(bounds[1][0] + bounds[0][0]) / 2 + "," + -(bounds[1][1] + bounds[0][1]) / 2 + ")");
     }
 
+    $(document).on("click", "#zoomOut", function() {
+        resetMap()
+    });
+
     function resetMap() {
         c.transition().duration(750).attr("transform", "");
         $('#zoomOut').hide();
         zoomed=false;
+
+        $("#cityinfo").slideUp();
+        $("#mapsettings").slideUp();
+        $("#globalinfo").slideDown();
     }
 
     function updateScale(scaleValues) {
@@ -272,6 +282,34 @@ function drawBelgianMap() {
     }
 
     //resetMap();
+    function drawTopCities (data){
+        var provincies = {};
+        var gewesten = {};
+        var total = 0;
+        data.forEach(function(key, val) {
+            var gem = nis2gemeente[key];
+            if(gem.gew in gewesten) gewesten[gem.gew] = gewesten[gem.gew] + val.ent;
+            else gewesten[gem.gew] = val.ent;
+            if(gem.pro in provincies) provincies[gem.pro] = provincies[gem.pro] + val.ent;
+            else provincies[gem.pro] = val.ent;
+            total += val.ent;
+        });
+
+        var pro = [];
+        for (var p in provincies)
+              pro.push([p, provincies[p]])
+        pro.sort(function(a, b) {return b[1] - a[1]});
+        $("#pro").html('');
+        for(var i=0;i<5;i++) {
+            $("#pro").append('<li title="'+pro[i][1]+'">'+pro[i][0]+'</li>');
+        }
+
+        $("#gew").html('');
+        $.each(gewesten, function(key, val){
+            var n = key.charAt(0).toUpperCase() + key.slice(1);
+            $("#gew").append('<li>'+(val/total*100).toFixed(1)+'% '+n+'</li>');
+        });
+    }
 
     function updateMap(activity, firstDraw) {
         d3.json("data/municipalities/"+activity+".json", function (error, data) {
@@ -335,12 +373,11 @@ function drawBelgianMap() {
 				entityValueBreaks.push(Math.floor(i));
 			}*/
 			entitiesValue = d3.scale.quantize()
-				//.domain(entityValueBreaks)
 				.domain([min,max])
 				.range(d3.range(8).map(function (i) { return "c" + i; }));
 
 			updateScale(entitiesValue);
-
+            drawTopCities(dataByNis);
 			/* Load the TopoJSON data */
 			d3.json('data/bel.json', function(d) {drawMap(d, firstDraw);});
 		});
@@ -354,10 +391,7 @@ function drawBelgianMap() {
 }
 
 function redrawMap(activity, firstDraw){
-   
 	$("#belmap").html('');
 	belgianMap = new drawBelgianMap();
 	belgianMap.update(activity, firstDraw);
-        
-       
 }

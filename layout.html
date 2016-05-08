@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>InfoFish - Visualisation</title>
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="57x57" href="img/icon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="img/icon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="img/icon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="img/icon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="img/icon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="img/icon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="img/icon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="img/icon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/icon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="img/icon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/icon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="img/icon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/icon/favicon-16x16.png">
+    <link rel="manifest" href="img/icon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="img/icon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Fonts -->
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600"/>
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous"/>
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"/>
+    <link rel="stylesheet" type="text/css" href="css/general_2.css"/>
+
+   <!-- Javascript -->
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.min.js"></script>
+    <script src="libraries/d3.tip.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script src="js/select2.full.min.js"></script>
+
+    <script src="infofish.belgianmap.js"></script>
+	
+  </head>
+  <body id="page-top">
+	  <script>
+		var sunburstFilter = decodeURIComponent((new RegExp('[?|&]sunburstfilter=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||"root";
+	  </script>
+      <nav class="navbar navbar-default navbar-fixed-top">
+          <div class="container">
+              <!-- Brand and toggle get grouped for better mobile display -->
+              <div class="navbar-header page-scroll">
+                  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                      <span class="sr-only">Toggle navigation</span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                  </button>
+                  <a class="navbar-brand" href="#page-top"><img src="img/infofish-logo.png" alt="logo" style="width:inherit;height:inherit;display:initial;"/>InfoFish</a>
+              </div>
+
+              <!-- Collect the nav links, forms, and other content for toggling -->
+              <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                  <ul class="nav navbar-nav navbar-right">
+                      <li class="page-scroll">
+                          <a class="active" href="index.html">Visualisation</a>
+                      </li>
+                      <li class="page-scroll">
+                          <a href="circkepacking.html">History</a>
+                      </li>
+                      <li class="page-scroll">
+                          <a href="about.html">About</a>
+                      </li>
+                  </ul>
+              </div>
+              <!-- /.navbar-collapse -->
+          </div>
+          <!-- /.container-fluid -->
+      </nav>
+
+<!-- Main content -->
+     <div class="container-fluid" id="content">
+        <div class="content-title container-fluid" style="margin-right:-15px;margin-left: -15px;background: #E9E9E9;">
+            <div class="row">
+                <div class="col-sm-9 col-xs-12">
+                        <div id="sequence"></div>
+                </div>
+                <div class="col-sm-3 hidden-xs">
+                  <script type="text/javascript">
+                    $(document).on('click', "#search", function(){
+                      $(this).toggleClass("active");
+                      $("#searchbar").fadeToggle();
+                    });
+                  </script>
+                  <div id="infosearch" class="pull-right">
+                    <i class="fa fa-search fa-2x" id="search"></i>
+                    <i class="fa fa-question fa-2x"></i>
+                  </div>
+                  <div class="input-group" id="searchbar" style="display:none;">
+				           <select id="sectorSearch" class="form-control" style="width: 200px;"></select>
+                  </div><!-- /input-group -->
+                </div>
+            </div>
+        </div>
+        <!-- Visualisation -->
+        <div class="row" id="maincontent">
+            <div class="container-fluid col-xs-6">
+
+                <div class="row">
+                    <!-- Wordcloud -->
+                    <div id="wordcloudAndLegend" class="col-xs-12 vis-section">
+                        <i class="fa fa-filter fa-2x pull-right" id="wordCloudFilter"></i>
+                        <ul id="wordCloudLegend" class="pull-right" style="display:none;">
+                        </ul>
+
+                        <script src="libraries/d3.layout.cloud.js"></script>
+                        <script src="infofish.wordcloud_2.js"></script>
+                        <div id="wordcloud">
+                            <script>
+                              $(document).on("click", "#wordCloudFilter", function() {
+                                $("#wordCloudLegend").fadeToggle();
+                              });
+                              var wordcloud = wordCloud();
+                              updateCloud(sunburstFilter);
+                            </script>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="row">
+                    <!--<div class="col-sm-6" >
+
+                        <!-- top juridical forms
+                        <script src="infofish.horizontal-bar.js"></script>
+                        <script>
+                        var juridicalForms = juridicalForms();
+                            updateBars(sunburstFilter, "steelblue");
+                        </script>
+                        <h4 class="blocktitle"> Top 12 rechtsvormen</h4>
+                        <div id="barchart">
+                        </div>
+
+                    </div>
+                    <!-- Belgian Map -->
+
+                  <div class="col-xs-12 vis-section">
+                    <script type="text/javascript">
+                      $(document).on('click', "#map-edit", function() {
+                        $("#mapsettings").slideToggle();
+                        $("#globalinfo").slideToggle();
+                      });
+                    </script>
+                    <i id="map-edit" class="fa fa-gears fa-2x pull-right"></i>
+                    <div id="main" class="col-sm-6">
+                      <!-- The actual map -->
+                      <div id="belmap"></div>
+
+                      <!-- Map legend -->
+                      <div class="scaleAndTitle">
+                        <div class="scale">
+                          <p class="swatches">
+                            <span class="swatch c0"><span>150</span></span>
+                            <span class="swatch c1"><span></span></span>
+                            <span class="swatch c2"><span>250</span></span>
+                            <span class="swatch c3"><span></span></span>
+                            <span class="swatch c4"><span>350</span></span>
+                            <span class="swatch c5"><span></span></span>
+                            <span class="swatch c6"><span>450</span></span>
+                            <span class="swatch c7"><span></span></span>
+                            <i class="fa fa-search-minus fa-2x pull-right" id="zoomOut" style="display:none;"></i>
+                          </p>
+                        </div>
+                      </div>
+                      
+                    </div>
+                    <div class="col-sm-6">
+                      <div id="globalinfo">
+                        <h4><span>Top 5 provincies</span></h4>
+                        <ol id="pro">
+                        </ol>
+                        <h4><span>Regionale verdeling</span></h4>
+                        <ul id="gew">
+                        </ul>
+                      </div>
+                      <div id="cityinfo" style="display:none;">
+                        <h4 id=cityname><span></span></h4>
+                        <div class="infobody">
+                        </div>
+                      </div>
+                      <div id="mapsettings" style="display:none;">
+                        <h4><span>Data</span></h4>
+                          <input id="belmap-est" type="radio" name="belmap-data" value="est" checked/><label for="belmap-est"><i>Vestigingseenheden</i></label>
+                          &nbsp;&nbsp;<input id="belmap-ent" type="radio" name="belmap-data" value="ent"/><label for="belmap-ent"><i>Ondernemingen</i></label>
+                        <br/><br/><h4><span>Schaal</span></h4>
+                          <input id="belmap-linear" type="radio" name="belmap-scale" value="linear" checked/><label for="belmap-linear"><i>Lineair</i></label>
+                          &nbsp;&nbsp;<input id="belmap-logarithmic" type="radio" name="belmap-scale" value="logarithmic"/><label for="belmap-logarithmic"><i>Logaritmisch</i></label>
+                        <br/><br/><h4><span>Normalizatie</span></h4>
+                          <input id="belmap-normal" type="radio" name="belmap-normalize" value="normal" checked/><label for="belmap-normal"><i>Totaal</i></label>
+                          &nbsp;&nbsp;<input id="belmap-population" type="radio" name="belmap-normalize" value="population"/><label for="belmap-population"><i>Per aantal inwoners</i></label>
+                          &nbsp;&nbsp;<input id="belmap-area" type="radio" name="belmap-normalize" value="area"/><label for="belmap-area"><i>Per oppervlakte</i></label>
+                          <script>
+                            var belgianMap = new drawBelgianMap();
+                            redrawMap(sunburstFilter, true);
+                            d3.selectAll("[name=belmap-scale]")
+                                    .on("change", function(){
+                                            sunburstFilter = decodeURIComponent((new RegExp('[?|&]sunburstfilter=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||"root";
+                                            redrawMap(sunburstFilter, true);
+                                    });
+                            d3.selectAll("[name=belmap-normalize]")
+                                    .on("change", function(){
+                                            sunburstFilter = decodeURIComponent((new RegExp('[?|&]sunburstfilter=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||"root";
+                                            redrawMap(sunburstFilter, true);
+                                    });
+                            d3.selectAll("[name=belmap-data]")
+                                    .on("change", function(){
+                                            sunburstFilter = decodeURIComponent((new RegExp('[?|&]sunburstfilter=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||"root";
+                                            redrawMap(sunburstFilter, true);
+                                    });
+                          </script>
+                      </div>
+                    </div>
+                  </div>
+
+
+                </div>
+                
+                <div class="row">
+                    <div class="col-sm-12 vis-section">
+                        <!-- top juridical forms -->
+                        <script src="infofish.yearbars.js"></script>
+                        <script>
+                        var barChartYears = barChartYears();
+                            updateYearBars(sunburstFilter, "#233140");
+                        </script>
+                        <h4><span>Oprichtingsdata</span></h4>
+                        <div id="barchart2"></div>
+                    </div>
+                </div>
+                
+            </div>
+            
+            <div class="col-xs-6"> <!-- Right column -->
+              <!-- Sunburst -->
+              <div id="sunburst" class="navigation vis-section">
+                <!--<h4><span>Handelsactiviteiten</span></h4>-->
+                <div id="chart"></div>
+                <script src="infofish.sunburst_2.js"></script>
+              </div>
+            </div>
+
+              
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    &copy; <script>document.write(new Date().getFullYear())</script> InfoFish.
+                </div>
+            </div>
+        </div>
+    </footer>
+
+  <script id="scaleTpl" type="text/x-handlebars-template">
+    <div class="scale">
+      <p class="scaleUnit">{{scaleUnit}}</p>
+      <p class="swatches">
+        <span class="swatch c0"><span>{{scaleStop.[0]}}</span></span>
+        <span class="swatch c1"><span>{{scaleStop.[1]}}</span></span>
+        <span class="swatch c2"><span>{{scaleStop.[2]}}</span></span>
+        <span class="swatch c3"><span>{{scaleStop.[3]}}</span></span>
+        <span class="swatch c4"><span>{{scaleStop.[4]}}</span></span>
+        <span class="swatch c5"><span>{{scaleStop.[5]}}</span></span>
+        <span class="swatch c6"><span>{{scaleStop.[6]}}</span></span>
+        <span class="swatch c7"><span>{{scaleStop.[7]}}</span></span>
+        <i class="fa fa-search-minus fa-2x pull-right" id="zoomOut" style="display:none;"></i>
+      </p>
+    </div>
+  </script>
+
+
+  </body>
+</html>
