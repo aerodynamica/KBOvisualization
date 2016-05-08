@@ -30,7 +30,7 @@ catVis.set("ander",true);
 
 // Encapsulate the word cloud functionality
 function wordCloud() {
-cwidth = $("#wordcloudAndLegend").width() - 40;
+//cwidth = $("#wordcloudAndLegend").width() - 40;
 
     //Construct the word cloud's SVG element
     var svg = d3.select("#wordcloud").append("svg")
@@ -48,7 +48,7 @@ cwidth = $("#wordcloudAndLegend").width() - 40;
                 
         var tip = d3.tip()
          .attr('class', 'd3-tip')
-         .html(function(d) { return d.text+"<br/>Categorie: "+d.category+"<br/>Aantal: "+d.count.toLocaleString(); })
+         .html(function(d) { return "<em>"+d.text+"</em><br/>Categorie: "+d.category+"<br/>Aantal: "+d.count.toLocaleString(); })
          .direction('e')
          .offset([0,10]);
 
@@ -57,8 +57,8 @@ cwidth = $("#wordcloudAndLegend").width() - 40;
         //Entering words
         cloud.enter()
             .append("text")
-            .style("font-family", "Open Sans")
-            .style("font-weight", "600")
+            .style("font-family", "Impact")
+            //.style("font-weight", "600")
             .style("fill", function(d) { return catDict.get(d.category); })
             .attr("text-anchor", "middle")
             .attr('font-size', 1)
@@ -108,10 +108,10 @@ cwidth = $("#wordcloudAndLegend").width() - 40;
 
             d3.layout.cloud().size([cwidth, cheight])
                 .words(words)
-                .padding(3)
+                .padding(5)
                 .rotate(0)
-                .font("Open Sans")
-                .fontWeight("600")
+                .font("Impact")
+                //.fontWeight("600")
                 .fontSize(function(d) { return scale(d.count); })
                 .on("end", draw)
                 .start();

@@ -48,7 +48,7 @@ function barChartYears() {
                 return "Opgericht in " + d.year + "<br/>Ondernemingen: "+d.entCount.toLocaleString();
         })
         .direction('e')
-        .offset([0,10])
+        .offset([-15,0])
         .direction('n');
       
     svg.call(tip);

@@ -83,10 +83,20 @@ function drawBelgianMap() {
                         var establishText = "";
                         if(dataFactor == "est"){
                             establish = dataByNis.get(d.id) !==undefined? dataByNis.get(d.id).est : "0";
-                            establishText = "vestigingseenheden";
+                            if(establish == 1){
+                                establishText = "vestigingseenheid";
+                            }
+                            else{
+                                establishText = "vestigingseenheden";
+                            }
                         }else if(dataFactor == "ent"){
                             establish = dataByNis.get(d.id) !==undefined? dataByNis.get(d.id).ent : "0";
-                            establishText = "ondernemingen";
+                            if(establish == 1){
+                                establishText = "onderneming";
+                            }
+                            else{
+                                establishText = "ondernemingen";
+                            }
                         }
                         var text = "";
                         if(normalisationFactor == "normal")
@@ -97,7 +107,7 @@ function drawBelgianMap() {
                             text = nis2gemeente[d.id+""].name+" heeft "+Math.round(establish).toLocaleString()+" " + establishText + " per " + normalizePerSquaredKM.toLocaleString() + " km<sup>2</sup>";
                         return text;
                     })
-                    .direction('n');
+                    .direction('e');
         
         svg.call(tip);
 

@@ -62,7 +62,9 @@ function juridicalForms() {
                  return (i+1).toLocaleString()+". "+afkorting(d.form);
               });
    
-        var enter = bar.enter().append("g");    
+        var enter = bar.enter().append("g")
+                .on("mouseover", tip.show)
+             .on("mouseout", tip.hide);;    
         enter.attr("transform", function(d, i) { return "translate(5," + i * barHeight + ")"; });            
         enter.append("rect")
              .attr("width", function(d) { return scale(d.count); })
@@ -78,8 +80,7 @@ function juridicalForms() {
              .text(function(d, i) {
                  return (i+1).toLocaleString()+". "+afkorting(d.form);
               })
-             .on("mouseover", tip.show)
-             .on("mouseout", tip.hide);
+             
         
         bar.exit().remove();
      
