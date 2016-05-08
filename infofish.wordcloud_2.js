@@ -48,7 +48,7 @@ cwidth = $("#wordcloudAndLegend").width() - 40;
                 
         var tip = d3.tip()
          .attr('class', 'd3-tip')
-         .html(function(d) { return "categorie: "+d.category+"</br>aantal: "+d.count.toLocaleString(); })
+         .html(function(d) { return d.text+"<br/>Categorie: "+d.category+"<br/>Aantal: "+d.count.toLocaleString(); })
          .direction('e')
          .offset([0,10]);
 

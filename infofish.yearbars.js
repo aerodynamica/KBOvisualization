@@ -42,12 +42,23 @@ console.log(ddd);
         .attr('class', 'chart')
         .attr('width', bwidth)
         .attr('height', bheight)
-      .append('g')
+        .append('g')
         .attr('transform', 'translate(' + margin.left + ', ' + margin.top + ')');
+
+    // Hover tip message    
+    var tip = d3.tip()
+        .attr('class', 'd3-tip')
+        .html(function(d) { return "Opgericht in " + d.year + "<br/>Vestigingseenheden: "+d.entCount.toLocaleString();})
+        .direction('e')
+        .offset([0,10])
+        .direction('n');
+      
+    svg.call(tip);
+
 
     svg.selectAll('.chart')
         .data(data)
-      .enter().append('rect')
+        .enter().append('rect')
         .style("fill", color)
         .attr('x', function(d) { return x(parseDate(d.year)); })
         .attr('y', function(d) { return bheight - margin.top - margin.bottom - (bheight - margin.top - margin.bottom - y(d.entCount)) })
@@ -55,8 +66,8 @@ console.log(ddd);
             return (bwidth - margin.left - margin.right)/(data[data.length - 1].year-data[0].year+1)-1;
             })
         .attr('height', function(d) { return bheight - margin.top - margin.bottom - y(d.entCount) })
-        .append("svg:title")
-        .text(function(d) { return "Opgericht op " + d.year + "\nVestigingseenheden: "+d.entCount; });
+        .on("mouseover", tip.show)
+        .on("mouseout", tip.hide);
 
     svg.append('g')
         .attr('class', 'x axis')
