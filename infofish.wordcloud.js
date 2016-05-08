@@ -30,7 +30,7 @@ catVis.set("ander",true);
 
 // Encapsulate the word cloud functionality
 function wordCloud() {
-
+cwidth = $("#wordcloudAndLegend").width() - 40;
 
     //Construct the word cloud's SVG element
     var svg = d3.select("#wordcloud").append("svg")
@@ -48,7 +48,7 @@ function wordCloud() {
                 
         var tip = d3.tip()
          .attr('class', 'd3-tip')
-         .html(function(d) { return "categorie: "+d.category+"</br>aantal: "+d.count.toLocaleString(); })
+         .html(function(d) { return d.text+"<br/>Categorie: "+d.category+"<br/>Aantal: "+d.count.toLocaleString(); })
          .direction('e')
          .offset([0,10]);
 
@@ -57,7 +57,8 @@ function wordCloud() {
         //Entering words
         cloud.enter()
             .append("text")
-            .style("font-family", "Impact")
+            .style("font-family", "Open Sans")
+            .style("font-weight", "600")
             .style("fill", function(d) { return catDict.get(d.category); })
             .attr("text-anchor", "middle")
             .attr('font-size', 1)
@@ -107,9 +108,10 @@ function wordCloud() {
 
             d3.layout.cloud().size([cwidth, cheight])
                 .words(words)
-                .padding(5)
+                .padding(3)
                 .rotate(0)
-                .font("Impact")
+                .font("Open Sans")
+                .fontWeight("600")
                 .fontSize(function(d) { return scale(d.count); })
                 .on("end", draw)
                 .start();
@@ -135,57 +137,27 @@ function isValidWord(word) {
 }
 
 
+$(document).on("click", "#wordCloudLegend li", function(){
+    var cat = $(this).attr('data-key');
+    toggleCategory(cat);
+    $(this).find('i').toggleClass("fa-circle fa-circle-o");
+});
 
-function drawWordCloudLegend() {
-    // Dimensions of legend item: width, height, spacing, radius of rounded rect.
-    var li = {
-        w: 120, h: 30, s: 3, r: 3
-    };
-    var legend = d3.select("#wordCloudLegend")
-            .append("svg:svg")
-            .attr("width", li.w)
-            .attr("height", (li.h + li.s) * catDict.size() -li.s);
+$(document).ready(function(){
+    function formatCategory(string) {
+        string = string.replace("voornaam", "naam");
+        if(string == "naam") string = "Naam unisex";
+        return string.charAt(0).toUpperCase() + string.slice(1);
+    }
 
-    var g = legend.selectAll("g")
-            .data(catDict.keys())
-            .enter()
-            .append("svg:g")
-            .attr("transform", function (d, i) {
-                return "translate(0," + i* (li.h+li.s) + ")";
-            })
-            .style("opacity", function(d){
-                return catVis.get(d) ? 1 : 0.3;
-                }
-                )
-                .on("click", function (d) {
-                    d3.select(this).style("opacity", function(d){
-                            return catVis.get(d) ? 0.3 : 1;
-                    });
-                    toggleCategory(d);
-                });
-
-    g.append("svg:rect")
-                .attr("rx", li.r)
-                .attr("ry", li.r)
-                .attr("width", function (d) {
-                return li.w;
-                })
-                .attr("height", li.h)
-                .style("cursor", "pointer")
-                .style("fill", function (d) {
-                    return catDict.get(d);
-                });
-
-    g.append("svg:text")
-            .attr("x", li.w / 2)
-            .attr("y", li.h / 2)
-            .attr("dy", "0.35em")
-            .attr("text-anchor", "middle")
-            .style("cursor", "pointer")
-            .text(function (d) {
-                return d;
-            });
-}
+    var selected = '<i class="fa fa-circle"></i>',
+        select = '<i class="fa fa-circle-o"></i>';
+    $.each(catDict.keys(), function(index, val){
+        var circle = catVis.get(val)? "fa-circle" : "fa-circle-o"
+        var content = '<i class="fa '+circle+'" style="color:'+catDict.get(val)+'"></i> '+formatCategory(val);
+        $("#wordCloudLegend").append('<li data-key="'+val+'">'+content+'</li>');
+    });
+});
 
 function toggleCategory(cat){
     var current = catVis.get(cat);

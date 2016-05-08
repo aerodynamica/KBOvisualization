@@ -6,7 +6,7 @@
 // Dimensions of sunburst.
 // Check if variables already defined somewhere, otherwise default value
 var width = (typeof width !== 'undefined')? width : window.innerWidth/2 - 100;
-var height = (typeof height !== 'undefined')? height : window.innerWidth/2 - 100;
+var height = (typeof height !== 'undefined')? height : window.innerWidth/2 - 250;
 var radius = (Math.min(width, height) / 2) - 10;
 
 var sectorDictSunburst = d3.map();
@@ -68,8 +68,8 @@ var arc = d3.svg.arc()
         });
 
 // Basic setup of page elements.
-initializeBreadcrumbTrail();
-d3.select("#togglelegend").on("click", toggleLegend);
+//initializeBreadcrumbTrail();
+//d3.select("#togglelegend").on("click", toggleLegend);
 var isChanging = false;
 
 // Keep track of the node that is currently being displayed as the root.
@@ -88,8 +88,7 @@ d3.json("activitiesAug.json", function (error, root) {
 
     //tooltip
     var tip = d3.tip()
-    .attr('class', 'd3-tip')
-    .offset([-7,0]);
+        .attr('class', 'd3-tip');
 
     svg.call(tip);
     // For efficiency, filter nodes to keep only those large enough to see.
@@ -119,7 +118,7 @@ d3.json("activitiesAug.json", function (error, root) {
 			.attr("class", "sunburstpath")
             .style("fill", function (d) {
                 if(typeof d.parent === 'undefined')
-                    return "#ffffff";
+                    return "transparent"; //"#ffffff";
                 else if(d.parent.Code == "root") {
 					d.Color = sectorDictSunburst.get(d.Code);
                     return d.Color;
@@ -183,7 +182,7 @@ d3.json("activitiesAug.json", function (error, root) {
 	
     // Fade all but the current sequence, and show it in the breadcrumb trail.
     function mouseover(d) {
-        tip.html("<em>"+d.Description+"</em></br>"+d.nbEstablishments.toLocaleString()+" vestigingseenheden");
+        tip.html("<em>"+d.Description+"</em><br/>"+d.nbEstablishments.toLocaleString()+" vestigingseenheden");
         tip.show();
 
         var percentage = (100 * d.value / totalSize).toPrecision(3);
@@ -243,27 +242,33 @@ d3.json("activitiesAug.json", function (error, root) {
 });
 
 function sunburstClick(d) {
-	updateCloud(d.Code);
-	updateBars(d.Code, d.Color);
-	updateYearBars(d.Code, d.Color);
-	redrawMap(d.Code, true);
-	
-	node = d;
-	isChanging = true;
-	path.transition()
-			.duration(800)
-			.attrTween("d", arcTweenZoom(d))
-			.each("end", function () {
-				isChanging = false;
-			});
-	var sequenceArray = getAncestors(d);
-	updateBreadcrumbs(sequenceArray, "", self);
-	
-	//change search bar
-	$("#sectorSearch").select2().val(d.Code).trigger("change");;
-	
-	//change url in address
-	window.history.replaceState({"pageTitle":"InfoFish - Visualisation"},"", "?sunburstfilter=" + d.Code);
+    // If clicked on the same circle, don't do anything
+    if(node.Code != d.Code) {
+        node = d;
+
+        // Update other charts
+    	updateCloud(d.Code);
+    	//updateBars(d.Code, d.Color);
+    	updateYearBars(d.Code, d.Color);
+    	redrawMap(d.Code, true);
+    	
+        // Update Sunburst
+    	isChanging = true;
+    	path.transition()
+    			.duration(500)
+    			.attrTween("d", arcTweenZoom(d))
+    			.each("end", function () {
+    				isChanging = false;
+    			});
+    	var sequenceArray = getAncestors(d);
+    	updateBreadcrumbs(sequenceArray, "", self);
+    	
+    	//change search bar
+    	$("#sectorSearch").select2().val(d.Code).trigger("change");
+    	
+    	//change url in address
+    	window.history.replaceState({"pageTitle":"InfoFish - Visualisation"},"", "?sunburstfilter=" + d.Code);
+    }
 }
 
 // Setup for switching data: stash the old values for transition.
@@ -309,10 +314,10 @@ function arcTweenZoom(d) {
 }
 function initializeBreadcrumbTrail() {
     // Add the svg area.
-    var trail = d3.select("#sequence").append("svg:svg")
+    /*var trail = d3.select("#sequence").append("svg:svg")
             .attr("width", width)
             .attr("height", 50)
-            .attr("id", "trail");
+            .attr("id", "trail");*/
     // Add the label at the end, for the percentage.
     // No percentage
     /*trail.append("svg:text")
@@ -332,75 +337,47 @@ function breadcrumbPoints(d, i) {
     }
     return points.join(" ");
 }
-// Update the breadcrumb trail to show the current sequence and percentage.
-function updateBreadcrumbs(nodeArray, percentageString, click) {
-    // Data join; key function combines name and depth (= position in sequence).
-    var lastClicked = "";
-    var g = d3.select("#trail")
-            .selectAll("g")
-            .data(nodeArray, function (d) {
-                return d.Code + d.depth;
-            });
-    // Add breadcrumb and label for entering nodes.
-    var entering = g.enter().append("svg:g");
-    entering.append("svg:polygon")
-            .attr("points", function(d, i){
-                return (typeof d.parent === 'undefined')? "0,0 25,0 35,15 25,30 0,30" : breadcrumbPoints(d, i);
-            })
-            .style("cursor", "pointer")
-            .style("fill", function (d) {
-                //return color(d.Code);
-                if(typeof d.parent === 'undefined')
-                    return "#E3E5EB";
-                else if(d.parent.Code == "root") {
-                    d.Color = sectorDictSunburst.get(d.Code);
-                    return d.Color;
-                } else {
-                    if(d.depth %2 == 0)
-                        d.Color = d3.rgb(d.parent.Color).darker(d.Code %10 / 10);
-                    else {
-                        d.Color = d3.rgb(d.parent.Color).brighter(d.Code %10 / 10);
-                    }
-                    return d.Color;
-                }
-            })
-            .on("click", click)
-            .append("svg:title")
-            .text(function(d){return d.Description;});
 
-    entering.append("svg:text")
-            .attr("x", (b.w + b.t) / 2)
-            .attr("y", b.h / 2)
-            .attr("dy", "0.35em")
-            .attr("text-anchor", "middle")
-            .style("cursor", "pointer")
-            .style("fill", function(d,i){return d3.rgb((typeof d.parent === 'undefined')? "#333" : "#fff");})
-            .text(function (d) {
-                return (typeof d.parent === 'undefined')? "Alle secties" : d.Code;
-            }).on("click", click)
-            .append("svg:title")
-            .text(function(d){return d.Description;});
-    // Set position for entering and updating nodes.
-    g.attr("transform", function (d, i) {
-        if(typeof d.parent === 'undefined') return "translate(" + 0 + ", 10)";
-        //if(typeof d.parent == 'root') return "translate(" + 27 + ", 10)";
-        return "translate(" + (27 + i * (b.w + b.s) )+ ", 10)";
+// Breadcrumb hover action
+$(document).on("mouseenter", ".seq", function(){
+    $(this).find('span').show();
+    $("#last-seq").hide();
+    $("#sequence").append('<h4>...</h4>');
+}).on("mouseleave", ".seq", function(){
+    $(this).find('span').hide();
+    $("#last-seq").show();
+    $("#sequence").children().last().remove();
+});
+$(document).on("click", ".seq", function(){
+    var sequencekey = $(this).attr("data-key");
+    // Use of global variable path which contains the current path
+    path.each(function(d){
+        if(sequencekey == d.Code)
+            sunburstClick(d);
     });
+});
 
-    //d3.select("#trail").append("g").attr("id", "#endlabel");
-    // Remove exiting nodes.
-    g.exit().remove();
-    // Now move and update the percentage at the end.
-
-    d3.select("#trail").select("#endlabel")
-            .attr("x", (nodeArray.length + 0.5) * (b.w + b.s))
-            .attr("y", b.h / 2)
-            .attr("dy", "0.35em")
-            .attr("text-anchor", "middle")
-            .text(percentageString);
-    // Make the breadcrumb trail visible, if it's hidden.
-    d3.select("#trail")
-            .style("visibility", "");
+// Update the breadcrumb trail to show the current sequence
+function updateBreadcrumbs(nodeArray, percentageString, click) {
+    var currentNode = nodeArray[nodeArray.length-1];
+    var rootcode = (nodeArray.length < 3)? "" : nodeArray[1].Code+" - ";
+    $("#sequence").html("");
+    var color = d3.rgb(currentNode.Color);
+    $('#specid').remove();
+    $('head').append('<style id="specid">.seq-left:after{border-top-color:'+color+' !important;}'+
+                     '.seq-left:before{border-bottom-color:'+color+' !important;}'+
+                     '.seq-right{border-left-color:'+color+' !important;}'+
+                     '.seq-box{background:'+color+' !important;}</style>');
+    $.each(nodeArray, function(index, node) {
+        var rootsectie = (index > 1)? rootcode : "";
+        var preseq = '<div class="seq" data-key="'+node.Code+'" title="Sectie '+rootsectie+node.Code+'">';
+        if(index == 0) preseq += '<div class="seq-box"><span style="display:none;">';
+        else preseq += '<div class="seq-left"></div><div class="seq-box"><span style="display:none;">';
+        var postseq = '</span></div><div class="seq-right"></div></div>';
+        var description = (index == 1)? node.Description.split(" -- ")[0]+" - "+capitalizeFirstLetter(node.Description.toLowerCase().split(" -- ")[1]) : node.Description;
+        if(index == (nodeArray.length -1)) $("#sequence").append('<h4 id="last-seq" title="Sectie '+rootsectie+node.Code+'">'+description+'</h4>');
+        else $("#sequence").append(preseq+description+postseq);
+    });
 }
 // Given a node in a partition layout, return an array of all of its ancestor
 // nodes, highest first, but excluding the root.
@@ -457,6 +434,7 @@ function toggleLegend() {
     }
 }
 function capitalizeFirstLetter(string) {
+    if(typeof string === 'undefined') return string;
     return string.charAt(0).toUpperCase() + string.slice(1);
 }
 

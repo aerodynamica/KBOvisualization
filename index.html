@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8"/>
-    <title>InfoFish - Visualisation</title>
+    <title>InfoFish - Visualisatie</title>
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="57x57" href="img/icon/apple-icon-57x57.png">
@@ -28,8 +28,8 @@
 
     <!-- Stylesheets -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous"/>
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"/>
     <link rel="stylesheet" type="text/css" href="css/general.css"/>
-	  <link rel="stylesheet" type="text/css" href="css/select2.min.css"/>
 
    <!-- Javascript -->
     <script src="https://d3js.org/d3.v3.min.js"></script>
@@ -64,16 +64,13 @@
               <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                   <ul class="nav navbar-nav navbar-right">
                       <li class="page-scroll">
-                          <a class="active" href="index.html">Visualisation</a>
+                          <a class="active" href="index.html">Visualisatie</a>
                       </li>
                       <li class="page-scroll">
-                          <a href="circkepacking.html">Circle Packing</a>
+                          <a href="circkepacking.html">Roadmap</a>
                       </li>
                       <li class="page-scroll">
-                          <a href="about.html">About</a>
-                      </li>
-                      <li class="page-scroll">
-                          <a href="feedback.html" id="feedback">Feedback</a>
+                          <a href="about.html">Over ons</a>
                       </li>
                   </ul>
               </div>
@@ -83,91 +80,84 @@
       </nav>
 
 <!-- Main content -->
+     <!-- Sequences, title and search -->
      <div class="container-fluid" id="content">
-        <div class="content-title container-fluid" style="margin-right:-15px;margin-left: -15px;background: #E3E5EB;">
+        <div class="content-title container-fluid" style="margin-right:-15px;margin-left: -15px;background: #E9E9E9;">
             <div class="row">
                 <div class="col-sm-9 col-xs-12">
                         <div id="sequence"></div>
                 </div>
-                <div class="col-sm-3 hidden-xs" style="margin-top: 8px;">
-                    <div class="input-group">
-                      <!--<input id="searchForm" oninput="changeSearchResults()" onkeydown="checkForEnter(event)" type="text" class="form-control" placeholder="Search for...">
-					  <datalist id="sectors"></datalist>
-                      <span class="input-group-btn">
-                        <button class="btn btn-default" type="button" onclick="searchForSector()">Go!</button>
-                      </span>
-					  -->
-					  <select id="sectorSearch" class="form-control"></select>
-                    </div><!-- /input-group -->
+                <div class="col-sm-3 hidden-xs">
+                  <script type="text/javascript">
+                    $(document).on('click', "#search", function(){
+                      $(this).toggleClass("active");
+                      $("#searchbar").fadeToggle();
+                    });
+                  </script>
+                  <div id="infosearch" class="pull-right">
+                    <i class="fa fa-search fa-2x" id="search"></i>
+                    <!--<i class="fa fa-question fa-2x"></i>-->
+                  </div>
+                  <div class="input-group" id="searchbar" style="display:none;">
+				           <select id="sectorSearch" class="form-control" style="width: 200px;"></select>
+                  </div><!-- /input-group -->
                 </div>
             </div>
         </div>
-        <!-- Visualisation -->
-        <div class="row">
-            <div class="container-fluid col-xs-6">
+      </div>
+      <!-- /Sequences, title and search -->
+
+      <!-- Visualisation -->
+      <div class="container-fluid">
+        <div class="row" id="maincontent">
+            <!-- Left column -->
+            <div class="col-md-6 col-sm-12 col-xs-12">
+
+                <!-- Wordcloud -->
                 <div class="row">
-                    <!-- Wordclouds -->
-                    <div id="wordcloudAndLegend" class="col-xs-12">
+                    <div id="wordcloudAndLegend" class="col-xs-12 vis-section">
+                        <!-- Wordcloud Legend -->
+                        <i class="fa fa-filter fa-2x pull-right" id="wordCloudFilter"></i>
+                        <ul id="wordCloudLegend" class="pull-right" style="display:none;">
+                        </ul>
+                        <!-- /Wordcloud Legend -->
+
                         <script src="libraries/d3.layout.cloud.js"></script>
                         <script src="infofish.wordcloud.js"></script>
                         <div id="wordcloud">
                             <script>
-                                var wordcloud = wordCloud();
-                                updateCloud(sunburstFilter);
+                              $(document).on("click", "#wordCloudFilter", function() {
+                                $("#wordCloudLegend").fadeToggle();
+                              });
+                              var wordcloud = wordCloud();
+                              updateCloud(sunburstFilter);
                             </script>
-                        </div>
-                        <div class="dropdown">
-                            <button class="dropbtn"></button>
-                            <div id="wordCloudLegend" class="dropdown-content">
-                                <script>drawWordCloudLegend();</script>
-                            </div>
                         </div>
                     </div>
                 </div>
+                <!-- /Wordcloud -->
+
+                <!-- Belgian Heatmap -->
                 <div class="row">
-                    <div class="col-sm-6" >
+                  <!-- Belgian Map -->
+                  <div class="col-xs-12 vis-section">
+                    <script type="text/javascript">
+                      $(document).on('click', "#map-edit", function() {
+                        $("#cityinfo").slideUp();
+                        if(!$("#mapsettings").is(":visible")) {
+                          $("#globalinfo").slideUp();
+                        } else {
+                          $("#globalinfo").slideDown();
+                        } 
+                        $("#mapsettings").slideToggle();
+                      });
+                    </script>
+                    <i id="map-edit" class="fa fa-gears fa-2x pull-right"></i>
+                    <div id="main" class="col-sm-6">
+                      <!-- The actual map -->
+                      <div id="belmap"></div>
 
-                        <!-- top juridical forms -->
-                        <script src="infofish.horizontal-bar.js"></script>
-                        <script>
-                        var juridicalForms = juridicalForms();
-                            updateBars(sunburstFilter, "steelblue");
-                        </script>
-                        <h4 class="blocktitle"> Top 12 rechtsvormen</h4>
-                        <div id="barchart">
-                        </div>
-
-                    </div>
-                    <!-- Belgian Map -->
-                    <div  id="main" class="col-sm-6">
-                    
-                      
-                      <div id="buttons" class="dropdown2">
-                        <button class="dropbtnGear"></button>
-                        <div id="mapRadioButtons" class="dropdown-content2">
-                            <span>Data</span>
-                            </br>
-                            <input id="belmap-est" class="css-checkbox" type="radio" name="belmap-data" value="est" checked/><label class="css-label" for="belmap-est"><i>Vestigingseenheden</i></label>
-                            </br>
-                            <input id="belmap-ent" class="css-checkbox" type="radio" name="belmap-data" value="ent"/><label class="css-label" for="belmap-ent"><i>Ondernemingen</i></label>
-                            </br>
-                            <span>Schaal</span>
-                            </br>
-                            <input id="belmap-linear" class="css-checkbox" type="radio" name="belmap-scale" value="linear" checked/><label class="css-label" for="belmap-linear"><i>Lineair</i></label>
-                            </br>
-                            <input id="belmap-logarithmic" class="css-checkbox" type="radio" name="belmap-scale" value="logarithmic"/><label class="css-label" for="belmap-logarithmic"><i>Logaritmisch</i></label>
-                            </br>
-                            <span>Normalisatie</span>
-                            </br>
-                            <input id="belmap-normal" class="css-checkbox" type="radio" name="belmap-normalize" value="normal" checked/><label class="css-label" for="belmap-normal"><i>Geen normalisatie</i></label>
-                            </br>
-                            <input id="belmap-population" class="css-checkbox" type="radio" name="belmap-normalize" value="population"/><label class="css-label" for="belmap-population"><i>Volgens bevolking</i></label>
-                            </br>
-                            <input id="belmap-area" class="css-checkbox" type="radio" name="belmap-normalize" value="area"/><label class="css-label" for="belmap-area"><i>Volgens oppervlakte</i></label>
-                            </br>
-                        </div>
-                     </div>
-                        <div id="belmap"></div>
+                      <!-- Map legend -->
                       <div class="scaleAndTitle">
                         <div class="scale">
                           <p class="swatches">
@@ -179,77 +169,150 @@
                             <span class="swatch c5"><span></span></span>
                             <span class="swatch c6"><span>450</span></span>
                             <span class="swatch c7"><span></span></span>
+                            <i class="fa fa-search-minus fa-2x pull-right" id="zoomOut" style="display:none;"></i>
                           </p>
                         </div>
-                        <br/>
                       </div>
-                  </div>
-                              <!--
-                              <svg id="colorLegend" height="150" width="500">
-                                      <defs>
-                                              <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-                                                      <stop offset="0%" style="stop-color:#398258;stop-opacity:1" />
-                                                      <stop offset="100%" style="stop-color:#bd4934;stop-opacity:1" />
-                                              </linearGradient>
-                                      </defs>
-                                      <rect x="100" y="20" width="300" height="25" fill="url(#grad1)" />
-                                      <text id="colorLegendLowText" x="40" y="38" font-family="sans-serif" font-size="15px" fill="red"></text>
-                                      <text id="colorLegendHighText" x="420" y="38" font-family="sans-serif" font-size="15px" fill="red"></text>
-                              </svg>
-                              -->
-                  <script>
-                      var belgianMap = new drawBelgianMap();
-                      redrawMap(sunburstFilter, true);
-                                      d3.selectAll("[name=belmap-scale]")
-                                              .on("change", function(){
-                                                      sunburstFilter = decodeURIComponent((new RegExp('[?|&]sunburstfilter=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||"root";
-                                                      redrawMap(sunburstFilter, true);
-                                              });
-                                      d3.selectAll("[name=belmap-normalize]")
-                                              .on("change", function(){
-                                                      sunburstFilter = decodeURIComponent((new RegExp('[?|&]sunburstfilter=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||"root";
-                                                      redrawMap(sunburstFilter, true);
-                                              });
-                                      d3.selectAll("[name=belmap-data]")
-                                              .on("change", function(){
-                                                      sunburstFilter = decodeURIComponent((new RegExp('[?|&]sunburstfilter=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||"root";
-                                                      redrawMap(sunburstFilter, true);
-                                              });
-                  </script>
-                </div>
-                    
-                
-                <div class="row">
-                    <div class="col-sm-6">
+                      
+                    </div>
 
+                    <!-- Heatmap right-info bar and settings -->
+                    <div class="col-sm-6">
+                      <div id="globalinfo">
+                        <h4><span>Top 5 provincies</span></h4>
+                        <ol id="pro">
+                        </ol>
+                        <h4><span>Regionale verdeling</span></h4>
+                        <ul id="gew">
+                        </ul>
                         <!-- top juridical forms -->
+                        <script src="infofish.horizontal-bar.js"></script>
+                        <script>
+                        var juridicalForms = juridicalForms();
+                            updateBars(sunburstFilter, "#999");
+                        </script>
+                        <h4><span>Top 5 rechtsvormen</span></h4>
+                        <div id="barchart"></div>
+
+                      </div>
+                      <div id="cityinfo" style="display:none;">
+                        <h4 id=cityname><span></span></h4>
+                        <div class="infobody">
+                        </div>
+                      </div>
+
+                      <!-- Heatmap settings -->
+                      <div id="mapsettings" style="display:none;">
+                        <h4><span>Data</span></h4>
+                          <input id="belmap-est" type="radio" class="css-checkbox" name="belmap-data" value="est" checked/>
+                           <label class="css-label" for="belmap-est">Vestigingseenheden</label>
+                          <input id="belmap-ent" class="css-checkbox" type="radio" name="belmap-data" value="ent"/>
+                           <label class="css-label" for="belmap-ent">Ondernemingen</label>
+                        <br/><br/><h4><span>Schaal</span></h4>
+                          <input id="belmap-linear" type="radio" class="css-checkbox" name="belmap-scale" value="linear" checked/>
+                           <label class="css-label"for="belmap-linear" for="belmap-linear">Lineair</label>
+                          <input id="belmap-logarithmic" class="css-checkbox" type="radio" name="belmap-scale" value="logarithmic"/>
+                           <label class="css-label" for="belmap-logarithmic">Logaritmisch</label>
+                        <br/><br/><h4><span>Normalizatie</span></h4>
+                          <input id="belmap-normal" type="radio" class="css-checkbox" name="belmap-normalize" value="normal" checked/>
+                           <label class="css-label" for="belmap-normal">Totaal</label>
+                          <input id="belmap-population" class="css-checkbox" type="radio" name="belmap-normalize" value="population"/>
+                           <label class="css-label" for="belmap-population">Per aantal inwoners</label>
+                          <input id="belmap-area" type="radio" class="css-checkbox" name="belmap-normalize" value="area"/>
+                           <label class="css-label" for="belmap-area">Per oppervlakte</label>
+                          <script>
+                            var belgianMap = new drawBelgianMap();
+                            redrawMap(sunburstFilter, true);
+                            d3.selectAll("[name=belmap-scale], [name=belmap-normalize], [name=belmap-data]")
+                              .on("change", function(){
+                                      sunburstFilter = decodeURIComponent((new RegExp('[?|&]sunburstfilter=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||"root";
+                                      redrawMap(sunburstFilter, true);
+                                      updateYearBars(undefined, undefined, $("[name=belmap-data]:checked").val());
+                              });
+                          </script>
+                      </div>
+                      <!-- /Heatmap settings -->
+                    </div>
+                    <!-- /Heatmap right-info bar and settings -->
+                  </div>
+                </div>
+                <!-- /Belgian Heatmap -->
+                
+                <!-- Startdata barchart -->
+                <div class="row">
+                    <div class="col-sm-12 vis-section">
                         <script src="infofish.yearbars.js"></script>
                         <script>
                         var barChartYears = barChartYears();
-                            updateYearBars(sunburstFilter, "steelblue");
+                            updateYearBars(sunburstFilter, "#999");
                         </script>
-                        <h4 class="blocktitle">Oprichtingsdata</h4>
-                        <div id="barchart2">
-                        </div>
-
+                        <h4><span>Oprichtingsdata</span></h4>
+                        <div id="barchart2"></div>
                     </div>
                 </div>
+                <!-- /Startdata barchart -->
                 
             </div>
+            <!-- /Left column -->
             
-
-            
-            <div class="col-xs-6"> <!-- Right column -->
-              <!-- Sunburst -->
-              <div id="sunburst" class="navigation">
-                <div id="chart"></div>
-                <script src="infofish.sunburst.js"></script>
-              </div>
+            <!-- Right column -->
+            <div class="col-md-6 col-sm-12 col-xs-12"> 
+                <div class="row" style="padding-right: 25px;">
+                  <div class="col-xs-12 navigation vis-section">
+                    <!-- Sunburst -->
+                    <div id="sunburst" class="navigation vis-section">
+                      <!--<h4><span>Handelsactiviteiten</span></h4>-->
+                      <div id="chart"></div>
+                      <script src="infofish.sunburst.js"></script>
+                    </div>
+                    <!-- /Sunburst -->
+                  </div>
+                </div>
+                <!-- Suggestions -->
+                <div class="row" style="padding-right: 25px;">
+                  <div class="col-xs-12 vis-section" style="min-height: 120px;">
+                    <script>
+                      var messages = [
+                          {"tool" : "Kaart", "link": "?sunburstfilter=32121",
+                           "description" : "Antwerpen al jaren lang het center van de diamantenhandel? is en dit binnen België niet snel wijzigen!",
+                          },
+                          {"tool" : "Wordcloud", "link": "?sunburstfilter=96022",
+                           "description" : "Schoonheidscentra vooral meisjesnamen als bedrijfsnaam gebruiken?",
+                          },
+                          {"tool" : "Wordcloud","link": "?sunburstfilter=81300",
+                           "description" : "Landschapsverzorging voornamelijk door bedrijven met een jongensnaam uitgevoerd worden?",
+                          },
+                          {"tool" : "Rechtsvorm","link": "?sunburstfilter=71111",
+                           "description" : "De meestgebruikte bedrijfsvorm bij bouwarchitecten een BV BVBA is in plaats van een BVBA? Als je als bouwarchitect wil zelf iets wil beginnen kan je die bedrijfsvorm best al eens opzoeken.",
+                          },
+                          {"tool" : "Kaart","link": "?sunburstfilter=13100",
+                           "description" : "West-Vlaanderen de textielhoek is van België? Bovendien is dit al een oude industrie, wat we zien aan woorden zoals \"Gebroeders\", en is het een exportproduct wat we zien in de woorden zoals \"België\"" ,
+                          }
+                      ];
+                      var messageIndex = 0;
+                      function nextMessage(messageid) {
+                        if(messageid == messages.length) messageid = 0;
+                        $("#messagecontent").fadeOut();
+                        setTimeout(function(){
+                          $("#messagecontent").html("");
+                          $("#messagecontent").append("<p>"+messages[messageid].description+"</p>")
+                          $("#messagecontent").append('<p><i class="fa fa-arrow-circle-o-right"></i> <a href="'+messages[messageid].link+'">Ontdek het zelf!</a></p>')
+                          $("#messagecontent").fadeIn();
+                          setTimeout(function(){nextMessage(messageid+1);},7000);
+                        }, 1000)
+                      }
+                      nextMessage(0);
+                    </script>
+                    <h4><span>Wist je dat...</span></h4>
+                    <div id="messagecontent" style="padding:10px;"></div>
+                  </div>
+                </div>
             </div>
-
+            <!-- /Right column -->
               
         </div>
     </div>
+    <!-- /Visualisation -->
 
     <!-- Footer -->
     <footer>
@@ -261,7 +324,9 @@
             </div>
         </div>
     </footer>
+    <!-- /Footer -->
 
+  <!-- Belgian heatmap scale template -->
   <script id="scaleTpl" type="text/x-handlebars-template">
     <div class="scale">
       <p class="scaleUnit">{{scaleUnit}}</p>
@@ -273,11 +338,12 @@
         <span class="swatch c4"><span>{{scaleStop.[4]}}</span></span>
         <span class="swatch c5"><span>{{scaleStop.[5]}}</span></span>
         <span class="swatch c6"><span>{{scaleStop.[6]}}</span></span>
-        <span class="swatch c7"><span></span></span>
+        <span class="swatch c7"><span>{{scaleStop.[7]}}</span></span>
+        <i class="fa fa-search-minus fa-2x pull-right" id="zoomOut" style="display:none;"></i>
       </p>
     </div>
   </script>
-
+  <!-- /Belgian heatmap scale template -->
 
   </body>
 </html>
