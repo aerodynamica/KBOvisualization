@@ -2,11 +2,22 @@
 Visualization of The Crossroads Bank for Enterprises (BCE/KBO)
 
 ## Visualisation info
+### General
 This visualisation is the result of a [school assignment](https://onderwijsaanbod.kuleuven.be/syllabi/n/H04I2AN.htm).
 
 Data source: http://economie.fgov.be/nl/ondernemingen/KBO/#.Vwo7bPmLSbh
 
 Visualisation demo: http://aerodynamica.github.io/KBOvisualization/
+
+### Used libraries
+- [d3.js v3](https://d3js.org/)
+- [d3-cloud](https://github.com/jasondavies/d3-cloud) *d3 wordcloud extension*
+- [d3-tip](https://github.com/Caged/d3-tip) *d3 tooltip extension*
+- [jQuery v2.2.0](https://jquery.com/) *A lot of features in jQuery can be done using d3, but for rapid prototyping this was the better choice*
+- [handlebarsjs v4.0.5](http://handlebarsjs.com/)
+- [topojson v1.6.9](https://github.com/mbostock/topojson) *An extension to GeoJSON that encodes topology*
+- [Bootstrap 3](http://getbootstrap.com/) *Only the CSS framework, not the JavaScript*
+- [Select2](https://select2.github.io/) *For the search bar*
 
 ## Trends we noticed
 
