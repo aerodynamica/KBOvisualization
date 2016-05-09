@@ -376,6 +376,7 @@ function updateBreadcrumbs(nodeArray, percentageString, click) {
         else preseq += '<div class="seq-left"></div><div class="seq-box"><span style="display:none;">';
         var postseq = '</span></div><div class="seq-right"></div></div>';
         var description = (index == 1)? node.Description.split(" -- ")[0]+" - "+capitalizeFirstLetter(node.Description.toLowerCase().split(" -- ")[1]) : node.Description;
+		description = description.split("(")[0];
         if(index == (nodeArray.length -1)) $("#sequence").append('<h4 id="last-seq" title="Sectie '+rootsectie+node.Code+'">'+description+'</h4>');
         else $("#sequence").append(preseq+description+postseq);
     });
