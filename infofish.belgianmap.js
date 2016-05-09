@@ -195,7 +195,10 @@ function drawBelgianMap() {
                         if(dataByNis.get(d.id) !==undefined) {
     						total = (dataFactor == "est")? dataByNis.get(d.id).est : dataByNis.get(d.id).ent;
                         }
-						return colorScale(dataByNis.get(d.id)?log10(total):0);
+						if(total > 0)
+							return colorScale(dataByNis.get(d.id)?log10(total):0);
+						else
+							return "#888";
 					});
 			}
 
@@ -276,9 +279,22 @@ function drawBelgianMap() {
 
     function updateScale(scaleValues) {
         if(typeof scaleValues === 'undefined')
-            scaleValues = entityValueBreaks;
-        else {
-            scaleValues = d3.range(8).map(function (i) { return Math.round(entitiesValue.invertExtent("c" + i)[1]); });
+			scaleValues = entityValueBreaks;
+		else {
+			if(scaleFactor == "linear"){
+				scaleValues = d3.range(8).map(function (i) { return Math.round(entitiesValue.invertExtent("c" + i)[1]); });
+			}else{
+				var log10min = log10(min);
+				var log10max = log10(max);
+				var difference = log10max - log10min;
+				var differenceRatio = difference / 8;
+				
+				scaleValues = [];
+				scaleValues[0] = Math.round(Math.pow(10, log10min + differenceRatio));
+				scaleValues[2] = Math.round(Math.pow(10, log10min + differenceRatio*3));
+				scaleValues[4] = Math.round(Math.pow(10, log10min + differenceRatio*5));
+				scaleValues[6] = Math.round(Math.pow(10, log10min + differenceRatio*7));
+			}
         }
         var info = '';
         var aspect = '';

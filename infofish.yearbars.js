@@ -53,18 +53,37 @@ function barChartYears() {
       
     svg.call(tip);
 
-    svg.selectAll('.chart')
-        .data(data)
-        .enter().append('rect')
-        .style("fill", color)
-        .attr('x', function(d) { return x(parseDate(d.year)); })
-        .attr('y', function(d) { return bheight - margin.top - margin.bottom - (bheight - margin.top - margin.bottom - y(currentView=="est"?d.estCount : d.entCount)) })
-        .attr('width', function(d){   
-            return (bwidth - margin.left - margin.right)/(data[data.length - 1].year-data[0].year+1)-1;
-            })
-        .attr('height', function(d) { return bheight - margin.top - margin.bottom - y(currentView=="est"?d.estCount : d.entCount) })
+	//get bars
+	var bars = svg.selectAll('.chart')
+        .data(data);
+		
+	//update bars
+	bars
+		.style("fill", color);
+		
+	//enter
+	bars.enter()
+		.append('rect')
+		.style("fill", color)
         .on("mouseover", tip.show)
         .on("mouseout", tip.hide);
+		
+	//exit 
+    bars.exit()
+		.transition()
+		.duration(3000)
+			.attr("height", 0)
+			.remove();
+			
+	bars
+		.transition()
+		.duration(3000)
+			.attr('width', function(d){   
+				return (bwidth - margin.left - margin.right)/(data[data.length - 1].year-data[0].year+1)-1;
+            })
+			.attr('x', function(d) { return x(parseDate(d.year)); })
+			.attr('y', function(d) { return bheight - margin.top - margin.bottom - (bheight - margin.top - margin.bottom - y(currentView=="est"?d.estCount : d.entCount)) })
+			.attr('height', function(d) { return bheight - margin.top - margin.bottom - y(currentView=="est"?d.estCount : d.entCount) });
 
     svg.append('g')
         .attr('class', 'x axis')
