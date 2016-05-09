@@ -28,11 +28,13 @@
 
     <!-- Stylesheets -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous"/>
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"/>
     <link rel="stylesheet" type="text/css" href="css/general.css"/>
+    <link rel="stylesheet" type="text/css" href="css/roadmap.css"/>
 
     <!-- Javascript -->
-    <script src="http://d3js.org/d3.v3.min.js"></script>
-    <script src="libraries/d3.tip.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script src="js/roadmap.js"></script>
   </head/>
   <body id="page-top">
       <div id="wrapper">
@@ -69,24 +71,122 @@
       </nav>
 
 <!-- Main content -->
-      <div class="container-fluid" id="content">
+      <div class="container-fluid" id="content" style="background: #E9E9E9;">
         <div class="content-title container">
             <div class="row">
                 <div class="col-sm-9 col-xs-12">
-                    <h2 style="color:#333;">Roadmap<h2>
+                    <h2 style="color:#333;">Roadmap</h2>
                 </div>
             </div>
         </div>
-        <!-- Visualisation -->
-        <div class="container">
-            <div class="row">
+      </div>
+      
+      <!-- Roadmap -->
+      <div class="container-fluid">
+        <!--<div class="container">
+          <div class="row">
                 <div class="col-sm-12">
+                <br/>
                     <p>Om tot onze huidige visualisatie te komen hebben we al een hele weg afgelegd. 
                     Op deze pagina kan je even mee terugreizen in de tijd en zien waar we zijn begonnen.
                     </p>
-                    <p><img src="img/infofish.png" height="400px;"/></p>
                 </div>
-            </div>
+          </div>
+        </div>-->
+
+          <section id="cd-timeline" class="cd-container">
+            <div class="cd-timeline-block">
+              <div class="cd-timeline-img  cd-location">
+                <i clas="fa fa-file"></i>
+              </div> <!-- cd-timeline-img -->
+
+              <div class="cd-timeline-content">
+                <h2>Zoektocht naar de dataset</h2>
+                <p>Na wat zoeken en het overwegen van verschillende datasets (Piraten aanslagen, KBO, ...) hebben we uiteindelijk gekozen voor de dataset van de KBO. <a href="http://economie.fgov.be/nl/modules/onlineservice/KBO/inscription_open_data_et_ws_odi.jsp" target="_blank">Klik hier voor de link naar KBO</a></p>
+                <span class="cd-date">Feb 14</span>
+              </div> <!-- cd-timeline-content -->
+            </div> <!-- cd-timeline-block -->
+
+            <div class="cd-timeline-block">
+              <div class="cd-timeline-img  cd-location">
+                <i clas="fa fa-pencil"></i>
+              </div> <!-- cd-timeline-img -->
+
+              <div class="cd-timeline-content">
+                <h2>Schets mogelijkheden</h2>
+                <p>We hebben enkele schetsen gemaakt over de mogelijkheden en hebben onze doelgroep bepaald</p>
+                <p><img src="img/roadmap/schets.jpg"></p>
+                <p><img src="img/roadmap/doelgroep.png"></p>
+                <span class="cd-date">Feb 20</span>
+              </div> <!-- cd-timeline-content -->
+            </div> <!-- cd-timeline-block -->
+
+            <div class="cd-timeline-block">
+              <div class="cd-timeline-img  cd-location">
+                <i clas="fa fa-2x fa-line-chart"></i>
+              </div> <!-- cd-timeline-img -->
+
+              <div class="cd-timeline-content">
+                <h2>Eerste visualisatie met d3 en dataset</h2>
+                <p>We zijn aan het werk geschoten met d3 en hebben iets kleins met de data gemaakt als wijze van testopzetting. We hebben ook gezien dat de dataset groter is dan gedacht en kan dus niet zomaar in een website geladen worden.</p>
+                <p><img src="img/roadmap/first_real.jpg"></p>
+                <span class="cd-date">Feb 27</span>
+              </div> <!-- cd-timeline-content -->
+            </div> <!-- cd-timeline-block -->
+
+            <div class="cd-timeline-block">
+              <div class="cd-timeline-img cd-location">
+                <i class="fa fa-2x fa-cloud"></i>
+              </div> <!-- cd-timeline-img -->
+
+              <div class="cd-timeline-content">
+                <h2>Wordclouds</h2>
+                <p><img src="img/roadmap/wordcloud.jpg"></p>
+                <span class="cd-date">2 maart</span>
+              </div> <!-- cd-timeline-content -->
+            </div> <!-- cd-timeline-block -->
+
+            <div class="cd-timeline-block">
+              <div class="cd-timeline-img cd-location">
+                <i class="fa fa-2x fa-list"></i>
+              </div> <!-- cd-timeline-img -->
+
+              <div class="cd-timeline-content">
+                <h2>Sunburst, treemap, circlepacking</h2>
+                <p>In de zoektocht naar de beste visualisatie om te filteren per sector, hebben we 3 versies gemaakt. De klas koos voor Sunburst.</p>
+                <p><img src="img/roadmap/sat_circlepacking.png"></p>
+                <p><img src="img/roadmap/sat_treemap.png"></p>
+                <p><img src="img/roadmap/sat_sunburst.png"></p>
+                <span class="cd-date">April 5</span>
+              </div> <!-- cd-timeline-content -->
+            </div> <!-- cd-timeline-block -->
+
+            <div class="cd-timeline-block">
+              <div class="cd-timeline-img cd-location">
+                <i class="fa fa-2x fa-line-chart"></i>
+              </div> <!-- cd-timeline-img -->
+
+              <div class="cd-timeline-content">
+                <h2>Een versie in de goede richting</h2>
+                <p>This is the content of the last section</p>
+                <p><img src="img/roadmap/firstversion.jpg"></p>
+                <span class="cd-date">April 16</span>
+              </div> <!-- cd-timeline-content -->
+            </div> <!-- cd-timeline-block -->
+
+            <div class="cd-timeline-block">
+              <div class="cd-timeline-img cd-location">
+                <i class="fa fa-2x fa-bar-chart"></i>
+              </div> <!-- cd-timeline-img -->
+
+              <div class="cd-timeline-content">
+                <h2>Hier zijn we nu</h2>
+                <p>De huidige versie kan u vinden op de pagina "visualisatie".</p>
+                <span class="cd-date">mei 9</span>
+              </div> <!-- cd-timeline-content -->
+            </div> <!-- cd-timeline-block -->
+          </section> <!-- cd-timeline -->
+          <br/><br/><br/>
         </div>
       </div>
     </div>

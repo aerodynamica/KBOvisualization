@@ -76,7 +76,7 @@ a.active,
  /*----------------------
  ----Navigation Styles---
  ------------------------*/
- .navbar-default {background-color: #233140; /*#323641;*/ }
+ .navbar-default {background-color: #303e49; /*#323641;*/ }
  @media(min-width:768px) {
     .navbar-fixed-top {
         padding: 10px 0;
@@ -622,7 +622,7 @@ g.tooltip:not(.css) { fill:currentColor; }
 footer {
     color: #fff;
     padding: 25px 0;
-    background-color: #233140;
+    background-color: #303e49;
 }
 
 footer h3 {
